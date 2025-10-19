@@ -23,6 +23,8 @@ All-in-One patch that includes the following:
 ## Usage
 Place the `FDXDAT` folder in `ms0:/PSP/SAVEDATA/` and apply the ISO patch with [DeltaPatcher](https://www.romhacking.net/utilities/704/) to your respective version.
 
+Unlike my EventQuestLoader, event quests are now stored in `FDXDAT/EVENT.BIN`.
+
 ## Config Editor
 Use [this](https://silverjolteon.github.io/FreedomDX/config_editor.html) online tool to make edits to your CONFIG.BIN.
 
