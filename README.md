@@ -20,7 +20,8 @@ All-in-One patch that includes the following:
   - ### English Quest Patch (Portable)
     > Translates non-event quests into English. By SilverJolteon
  
-
+## Config Editor
+Use [this](https://silverjolteon.github.io/FreedomDX/config_editor.html) online tool to make edits to your CONFIG.BIN.
 
 ## Credits
 
