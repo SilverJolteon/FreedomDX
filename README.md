@@ -19,13 +19,16 @@ All-in-One patch that includes the following:
     > Translates Menus, Items, Equipment, Skills, etc. into English. By YuzucchiNyan
   - ### English Quest Patch (Portable)
     > Translates non-event quests into English. By SilverJolteon
- 
+
+## Usage
+Place the `FDXDAT` folder in `ms0:/PSP/SAVEDATA/` and apply the ISO patch with [DeltaPatcher](https://www.romhacking.net/utilities/704/) to your respective version.
+
 ## Config Editor
 Use [this](https://silverjolteon.github.io/FreedomDX/config_editor.html) online tool to make edits to your CONFIG.BIN.
 
 ## Credits
 
 - Special thanks to [IncognitoMan](https://github.com/IncognitoMan) and [Kurogami2134](https://github.com/Kurogami2134) for tips and their own ASM as a groundwork.
-- Special thanks as well to [Immortalcripple](https://github.com/Immortalcripple) for helping out with testing.
+- Special thanks as well to [Immortalcripple](https://github.com/Immortalcripple) and Barry1990 for helping out with testing.
 - Freedom Enhanced by [YuzucchiNyan](https://github.com/GReinoso96)
 - English quests translated by [GrenderG](https://github.com/GrenderG)
