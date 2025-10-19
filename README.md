@@ -1,6 +1,6 @@
 # Monster Hunter Freedom DX
 
-<img src="/.github/logo.png" width="480px"/>
+<img src="/assets/FreedomDXTitle.png" width="480px"/>
 
 All-in-One patch that includes the following:
   - ### Event Quest Loader
