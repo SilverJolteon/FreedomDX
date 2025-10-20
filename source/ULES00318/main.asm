@@ -10,6 +10,7 @@ HoldToGatherOffset 		equ 0x98FB068
 TrueRawOffset			equ 0x088F2B10
 LaoShanLungOffset		equ 0x0990E3A4
 MapScaleOffset			equ 0x0881D7D0
+SnSDebuffOffset			equ 0x098D9B70
 
 .open "build/ULES00318/EBOOT.BIN", 0x0880326C
 	; Hook
@@ -56,6 +57,8 @@ MapScaleOffset			equ 0x0881D7D0
 		lb			a0, 0x12(v0)
 		jal			MapScale
 		lb			a0, 0x13(v0)
+		jal			SnSDebuff
+		lb			a0, 0x14(v0)
 		j			HookReturn
 		nop
 		
@@ -156,6 +159,20 @@ MapScaleOffset			equ 0x0881D7D0
 		add			t2, t2, t1
 		sw			t2, 0x14(t0)	
 		
+		j			Return
+		nop
+		
+		SnSDebuff:
+		beq			a0, zero, Return
+		nop
+		la			t0, SnSDebuffOffset
+		lui			t1, 0x2402
+		ori			t1, 0x0096
+		lw			t2, 0x0(t0)
+		bne			t2, t1, Return
+		nop
+		li			t1, 0x78
+		sb			t1, 0x0(t0)
 		j			Return
 		nop
 	

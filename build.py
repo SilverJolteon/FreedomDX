@@ -17,7 +17,7 @@ mhtools = os.path.join("tools", "mhtools.jar")
 pspdecrypt = os.path.join("tools", "pspdecrypt.exe")
 
 def patchDB(folder):
-    patch = os.path.join(asm_src_dir, folder, "DX.xdelta")
+    patch = os.path.join(asm_src_dir, folder, "Enhanced.xdelta")
     unmodified = os.path.join(build_dir, folder,  "DATA.BIN")
     modified = os.path.join(build_dir, folder, "DATA.BIN_patched")
     subprocess.run(
