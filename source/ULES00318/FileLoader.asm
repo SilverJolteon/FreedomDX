@@ -52,7 +52,7 @@ SetDigit:
 	nop
 		
 nativePSP:
-	.ascii "ms0:/PSP/SAVEDATA/FDXDAT/NATIVEPSP/ULLES00318/XXXX"
+	.ascii "ms0:/PSP/SAVEDATA/FDXDAT/NATIVEPSP/ULES00318/XXXX"
 	.align 8
 	
 DEST:
