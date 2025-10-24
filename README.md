@@ -15,6 +15,10 @@ All-in-One patch that includes the following:
     > Disables the HP threshold that prevents killing Lao-Shan Lung before reaching the final area. Ported by SilverJolteon from IncognitoMan's FUC
   - ### Minimap Scale
     > Sets the scale for the minimap. Ported by SilverJolteon from IncognitoMan's FUC
+  - ### Sword & Shield Debuff
+    > Changes Sword & Shield sharpness and damage from 1.5 to 1.2 to match MH Dos. By YuzucchiNyan
+  - ### File Replacer
+    > Enables the ability to load custom files from `ms0:/PSP/SAVEDATA/FDXDAT/NATIVEPSP/<GAMEID>/`. These files are in the name format of four numbers (IE: "4960"). The original files can be extracted using [mhff](https://github.com/svanheulen/mhff/tree/master/psp). By SilverJolteon
   - ### English Menu Patch (Portable)
     > Translates Menus, Items, Equipment, Skills, etc. into English. By YuzucchiNyan
   - ### English Quest Patch (Portable)
