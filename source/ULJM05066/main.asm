@@ -4,7 +4,7 @@ sceIoOpen	equ	0x088AF800
 sceIoLseek	equ	0x088AF7C8
 sceIoRead	equ	0x088AF7B0
 sceIoClose	equ	0x088AF7F8
-sceKDWIA	equ	0x088AF9FC ; sceKernelDcacheWritebackInvalidateAll
+sceKDWIA	equ	0x088AF9F8 ; sceKernelDcacheWritebackInvalidateAll
 
 HoldToGatherOffset 		equ 0x098F9988
 TrueRawOffset			equ 0x088F1490
@@ -16,10 +16,23 @@ SnSDebuffOffset			equ 0x098D84C0
 	; Hook
 	.org 0x0884481C
 		jal 		0x088C0CA0
+		
+	.org 0x088446C0
+		jal			FileLoaderSetIndex
 
 	.org 0x088C0CA0
 		addiu		sp, sp, -0x4
 		sw			ra, 0x00(sp)
+		la			t0, DEST
+		; Check ID
+		lw			t1, 0x4(t0)
+		lw			t2, 0x8(t0)
+		beq			t1, t2, Init
+		nop
+		sw			a0, 0x0(t0)
+		sw			t1, 0x8(t0)
+		
+	Init:
 		jal 		sceKDWIA
 		nop
 		
@@ -59,6 +72,9 @@ SnSDebuffOffset			equ 0x098D84C0
 		lb			a0, 0x13(v0)
 		jal			SnSDebuff
 		lb			a0, 0x14(v0)
+		jal			FileLoader
+		lb			a0, 0x15(v0)
+	FileLoaderReturn:
 		j			HookReturn
 		nop
 		
@@ -175,14 +191,64 @@ SnSDebuffOffset			equ 0x098D84C0
 		sb			t1, 0x0(t0)
 		j			Return
 		nop
+		
+	FileLoader:
+		beq			a0, zero, Return
+		nop
+		; Check chunk position
+		lui			t0, 0x2
+		beq			t0, s1, Return
+		nop
+		; Open file
+		la			a0, nativePSP
+		li			a1, 0x1
+		jal			sceIoOpen
+		li			a2, 0x0
+		; Check if file exists
+		li			v1, 0x80010002
+		beq			v0, v1, FileLoaderReturn
+		nop	
+		li			v1, 0x0
+		move		s0, v0
+		; Get file size
+		move		a0, s0
+		li			a1, 0x0
+		li			a2, 0x0
+		li			a3, 0x0
+		jal			sceIoLseek
+		li			t0, 0x2
+		beq			v0, zero, FileLoaderReturn
+		nop
+		move		s1, v0
+		; Seek to start of file
+		move		a0, s0
+		li			a1, 0x0
+		li			a2, 0x0
+		li			a3, 0x0
+		jal			sceIoLseek
+		li			t0, 0x0
+		; Read file
+		move		a0, s0
+		la			t0, DEST
+		lw			a1, 0x0(t0)
+		li			t0, 0
+		jal			sceIoRead
+		move		a2, s1
+		; Close file
+		jal			sceIoClose
+		move 		a0, s0
+		jal			sceKDWIA
+		nop
+		j			FileLoaderReturn
+		nop
 	
 	Return:
 		jr			ra
 		nop
 		
 	HookReturn:
-		lw			ra, 0x00(sp)
-		addiu		sp, sp, 0x4
+		lw			ra, 0x0(sp)
+		addiu		sp, sp, 4
 		jr			ra
 	
 	CONFIG_PATH:
@@ -191,7 +257,11 @@ SnSDebuffOffset			equ 0x098D84C0
 	CONFIG_BIN:
 		.fill 0x30, 0x00
 				
+	.include "source/ULJM05066/FileLoader.asm"
 	.include "source/ULJM05066/EventLoader.asm"
+	
+	.org 0x0882CFA4 ; Supply Chest Delay Fix
+		.dh			1
 .close
 
 .open "build/ULJM05066/DATA.BIN", 0
