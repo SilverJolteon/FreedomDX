@@ -29,7 +29,7 @@ SnSDebuffOffset			equ 0x098D84C0
 		lw			t2, 0x8(t0)
 		beq			t1, t2, Init
 		nop
-		sw			a0, 0x0(t0)
+		sw			v0, 0x0(t0)
 		sw			t1, 0x8(t0)
 		
 	Init:

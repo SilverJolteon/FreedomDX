@@ -5,6 +5,8 @@ import shutil
 import pycdlib
 import subprocess
 
+VERSION = "v1.3.1"
+
 iso_dir = "iso"
 asm_src_dir = "source"
 build_dir = "build"
@@ -33,7 +35,7 @@ def buildASM():
     for folder in os.listdir(build_dir):
         path = os.path.join(asm_src_dir, folder)
         subprocess.run(
-            [armips, os.path.join(path, "main.asm")],
+            [armips, os.path.join(path, "main.asm"), "-temp", os.path.join(path, "log.txt")],
             check=True
         )
 
@@ -149,11 +151,11 @@ def setParamInfo():
         if folder == "ULJM05066":
             with open(path, "r+b") as fp:
                 fp.seek(0x158)
-                fp.write(b"MONSTER HUNTER PORTABLE DX")
+                fp.write(f"MONSTER HUNTER PORTABLE DX {VERSION}".encode("ascii").ljust(40, b"\x00")) 
         elif folder == "ULUS10084" or folder == "ULES00318":
             with open(path, "r+b") as fp:
                 fp.seek(0x158)
-                fp.write(b"MONSTER HUNTER FREEDOM DX".ljust(27, b"\x00"))
+                fp.write(f"MONSTER HUNTER FREEDOM DX {VERSION}".encode("ascii").ljust(40, b"\x00")) 
  
 def extractData():
     for _, _, files in os.walk(iso_dir):
