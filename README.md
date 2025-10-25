@@ -19,6 +19,8 @@ All-in-One patch that includes the following:
     > Changes Sword & Shield sharpness and damage from 1.5 to 1.2 to match MH Dos. By YuzucchiNyan
   - ### File Replacer
     > Enables the ability to load custom files from `ms0:/PSP/SAVEDATA/FDXDAT/NATIVEPSP/<GAMEID>/`. These files are in the name format of four numbers (IE: "4960"). The original files can be extracted using [mhff](https://github.com/svanheulen/mhff/tree/master/psp). By SilverJolteon
+    
+    > Included are english dialogue files for Portable.
   - ### English Menu Patch (Portable)
     > Translates Menus, Items, Equipment, Skills, etc. into English. By YuzucchiNyan
   - ### English Quest Patch (Portable)
