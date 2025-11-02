@@ -6,6 +6,9 @@ sceIoRead	equ	0x088AFFD4
 sceIoClose	equ	0x088AFFEC
 sceKDWIA	equ	0x088B01FC ; sceKernelDcacheWritebackInvalidateAll
 
+FONT			equ 0x0982B500
+drawText		equ 0x08871DCC
+
 HoldToGatherOffset 		equ 0x098FA270
 TrueRawOffset			equ 0x088F1D1C
 LaoShanLungOffset		equ 0x0990D5A4
@@ -257,6 +260,7 @@ SnSDebuffOffset			equ 0x098D8DB0
 	CONFIG_BIN:
 		.fill 0x30, 0x00
 				
+	.include "source/ULUS10084/CatSkills.asm"				
 	.include "source/ULUS10084/FileLoader.asm"			
 	.include "source/ULUS10084/EventLoader.asm"
 	
@@ -302,4 +306,12 @@ SnSDebuffOffset			equ 0x098D8DB0
 	.org 0x1A2449C0
 		j		EventLoader
 		nop
+		
+	.org 0x1A22F3AC
+		j		ShowKCatSkills
+		nop
+	
+	.org 0x1A286900
+		j		ShowGCatSkills
+		nop	
 .close

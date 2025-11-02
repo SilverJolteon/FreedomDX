@@ -6,6 +6,9 @@ sceIoRead	equ	0x088AF7B0
 sceIoClose	equ	0x088AF7F8
 sceKDWIA	equ	0x088AF9F8 ; sceKernelDcacheWritebackInvalidateAll
 
+FONT			equ 0x0982AC80
+drawText		equ 0x08871B9C
+
 HoldToGatherOffset 		equ 0x098F9988
 TrueRawOffset			equ 0x088F1490
 LaoShanLungOffset		equ 0x0990CCBC
@@ -257,6 +260,7 @@ SnSDebuffOffset			equ 0x098D84C0
 	CONFIG_BIN:
 		.fill 0x30, 0x00
 				
+	.include "source/ULJM05066/CatSkills.asm"			
 	.include "source/ULJM05066/FileLoader.asm"
 	.include "source/ULJM05066/EventLoader.asm"
 	
@@ -267,5 +271,13 @@ SnSDebuffOffset			equ 0x098D84C0
 .open "build/ULJM05066/DATA.BIN", 0
 	.org 0x1A6AA0F8
 		j		EventLoader
+		nop
+		
+	.org 0x1A694BAC
+		j		ShowKCatSkills
+		nop
+	
+	.org 0x1A6EC1C0
+		j		ShowGCatSkills
 		nop
 .close

@@ -6,6 +6,9 @@ sceIoRead	equ	0x088B0BFC
 sceIoClose	equ	0x088B0C14
 sceKDWIA	equ	0x088B0E0C ; sceKernelDcacheWritebackInvalidateAll
 
+FONT			equ 0x0982C280
+drawText		equ 0x08872660
+
 HoldToGatherOffset 		equ 0x98FB068
 TrueRawOffset			equ 0x088F2B10
 LaoShanLungOffset		equ 0x0990E3A4
@@ -15,12 +18,12 @@ SnSDebuffOffset			equ 0x098D9B70
 .open "build/ULES00318/EBOOT.BIN", 0x0880326C
 	; Hook
 	.org 0x08845068
-		jal 		0x088C0CA0
+		jal 		0x088C2140
 		
 	.org 0x08844F0C
 		jal			FileLoaderSetIndex
-
-	.org 0x088C0CA0
+		
+	.org 0x088C2140
 		addiu		sp, sp, -0x4
 		sw			ra, 0x00(sp)
 		la			t0, DEST
@@ -257,48 +260,58 @@ SnSDebuffOffset			equ 0x098D9B70
 	CONFIG_BIN:
 		.fill 0x30, 0x00
 		
+	.include "source/ULES00318/CatSkills.asm"	
 	.include "source/ULES00318/FileLoader.asm"	
 	.include "source/ULES00318/EventLoader.asm"
 	
-	.org 0x0882D2B0
+	
+	.org 0x0882D2B0 ; Supply Chest Delay Fix
 		.dh			1
 .close
 
 .open "build/ULES00318/DATA.BIN", 0
-	.org 0x1A245444
+	.org 0x1a870ac4
 		.word 0x24460002
-	.org 0x1A289A28
+	.org 0x1a8b54a8
 		.word 0x00280198
-	.org 0x1A289A40
+	.org 0x1a8b54c0
 		.word 0x00100100
-	.org 0x1A289A4C
+	.org 0x1a8b54cc
 		.word 0x00080110
-	.org 0x1A289A58
+	.org 0x1a8b54d8
 		.word 0x00090118
-	.org 0x1A289A64
+	.org 0x1a8b54e4
 		.word 0x00190118
-	.org 0x1A289A70
+	.org 0x1a8b54f0
 		.word 0x00190198
-	.org 0x1A289A7C
+	.org 0x1a8b54fc
 		.word 0x00C40118
-	.org 0x1A289A88
+	.org 0x1a8b5508
 		.word 0x00200100
-	.org 0x1A289A94
+	.org 0x1a8b5514
 		.word 0x00180110
-	.org 0x1A289AA0
+	.org 0x1a8b5520
 		.word 0x00190118
-	.org 0x1A289AAC
+	.org 0x1a8b552c
 		.word 0x00290118
-	.org 0x1A289AB8
+	.org 0x1a8b5538
 		.word 0x00290198
-	.org 0x1A289AC4
+	.org 0x1a8b5544
 		.word 0x008C0118
 
-	.org 0x1A8746E4
+	.org 0x1a8746e4
 		jal		EventMenu
 		nop
 
-	.org 0x1A871410
+	.org 0x1a871410
 		j		EventLoader
+		nop
+		
+	.org 0x1A85BD34
+		j		ShowKCatSkills
+		nop
+	
+	.org 0x1A8B3288
+		j		ShowGCatSkills
 		nop
 .close
