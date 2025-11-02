@@ -25,6 +25,10 @@ All-in-One patch that includes the following:
     > Translates Menus, Items, Equipment, Skills, etc. into English. By YuzucchiNyan
   - ### English Quest Patch (Portable)
     > Translates non-event quests into English. By SilverJolteon
+  - ### Instant supply box collection
+    > Removed delay when taking items from supply box. Ported by SilverJolteon from IncognitoMan's FUC
+  - ### Visible Felyne Skills
+    > Shows which skillsets each Felyne has. By SilverJolteon
 
 ## Usage
 Place the `FDXDAT` folder in `ms0:/PSP/SAVEDATA/` and apply the ISO patch with [DeltaPatcher](https://www.romhacking.net/utilities/704/) to your respective version.
