@@ -75,7 +75,7 @@ ShowGCatSkills:
 	
 DismissCat:
 	la			a0, KCats
-	j			LoadCatInfo
+	j			IgnoreBarrelCat
 	nop
 	
 LoadCatInfo:	
@@ -83,6 +83,7 @@ LoadCatInfo:
 	lb			t0, 0x0(t0)
 	bne			t0, zero, BarrelCat
 	nop
+IgnoreBarrelCat:
 	la			a1, GCatsPointer
 	lb			a1, 0x0(a1)
 	j			BarrelCatEnd
