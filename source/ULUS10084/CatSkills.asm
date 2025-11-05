@@ -1,13 +1,15 @@
-KCatMenuBox 		equ 0x09931F26
-GCatMenuBox 		equ 0x09939D4E
 KCats 				equ 0x0985495F
 GCats 				equ 0x09858091
-KCatsPointer 		equ 0x09941F3B
-GCatsPointer 		equ 0x09941EB1
 KCatReturn			equ 0x098D9B34
 GCatReturn			equ 0x09931088
+KCatMenuBox 		equ 0x09931F26
+GCatMenuBox 		equ 0x09939D4E
 GCatMenuToggle		equ 0x09941EB0
+GCatsPointer 		equ 0x09941EB1
 BarrelCatToggle		equ 0x09941ECF
+KCatMenuToggle		equ 0x09941F38
+KCatsOrderPointer	equ 0x09941F39
+KCatsPointer 		equ 0x09941F3B
 
 GetCatSkill:
 	li			t0, 0x1F
@@ -118,7 +120,16 @@ ShowKCatSkills:
 	li			t1, 0xD8
 	sb			t1, 0x0(t0)
 	la			a0, KCats
+	la			t0, KCatMenuToggle
+	lb			t0, 0x0(t0)
+	bne			t0, zero, ChangeOrder
+	nop
 	la			a1, KCatsPointer
+	j			ChangeOrderEnd
+	nop
+ChangeOrder:
+	la			a1, KCatsOrderPointer
+ChangeOrderEnd:
 	lb			a1, 0x0(a1)
 	li			a3, 0x00A80020
 	jal			ShowCatSkills

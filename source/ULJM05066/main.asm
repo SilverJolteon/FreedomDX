@@ -14,6 +14,9 @@ TrueRawOffset			equ 0x088F1490
 LaoShanLungOffset		equ 0x0990CCBC
 MapScaleOffset			equ 0x0881D54C
 SnSDebuffOffset			equ 0x098D84C0
+KCatSkillsOffset		equ 0x098D92AC
+GCatSkillsOffset		equ 0x099308C0
+DrinkBuffOffset			equ 0x09907784
 
 .open "build/ULJM05066/EBOOT.BIN", 0x0880326C
 	; Hook
@@ -78,6 +81,11 @@ SnSDebuffOffset			equ 0x098D84C0
 		jal			FileLoader
 		lb			a0, 0x15(v0)
 	FileLoaderReturn:
+		la			v0, CONFIG_BIN
+		jal			CatSkills
+		lb			a0, 0x16(v0)
+		jal			DrinkBuff
+		lb			a0, 0x17(v0)
 		j			HookReturn
 		nop
 		
@@ -104,8 +112,7 @@ SnSDebuffOffset			equ 0x098D84C0
 		sh			t1, 0x0(t0)
 		j			Return
 		nop
-	
-		
+			
 	TrueRaw:
 		beq			a0, zero, Return
 		nop
@@ -244,6 +251,51 @@ SnSDebuffOffset			equ 0x098D84C0
 		nop
 		j			FileLoaderReturn
 		nop
+		
+	CatSkills:
+		beq			a0, zero, Return
+		nop	
+		la			t0, KCatSkillsOffset
+		lw			a0, -0x4(t0)
+		li			a1, 0x944717E4
+		bne			a0, a1, Return
+		nop
+		la			a0, ShowKCatSkills
+		srl			a0, a0, 0x2
+		lui			a1, 0x0800
+		addu		a0, a1, a0
+		sw			a0, 0x0(t0)
+		li			a0, 0x0
+		sw			a0, 0x4(t0)
+		
+		la			t0, GCatSkillsOffset
+		la			a0, ShowGCatSkills
+		srl			a0, a0, 0x2
+		lui			a1, 0x0800
+		addu		a0, a1, a0
+		sw			a0, 0x0(t0)
+		li			a0, 0x0
+		sw			a0, 0x4(t0)
+		j			Return
+		nop		
+		
+	DrinkBuff:
+		beq			a0, zero, Return
+		nop	
+		la			t0, DrinkBuffOffset
+		lw			a0, -0x4(t0)
+		li			a1, 0x00003821
+		bne			a0, a1, Return
+		nop
+		la			a0, GHDrinkCheck
+		srl			a0, a0, 0x2
+		lui			a1, 0x0800
+		addu		a0, a1, a0
+		sw			a0, 0x0(t0)
+		li			a0, 0x8FBF000C ; lw ra, 0xC(sp)
+		sw			a0, 0x4(t0)
+		j			Return
+		nop
 	
 	Return:
 		jr			ra
@@ -260,7 +312,8 @@ SnSDebuffOffset			equ 0x098D84C0
 	CONFIG_BIN:
 		.fill 0x30, 0x00
 				
-	.include "source/ULJM05066/CatSkills.asm"			
+	.include "source/ULJM05066/CatSkills.asm"
+	.include "source/ULJM05066/DrinkBuff.asm"	
 	.include "source/ULJM05066/FileLoader.asm"
 	.include "source/ULJM05066/EventLoader.asm"
 	
@@ -271,13 +324,5 @@ SnSDebuffOffset			equ 0x098D84C0
 .open "build/ULJM05066/DATA.BIN", 0
 	.org 0x1A6AA0F8
 		j		EventLoader
-		nop
-		
-	.org 0x1A694BAC
-		j		ShowKCatSkills
-		nop
-	
-	.org 0x1A6EC1C0
-		j		ShowGCatSkills
 		nop
 .close

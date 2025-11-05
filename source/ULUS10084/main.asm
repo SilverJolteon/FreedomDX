@@ -14,6 +14,9 @@ TrueRawOffset			equ 0x088F1D1C
 LaoShanLungOffset		equ 0x0990D5A4
 MapScaleOffset			equ 0x0881D600
 SnSDebuffOffset			equ 0x098D8DB0
+KCatSkillsOffset		equ 0x098D9B2C
+GCatSkillsOffset		equ 0x09931080
+DrinkBuffOffset			equ 0x09907FEC
 
 .open "build/ULUS10084/EBOOT.BIN", 0x0880326C
 	; Hook
@@ -78,6 +81,11 @@ SnSDebuffOffset			equ 0x098D8DB0
 		jal			FileLoader
 		lb			a0, 0x15(v0)
 	FileLoaderReturn:
+		la			v0, CONFIG_BIN
+		jal			CatSkills
+		lb			a0, 0x16(v0)
+		jal			DrinkBuff
+		lb			a0, 0x17(v0)
 		j			HookReturn
 		nop
 		
@@ -244,6 +252,51 @@ SnSDebuffOffset			equ 0x098D8DB0
 		nop
 		j			FileLoaderReturn
 		nop
+		
+	CatSkills:
+		beq			a0, zero, Return
+		nop	
+		la			t0, KCatSkillsOffset
+		lw			a0, -0x4(t0)
+		li			a1, 0x94471F24
+		bne			a0, a1, Return
+		nop
+		la			a0, ShowKCatSkills
+		srl			a0, a0, 0x2
+		lui			a1, 0x0800
+		addu		a0, a1, a0
+		sw			a0, 0x0(t0)
+		li			a0, 0x0
+		sw			a0, 0x4(t0)
+		
+		la			t0, GCatSkillsOffset
+		la			a0, ShowGCatSkills
+		srl			a0, a0, 0x2
+		lui			a1, 0x0800
+		addu		a0, a1, a0
+		sw			a0, 0x0(t0)
+		li			a0, 0x0
+		sw			a0, 0x4(t0)
+		j			Return
+		nop		
+		
+	DrinkBuff:
+		beq			a0, zero, Return
+		nop	
+		la			t0, DrinkBuffOffset
+		lw			a0, -0x4(t0)
+		li			a1, 0x00003821
+		bne			a0, a1, Return
+		nop
+		la			a0, GHDrinkCheck
+		srl			a0, a0, 0x2
+		lui			a1, 0x0800
+		addu		a0, a1, a0
+		sw			a0, 0x0(t0)
+		li			a0, 0x8FBF000C ; lw ra, 0xC(sp)
+		sw			a0, 0x4(t0)
+		j			Return
+		nop
 	
 	Return:
 		jr			ra
@@ -260,7 +313,8 @@ SnSDebuffOffset			equ 0x098D8DB0
 	CONFIG_BIN:
 		.fill 0x30, 0x00
 				
-	.include "source/ULUS10084/CatSkills.asm"				
+	.include "source/ULUS10084/CatSkills.asm"	
+	.include "source/ULUS10084/DrinkBuff.asm"		
 	.include "source/ULUS10084/FileLoader.asm"			
 	.include "source/ULUS10084/EventLoader.asm"
 	
@@ -306,12 +360,4 @@ SnSDebuffOffset			equ 0x098D8DB0
 	.org 0x1A2449C0
 		j		EventLoader
 		nop
-		
-	.org 0x1A22F3AC
-		j		ShowKCatSkills
-		nop
-	
-	.org 0x1A286900
-		j		ShowGCatSkills
-		nop	
 .close
