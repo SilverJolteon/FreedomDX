@@ -7,6 +7,8 @@ All-in-One patch that includes the following:
     > Read event quests from an external file. By SilverJolteon
   - ### Input Drop Fix
     > Fixes issue where button inputs are ignored. By YuzucchiNyan
+  - ### Instant supply box collection
+    > Removed delay when taking items from supply box. Ported by SilverJolteon from IncognitoMan's FUC
   - ### Hold to Gather
     > Allows you to simply press and hold the gather button when crouched. By YuzucchiNyan
   - ### True Raw
@@ -21,14 +23,15 @@ All-in-One patch that includes the following:
     > Enables the ability to load custom files from `ms0:/PSP/SAVEDATA/FDXDAT/NATIVEPSP/<GAMEID>/`. These files are in the name format of four numbers (IE: "4960"). The original files can be extracted using [mhff](https://github.com/svanheulen/mhff/tree/master/psp). By SilverJolteon
     
     > Included are english dialogue files for Portable.
+  - ### Visible Felyne Skills
+    > Shows which skillsets each Felyne has. By SilverJolteon
+  - ### Gathering Hall Drink Buff
+    > When enabled, can get a quick Health and Stamina boost without leaving the Gathering Hall, based on how many Felyne Chefs you have working in your kitchen. Ported by SilverJolteon from IncognitoMan's FUC
   - ### English Menu Patch (Portable)
     > Translates Menus, Items, Equipment, Skills, etc. into English. By YuzucchiNyan
   - ### English Quest Patch (Portable)
     > Translates non-event quests into English. By SilverJolteon
-  - ### Instant supply box collection
-    > Removed delay when taking items from supply box. Ported by SilverJolteon from IncognitoMan's FUC
-  - ### Visible Felyne Skills
-    > Shows which skillsets each Felyne has. By SilverJolteon
+
 
 ## Usage
 Place the `FDXDAT` folder in `ms0:/PSP/SAVEDATA/` and apply the ISO patch with [DeltaPatcher](https://www.romhacking.net/utilities/704/) to your respective version.
