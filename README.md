@@ -26,7 +26,7 @@ All-in-One patch that includes the following:
   - ### Visible Felyne Skills
     > Shows which skillsets each Felyne has. By SilverJolteon
   - ### Gathering Hall Drink Buff
-    > Pressing Circle while stting in the Gathering Hall now provides a quick buff to HP and Stamina. The amount depends on how many chefs you have. `HP = +10 per active Chefs`, `Stamina = +25 for 1 to 4 Chefs or +50 for 5 Chefs`. It will not activate any Felyne Skills, and cannot be used alongside a meal, it is **either or**. Ported by SilverJolteon from IncognitoMan's FUC
+    > Pressing Circle while sitting in the Gathering Hall now provides a quick buff to HP and Stamina. The amount depends on how many chefs you have. `HP = +10 per active Chefs`, `Stamina = +25 for 1 to 4 Chefs or +50 for 5 Chefs`. It will not activate any Felyne Skills, and cannot be used alongside a meal, it is **either or**. Ported by SilverJolteon from IncognitoMan's FUC
   - ### English Menu Patch (Portable)
     > Translates Menus, Items, Equipment, Skills, etc. into English. By YuzucchiNyan
   - ### English Quest Patch (Portable)
