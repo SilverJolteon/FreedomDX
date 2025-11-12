@@ -1,13 +1,14 @@
 .psp
 
-sceIoOpen	equ	0x088B0C2C
-sceIoLseek	equ	0x088B0C34
-sceIoRead	equ	0x088B0BFC
-sceIoClose	equ	0x088B0C14
-sceKDWIA	equ	0x088B0E0C ; sceKernelDcacheWritebackInvalidateAll
+sceIoOpen				equ	0x088B0C2C
+sceIoLseek				equ	0x088B0C34
+sceIoRead				equ	0x088B0BFC
+sceIoClose				equ	0x088B0C14
+sceKDWIA				equ	0x088B0E0C ; sceKernelDcacheWritebackInvalidateAll
 
-FONT			equ 0x0982C280
-drawText		equ 0x08872660
+FONT					equ 0x0982C280
+drawText				equ 0x088723E4
+drawShadowedText		equ 0x08872660
 
 HoldToGatherOffset 		equ 0x98FB068
 TrueRawOffset			equ 0x088F2B10
@@ -86,6 +87,9 @@ DrinkBuffOffset			equ 0x09908FCC
 		lb			a0, 0x16(v0)
 		jal			DrinkBuff
 		lb			a0, 0x17(v0)
+		jal			DosBonus
+		lb			a0, 0x18(v0)
+	DosBonusReturn:
 		j			HookReturn
 		nop
 		
@@ -315,6 +319,7 @@ DrinkBuffOffset			equ 0x09908FCC
 		
 	.include "source/ULES00318/CatSkills.asm"	
 	.include "source/ULES00318/DrinkBuff.asm"
+	.include "source/ULES00318/DosBonuses.asm"
 	.include "source/ULES00318/FileLoader.asm"	
 	.include "source/ULES00318/EventLoader.asm"
 	

@@ -168,10 +168,10 @@ KSkillDrawLoop:
 	li			a0, FONT
 	move		a1, s3 ; Text X Coordinate
 	move		a2, s2 ; Text Y Coordinate
-	li			t0, 0x0 ; Color
-	move		t1, v0
+	la			a3, 0x09931F48
+	move		t0, v0
 	jal			drawText
-	li			a3, 0x1
+	nop
 	; Increment
 	addi		s1, 0x1
 	addi		s2, 0x10

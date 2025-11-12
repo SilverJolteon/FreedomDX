@@ -1,13 +1,14 @@
 .psp
 
-sceIoOpen	equ	0x088AF800
-sceIoLseek	equ	0x088AF7C8
-sceIoRead	equ	0x088AF7B0
-sceIoClose	equ	0x088AF7F8
-sceKDWIA	equ	0x088AF9F8 ; sceKernelDcacheWritebackInvalidateAll
+sceIoOpen				equ	0x088AF800
+sceIoLseek				equ	0x088AF7C8
+sceIoRead				equ	0x088AF7B0
+sceIoClose				equ	0x088AF7F8
+sceKDWIA				equ	0x088AF9F8 ; sceKernelDcacheWritebackInvalidateAll
 
-FONT			equ 0x0982AC80
-drawText		equ 0x08871B9C
+FONT					equ 0x0982AC80
+drawText				equ 0x08871920
+drawShadowedText		equ 0x08871B9C
 
 HoldToGatherOffset 		equ 0x098F9988
 TrueRawOffset			equ 0x088F1490
@@ -44,18 +45,18 @@ DrinkBuffOffset			equ 0x09907784
 		
 	ReadConfig:
 		; Open config file
-		la		a0, CONFIG_PATH
-		li		a1, 0x1
-		li		a2, 0x0
-		li		a3, 0x0
-		jal		sceIoOpen
-		li		t0, 0x0
+		la			a0, CONFIG_PATH
+		li			a1, 0x1
+		li			a2, 0x0
+		li			a3, 0x0
+		jal			sceIoOpen
+		li			t0, 0x0
 		; Check if config exists
-		li		v1, 0x80010002
-		beq		v0, v1, HookReturn
+		li			v1, 0x80010002
+		beq			v0, v1, HookReturn
 		nop
-		li		v1, 0x0
-		move	s0, v0	
+		li			v1, 0x0
+		move		s0, v0	
 		; Read config
 		move		a0, s0
 		li			a1, CONFIG_BIN
@@ -85,7 +86,10 @@ DrinkBuffOffset			equ 0x09907784
 		jal			CatSkills
 		lb			a0, 0x16(v0)
 		jal			DrinkBuff
-		lb			a0, 0x17(v0)
+		lb			a0, 0x17(v0)	
+		jal			DosBonus
+		lb			a0, 0x18(v0)
+	DosBonusReturn:
 		j			HookReturn
 		nop
 		
@@ -314,6 +318,7 @@ DrinkBuffOffset			equ 0x09907784
 				
 	.include "source/ULJM05066/CatSkills.asm"
 	.include "source/ULJM05066/DrinkBuff.asm"	
+	.include "source/ULJM05066/DosBonuses.asm"
 	.include "source/ULJM05066/FileLoader.asm"
 	.include "source/ULJM05066/EventLoader.asm"
 	
