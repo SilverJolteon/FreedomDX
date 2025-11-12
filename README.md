@@ -168,3 +168,4 @@ Use [this](https://silverjolteon.github.io/FreedomDX/config_editor.html) online 
 - Special thanks as well to [Immortalcripple](https://github.com/Immortalcripple) and Barry1990 for helping out with testing.
 - Freedom Enhanced by [YuzucchiNyan](https://github.com/GReinoso96)
 - English quests translated by [GrenderG](https://github.com/GrenderG)
+- Dos Bonus Connection Bypass Cheat by [PoogieCharger](https://github.com/mhwikicn/mh-codes-and-patches/tree/main/en)
