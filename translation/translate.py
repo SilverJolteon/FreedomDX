@@ -47,6 +47,20 @@ class Injector:
             self.data[end_offset:end_offset] = b"\x00" * diff_bytes
 
         self.data[start_offset : start_offset + new_size] = repl_data
+        
+    def expand(self, index, new_size):
+        start_offset = self.toc[index] * 2048
+        end_offset = self.toc[index + 1] * 2048
+        old_size = end_offset - start_offset
+
+        diff_bytes = new_size - old_size
+        diff_sectors = diff_bytes // 2048
+        
+        for i in range(index + 1, self.file_count + 1):
+            self.toc[i] += diff_sectors
+            struct.pack_into("<I", self.data, i * 4, self.toc[i])
+
+        self.data[end_offset:end_offset] = b"\x00" * diff_bytes
 
     def write(self):
         with open(self.path, "wb") as f:

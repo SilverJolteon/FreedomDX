@@ -6,7 +6,7 @@ import pycdlib
 import subprocess
 from translation.translate import translate
 
-VERSION = "v1.7.8 DEBUG"
+VERSION = "v1.7.9 DEBUG"
 
 iso_dir = "iso"
 asm_src_dir = "source"
