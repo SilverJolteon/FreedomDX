@@ -151,19 +151,19 @@ All-in-One patch that includes the following:
       
       </div>
       </details>
-      
+   
   - ### Instant Supply Box Collection
     > Removes delay when taking items from supply box. Configurable. Ported by SilverJolteon from IncognitoMan's FUC
   - ### Offline Treasure Quests
     > Allows going on treasure quests solo in the offline gathering hall. Configurable. By SilverJolteon with help from 8sm32K4D1K5f3E
+  - ### Gathering Hall Select Mode Fix
+    > The gathering hall select mode (Auto/Manual) now persists through reloads. The game will now remember which option you last selected. By SilverJolteon
   - ### Forest and Hills - Area 9 Camera Fix
     > The camera position has been changed to allow more visibility. By SilverJolteon
   - ### MAC Address Bug Fix
     > In Portable/Freedom, when you create your character, the MAC address of your system is saved into memory. This is used when hunting with other players to increase friendship level. If however, you switch to a different system or randomize the MAC address, that breaks. This has been fixed so that it is automatically updated. By SilverJolteon
-  - ### English Menu Patch (Portable)
-    > Translates Menus, Items, Equipment, Skills, etc. into English. By YuzucchiNyan
-  - ### English Quest Patch (Portable)
-    > Translates non-event quests into English. By SilverJolteon
+  - ### English Patch (Portable)
+    > Port of the English text from Freedom 1 with some adjustments to fit the format of Portable. Included as optional .xdelta patch. By SilverJolteon
 
 
 ## Usage
@@ -177,9 +177,10 @@ Use [this](https://silverjolteon.github.io/FreedomDX/config_editor.html) online 
 ## Credits
 
 - Freedom Enhanced by [YuzucchiNyan](https://github.com/GReinoso96)
-- Special thanks to [IncognitoMan](https://github.com/IncognitoMan) and [Kurogami2134](https://github.com/Kurogami2134) for tips and their own ASM as a groundwork.
+- Freedom Unite Complete by [IncognitoMan](https://github.com/IncognitoMan)
+- Special thanks to [Kurogami2134](https://github.com/Kurogami2134) for ASM examples.
 - Special thanks to [Katie](https://github.com/https://github.com/kethen) for help and tips on PSP functions.
 - Special thanks to [Immortalcripple](https://github.com/Immortalcripple) and Barry1990 for helping out with testing.
-- English quests translated by [GrenderG](https://github.com/GrenderG)
+- English event quests translated by [GrenderG](https://github.com/GrenderG)
 - Dos Bonus Connection Bypass Cheat by [PoogieCharger](https://github.com/mhwikicn/mh-codes-and-patches/tree/main/en)
 - Offline Treasure Quest Cheat by [8sm32K4D1K5f3E](https://github.com/SilverJolteon/FreedomDX/issues/2)

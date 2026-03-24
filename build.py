@@ -6,7 +6,7 @@ import pycdlib
 import subprocess
 from translation.translate import translate
 
-VERSION = "v1.7.9 DEBUG"
+VERSION = "v1.7.10 DEBUG"
 
 iso_dir = "iso"
 asm_src_dir = "source"
@@ -54,23 +54,6 @@ def combineQuests():
                 fp.write(data)
             id += 1
 
-def patchDB(folder):
-    if(folder == "ULJM05066" and ENGLISH_PATCH):
-        patchfile = "EnglishPatch.xdelta"
-    else:
-        return;
-    patch = os.path.join(asm_src_dir, folder, patchfile)
-    unmodified = os.path.join(build_dir, folder,  "DATA.BIN")
-    modified = os.path.join(build_dir, folder, "DATA.BIN_patched")
-    subprocess.run(
-        [xdelta, "-d", "-s", unmodified, patch, modified],
-        check=True,
-        stdout=subprocess.DEVNULL,
-        stderr=subprocess.STDOUT
-    )
-    os.remove(unmodified)
-    os.rename(modified, unmodified)
-
 def buildASM():
     for folder in games:
         print(f"Building ASM for {folder}.iso...")
@@ -103,7 +86,6 @@ def patchISOs():
             stdout=subprocess.DEVNULL,
             stderr=subprocess.STDOUT
         )
-        #os.remove(os.path.join(build_dir, folder, "DATA.BIN"))
         print(f"Patching EBOOT.BIN for {folder}.iso...")
         subprocess.run(
             [umd_replace, iso, "/PSP_GAME/SYSDIR/EBOOT.BIN", os.path.join(build_dir, folder, "EBOOT.BIN")],
@@ -111,7 +93,6 @@ def patchISOs():
             stdout=subprocess.DEVNULL,
             stderr=subprocess.STDOUT
         )
-        #os.remove(os.path.join(build_dir, folder, "EBOOT.BIN"))
         print(f"Patching PARAM.SFO for {folder}.iso...")
         subprocess.run(
             [umd_replace, iso, "/PSP_GAME/PARAM.SFO", os.path.join(build_dir, folder, "PARAM.SFO")],
@@ -120,12 +101,16 @@ def patchISOs():
             stderr=subprocess.STDOUT
         )
         os.remove(os.path.join(build_dir, folder, "PARAM.SFO"))
-        if folder == "ULJM05066":
-            thumb = os.path.join(assets, "PortableDXThumb.png")
-        else:
-            thumb = os.path.join(assets, "FreedomDXThumb.png")
+        thumb = os.path.join(assets, "ICON0.PNG")
         subprocess.run(
             [umd_replace, iso, "/PSP_GAME/ICON0.PNG", thumb],
+            check=True,
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.STDOUT
+        )
+        PIC0 = os.path.join(assets, "PIC0.PNG")
+        subprocess.run(
+            [umd_replace, iso, "/PSP_GAME/PIC0.PNG", PIC0],
             check=True,
             stdout=subprocess.DEVNULL,
             stderr=subprocess.STDOUT
@@ -161,7 +146,6 @@ def addImage(folder, files, image):
         
         if not patched:
             if(folder == "ULJM05066" and ENGLISH_PATCH):
-                #patchDB(folder)
                 translate(build_dir)
             patched = 1
         
@@ -183,23 +167,16 @@ def addImage(folder, files, image):
 
 def addImages():
     for folder in os.listdir(build_dir):
-        if folder == "ULJM05066":
-            addImage(folder, ["0013"], "PortableDXTitle.png")
-        elif folder == "ULUS10084":
-            addImage(folder, ["0013"], "FreedomDXTitle.png")
+        if folder == "ULJM05066" or folder == "ULUS10084":
+            addImage(folder, ["0013"], "Title.png")
         elif folder == "ULES00318":
-            addImage(folder, ["0017", "0022", "0023", "0024", "0025", "0026"], "FreedomDXTitle.png")
+            addImage(folder, ["0017", "0022", "0023", "0024", "0025", "0026"], "Title.png")
             
 
 def setParamInfo():
     for folder in os.listdir(build_dir):
         path = os.path.join(build_dir, folder, "PARAM.SFO")
-        if folder == "ULJM05066":
-            with open(path, "r+b") as fp:
-                print(f"Setting PARAM.SFO info for {folder}.iso...")
-                fp.seek(0x158)
-                fp.write(f"MONSTER HUNTER PORTABLE DX {VERSION}".encode("ascii").ljust(40, b"\x00")) 
-        elif folder == "ULUS10084" or folder == "ULES00318":
+        if folder == "ULJM05066" or folder == "ULUS10084" or folder == "ULES00318":
             with open(path, "r+b") as fp:
                 print(f"Setting PARAM.SFO info for {folder}.iso...")
                 fp.seek(0x158)
