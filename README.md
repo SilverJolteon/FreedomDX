@@ -184,3 +184,7 @@ Use [this](https://silverjolteon.github.io/FreedomDX/config_editor.html) online 
 - English event quests translated by [GrenderG](https://github.com/GrenderG)
 - Dos Bonus Connection Bypass Cheat by [PoogieCharger](https://github.com/mhwikicn/mh-codes-and-patches/tree/main/en)
 - Offline Treasure Quest Cheat by [8sm32K4D1K5f3E](https://github.com/SilverJolteon/FreedomDX/issues/2)
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/freedomdx)
