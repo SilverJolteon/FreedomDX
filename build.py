@@ -54,10 +54,28 @@ def combineQuests():
                 fp.write(data)
             id += 1
 
+def setASMOffset(path, asm, n, value):
+    asm_path = os.path.join(path, asm)
+    with open(asm_path, "r", encoding="utf-8") as fp:
+        lines = fp.readlines()
+        
+    for i, line in enumerate(lines):
+        if(i == n):
+            lines[i] = value
+            break
+    
+    with open(asm_path, "w", encoding="utf-8") as fp:
+        fp.writelines(lines)
+
 def buildASM():
     for folder in games:
         print(f"Building ASM for {folder}.iso...")
         path = os.path.join(asm_src_dir, folder)
+        if(folder == "ULJM05066" and ENGLISH_PATCH):
+            setASMOffset(path, "EventLoader.asm", 0, "SLOT_1\t\t\tequ 0x095079E0 ; EN\n")
+        elif(folder == "ULJM05066" and not ENGLISH_PATCH):
+            setASMOffset(path, "EventLoader.asm", 0, "SLOT_1\t\t\tequ 0x094F31E0 ; JP\n")
+
         subprocess.run(
             [armips, os.path.join(path, "main.asm")],
             check=True

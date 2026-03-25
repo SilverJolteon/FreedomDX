@@ -1,4 +1,4 @@
-SLOT_1			equ	0x095079E0 ; EN
+SLOT_1			equ 0x095079E0 ; EN
 ;SLOT_1			equ	0x094F31E0 ; JP
 SLOT_SIZE		equ	0x6800
 
