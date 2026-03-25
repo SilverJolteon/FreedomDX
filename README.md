@@ -25,8 +25,6 @@ All-in-One patch that includes the following:
     > Changes Sword & Shield sharpness and damage from 1.5 to 1.2 to match MH Dos. Configurable. By YuzucchiNyan
   - ### File Replacer
     > Enables the ability to load custom files from `ms0:/PSP/SAVEDATA/FDXDAT/NATIVEPSP/<GAMEID>/`. These files are in the name format of four numbers (IE: "4960"). The original files can be extracted using [mhff](https://github.com/svanheulen/mhff/tree/master/psp). Configurable. By SilverJolteon
-    
-    > Included are english dialogue files for Portable.
   - ### Visible Felyne Skills
     > Shows which skillsets each Felyne has. Configurable. By SilverJolteon
   - ### Gathering Hall Drink Buff
@@ -163,7 +161,7 @@ All-in-One patch that includes the following:
   - ### MAC Address Bug Fix
     > In Portable/Freedom, when you create your character, the MAC address of your system is saved into memory. This is used when hunting with other players to increase friendship level. If however, you switch to a different system or randomize the MAC address, that breaks. This has been fixed so that it is automatically updated. By SilverJolteon
   - ### English Patch (Portable)
-    > Port of the English text from Freedom 1 with some adjustments to fit the format of Portable. Included as optional .xdelta patch. By SilverJolteon
+    > Port of the English text from Freedom with some adjustments to fit the format of Portable. Included as optional .xdelta patch. By SilverJolteon
 
 
 ## Usage
