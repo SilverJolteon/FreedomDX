@@ -469,6 +469,10 @@ MACAddrOffset			equ 0x09858D30
 	.org 0x1A8C4AB4
 		.word 0x1060000C
 		
+	; Remember Hall Cursor Position	
+	.org 0x1A865B40
+		nop
+		
 	; Dengeki Ticket	
 	.org 0x12C4B03A
 		.ascii "DengekiTck", 0

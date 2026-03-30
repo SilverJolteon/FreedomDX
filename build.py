@@ -4,9 +4,9 @@ import re
 import shutil
 import pycdlib
 import subprocess
-from translation.translate import translate
+from translation.translate import translate, Injector
 
-VERSION = "v1.8.0a DEBUG"
+VERSION = "v1.8.0f DEBUG"
 
 iso_dir = "iso"
 asm_src_dir = "source"
@@ -53,6 +53,31 @@ def combineQuests():
                 data[0x5A:0x5C] = id.to_bytes(2, byteorder="little")
                 fp.write(data)
             id += 1
+def fixF1Quests():                
+    if "ULJM05066" in games:
+        quests = os.path.join(quests_dir, "FreedomExclusive")
+        mib_files = sorted([f for f in os.listdir(quests) if f.lower().endswith(".mib")])
+        quest_size = 0x3000
+        
+        id = 1021;
+        output = os.path.join(build_dir, "ULJM05066", "4912")
+        with open(output, 'wb') as fp:
+            for f in mib_files:
+                quest = os.path.join(quests, f)
+                with open(quest, "rb") as q:
+                    data = bytearray(q.read())
+                    size = len(data)
+                    
+                    if(size < quest_size):
+                        data += b"\x00" * (quest_size - size)
+                    elif(size > quest_size):
+                        data = data[:quest_size]
+                    data[0x5A:0x5C] = id.to_bytes(2, byteorder="little")
+                    fp.write(data)
+                
+        injector = Injector(os.path.join(build_dir, "ULJM05066", "DATA.BIN"))
+        injector.replace(4912, os.path.join(output))
+        injector.write()
 
 def setASMOffset(path, asm, n, value):
     asm_path = os.path.join(path, asm)
@@ -249,6 +274,7 @@ if __name__ == "__main__":
     setParamInfo()
     addImages()
     buildASM()
+    fixF1Quests()
     patchISOs()
     createPatches()
     combineQuests()

@@ -80,7 +80,6 @@ MACAddrOffset			equ 0x09857730
 		jal			sceWlanGetEtherAddr
 		nop
 	EndSetMACAddr:
-	
 	ReadConfig:
 		; Open config file
 		la			a0, CONFIG_PATH
@@ -413,7 +412,8 @@ MACAddrOffset			equ 0x09857730
 		.align 0x4
 	CONFIG_BIN:
 		.fill 0x30, 0x00
-			
+	
+	.include "source/ULJM05066/FixF1Quests.asm"
 	.include "source/ULJM05066/HallSelectFix.asm"		
 	.include "source/ULJM05066/CatSkills.asm"
 	.include "source/ULJM05066/DrinkBuff.asm"	
@@ -434,4 +434,17 @@ MACAddrOffset			equ 0x09857730
 	; Input Drop Fix
 	.org 0x1A6FD9CC
 		.word 0x1060000C
+		
+	; Remember Hall Cursor Position	
+	.org 0x1A69E868
+		nop
+		
+	.org FixF1QuestsHook
+		jal		CheckLoadedQuest
+		nop
+.close
+
+.open "build/ULJM05066/EBOOT.BIN", 0
+	.org 0x0010EBC2
+		.byte	0x30, 0x13
 .close
