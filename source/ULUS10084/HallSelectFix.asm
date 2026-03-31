@@ -1,6 +1,9 @@
 HallSelectWHook			equ 0x08838518
 SaveDataOffset			equ 0x09857EA0
 HallSelectOffset		equ 0x0985851B
+RestoreHallOffset		equ 0x1A2391B0
+StoreHallOffset			equ 0x1A413DA4
+CurrentHall				equ 0x08A250A5
 
 	HallSelectW:
 		li			a3, 0x0
@@ -19,3 +22,34 @@ HallSelectOffset		equ 0x0985851B
 		sb			t0, 0x0(a0)
 		jr			ra
 		nop
+		
+	RestoreHall:
+		la			t0, SavedHall
+		lb			t1, 0x1(t0)
+		beq			t1, zero, RestoreHallReturn
+		nop
+		sb			zero, 0x1(t0)
+		lb			t1, 0x0(t0)
+		sb			t1, 0x35(s0)
+	RestoreHallReturn:
+		jr			ra
+		nop
+		
+	StoreHall:
+		addu		v1, a0, v1
+		la			t2, CurrentHall
+		addi		t3, v1, 0x23
+		bne			t2, t3, StoreHallSkip
+		nop
+		la			t2, SavedHall
+		lb			t3, 0x23(v1)
+		andi		t3, t3, 0xF
+		sb			t3, 0x0(t2)
+		li			t3, 0x1
+		sb			t3, 0x1(t2)
+	StoreHallSkip:
+		jr			ra
+		sb			s0, 0x23(v1)
+		
+	SavedHall:
+		.word			0

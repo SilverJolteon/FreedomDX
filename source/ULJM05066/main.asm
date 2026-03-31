@@ -37,6 +37,9 @@ MACAddrOffset			equ 0x09857730
 		
 	.org 0x088446C0
 		jal			FileLoaderSetIndex
+		
+	.org 0x08911E2E ; F1 Quest Fix
+		.byte	0x30, 0x13
 
 	.org 0x088C0CA0
 		addiu		sp, sp, -0x4
@@ -436,15 +439,15 @@ MACAddrOffset			equ 0x09857730
 		.word 0x1060000C
 		
 	; Remember Hall Cursor Position	
-	.org 0x1A69E868
-		nop
+	.org RestoreHallOffset
+		jal		RestoreHall
 		
+	.org StoreHallOffset
+		jal		StoreHall
+		nop
+	
+	; Fix F1 Exclusive Quests
 	.org FixF1QuestsHook
 		jal		CheckLoadedQuest
 		nop
-.close
-
-.open "build/ULJM05066/EBOOT.BIN", 0
-	.org 0x0010EBC2
-		.byte	0x30, 0x13
 .close

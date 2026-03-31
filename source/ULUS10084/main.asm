@@ -470,7 +470,11 @@ MACAddrOffset			equ 0x09857FB0
 		.word 0x1060000C
 		
 	; Remember Hall Cursor Position	
-	.org 0x1A2391B0
+	.org RestoreHallOffset
+		jal		RestoreHall
+		
+	.org StoreHallOffset
+		jal		StoreHall
 		nop
 		
 	; Dengeki Ticket	
