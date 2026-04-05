@@ -29,6 +29,7 @@ CameraPosOffset			equ 0x098522A4
 TreshiOffset			equ 0x09908624
 Area9CameraOffset		equ 0x089222B8
 MACAddrOffset			equ 0x09857730
+YianGarugaSavedHPOffset equ 0x0985773C
 
 .open "build/ULJM05066/EBOOT.BIN", 0x0880326C
 	; Hook
@@ -75,6 +76,18 @@ MACAddrOffset			equ 0x09857730
 		sw			t1, 0x88(t0)
 	EndArea9Camera:	
 	
+		; Yian Garuga Glitch
+		la			t0, YianGarugaSavedHPOffset
+		lh			t1, 0x0(t0)
+		andi		t1, t1, 0xFFFF
+		li			t2, 0xF000
+		ble			t1, t2, EndYianGarugaGlitch
+		nop
+		li			t1, 0x1
+		sh			t1, 0x0(t0)
+		
+	EndYianGarugaGlitch:
+			
 		; Set MAC Address
 		la			a0, MACAddrOffset
 		lw			t0, 0x0(a0)
