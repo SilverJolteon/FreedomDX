@@ -47,11 +47,53 @@ All-in-One patch that includes the following:
           <th><b>Requirement</b></th>
         </tr>
         <tr>
-          <td><b>Granny has her full stock of items</b></td>
-          <td>Once per connection.</td>
-          <td>~25% chance after each quest.</td>
+          <td><b>Monster Info Logs</b></td>
+          <td>Unlocks all info on connection.</td>
+          <td>Unlocks all info after completing requirement.</td>
+          <td>5★ Gathering Hall Quest:<br>“A Giant Dragon Invades!”<br>(Freedom DX Only)</td>
+        </tr>
+		<tr>
+          <td><b>Yian Garuga (Portable Only)</b></td>
+          <td>Unlocks after meeting requirement and connecting.<br>Disappears after completion and requires additional connections.</td>
+          <td>Unlocks after meeting requirement.<br>Does not disappear after completion.</td>
+          <td>3★ Village Quest:<br>“Slay the Velociprey Pack!”</td>
+        </tr>
+        <tr>
+          <td><b>"Pretty in Pink" Poogie Outfit</b></td>
+          <td>Unlocks on connection.</td>
+          <td><code>CONFIG.BIN</code> option.</td>
           <td>-</td>
         </tr>
+		<tr>
+			<td><b>"About Connectivity" Info Magazine</b></td>
+			<td>Unlocks on connection.</td>
+			<td>Available from the start.</td>
+			<td>-</td>
+		</tr>
+		<tr>
+          <td><b>Mining Point +1</b></td>
+          <td>Unlocks on connection after requirement. Needs to be purchased.</td>
+          <td>Not currently implemented.</td>
+          <td>See Kushala Daora for the first time in Dos</td>
+        </tr>
+		<tr>
+          <td><b>Mining Bomb</b></td>
+          <td>Unlocks on connection after requirement. Needs to be purchased.</td>
+          <td>Not currently implemented.</td>
+          <td>Defeat Kushala Daora in Dos</td>
+        </tr>
+		<tr>
+          <td><b>Bug Tree</b></td>
+          <td>Unlocks on connection after requirement. Needs to be purchased.</td>
+          <td>Not currently implemented.</td>
+          <td>Defeat Kushala Daora in Dos</td>
+        </tr>	
+		<tr>
+          <td><b>Bee Hive</b></td>
+          <td>Unlocks on connection. Needs to be purchased.</td>
+          <td>Available from the start. Needs to be purchased.</td>
+          <td>-</td>
+        </tr>		
         <tr>
           <td><b>Granny gifts item to player from the following table:</b><br><br>
             <table>
@@ -78,29 +120,11 @@ All-in-One patch that includes the following:
           <td>~12.5% chance to appear after each quest.</td>
           <td>Kitchen</td>
         </tr>
-        <tr>
-          <td><b>Bee Hive</b></td>
-          <td>Unlocks on connection after requirement. Needs to be purchased.</td>
-          <td>Unlocks after requirement. Needs to be purchased.</td>
-          <td>Farm</td>
-        </tr>
-        <tr>
-          <td><b>Pink Poogie Outfit</b></td>
-          <td>Unlocks on connection.</td>
-          <td><code>CONFIG.BIN</code> option.</td>
+		<tr>
+          <td><b>Granny has her full stock of items</b></td>
+          <td>Once per connection.</td>
+          <td>~25% chance after each quest.</td>
           <td>-</td>
-        </tr>
-        <tr>
-          <td><b>Monster Info Logs</b></td>
-          <td>Unlocks all info on connection.</td>
-          <td>Unlocks all info after completing requirement.</td>
-          <td>5★ Gathering Hall Quest:<br>“A Giant Dragon Invades!”<br>(Freedom DX Only)</td>
-        </tr>
-        <tr>
-          <td><b>Yian Garuga (Portable Only)</b></td>
-          <td>Unlocks after meeting requirement and connecting.<br>Disappears after completion and requires additional connections.</td>
-          <td>Unlocks after meeting requirement.<br>Does not disappear after completion.</td>
-          <td>3★ Village Quest:<br>“Slay the Velociprey Pack!”</td>
         </tr>
         <tr>
           <td><b>Craftable Armor</b><br>
@@ -111,7 +135,7 @@ All-in-One patch that includes the following:
             Chrome Metal Boots
           </td>
           <td>Unlocks on connection.</td>
-          <td>Available from start.</td>
+          <td>Available from the start.</td>
           <td>-</td>
         </tr>
         <tr>
