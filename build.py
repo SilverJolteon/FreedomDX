@@ -6,7 +6,7 @@ import pycdlib
 import subprocess
 from translation.translate import translate, Injector
 
-VERSION = "v1.8.0i DEBUG"
+VERSION = "v1.8.0j DEBUG"
 
 iso_dir = "iso"
 asm_src_dir = "source"
