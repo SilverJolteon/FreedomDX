@@ -136,7 +136,7 @@ GenerateCats			equ 0x09930A58
 		andi		t0, t0, 0xFF
 		li			t1, 0x40 ; 0x40 / 0xFF chance (~25%)
 		sltu		t1, t0, t1
-		li			t2, 0x1600
+		li			t2, 0x1000
 		mult		t1, t2
 		mflo		t1
 		nor			t3, zero, t2
