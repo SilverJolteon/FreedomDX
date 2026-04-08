@@ -4,9 +4,10 @@ import re
 import shutil
 import pycdlib
 import subprocess
+from PIL import Image, ImageDraw, ImageFont
 from translation.translate import translate, Injector
 
-VERSION = "v1.8.0k DEBUG"
+VERSION = "v1.8.0k\n   DEBUG"
 
 iso_dir = "iso"
 asm_src_dir = "source"
@@ -164,6 +165,10 @@ def addImage(folder, files, image):
     path = os.path.join(build_dir, folder, "DATA.BIN")
     patched = 0
     for file in files:
+        if not patched:
+            if(folder == "ULJM05066" and ENGLISH_PATCH):
+                translate(build_dir)
+            patched = 1
         old_tmh = os.path.join(build_dir, folder, f"{file}.tmh")
         new_tmh = os.path.join(build_dir, folder, f"{file}_modified.tmh")
         subprocess.run(
@@ -176,7 +181,21 @@ def addImage(folder, files, image):
             stdout=subprocess.DEVNULL,
             stderr=subprocess.STDOUT
         )
-        shutil.copy(os.path.join(assets, image), os.path.join(build_dir, folder, file, "001_palette_RGBA8888.png"))
+
+        RBGA8888 = os.path.join(build_dir, folder, file, "001_palette_RGBA8888.png")
+        shutil.copy(os.path.join(assets, image), RBGA8888)
+        
+        img = Image.open(RBGA8888).convert("RGBA")
+        overlay = Image.new("RGBA", img.size, (255, 255, 255, 0))
+        draw = ImageDraw.Draw(overlay)
+        
+        font = ImageFont.truetype(os.path.join(assets, "MyriadPro-Bold.otf"), 20)
+        
+        draw.text((350,215), f"{VERSION}", (255, 255, 255), font=font)
+        img = Image.alpha_composite(img, overlay)
+        img = img.convert("P", palette=Image.ADAPTIVE, colors=256)
+        img.save(RBGA8888)
+        
         subprocess.run(
             ["java", "-jar", mhtools, "--rebuild", os.path.join(build_dir, folder, file), "5"],
             check=True,
@@ -185,12 +204,6 @@ def addImage(folder, files, image):
         )
         shutil.rmtree(os.path.join(build_dir, folder, file))
         shutil.move(f"{file}.tmh", new_tmh)
-        
-        
-        if not patched:
-            if(folder == "ULJM05066" and ENGLISH_PATCH):
-                translate(build_dir)
-            patched = 1
         
         with open(path, "rb") as fp:
             data = fp.read()
