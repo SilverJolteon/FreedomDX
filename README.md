@@ -73,19 +73,19 @@ All-in-One patch that includes the following:
 		<tr>
           <td><b>Mining Point +1</b></td>
           <td>Unlocks on connection after requirement. Needs to be purchased.</td>
-          <td>Not currently implemented.</td>
+          <td>Available from the start. Needs to be purchased.</td>
           <td>See Kushala Daora for the first time in Dos</td>
         </tr>
 		<tr>
           <td><b>Mining Bomb</b></td>
           <td>Unlocks on connection after requirement. Needs to be purchased.</td>
-          <td>Not currently implemented.</td>
+          <td>Available from the start. Needs to be purchased.</td>
           <td>Defeat Kushala Daora in Dos</td>
         </tr>
 		<tr>
           <td><b>Bug Tree</b></td>
           <td>Unlocks on connection after requirement. Needs to be purchased.</td>
-          <td>Not currently implemented.</td>
+          <td>Available from the start. Needs to be purchased.</td>
           <td>Defeat Kushala Daora in Dos</td>
         </tr>	
 		<tr>

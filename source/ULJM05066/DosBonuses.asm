@@ -80,7 +80,7 @@ GenerateCats			equ 0x0992F370
 		
 		la			t0, DosBonusFlags
 		lh			s0, 0x0(t0)
-		ori			s0, s0, 0x3125
+		ori			s0, s0, 0x3725
 		andi		t1, t1, 0x4
 		xori		t1, t1, 0x4
 		nor			t1, zero, t1
@@ -139,7 +139,7 @@ GenerateCats			equ 0x0992F370
 		li			a2, 0x0
 		beq			v0, zero, SkipBeeHive
 		nop	
-		ori			s0, s0, 0x100 ; Bee Hive
+		ori			s0, s0, 0x700 ; Bee Hive
 
 	SkipBeeHive:
 		li			a1, 0x33
