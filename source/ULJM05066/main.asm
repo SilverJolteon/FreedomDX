@@ -52,7 +52,7 @@ YianGarugaSavedHPOffset equ 0x0985773C
 		jal			DrawQuestTime
 		move		a0, s1
 		
-	;.org 0x088646F8
+	.org 0x088646F8
 		jal			DrawQuestTime
 		move		a0, s2
 	
