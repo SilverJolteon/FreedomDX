@@ -70,6 +70,14 @@ def translate(build_dir):
     DATA_BIN = os.path.join(build_dir, "ULJM05066", "DATA.BIN")
     if not os.path.exists(DATA_BIN):
         return
+        
+    EBOOT_BIN = os.path.join(build_dir, "ULJM05066", "EBOOT.BIN")
+    if not os.path.exists(EBOOT_BIN):
+        return
+        
+    with open(EBOOT_BIN, "r+b") as fp:
+        fp.seek(0x10F388)
+        fp.write(bytes([0x78, 0x00, 0x70, 0x00, 0x78]))   
 
     injector = Injector(DATA_BIN)
 
