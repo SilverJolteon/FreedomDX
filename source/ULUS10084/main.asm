@@ -39,6 +39,20 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 	.org 0x08844A2C
 		jal			FileLoaderSetIndex
 
+	; Quest Completion Time Hooks	
+	.org 0x0885A788
+		jal			StoreTime
+		nop
+		
+	.org 0x08861C7C
+		jal			DrawQuestTime
+		move		a0, s1
+		
+	.org 0x088649A4
+		jal			DrawQuestTime
+		move		a0, s2
+	
+	; Main	
 	.org 0x088C1510
 		addiu		sp, sp, -0x4
 		sw			ra, 0x00(sp)
@@ -427,7 +441,8 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 		.align 0x4
 	CONFIG_BIN:
 		.fill 0x30, 0x00
-	
+
+	.include "source/ULUS10084/QuestTime.asm"	
 	.include "source/ULUS10084/HallSelectFix.asm"	
 	.include "source/ULUS10084/CatSkills.asm"	
 	.include "source/ULUS10084/DrinkBuff.asm"	

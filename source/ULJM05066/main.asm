@@ -38,10 +38,25 @@ YianGarugaSavedHPOffset equ 0x0985773C
 		
 	.org 0x088446C0
 		jal			FileLoaderSetIndex
-		
-	.org 0x08911E2E ; F1 Quest Fix
+	
+	; F1 Quest Fix	
+	.org 0x08911E2E
 		.byte	0x30, 0x13
-
+	
+	; Quest Completion Time Hooks	
+	.org 0x0885A484
+		jal			StoreTime
+		nop
+		
+	.org 0x088619D0
+		jal			DrawQuestTime
+		move		a0, s1
+		
+	;.org 0x088646F8
+		jal			DrawQuestTime
+		move		a0, s2
+	
+	; Main	
 	.org 0x088C0CA0
 		addiu		sp, sp, -0x4
 		sw			ra, 0x00(sp)
@@ -429,6 +444,7 @@ YianGarugaSavedHPOffset equ 0x0985773C
 	CONFIG_BIN:
 		.fill 0x30, 0x00
 	
+	.include "source/ULJM05066/QuestTime.asm"
 	.include "source/ULJM05066/FixF1Quests.asm"
 	.include "source/ULJM05066/HallSelectFix.asm"		
 	.include "source/ULJM05066/CatSkills.asm"

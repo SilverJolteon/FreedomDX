@@ -38,6 +38,20 @@ MACAddrOffset			equ 0x09858D30
 	.org 0x08844F0C
 		jal			FileLoaderSetIndex
 		
+	; Quest Completion Time Hooks	
+	.org 0x0885AF4C
+		jal			StoreTime
+		nop
+		
+	.org 0x08862440
+		jal			DrawQuestTime
+		move		a0, s1
+		
+	.org 0x08865168
+		jal			DrawQuestTime
+		move		a0, s2
+	
+	; Main	
 	.org 0x088C2140
 		addiu		sp, sp, -0x4
 		sw			ra, 0x00(sp)
@@ -415,6 +429,7 @@ MACAddrOffset			equ 0x09858D30
 	CONFIG_BIN:
 		.fill 0x30, 0x00
 		
+	.include "source/ULES00318/QuestTime.asm"		
 	.include "source/ULES00318/HallSelectFix.asm"	
 	.include "source/ULES00318/CatSkills.asm"	
 	.include "source/ULES00318/DrinkBuff.asm"
