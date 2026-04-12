@@ -32,7 +32,12 @@ MACAddrOffset			equ 0x09857730
 YianGarugaSavedHPOffset equ 0x0985773C
 
 .open "build/ULJM05066/EBOOT.BIN", 0x0880326C
-	; Hook
+	; Init Hook
+	.org 0x088444C4
+		jal			ReadConfigToMem
+		nop
+
+	; Main Hook
 	.org 0x0884481C
 		jal 		0x088C0CA0
 		
@@ -111,30 +116,8 @@ YianGarugaSavedHPOffset equ 0x0985773C
 		jal			sceWlanGetEtherAddr
 		nop
 	EndSetMACAddr:
+	
 	ReadConfig:
-		; Open config file
-		la			a0, CONFIG_PATH
-		li			a1, 0x1
-		li			a2, 0x0
-		li			a3, 0x0
-		jal			sceIoOpen
-		li			t0, 0x0
-		; Check if config exists
-		li			v1, 0x80010002
-		beq			v0, v1, HookReturn
-		nop
-		li			v1, 0x0
-		move		s0, v0	
-		; Read config
-		move		a0, s0
-		li			a1, CONFIG_BIN
-		jal			sceIoRead
-		li			a2, 0x30
-		; Close quests file
-		jal			sceIoClose
-		move		a0, s0
-		jal			sceKDWIA
-		nop
 		; Check config flags
 		la			v0, CONFIG_BIN
 		jal			HoldToGather
@@ -437,6 +420,46 @@ YianGarugaSavedHPOffset equ 0x0985773C
 		lw			ra, 0x0(sp)
 		addiu		sp, sp, 4
 		jr			ra
+		nop
+			
+	ReadConfigToMem:
+		addi		sp, sp, -0xC
+		sw			ra, 0x8(sp)
+		sw			s0, 0x4(sp)
+		sw			a0, 0x0(sp)
+		; Open config file
+		la			a0, CONFIG_PATH
+		li			a1, 0x1
+		li			a2, 0x0
+		li			a3, 0x0
+		jal			sceIoOpen
+		li			t0, 0x0
+		; Check if config exists
+		li			v1, 0x80010002
+		beq			v0, v1, ReadConfigToMenReturn
+		nop
+		li			v1, 0x0
+		move		s0, v0	
+		; Read config
+		move		a0, s0
+		li			a1, CONFIG_BIN
+		jal			sceIoRead
+		li			a2, 0x30
+		; Close quests file
+		jal			sceIoClose
+		move		a0, s0
+		jal			sceKDWIA
+		nop	
+	ReadConfigToMenReturn:	
+		lw			a0, 0x0(sp)
+		lw			s0, 0x4(sp)
+		li			a1, 0x1
+		jal			sceIoOpen
+		li			a2, 0
+		lw			ra, 0x8(sp)
+		addi		sp, sp, 0xC
+		jr			ra
+		nop
 	
 	CONFIG_PATH:
 		.ascii "ms0:/PSP/SAVEDATA/FDXDAT/CONFIG.BIN"

@@ -7,7 +7,7 @@ import subprocess
 from PIL import Image, ImageDraw, ImageFont
 from translation.translate import translate, Injector
 
-VERSION = "v1.8.0l\n   DEBUG"
+VERSION = "v1.8.0m\n   DEBUG"
 
 iso_dir = "iso"
 asm_src_dir = "source"
