@@ -11,7 +11,7 @@ FONT					equ 0x0982C280
 drawText				equ 0x088723E4
 drawShadowedText		equ 0x08872660
 
-HoldToGatherOffset 		equ 0x98FB068
+HoldToGatherOffset 		equ 0x098FB068
 TrueRawOffset			equ 0x088F2B10
 LaoShanLungOffset		equ 0x0990E3A4
 MapScaleOffset			equ 0x0881D7D0
@@ -25,7 +25,7 @@ FOVOffset1				equ 0x088161D4
 FOVOffset2				equ 0x088162E8
 FOVOffset3				equ 0x0886B50C
 FOVOffset4				equ 0x0886DA9C
-CameraPosOffset			equ 0x098538A4
+CameraPosOffset			equ 0x08816218
 TreshiOffset			equ 0x09909E6C
 MACAddrOffset			equ 0x09858D30
 
@@ -87,12 +87,8 @@ MACAddrOffset			equ 0x09858D30
 		la			v0, CONFIG_BIN
 		jal			HoldToGather
 		lb			a0, 0x10(v0)
-		jal			TrueRaw
-		lb			a0, 0x11(v0)
 		jal			LaoShanLung
 		lb			a0, 0x12(v0)
-		jal			MapScale
-		lb			a0, 0x13(v0)
 		jal			SnSDebuff
 		lb			a0, 0x14(v0)
 		jal			FileLoader
@@ -107,19 +103,13 @@ MACAddrOffset			equ 0x09858D30
 		lb			a0, 0x18(v0)
 	DosBonusReturn:
 		la			v0, CONFIG_BIN
-		jal			SupplyChestDelay
-		lb			a0, 0x19(v0)
-		jal			FOV
-		lb			a0, 0x1A(v0)
-		jal			CameraPos
-		lb			a0, 0x1B(v0)
 		jal			Treshi
 		lb			a0, 0x1C(v0)
 		j			HookReturn
 		nop
 		
 	HoldToGather:
-		beq			a0, zero, DisableHoldToGather
+		beq			a0, zero, Return
 		nop
 		la			t0, HoldToGatherOffset
 		li			t1, 0x04A4
@@ -129,19 +119,7 @@ MACAddrOffset			equ 0x09858D30
 		li			t1, 0x04A0
 		sh			t1, 0x0(t0)
 		j			Return
-		nop
-		
-	DisableHoldToGather:
-		la			t0, HoldToGatherOffset
-		li			t1, 0x04A0
-		lhu			t2, 0x0(t0)
-		bne			t2, t1, Return
-		nop
-		li			t1, 0x04A4
-		sh			t1, 0x0(t0)
-		j			Return
-		nop
-	
+		nop	
 		
 	TrueRaw:
 		beq			a0, zero, Return
@@ -357,11 +335,9 @@ MACAddrOffset			equ 0x09858D30
 		
 	CameraPos:
 		la			t0, CameraPosOffset
-		li			t1, 0x3
-		lbu			t2, 0x0(t0)
-		bne			t2, t1, Return
-		nop
-		sb			a0, 0x0(t0)
+		lui			t1, 0x2403
+		or			t1, t1, a0
+		sw			t1, 0x0(t0)
 		j			Return
 		nop
 		
@@ -417,6 +393,22 @@ MACAddrOffset			equ 0x09858D30
 		jal			sceKDWIA
 		nop	
 	ReadConfigToMenReturn:	
+		; Check config flags
+		la			v0, CONFIG_BIN
+		jal			HoldToGather
+		lb			a0, 0x10(v0)
+		jal			TrueRaw
+		lb			a0, 0x11(v0)
+		jal			MapScale
+		lb			a0, 0x13(v0)
+		jal			SupplyChestDelay
+		lb			a0, 0x19(v0)
+		jal			FOV
+		lb			a0, 0x1A(v0)
+		jal			CameraPos
+		lb			a0, 0x1B(v0)
+		
+		; Return
 		lw			a0, 0x0(sp)
 		lw			s0, 0x4(sp)
 		li			a1, 0x1
