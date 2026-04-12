@@ -27,12 +27,11 @@ FOVOffset3				equ 0x0886AC1C
 FOVOffset4				equ 0x0886D1AC
 CameraPosOffset			equ 0x098522A4
 TreshiOffset			equ 0x09908624
-Area9CameraOffset		equ 0x089222B8
 MACAddrOffset			equ 0x09857730
 YianGarugaSavedHPOffset equ 0x0985773C
 
 .open "build/ULJM05066/EBOOT.BIN", 0x0880326C
-	; Init Hook
+	; Game Init Hook
 	.org 0x088444C4
 		jal			ReadConfigToMem
 		nop
@@ -40,10 +39,10 @@ YianGarugaSavedHPOffset equ 0x0985773C
 	; Main Hook
 	.org 0x0884481C
 		jal 		0x088C0CA0
-		
+
 	.org 0x088446C0
 		jal			FileLoaderSetIndex
-	
+
 	; F1 Quest Fix	
 	.org 0x08911E2E
 		.byte	0x30, 0x13
@@ -52,15 +51,13 @@ YianGarugaSavedHPOffset equ 0x0985773C
 	.org 0x0885A484
 		jal			StoreTime
 		nop
-		
 	.org 0x088619D0
 		jal			DrawQuestTime
 		move		a0, s1
-		
 	.org 0x088646F8
 		jal			DrawQuestTime
 		move		a0, s2
-	
+		
 	; Main	
 	.org 0x088C0CA0
 		addiu		sp, sp, -0x4
@@ -81,21 +78,6 @@ YianGarugaSavedHPOffset equ 0x0985773C
 		jal			HallSelectR
 		nop		
 		
-		; Forest and Hills Area 9 Camera
-		la			t0, Area9CameraOffset
-		
-		li			t1, 0x3F9371ED
-		lw			t2, 0x0(t0)
-		bne			t2, t1, EndArea9Camera
-		nop
-		lui			t1, 0x43F5
-		sw			t1, 0x48(t0)
-		lui			t1, 0x43F5
-		sw			t1, 0x68(t0)
-		lui			t1, 0x43E1
-		sw			t1, 0x88(t0)
-	EndArea9Camera:	
-	
 		; Yian Garuga Glitch
 		la			t0, YianGarugaSavedHPOffset
 		lh			t1, 0x0(t0)
@@ -489,6 +471,15 @@ YianGarugaSavedHPOffset equ 0x0985773C
 	; Input Drop Fix
 	.org 0x1A6FD9CC
 		.word 0x1060000C
+		
+	; Forest and Hills Area 9 Camera Fix	
+	.org 0x206DC098
+		.word 0x43F50000
+	.org 0x206DC0B8
+		.word 0x43F50000	
+	.org 0x206DC0D8
+		.word 0x43E10000	
+		
 		
 	; Remember Hall Cursor Position	
 	.org RestoreHallOffset

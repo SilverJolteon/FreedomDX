@@ -285,8 +285,9 @@ if __name__ == "__main__":
     createFolder(FDXDAT)
     extractData()
     setParamInfo()
-    addImages()
     buildASM()
+    addImages()
+
     fixF1Quests()
     patchISOs()
     createPatches()
