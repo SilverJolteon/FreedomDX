@@ -499,4 +499,11 @@ MACAddrOffset			equ 0x09858D30
 	; Dengeki Ticket	
 	.org 0x12C4B03A
 		.ascii "DengekiTck", 0
+		
+	; "The Desert Plesioth" Supplies Fix
+	.org 0x1DAAD774
+		.word 0x00010016
+		.word 0x00010016
+		.word 0x00010016
+		.word 0x00010016
 .close

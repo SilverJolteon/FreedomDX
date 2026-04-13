@@ -486,4 +486,11 @@ YianGarugaSavedHPOffset equ 0x0985773C
 	.org FixF1QuestsHook
 		jal		CheckLoadedQuest
 		nop
+		
+	; "The Desert Plesioth" Supplies Fix
+	.org 0x1D81CA98
+		.word 0x00010016
+		.word 0x00010016
+		.word 0x00010016
+		.word 0x00010016
 .close

@@ -512,4 +512,11 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 	; Dengeki Ticket	
 	.org 0x12C4AF25
 		.ascii "DengekiTkt", 0
+		
+	; "The Desert Plesioth" Supplies Fix
+	.org 0x1D3C2A94
+		.word 0x00010016
+		.word 0x00010016
+		.word 0x00010016
+		.word 0x00010016
 .close
