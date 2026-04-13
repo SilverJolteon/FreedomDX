@@ -1,6 +1,9 @@
+import subprocess
 import struct
 import array
 import os
+
+armips = os.path.join("tools", "armips.exe")
 
 class Injector:
     def __init__(self, path):
@@ -19,7 +22,21 @@ class Injector:
 
     def memcpy(self, addr, payload):
         self.data[addr : addr + len(payload)] = bytes(payload)
-
+        
+    def buildASM(self, build_dir, index, asm):
+        print(f"Building {asm}.asm for ULJM05066...")
+        filename = asm + ".bin"
+        asm = os.path.join("translation", "asm", asm + ".asm")
+        start_offset = self.toc[index] * 2048
+        end_offset = self.toc[index + 1] * 2048
+        output = os.path.join(build_dir, "ULJM05066", filename)
+        open(output, "wb").write(self.data[start_offset:end_offset])
+        subprocess.run(
+            [armips, asm],
+            check=True
+        )
+        self.replace(index, output)
+        
     def replace(self, index, repl_path):
         if not os.path.exists(repl_path):
             return
@@ -77,14 +94,12 @@ def translate(build_dir):
         
     with open(EBOOT_BIN, "r+b") as fp:
         fp.seek(0x10F388)
-        fp.write(bytes([0x78, 0x00, 0x70, 0x00, 0x78]))   
+        fp.write(bytes([0x78, 0x00, 0x70, 0x00, 0x78]))        
 
     injector = Injector(DATA_BIN)
 
-    injector.memcpy(0x1A6A3FE8, [0x02, 0x00, 0x06, 0x3C]) # 4959 memsize
-    injector.memcpy(0x1A6A40E4, [0x00, 0xD8, 0x46, 0x34]) # 4673 memsize
-    injector.memcpy(0x1A6396D0, [0x1A, 0x00, 0x05, 0x34]) # Press Start Position
-    injector.memcpy(0x1A639D04, [0x28, 0x00, 0x05, 0x34, 0x38, 0xC5, 0x21, 0x0E, 0x14, 0x00, 0x06, 0x34]) # Title Menu Position
+    injector.buildASM(build_dir, 44, "demo_task")
+    injector.buildASM(build_dir, 51, "lobby_task")
         
     path = os.path.join("translation", "data")
     if os.path.exists(path):
