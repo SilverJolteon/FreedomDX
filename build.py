@@ -23,16 +23,17 @@ xdelta = os.path.join("tools", "xdelta.exe")
 mhff = os.path.join("tools", "mhff", "psp", "data.py")
 mhtools = os.path.join("tools", "mhtools.jar")
 
+if not os.path.exists(mhff):
+    installMHFF()
+if not os.path.exists(mhtools):
+    installMHTools()
+
 if platform == "linux" or platform == "linux2":
     armips = os.path.join("tools", "armips", "build", "armips")
     umd_replace = os.path.join("tools", "UMD-replace")
     xdelta = "xdelta3"
     if not os.path.exists(armips):
         installArmips()
-    if not os.path.exists(mhff):
-        installMHFF()
-    if not os.path.exists(mhtools):
-        installMHTools()
     if not os.path.exists(umd_replace):
         installUMDReplace()
 ENGLISH_PATCH = 1
