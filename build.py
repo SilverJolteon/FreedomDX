@@ -4,6 +4,8 @@ import re
 import shutil
 import pycdlib
 import subprocess
+from sys import platform
+from tools.setup_linux import *
 from PIL import Image, ImageDraw, ImageFont
 from translation.translate import translate, Injector
 
@@ -14,13 +16,25 @@ asm_src_dir = "source"
 build_dir = "build"
 assets = "assets"
 quests_dir = "quests"
+
 armips = os.path.join("tools", "armips.exe")
 umd_replace = os.path.join("tools", "UMD-replace.exe")
 xdelta = os.path.join("tools", "xdelta.exe")
 mhff = os.path.join("tools", "mhff", "psp", "data.py")
 mhtools = os.path.join("tools", "mhtools.jar")
-pspdecrypt = os.path.join("tools", "pspdecrypt.exe")
 
+if platform == "linux" or platform == "linux2":
+    armips = os.path.join("tools", "armips", "build", "armips")
+    umd_replace = os.path.join("tools", "UMD-replace")
+    xdelta = "xdelta3"
+    if not os.path.exists(armips):
+        installArmips()
+    if not os.path.exists(mhff):
+        installMHFF()
+    if not os.path.exists(mhtools):
+        installMHTools()
+    if not os.path.exists(umd_replace):
+        installUMDReplace()
 ENGLISH_PATCH = 1
 
 QUESTS_LANG = "EN"
@@ -257,24 +271,16 @@ def extractData():
             print(f"Extracting DATA.BIN from {file}...")
             with open(os.path.join(dir, "DATA.BIN"), "wb") as data_bin:
                 iso.get_file_from_iso_fp(data_bin, iso_path="/PSP_GAME/USRDIR/DATA.BIN")
-            print(f"Extracting EBOOT.BIN from {file}...")
-            with open(os.path.join(dir, "EBOOT.BIN"), "wb") as eboot_bin:
-                iso.get_file_from_iso_fp(eboot_bin, iso_path="/PSP_GAME/SYSDIR/EBOOT.BIN")
+            print(f"Extracting BOOT.BIN from {file}...")
+            with open(os.path.join(dir, "BOOT.BIN"), "wb") as boot_bin:
+                iso.get_file_from_iso_fp(boot_bin, iso_path="/PSP_GAME/SYSDIR/BOOT.BIN")
             print(f"Extracting PARAM.SFO from {file}...")
             with open(os.path.join(dir, "PARAM.SFO"), "wb") as param_sfo:
                 iso.get_file_from_iso_fp(param_sfo, iso_path="/PSP_GAME/PARAM.SFO")
             iso.close()
             shutil.copyfile(os.path.join(iso_dir, file), os.path.join(build_dir, game_id, f"{game_id}.iso"))
             os.rename(os.path.join(iso_dir, file), os.path.join(iso_dir, f"{game_id}.iso"))
-            print(f"Decrypting EBOOT.BIN for {file}...")
-            subprocess.run(
-                [pspdecrypt, os.path.join(dir, "EBOOT.BIN")],
-                check=True,
-                stdout=subprocess.DEVNULL,
-                stderr=subprocess.STDOUT
-            )
-            os.remove(os.path.join(dir, "EBOOT.BIN"))
-            os.rename(os.path.join(dir, "EBOOT.BIN.dec"), os.path.join(dir, "EBOOT.BIN"))
+            os.rename(os.path.join(dir, "BOOT.BIN"), os.path.join(dir, "EBOOT.BIN"))
             
             games.append(game_id)
  

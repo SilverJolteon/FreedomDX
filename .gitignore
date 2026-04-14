@@ -1,5 +1,7 @@
 /build
 /iso
 /release
-/tools
+/tools/*
+!tools/setup_linux.py
+!/tools/src
 /translation/__pycache__
