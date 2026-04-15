@@ -1,9 +1,12 @@
+from sys import platform
 import subprocess
 import struct
 import array
 import os
 
 armips = os.path.join("tools", "armips.exe")
+if platform == "linux" or platform == "linux2":
+    armips = os.path.join("tools", "armips", "build", "armips")
 
 class Injector:
     def __init__(self, path):
