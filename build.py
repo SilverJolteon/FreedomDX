@@ -288,8 +288,7 @@ def extractData():
 if __name__ == "__main__":
     createFolder(build_dir)
     
-    FDXDAT = os.path.join(build_dir, "FDXDAT")
-    createFolder(FDXDAT)
+    shutil.copytree(os.path.join(assets, "FDXDAT"), os.path.join(build_dir, "FDXDAT"))
     extractData()
     setParamInfo()
     buildASM()
