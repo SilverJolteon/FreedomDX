@@ -55,6 +55,8 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 		move		a0, s2
 	
 	; Sharpness Colors	
+	.org 0x0881A9A8
+		andi		v0, v0, 0x3F
 	.org 0x088F04C4
 		.word 0xFF3A0FC5
 		.word 0xFF1852E8

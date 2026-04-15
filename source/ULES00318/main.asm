@@ -54,6 +54,8 @@ MACAddrOffset			equ 0x09858D30
 		move		a0, s2
 	
 	; Sharpness Colors	
+	.org 0x0881AB78
+		andi		v0, v0, 0x3F
 	.org 0x088F12B8
 		.word 0xFF3A0FC5
 		.word 0xFF1852E8
