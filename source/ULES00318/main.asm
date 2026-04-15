@@ -53,6 +53,15 @@ MACAddrOffset			equ 0x09858D30
 		jal			DrawQuestTime
 		move		a0, s2
 	
+	; Sharpness Colors	
+	.org 0x088F12B8
+		.word 0xFF3A0FC5
+		.word 0xFF1852E8
+		.word 0xFF32C8F3
+		.word 0xFF00D35E
+		.word 0xFFEE6830
+		.word 0xFFF0F0F0
+		
 	; Main	
 	.org 0x088C2140
 		addiu		sp, sp, -0x4

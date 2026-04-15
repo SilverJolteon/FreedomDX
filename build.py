@@ -9,7 +9,7 @@ from tools.setup_linux import *
 from PIL import Image, ImageDraw, ImageFont
 from translation.translate import translate, Injector
 
-VERSION = "v1.8.0o\n   DEBUG"
+VERSION = "v1.8.0q\n   DEBUG"
 
 iso_dir = "iso"
 asm_src_dir = "source"
