@@ -69,6 +69,11 @@ YianGarugaSavedHPOffset equ 0x0985773C
 		.word 0xFFEE6830
 		.word 0xFFF0F0F0
 		
+	; Lao-Shan Timer
+	.org 0x0885A4E0
+		j			LaoShanTimer
+		nop
+		
 	; Main	
 	.org 0x088C0CA0
 		addiu		sp, sp, -0x4
@@ -453,6 +458,7 @@ YianGarugaSavedHPOffset equ 0x0985773C
 	CONFIG_BIN:
 		.fill 0x30, 0x00
 	
+	.include "source/ULJM05066/LaoShanTimer.asm"
 	.include "source/ULJM05066/QuestTime.asm"
 	.include "source/ULJM05066/FixF1Quests.asm"
 	.include "source/ULJM05066/HallSelectFix.asm"		

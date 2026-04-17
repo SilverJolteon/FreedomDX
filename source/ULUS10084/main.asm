@@ -65,6 +65,11 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 		.word 0xFFEE6830
 		.word 0xFFF0F0F0
 		
+	; Lao-Shan Timer
+	.org 0x0885A7E4
+		j			LaoShanTimer
+		nop
+		
 	; Main	
 	.org 0x088C1510
 		addiu		sp, sp, -0x4
@@ -449,6 +454,7 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 	CONFIG_BIN:
 		.fill 0x30, 0x00
 
+	.include "source/ULUS10084/LaoShanTimer.asm"	
 	.include "source/ULUS10084/QuestTime.asm"	
 	.include "source/ULUS10084/HallSelectFix.asm"	
 	.include "source/ULUS10084/CatSkills.asm"	

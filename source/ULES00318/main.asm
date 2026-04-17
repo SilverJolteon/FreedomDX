@@ -64,6 +64,11 @@ MACAddrOffset			equ 0x09858D30
 		.word 0xFFEE6830
 		.word 0xFFF0F0F0
 		
+	; Lao-Shan Timer
+	.org 0x0885AFA8
+		j			LaoShanTimer
+		nop
+		
 	; Main	
 	.org 0x088C2140
 		addiu		sp, sp, -0x4
@@ -435,7 +440,8 @@ MACAddrOffset			equ 0x09858D30
 		.align 0x4
 	CONFIG_BIN:
 		.fill 0x30, 0x00
-		
+
+	.include "source/ULES00318/LaoShanTimer.asm"			
 	.include "source/ULES00318/QuestTime.asm"		
 	.include "source/ULES00318/HallSelectFix.asm"	
 	.include "source/ULES00318/CatSkills.asm"	
