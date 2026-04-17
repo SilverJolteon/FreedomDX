@@ -1,3 +1,8 @@
+#------------------------------------------------------------
+VERSION = "v1.8.0q\n   DEBUG"
+ENGLISH_PATCH = 1
+QUESTS_LANG = "EN"
+#------------------------------------------------------------
 import os
 import io
 import re
@@ -8,21 +13,19 @@ from sys import platform
 from tools.setup_linux import *
 from PIL import Image, ImageDraw, ImageFont
 from translation.translate import translate, Injector
-
-VERSION = "v1.8.0q\n   DEBUG"
-
+#------------------------------------------------------------
 iso_dir = "iso"
 asm_src_dir = "source"
 build_dir = "build"
 assets = "assets"
 quests_dir = "quests"
-
+#------------------------------------------------------------
 armips = os.path.join("tools", "armips.exe")
 umd_replace = os.path.join("tools", "UMD-replace.exe")
 xdelta = os.path.join("tools", "xdelta.exe")
 mhff = os.path.join("tools", "mhff", "psp", "data.py")
 mhtools = os.path.join("tools", "mhtools.jar")
-
+#------------------------------------------------------------
 if not os.path.exists(mhff):
     installMHFF()
 if not os.path.exists(mhtools):
@@ -36,10 +39,7 @@ if platform == "linux" or platform == "linux2":
         installArmips()
     if not os.path.exists(umd_replace):
         installUMDReplace()
-ENGLISH_PATCH = 1
-
-QUESTS_LANG = "EN"
-
+        
 games = []
 
 def createFolder(folder):
@@ -71,7 +71,10 @@ def combineQuests():
             id += 1
 def fixF1Quests():                
     if "ULJM05066" in games:
-        quests = os.path.join(quests_dir, "FreedomExclusive")
+        if(ENGLISH_PATCH):
+            quests = os.path.join(quests_dir, "FreedomExclusive", "EN")
+        else:
+            quests = os.path.join(quests_dir, "FreedomExclusive", "JP")
         mib_files = sorted([f for f in os.listdir(quests) if f.lower().endswith(".mib")])
         quest_size = 0x3000
         
