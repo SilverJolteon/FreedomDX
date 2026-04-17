@@ -22,7 +22,7 @@ LaoShanTimerReturnSkipOffset equ 0x0885A550
 	LaoShanTimerReturn:
 		beql		v0, zero, LaoShanTimerReturnSkip
 		nop
-		jr			ra
+		j			0x0885A4E8
 		move		v0, t0
 		
 	LaoShanTimerReturnSkip:
