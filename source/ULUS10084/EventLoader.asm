@@ -5,7 +5,7 @@ SLTI_V0_S3		equ	0x098EE024
 SLTI_V0_S1		equ 0x098EF1DC
 
 RETURN_VALID	equ	0x098EF154
-RETURN_INVALID	equ 0x098EF148
+RETURN_INVALID	equ 0x098EF14C
 
 SP_EVENT_PAGE	equ 0x09941178
 
@@ -47,6 +47,9 @@ EVENT_TXT_EN	equ 0x094CC56A
 		li		v1, 0x80010002
 		beq		v0, v1, NoFile ; Return - no event quests found
 		nop
+		la		a0, QUESTS_BIN_EXIST
+		li		a1, 1
+		sw		a1, 0x0(a0)
 		li 		v1, 0x0
 		move	s0, v0	
 		; Get number of pages
@@ -109,7 +112,12 @@ EVENT_TXT_EN	equ 0x094CC56A
 		
 		Restore:
 			; Restore s0 and set v0 to Quest Slot 1
+			la		v0, QUESTS_BIN_EXIST
+			lw		v0, 0x0(v0)
+			beq		v0, zero, SET_QUEST_SLOT
+			lw		v0, 0x0(sp)
 			li		v0, SLOT_1
+		SET_QUEST_SLOT:	
 			lw		s0, 0x4(sp)
 			addiu	sp, sp, 8
 			jr		ra
@@ -118,7 +126,14 @@ EVENT_TXT_EN	equ 0x094CC56A
 		NoFile:
 			jal		Restore
 			nop
+			lw		v1, 0x0(v0)
+			bnel	v1, zero, NoFileValid
+			sw		v0, 0x7C(s0)
 			j		RETURN_INVALID;
+			nop
+			
+		NoFileValid:
+			j		RETURN_VALID;
 			nop
 			
 		EventMenu:
@@ -195,3 +210,6 @@ EVENT_TXT_EN	equ 0x094CC56A
 			QUESTS_BIN:
 			.ascii "ms0:/PSP/SAVEDATA/FDXDAT/EVENT.BIN"
 			.align 0x4
+			
+			QUESTS_BIN_EXIST:
+			.word 0

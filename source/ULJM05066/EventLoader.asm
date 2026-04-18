@@ -1,19 +1,17 @@
 SLOT_1			equ 0x095079E0 ; EN
-;SLOT_1			equ	0x094F31E0 ; JP
 SLOT_SIZE		equ	0x6800
 
 SLTI_V0_S3		equ	0x098ED6B4
 SLTI_V0_S1		equ 0x098EE894
 
 RETURN_VALID	equ	0x098EE80C
-RETURN_INVALID	equ 0x098EE800
+RETURN_INVALID	equ 0x098EE804
 
 SP_EVENT_PAGE	equ 0x099409F8
 
 	EventLoader:
 		; Backup registers v0 and s0
-		addiu	sp, sp, -0xC
-		sw		t4, 0x8(sp)
+		addiu	sp, sp, -8
 		sw		s0, 0x4(sp)
 		sw		v0, 0x0(sp)
 		; Check if init
@@ -43,6 +41,9 @@ SP_EVENT_PAGE	equ 0x099409F8
 		li		v1, 0x80010002
 		beq		v0, v1, NoFile ; Return - no event quests found
 		nop
+		la		a0, QUESTS_BIN_EXIST
+		li		a1, 1
+		sw		a1, 0x0(a0)
 		li 		v1, 0x0
 		move	s0, v0	
 		; Get number of pages
@@ -105,19 +106,33 @@ SP_EVENT_PAGE	equ 0x099409F8
 		
 		Restore:
 			; Restore s0 and set v0 to Quest Slot 1
+			la		v0, QUESTS_BIN_EXIST
+			lw		v0, 0x0(v0)
+			beq		v0, zero, SET_QUEST_SLOT
+			lw		v0, 0x0(sp)
 			li		v0, SLOT_1
+		SET_QUEST_SLOT:	
 			lw		s0, 0x4(sp)
-			lw		t4, 0x8(sp)
-			addiu	sp, sp, 0xC
+			addiu	sp, sp, 8
 			jr		ra
 			nop
 		
 		NoFile:
 			jal		Restore
 			nop
+			lw		v1, 0x0(v0)
+			bnel	v1, zero, NoFileValid
+			sw		v0, 0x7C(s0)
 			j		RETURN_INVALID;
+			nop
+			
+		NoFileValid:
+			j		RETURN_VALID;
 			nop
 		
 		QUESTS_BIN:
 			.ascii "ms0:/PSP/SAVEDATA/FDXDAT/EVENT.BIN"
 			.align 0x4
+			
+		QUESTS_BIN_EXIST:
+			.word 0
