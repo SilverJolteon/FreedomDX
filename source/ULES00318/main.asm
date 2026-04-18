@@ -503,6 +503,25 @@ MACAddrOffset			equ 0x09858D30
 	.org 0x12C4B03A
 		.ascii "DengekiTck", 0
 		
+	; Treshi dummy
+	.org 0x1E0A90F4 ; EN
+		.ascii "...", 0
+		.byte 0x00, 0x00, 0x00
+	.org 0x1E0B311F ; FR
+		.ascii "...", 0
+		.byte 0x00, 0x00, 0x00
+	.org 0x1E0BD4D2 ; DE
+		.ascii "...", 0
+		.byte 0x00, 0x00, 0x00
+	.org 0x1E0C712D ; IT
+		.ascii "...", 0
+		.byte 0x00, 0x00, 0x00
+	.org 0x1E0D083E ; ES
+		.ascii "...", 0
+		.byte 0x00, 0x00, 0x00
+
+
+		
 	; "The Desert Plesioth" Supplies Fix
 	.org 0x1DAAD774
 		.word 0x00010016

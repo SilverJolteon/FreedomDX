@@ -516,6 +516,11 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 	.org 0x12C4AF25
 		.ascii "DengekiTkt", 0
 		
+	; Treshi dummy
+	.org 0x1D9408EF
+		.ascii "...", 0
+		.byte 0x00, 0x00, 0x00
+		
 	; "The Desert Plesioth" Supplies Fix
 	.org 0x1D3C2A94
 		.word 0x00010016

@@ -489,6 +489,11 @@ YianGarugaSavedHPOffset equ 0x0985773C
 		jal			CheckLoadedQuest
 		nop
 		
+	; Treshi dummy
+	.org 0x1DD936BB
+		.ascii "...", 0
+		.byte 0x00, 0x00, 0x00
+		
 	; "The Desert Plesioth" Supplies Fix
 	.org 0x1D81CA98
 		.word 0x00010016
