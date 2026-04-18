@@ -118,6 +118,12 @@ SP_EVENT_PAGE	equ 0x099409F8
 			nop
 		
 		NoFile:
+			li		t0, 0x2A620003
+			sw		t0, SLTI_V0_S3
+			li		t0, 0x2A220003
+			sw		t0, SLTI_V0_S1
+			la		a0, QUESTS_BIN_EXIST
+			sw		zero, 0x0(a0)
 			jal		Restore
 			nop
 			lw		v1, 0x0(v0)
