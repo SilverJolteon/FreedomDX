@@ -18,7 +18,6 @@ MapScaleOffset			equ 0x0881D7D0
 SnSDebuffOffset			equ 0x098D9B70
 KCatSkillsOffset		equ 0x098DAA34
 GCatSkillsOffset		equ 0x09931F88
-DrinkBuffOffset			equ 0x09908FCC
 SupplyChestDelayOffset	equ 0x0882D2B0
 FOVOffset0				equ 0x08816038
 FOVOffset1				equ 0x088161D4
@@ -113,8 +112,6 @@ MACAddrOffset			equ 0x09858D30
 		la			v0, CONFIG_BIN
 		jal			CatSkills
 		lb			a0, 0x16(v0)
-		jal			DrinkBuff
-		lb			a0, 0x17(v0)
 		jal			DosBonus
 		lb			a0, 0x18(v0)
 	DosBonusReturn:
@@ -301,25 +298,7 @@ MACAddrOffset			equ 0x09858D30
 		li			a0, 0x0
 		sw			a0, 0x4(t0)
 		j			Return
-		nop		
-		
-	DrinkBuff:
-		beq			a0, zero, Return
 		nop	
-		la			t0, DrinkBuffOffset
-		lw			a0, -0x4(t0)
-		li			a1, 0x00003821
-		bne			a0, a1, Return
-		nop
-		la			a0, GHDrinkCheck
-		srl			a0, a0, 0x2
-		lui			a1, 0x0800
-		addu		a0, a1, a0
-		sw			a0, 0x0(t0)
-		li			a0, 0x8FBF000C ; lw ra, 0xC(sp)
-		sw			a0, 0x4(t0)
-		j			Return
-		nop
 		
 	SupplyChestDelay:
 		beq			a0, zero, Return
@@ -486,16 +465,21 @@ MACAddrOffset			equ 0x09858D30
 		.word 0x008C0118
 
 	.org 0x1a8746e4
-		jal		EventMenu
+		jal			EventMenu
 		nop
 
 	.org 0x1a871410
-		j		EventLoader
+		j			EventLoader
 		nop
 		
 	; Input Drop Fix	
 	.org 0x1A8C4AB4
 		.word 0x1060000C
+		
+	; Drink Buff
+	.org 0x1A88A2CC
+		j			GHDrinkCheck
+		lw			ra, 0xC(sp)
 		
 	; Forest and Hills Area 9 Camera Fix	
 	.org 0x20A91098
@@ -507,10 +491,10 @@ MACAddrOffset			equ 0x09858D30
 		
 	; Remember Hall Cursor Position	
 	.org RestoreHallOffset
-		jal		RestoreHall
+		jal			RestoreHall
 		
 	.org StoreHallOffset
-		jal		StoreHall
+		jal			StoreHall
 		nop
 		
 	; Dengeki Ticket	

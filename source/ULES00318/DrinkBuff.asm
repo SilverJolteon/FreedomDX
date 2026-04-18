@@ -1,6 +1,7 @@
 DrinkBuffPlayerMem		equ 0x08F79BC0
 DrinkBuffPlayerStatus	equ 0x09854820
 DrinkBuffEffect			equ 0x09A87228
+DrinkBuffOffset			equ 0x09908FCC
 
 GHDrinkCheck:
     ; First lets backup these registers
@@ -11,6 +12,11 @@ GHDrinkCheck:
     sw      a0,0xC(sp)
     sw      v1,0x8(sp)
     sw      v0,0x4(sp)
+	; Check if enabled in CONFIG.BIN
+	la		a1,CONFIG_BIN
+	lb		a1,0x17(a1)
+	beq		a1,zero,GHDrinkRRestore
+	nop
     ; Check if its player state mem we are writing to
     la      a1,DrinkBuffPlayerMem
     bne     a0,a1,GHDrinkRRestore

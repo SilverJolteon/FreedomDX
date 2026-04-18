@@ -18,7 +18,6 @@ MapScaleOffset			equ 0x0881D54C
 SnSDebuffOffset			equ 0x098D84C0
 KCatSkillsOffset		equ 0x098D92AC
 GCatSkillsOffset		equ 0x099308C0
-DrinkBuffOffset			equ 0x09907784
 SupplyChestDelayOffset	equ 0x0882CFA4
 FOVOffset0				equ 0x08816038
 FOVOffset1				equ 0x088161D4
@@ -130,8 +129,6 @@ YianGarugaSavedHPOffset equ 0x0985773C
 		la			v0, CONFIG_BIN
 		jal			CatSkills
 		lb			a0, 0x16(v0)
-		jal			DrinkBuff
-		lb			a0, 0x17(v0)	
 		jal			DosBonus
 		lb			a0, 0x18(v0)
 	DosBonusReturn:
@@ -320,24 +317,6 @@ YianGarugaSavedHPOffset equ 0x0985773C
 		j			Return
 		nop		
 		
-	DrinkBuff:
-		beq			a0, zero, Return
-		nop	
-		la			t0, DrinkBuffOffset
-		lw			a0, -0x4(t0)
-		li			a1, 0x00003821
-		bne			a0, a1, Return
-		nop
-		la			a0, GHDrinkCheck
-		srl			a0, a0, 0x2
-		lui			a1, 0x0800
-		addu		a0, a1, a0
-		sw			a0, 0x0(t0)
-		li			a0, 0x8FBF000C ; lw ra, 0xC(sp)
-		sw			a0, 0x4(t0)
-		j			Return
-		nop
-		
 	SupplyChestDelay:
 		beq			a0, zero, Return
 		nop
@@ -475,12 +454,17 @@ YianGarugaSavedHPOffset equ 0x0985773C
 
 .open "build/ULJM05066/DATA.BIN", 0
 	.org 0x1A6AA0F8
-		j		EventLoader
+		j			EventLoader
 		nop
 		
 	; Input Drop Fix
 	.org 0x1A6FD9CC
 		.word 0x1060000C
+		
+	; Drink Buff
+	.org 0x1A6C3084
+		j			GHDrinkCheck
+		lw			ra, 0xC(sp)
 		
 	; Forest and Hills Area 9 Camera Fix	
 	.org 0x206DC098
@@ -490,18 +474,17 @@ YianGarugaSavedHPOffset equ 0x0985773C
 	.org 0x206DC0D8
 		.word 0x43E10000	
 		
-		
 	; Remember Hall Cursor Position	
 	.org RestoreHallOffset
-		jal		RestoreHall
+		jal			RestoreHall
 		
 	.org StoreHallOffset
-		jal		StoreHall
+		jal			StoreHall
 		nop
 	
 	; Fix F1 Exclusive Quests
 	.org FixF1QuestsHook
-		jal		CheckLoadedQuest
+		jal			CheckLoadedQuest
 		nop
 		
 	; "The Desert Plesioth" Supplies Fix
