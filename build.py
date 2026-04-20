@@ -2,6 +2,7 @@
 VERSION = "v1.8.0t\n   BETA"
 ENGLISH_PATCH = 1
 QUESTS_LANG = "EN"
+VANILLA_MODE = 0
 #------------------------------------------------------------
 import os
 import io
@@ -69,7 +70,8 @@ def combineQuests():
                 data[0x5A:0x5C] = id.to_bytes(2, byteorder="little")
                 fp.write(data)
             id += 1
-def fixF1Quests():                
+def fixF1Quests():     
+    if VANILLA_MODE: return
     if "ULJM05066" in games:
         if(ENGLISH_PATCH):
             quests = os.path.join(quests_dir, "FreedomExclusive", "EN")
@@ -112,6 +114,7 @@ def setASMOffset(path, asm, n, value):
         fp.writelines(lines)
 
 def buildASM():
+    if VANILLA_MODE: return
     for folder in games:
         print(f"Building ASM for {folder}.iso...")
         path = os.path.join(asm_src_dir, folder)
@@ -163,7 +166,10 @@ def patchISOs():
             stderr=subprocess.STDOUT
         )
         os.remove(os.path.join(build_dir, folder, "PARAM.SFO"))
-        thumb = os.path.join(assets, "ICON0.PNG")
+        if not VANILLA_MODE:
+            thumb = os.path.join(assets, "ICON0.PNG")
+        else:
+            thumb = os.path.join(assets, "VANILLA.PNG")
         subprocess.run(
             [umd_replace, iso, "/PSP_GAME/ICON0.PNG", thumb],
             check=True,
@@ -187,6 +193,8 @@ def addImage(folder, files, image):
             if(folder == "ULJM05066" and ENGLISH_PATCH):
                 translate(build_dir)
             patched = 1
+        if VANILLA_MODE:
+            return
         old_tmh = os.path.join(build_dir, folder, f"{file}.tmh")
         new_tmh = os.path.join(build_dir, folder, f"{file}_modified.tmh")
         subprocess.run(
@@ -254,7 +262,10 @@ def setParamInfo():
             with open(path, "r+b") as fp:
                 print(f"Setting PARAM.SFO info for {folder}.iso...")
                 fp.seek(0x158)
-                fp.write(f"MONSTER HUNTER FREEDOM DX {VERSION}".encode("ascii").ljust(40, b"\x00")) 
+                if not VANILLA_MODE:
+                    fp.write(f"MONSTER HUNTER FREEDOM DX {VERSION}".encode("ascii").ljust(40, b"\x00"))
+                else:
+                    fp.write(f"MONSTER HUNTER FREEDOM".encode("ascii").ljust(40, b"\x00")) 
  
 def extractData():
     for _, _, files in os.walk(iso_dir):
@@ -296,7 +307,6 @@ if __name__ == "__main__":
     setParamInfo()
     buildASM()
     addImages()
-
     fixF1Quests()
     patchISOs()
     createPatches()
