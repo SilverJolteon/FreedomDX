@@ -105,6 +105,7 @@ def translate(build_dir):
 
     injector.buildASM(build_dir, 44, "demo_task")
     injector.buildASM(build_dir, 51, "lobby_task")
+    injector.buildASM(build_dir, 54, "arcade_task")
         
     path = os.path.join("translation", "data")
     if os.path.exists(path):
