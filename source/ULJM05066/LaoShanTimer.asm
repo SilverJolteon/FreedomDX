@@ -24,7 +24,7 @@ LaoShanTimerReturnSkipOffset equ 0x0885A550
 		nop
 		j			0x0885A4E8
 		move		v0, t0
-		
+			
 	LaoShanTimerReturnSkip:
 		j			LaoShanTimerReturnSkipOffset
 		move		v0, t0
