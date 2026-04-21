@@ -64,6 +64,25 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 		.word 0xFFEE6830
 		.word 0xFFF0F0F0
 		
+	; Clock face and HP/Stam fixes
+	.org 0x088EFAC0 ; Clock face X/Y pos
+		.dh   0x8
+		.dh   0x6
+	.org 0x088EFACC ; Clock hand group X/Y pos
+		.dh   0x22
+		.dh   0x1E
+	.org 0x088EFAD4 ; HP bar X/Y pos
+		.dh   0x39
+		.dh   0xC
+	.org 0x088EFAE0 ; Stam bar X/Y pos
+		.dh   0x39
+		.dh   0x15
+		
+	; Ammo fixes
+	.org 0x088EFB54 ; Ammo X/Y pos 
+		.dh   0x3C
+		.dh   0x1E
+		
 	; Lao-Shan Timer
 	.org 0x0885A7E4
 		j			LaoShanTimer
@@ -520,6 +539,10 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 	.org 0x1D9408EF
 		.ascii "...", 0
 		.byte 0x00, 0x00, 0x00
+		
+	; Quest info capitalize zone
+	.org 0x12C41E3C
+		.ascii "Zone:", 0
 		
 	; "The Desert Plesioth" Supplies Fix
 	.org 0x1D3C2A94

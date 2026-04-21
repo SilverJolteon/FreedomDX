@@ -68,6 +68,25 @@ YianGarugaSavedHPOffset equ 0x0985773C
 		.word 0xFFEE6830
 		.word 0xFFF0F0F0
 		
+	; Clock face and HP/Stam fixes
+	.org 0x088EF240 ; Clock face X/Y pos
+		.dh   0x8
+		.dh   0x6
+	.org 0x088EF24C ; Clock hand group X/Y pos
+		.dh   0x22
+		.dh   0x1E
+	.org 0x088EF254 ; HP bar X/Y pos
+		.dh   0x39
+		.dh   0xC
+	.org 0x088EF260 ; Stam bar X/Y pos
+		.dh   0x39
+		.dh   0x15
+		
+	; Ammo fixes
+	.org 0x088EF2D4 ; Ammo X/Y pos 
+		.dh   0x3C
+		.dh   0x1E
+		
 	; Lao-Shan Timer
 	.org 0x0885A4E0
 		j			LaoShanTimer

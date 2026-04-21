@@ -63,6 +63,25 @@ MACAddrOffset			equ 0x09858D30
 		.word 0xFFEE6830
 		.word 0xFFF0F0F0
 		
+	; Clock face and HP/Stam fixes
+	.org 0x088F08A0 ; Clock face X/Y pos
+		.dh   0x8
+		.dh   0x6
+	.org 0x088F08AC ; Clock hand group X/Y pos
+		.dh   0x22
+		.dh   0x1E
+	.org 0x088F08B4 ; HP bar X/Y pos
+		.dh   0x39
+		.dh   0xC
+	.org 0x088F08C0 ; Stam bar X/Y pos
+		.dh   0x39
+		.dh   0x15
+		
+	; Ammo fixes
+	.org 0x088F0934 ; Ammo X/Y pos 
+		.dh   0x3C
+		.dh   0x1E
+		
 	; Lao-Shan Timer
 	.org 0x0885AFA8
 		j			LaoShanTimer
@@ -520,7 +539,9 @@ MACAddrOffset			equ 0x09858D30
 		.ascii "...", 0
 		.byte 0x00, 0x00, 0x00
 
-
+	; Quest info capitalize zone
+	.org 0x12C41E49
+		.ascii "Zone:", 0
 		
 	; "The Desert Plesioth" Supplies Fix
 	.org 0x1DAAD774
