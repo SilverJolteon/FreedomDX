@@ -99,6 +99,7 @@ def fixF1Quests():
         injector = Injector(os.path.join(build_dir, "ULJM05066", "DATA.BIN"))
         injector.replace(4912, os.path.join(output))
         injector.write()
+        os.remove(output)
 
 def setASMOffset(path, asm, n, value):
     asm_path = os.path.join(path, asm)
@@ -184,17 +185,10 @@ def patchISOs():
             stderr=subprocess.STDOUT
         )
 
-def addImage(folder, files, image):
-    print(f"Replacing title screen image for {folder}.iso...")
+def addImage(folder, files, old_img, new_img, text=""):
+    print(f"Replacing {new_img} image for {folder}.iso...")
     path = os.path.join(build_dir, folder, "DATA.BIN")
-    patched = 0
     for file in files:
-        if not patched:
-            if(folder == "ULJM05066" and ENGLISH_PATCH):
-                translate(build_dir)
-            patched = 1
-        if VANILLA_MODE:
-            return
         old_tmh = os.path.join(build_dir, folder, f"{file}.tmh")
         new_tmh = os.path.join(build_dir, folder, f"{file}_modified.tmh")
         subprocess.run(
@@ -208,19 +202,20 @@ def addImage(folder, files, image):
             stderr=subprocess.STDOUT
         )
 
-        RBGA8888 = os.path.join(build_dir, folder, file, "001_palette_RGBA8888.png")
-        shutil.copy(os.path.join(assets, image), RBGA8888)
+        RBGA8888 = os.path.join(build_dir, folder, file, old_img)
+        shutil.copy(os.path.join(assets, new_img), RBGA8888)
         
-        img = Image.open(RBGA8888).convert("RGBA")
-        overlay = Image.new("RGBA", img.size, (255, 255, 255, 0))
-        draw = ImageDraw.Draw(overlay)
-        
-        font = ImageFont.truetype(os.path.join(assets, "MyriadPro-Bold.otf"), 20)
-        
-        draw.text((350,215), f"{VERSION}", (255, 255, 255), font=font)
-        img = Image.alpha_composite(img, overlay)
-        img = img.convert("P", palette=Image.ADAPTIVE, colors=256)
-        img.save(RBGA8888)
+        if text:
+            img = Image.open(RBGA8888).convert("RGBA")
+            overlay = Image.new("RGBA", img.size, (255, 255, 255, 0))
+            draw = ImageDraw.Draw(overlay)
+            
+            font = ImageFont.truetype(os.path.join(assets, "MyriadPro-Bold.otf"), 20)
+            
+            draw.text((350,215), f"{VERSION}", (255, 255, 255), font=font)
+            img = Image.alpha_composite(img, overlay)
+            img = img.convert("P", palette=Image.ADAPTIVE, colors=256)
+            img.save(RBGA8888)
         
         subprocess.run(
             ["java", "-jar", mhtools, "--rebuild", os.path.join(build_dir, folder, file), "5"],
@@ -248,12 +243,19 @@ def addImage(folder, files, image):
         os.remove(new_tmh)
 
 def addImages():
+    if VANILLA_MODE:
+        return
     for folder in os.listdir(build_dir):
         if folder == "ULJM05066" or folder == "ULUS10084":
-            addImage(folder, ["0013"], "Title.png")
+            addImage(folder, ["0013"], "001_palette_RGBA8888.png", "Title.png", VERSION)
+            addImage(folder, ["0014"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "EN.png"))
         elif folder == "ULES00318":
-            addImage(folder, ["0017", "0022", "0023", "0024", "0025", "0026"], "Title.png")
-            
+            addImage(folder, ["0017", "0022", "0023", "0024", "0025", "0026"], "001_palette_RGBA8888.png", "Title.png", VERSION)
+            addImage(folder, ["0018"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "EN.png"))
+            addImage(folder, ["0027"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "FR.png"))
+            addImage(folder, ["0028"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "DE.png"))
+            addImage(folder, ["0029"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "IT.png"))
+            addImage(folder, ["0030"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "ES.png"))
 
 def setParamInfo():
     for folder in os.listdir(build_dir):
@@ -306,6 +308,8 @@ if __name__ == "__main__":
     extractData()
     setParamInfo()
     buildASM()
+    if "ULJM05066" in games and ENGLISH_PATCH:
+        translate(build_dir)
     addImages()
     fixF1Quests()
     patchISOs()

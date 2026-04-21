@@ -39,6 +39,7 @@ class Injector:
             check=True
         )
         self.replace(index, output)
+        os.remove(output)
         
     def replace(self, index, repl_path):
         if not os.path.exists(repl_path):
