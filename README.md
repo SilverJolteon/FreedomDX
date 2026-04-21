@@ -6,31 +6,31 @@ Monster Hunter Freedom DX is an all-in-one enhancement patch that includes vario
 
 All-in-One patch that includes the following:
   - ### Event Quest Loader
-    > Read event quests from an external file. By SilverJolteon
+    > Read event quests from an external file.
   - ### Input Drop Fix
-    > Fixes issue where button inputs are ignored. By YuzucchiNyan
+    > Fixes issue where button inputs are ignored. Ported from cheat by YuzucchiNyan.
   - ### Hold to Gather
-    > Allows you to simply press and hold the gather button when crouched. Configurable. By YuzucchiNyan
+    > Allows you to simply press and hold the gather button when crouched. Configurable. Ported from cheat by YuzucchiNyan.
   - ### True Raw
-    > Displays the non-bloated "true" raw attack value of weapons. Configurable. EUR version by YuzucchiNyan, ported to JPN and USA by SilverJolteon
+    > Displays the non-bloated "true" raw attack value of weapons. Configurable. Ported from EUR cheat by YuzucchiNyan.
   - ### Early Kill Lao-Shan Lung
-    > Disables the HP threshold that prevents killing Lao-Shan Lung before reaching the final area. Configurable. Ported by SilverJolteon from IncognitoMan's FUC
+    > Disables the HP threshold that prevents killing Lao-Shan Lung before reaching the final area. Configurable. Ported from IncognitoMan's FUC.
   - ### Field of View
-    > Adjusts your field of vision. Configurable. Ported by SilverJolteon from IncognitoMan's FUC
+    > Adjusts your field of vision. Configurable. Ported from IncognitoMan's FUC.
   - ### Starting Vertical Camera Position
-    > Sets the starting vertical camera position when you embark on a quest. Configurable. Ported by SilverJolteon from IncognitoMan's FUC
+    > Sets the starting vertical camera position when you embark on a quest. Configurable. Ported from IncognitoMan's FUC.
   - ### Minimap Scale
-    > Sets the scale for the minimap. Configurable. Ported by SilverJolteon from IncognitoMan's FUC
+    > Sets the scale for the minimap. Configurable. Ported from IncognitoMan's FUC.
   - ### Sword & Shield Debuff
-    > Changes Sword & Shield sharpness and damage from 1.5 to 1.2 to match MH Dos. Configurable. By YuzucchiNyan
+    > Changes Sword & Shield sharpness and damage from 1.5 to 1.2 to match MH Dos. Configurable. Ported from cheat by YuzucchiNyan.
   - ### File Replacer
-    > Enables the ability to load custom files from `ms0:/PSP/SAVEDATA/FDXDAT/NATIVEPSP/<GAMEID>/`. These files are in the name format of four numbers (IE: "4960"). The original files can be extracted using [mhff](https://github.com/svanheulen/mhff/tree/master/psp). Configurable. By SilverJolteon
+    > Enables the ability to load custom files from `ms0:/PSP/SAVEDATA/FDXDAT/NATIVEPSP/<GAMEID>/`. These files are in the name format of four numbers (IE: "4960"). The original files can be extracted using [mhff](https://github.com/svanheulen/mhff/tree/master/psp). Configurable.
   - ### Visible Felyne Skills
-    > Shows which skillsets each Felyne has. Configurable. By SilverJolteon
+    > Shows which skillsets each Felyne has. Configurable.
   - ### Gathering Hall Drink Buff
-    > Pressing Circle while sitting in the Gathering Hall now provides a quick buff to HP and Stamina. The amount depends on how many chefs you have. `HP = +10 per active Chefs`, `Stamina = +25 for 1 to 4 Chefs or +50 for 5 Chefs`. It will not activate any Felyne Skills, and cannot be used alongside a meal, it is **either or**. Configurable. Ported by SilverJolteon from IncognitoMan's FUC
+    > Pressing Circle while sitting in the Gathering Hall now provides a quick buff to HP and Stamina. The amount depends on how many chefs you have. `HP = +10 per active Chefs`, `Stamina = +25 for 1 to 4 Chefs or +50 for 5 Chefs`. It will not activate any Felyne Skills, and cannot be used alongside a meal, it is **either or**. Configurable. Ported from IncognitoMan's FUC.
   - ### Integrated Dos Connection Bonuses
-    > Integrates all of the bonuses normally received when connecting Monster Hunter Portable to Monster Hunter 2 Dos. Configurable. By SilverJolteon
+    > Integrates all of the bonuses normally received when connecting Monster Hunter Portable to Monster Hunter 2 Dos. Configurable.
 
       <details>
       <summary><b>Click to view more info</b></summary>
@@ -175,17 +175,17 @@ All-in-One patch that includes the following:
       </details>
    
   - ### Instant Supply Box Collection
-    > Removes delay when taking items from supply box. Configurable. Ported by SilverJolteon from IncognitoMan's FUC
+    > Removes delay when taking items from supply box. Configurable. Ported from IncognitoMan's FUC.
   - ### Offline Treasure Quests
-    > Allows going on treasure quests solo in the offline gathering hall. Configurable. By SilverJolteon with help from 8sm32K4D1K5f3E
+    > Allows going on treasure quests solo in the offline gathering hall. Configurable. Ported from cheat by 8sm32K4D1K5f3E.
   - ### Gathering Hall Select Mode Fix
-    > The gathering hall select mode (Auto/Manual) now persists through reloads. The game will now remember which option you last selected. By SilverJolteon
+    > The gathering hall select mode (Auto/Manual) now persists through reloads. The game will now remember which option you last selected.
   - ### Forest and Hills - Area 9 Camera Fix
-    > The camera position has been changed to allow more visibility. By SilverJolteon
+    > The camera position has been changed to allow more visibility.
   - ### MAC Address Bug Fix
-    > In Portable/Freedom, when you create your character, the MAC address of your system is saved into memory. This is used when hunting with other players to increase friendship level. If however, you switch to a different system or randomize the MAC address, that breaks. This has been fixed so that it is automatically updated. By SilverJolteon
+    > In Portable/Freedom, when you create your character, the MAC address of your system is saved into memory. This is used when hunting with other players to increase friendship level. If however, you switch to a different system or randomize the MAC address, that breaks. This has been fixed so that it is automatically updated. Ported from cheat by YuzucchiNyan.
   - ### English Patch (Portable)
-    > Port of the English text from Freedom with some adjustments to fit the format of Portable. Included as optional .xdelta patch. By SilverJolteon
+    > Port of the English text from Freedom with some adjustments to fit the format of Portable. Included as optional .xdelta patch.
 
 
 ## Usage
