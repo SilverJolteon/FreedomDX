@@ -95,9 +95,10 @@ def translate(build_dir):
     if not os.path.exists(EBOOT_BIN):
         return
         
-    with open(EBOOT_BIN, "r+b") as fp:
-        fp.seek(0x10F388)
-        fp.write(bytes([0x78, 0x00, 0x70, 0x00, 0x78]))        
+    subprocess.run(
+        [armips, os.path.join("translation", "asm", "eboot_bin.asm")],
+        check=True
+    )       
 
     injector = Injector(DATA_BIN)
 
