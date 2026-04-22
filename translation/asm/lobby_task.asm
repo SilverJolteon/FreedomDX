@@ -8,6 +8,9 @@ strcpy      equ 0x088112E8
 		
 	.org 0x98E87E4 ; 4673 memsize
 		ori			a2, v0, 0xD800
+		
+	.org 0x098DE548 ; Monster Log N/3 'N' Position
+		li			a1, 0x73
 
   ; ----------------------------
   ; Full-width text fixes (SJIS)
