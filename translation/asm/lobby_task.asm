@@ -11,6 +11,12 @@ strcpy      equ 0x088112E8
 		
 	.org 0x098DE548 ; Monster Log N/3 'N' Position
 		li			a1, 0x73
+		
+	.org 0x098DA47C ; Guild Card English Keyboard
+		li			a1, 0x2
+		
+	.org 0x098EFDBC ; Recruiting Note English Keyboard
+		li			a1, 0x2
 
   ; ----------------------------
   ; Full-width text fixes (SJIS)
