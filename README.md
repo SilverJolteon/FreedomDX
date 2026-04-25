@@ -5,26 +5,15 @@
 Monster Hunter Freedom DX is an all-in-one enhancement patch that includes various toggleable quality-of-life improvements, tweaks and fixes for MHP1 (JPN) and MHF1 (USA & EUR). It is fully compatible with original PSP hardware.
 
 All-in-One patch that includes the following:
+## Features:
+  - ### Full English Patch (Portable)
+    > Port of the English text from Freedom with some adjustments to fit the format of Portable. Included as a .xdelta patch for both DX and Vanilla.
   - ### Event Quest Loader
     > Read event quests from an external file.
-  - ### Input Drop Fix
-    > Fixes issue where button inputs are ignored. Ported from cheat by YuzucchiNyan.
   - ### Hold to Gather
     > Allows you to simply press and hold the gather button when crouched. Configurable. Ported from cheat by YuzucchiNyan.
-  - ### True Raw
-    > Displays the non-bloated "true" raw attack value of weapons. Configurable. Ported from EUR cheat by YuzucchiNyan.
-  - ### Early Kill Lao-Shan Lung
-    > Disables the HP threshold that prevents killing Lao-Shan Lung before reaching the final area. Configurable. Ported from IncognitoMan's FUC.
-  - ### Field of View
-    > Adjusts your field of vision. Configurable. Ported from IncognitoMan's FUC.
-  - ### Starting Vertical Camera Position
-    > Sets the starting vertical camera position when you embark on a quest. Configurable. Ported from IncognitoMan's FUC.
-  - ### Minimap Scale
-    > Sets the scale for the minimap. Configurable. Ported from IncognitoMan's FUC.
-  - ### Sword & Shield Debuff
-    > Changes Sword & Shield sharpness and damage from 1.5 to 1.2 to match MH Dos. Configurable. Ported from cheat by YuzucchiNyan.
   - ### File Replacer
-    > Enables the ability to load custom files from `ms0:/PSP/SAVEDATA/FDXDAT/NATIVEPSP/<GAMEID>/`. These files are in the name format of four numbers (IE: "4960"). The original files can be extracted using [mhff](https://github.com/svanheulen/mhff/tree/master/psp). Configurable.
+    > Enables the ability to load custom files from `ms0:/PSP/SAVEDATA/FDXDAT/NATIVEPSP/<GAMEID>/`. These files are in the name format of four numbers (IE: "4960"). The original files can be extracted using [mhff](https://github.com/svanheulen/mhff/tree/master/psp). Configurable.  
   - ### Visible Felyne Skills
     > Shows which skillsets each Felyne has. Configurable.
   - ### Gathering Hall Drink Buff
@@ -173,19 +162,54 @@ All-in-One patch that includes the following:
       
       </div>
       </details>
-   
+       
+  - ### Quest Completion Time
+    > The game now displays the time taken on the quest completion screen. **Note:** There is some desync in F1 in multiplayer. Enabling frame skip in emulator can cause the timer to become even more inaccurate.    
+
+## Tweaks:
+  - ### True Raw
+    > Displays the non-bloated "true" raw attack value of weapons. Configurable. Ported from EUR cheat by YuzucchiNyan.
+ - ### Early Kill Lao-Shan Lung
+    > Disables the HP threshold that prevents killing Lao-Shan Lung before reaching the final area. Configurable. Ported from IncognitoMan's FUC.
+ - ### Lao-Shan Lung Extra Time to Carve
+    > Added 15 extra seconds to the timer to allow some extra time to carve Lao-Shan Lung.
+ - ### Sharpness Bar Tweak
+    > Added yellow and orange colors to the sharpness bar and shortened the phase in/out to make the colors more visible.
+ - ### Field of View
+    > Adjusts your field of vision. Configurable. Ported from IncognitoMan's FUC.
+  - ### Starting Vertical Camera Position
+    > Sets the starting vertical camera position when you embark on a quest. Configurable. Ported from IncognitoMan's FUC.
+  - ### Minimap Scale
+    > Sets the scale for the minimap. Configurable. Ported from IncognitoMan's FUC.
+  - ### Sword & Shield Debuff
+    > Changes Sword & Shield sharpness and damage from 1.5 to 1.2 to match MH Dos. Configurable. Ported from cheat by YuzucchiNyan.
   - ### Instant Supply Box Collection
     > Removes delay when taking items from supply box. Configurable. Ported from IncognitoMan's FUC.
   - ### Offline Treasure Quests
     > Allows going on treasure quests solo in the offline gathering hall. Configurable. Ported from cheat by 8sm32K4D1K5f3E.
-  - ### Gathering Hall Select Mode Fix
+  - ### Gathering Hall Select Mode Persistence
     > The gathering hall select mode (Auto/Manual) now persists through reloads. The game will now remember which option you last selected.
+  - ### Gathering Hall Cursor Persistence
+    > The game now remembers the last hall you joined and keeps the cursor on it.
+
+## Fixes:	
+  - ### Input Drop Fix
+    > Fixes issue where button inputs are ignored. Ported from cheat by YuzucchiNyan.
   - ### Forest and Hills - Area 9 Camera Fix
     > The camera position has been changed to allow more visibility.
   - ### MAC Address Bug Fix
     > In Portable/Freedom, when you create your character, the MAC address of your system is saved into memory. This is used when hunting with other players to increase friendship level. If however, you switch to a different system or randomize the MAC address, that breaks. This has been fixed so that it is automatically updated. Ported from cheat by YuzucchiNyan.
-  - ### English Patch (Portable)
-    > Port of the English text from Freedom with some adjustments to fit the format of Portable. Included as optional .xdelta patch.
+  - ### USA/EUR-exclusive quests now work on JPN Version
+    > The following quests were originally events in Portable that were added as base quests in USA/EUR. Joining them as a JPN user would cause issues. This has been fixed and you can now join without problem.
+    > - 4-Star HR 1 The Illusion of Kut-Ku
+    > - 4-Star HR 1 Revenge of the BBQ!
+    > - 6-Star HR 3 Legendary Black Dragon
+    > - 6-Star HR 3 Treasure Hunting!
+    > - 8-Star HR 5 The Plate of Calamity
+    > - 8-Star HR 5 The Rage of Yian Garuga
+    > - 8-Star HR 5 Thunder and Lightning
+  - ### Yian Garuga Spawn-Dead Bug Fix
+    > Rarely, Yian Garuga can spawn already dead in the JPN and USA versions, preventing any further quest completion for it. This has been fixed.
 
 
 ## Usage
