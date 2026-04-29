@@ -17,4 +17,17 @@
 		li a0, 0x15C
 	.org 0x0889AA38 ; Character Select "No" Position
 		addiu v1, s4, 0x50
+  ; --------------------------------------
+	; Lang set for system level messages
+	; --------------------------------------
+  .org 0x0888CB50 ; Network connect message (Guildhall)
+    li t0,0x1 ; English
+    sw t0,-0x4E34(v0)
+  
+  ; These next 2 will need to be rewritten to support other language ID's
+  .org 0x0889D6DC ; Savedata init set
+    sw s4,0x1C(s1)
+
+  .org 0x0889DA5C ; No savedata found / Savedata corrupt
+    sw s4,0x68C(s1)
 .close
