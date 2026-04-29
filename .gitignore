@@ -5,3 +5,4 @@
 !tools/setup_linux.py
 !/tools/src
 /translation/__pycache__
+/translation/dumped_text
