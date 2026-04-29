@@ -10,6 +10,11 @@
 	.org 0x08917D76 ; In-quest chief's wisdom notes title text pos
 		.dh	0x66
 
-	.org 0x08823E98
-		addiu v0, s0, 0x117
+	.org 0x08823E94 ; Quest Status Name Position
+		move s0, v1
+		
+	.org 0x0889C508 ; Character Select "Yes" Position
+		li a0, 0x15C
+	.org 0x0889AA38 ; Character Select "No" Position
+		addiu v1, s4, 0x50
 .close
