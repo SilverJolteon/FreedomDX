@@ -39,9 +39,6 @@ YianGarugaSavedHPOffset equ 0x0985773C
 	.org 0x0884481C
 		jal 		0x088C0CA0
 
-	.org 0x088446C0
-		jal			FileLoaderSetIndex
-
 	; F1 Quest Fix	
 	.org 0x08911E2E
 		.byte	0x30, 0x13
@@ -282,6 +279,9 @@ YianGarugaSavedHPOffset equ 0x0985773C
 		lui			t0, 0x2
 		beq			t0, s1, Return
 		nop
+		; Set index
+		jal			FileLoaderSetIndex
+		lh			s1, 0x2(s0)
 		; Open file
 		la			a0, nativePSP
 		li			a1, 0x1

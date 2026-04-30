@@ -38,9 +38,6 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 	; Main Hook
 	.org 0x08844B88
 		jal 		0x088C1510
-		
-	.org 0x08844A2C
-		jal			FileLoaderSetIndex
 
 	; Quest Completion Time Hooks	
 	.org 0x0885A788
@@ -278,6 +275,9 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 		lui			t0, 0x2
 		beq			t0, s1, Return
 		nop
+		; Set index
+		jal			FileLoaderSetIndex
+		lh			s1, 0x2(s0)
 		; Open file
 		la			a0, nativePSP
 		li			a1, 0x1

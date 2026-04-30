@@ -11,7 +11,6 @@ FileLoaderSetIndex:
 	sw			a1, 0x8(sp)
 	sw			a0, 0x4(sp)
 	sw			ra, 0x0(sp)
-	move		s1, a1
 	la			a0, DEST
 	sw			s1, 0x04(a0)
 	la			a0, nativePSP

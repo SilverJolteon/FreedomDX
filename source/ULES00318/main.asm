@@ -38,9 +38,6 @@ MACAddrOffset			equ 0x09858D30
 	.org 0x08845068
 		jal 		0x088C2140
 		
-	.org 0x08844F0C
-		jal			FileLoaderSetIndex
-		
 	; Quest Completion Time Hooks	
 	.org 0x0885AF4C
 		jal			StoreTime
@@ -265,6 +262,9 @@ MACAddrOffset			equ 0x09858D30
 		lui			t0, 0x2
 		beq			t0, s1, Return
 		nop
+		; Set index
+		jal			FileLoaderSetIndex
+		lh			s1, 0x2(s0)
 		; Open file
 		la			a0, nativePSP
 		li			a1, 0x1
