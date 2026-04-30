@@ -246,9 +246,14 @@ def addImages():
     if VANILLA_MODE:
         return
     for folder in os.listdir(build_dir):
-        if folder == "ULJM05066" or folder == "ULUS10084":
+        if folder == "ULJM05066":
             addImage(folder, ["0013"], "001_palette_RGBA8888.png", "Title.png", VERSION)
             addImage(folder, ["0014"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "EN.png"))
+            addImage(folder, ["4923"], "000_pixels_RGBA8888.png", os.path.join("ui_fix", "000_pixels_RGBA8888.png"))
+        elif folder == "ULUS10084":
+            addImage(folder, ["0013"], "001_palette_RGBA8888.png", "Title.png", VERSION)
+            addImage(folder, ["0014"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "EN.png"))
+            addImage(folder, ["4930"], "000_pixels_RGBA8888.png", os.path.join("ui_fix", "000_pixels_RGBA8888.png"))
         elif folder == "ULES00318":
             addImage(folder, ["0017", "0022", "0023", "0024", "0025", "0026"], "001_palette_RGBA8888.png", "Title.png", VERSION)
             addImage(folder, ["0018"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "EN.png"))
@@ -256,6 +261,7 @@ def addImages():
             addImage(folder, ["0028"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "DE.png"))
             addImage(folder, ["0029"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "IT.png"))
             addImage(folder, ["0030"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "ES.png"))
+            addImage(folder, ["4959"], "000_pixels_RGBA8888.png", os.path.join("ui_fix", "000_pixels_RGBA8888.png"))
 
 def setParamInfo():
     for folder in os.listdir(build_dir):

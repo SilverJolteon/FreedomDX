@@ -192,7 +192,7 @@ def extractFiles(folder):
             dumpNPCText(key, folder, os.path.join(build_dir, folder, value[0]), value[1], encoding);
         if(value[2] == 2):
             dumpQuestText(key, folder, value[0], value[1], encoding);
-    os.remove(path)
+    #os.remove(path)
 
 def extractDataBin():
     for _, _, files in os.walk(iso_dir):

@@ -83,6 +83,22 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 		.dh   0x3C
 		.dh   0x1E
 		
+	; Heavy Bowgun Icon Fix
+	.org 0x088F1F86
+		.dh   0x172
+	.org 0x088F1CD8
+		.dw   0x00B000B0
+		.dw   0x0010000C
+		.dw	  0x000B8000
+		
+	; Dual Blades Icon Fix
+	.org 0x088F1F90
+		.dh   0x192
+	.org 0x088F1E58
+		.dw   0x00C0003C
+		.dw   0x0010000C
+		.dw	  0x000B8000
+		
 	; Lao-Shan Timer
 	.org 0x0885A7E4
 		j			LaoShanTimer
