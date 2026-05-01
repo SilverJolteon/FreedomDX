@@ -95,6 +95,12 @@ MACAddrOffset			equ 0x09858D30
 		.dw   0x0010000C
 		.dw	  0x000B8000
 		
+	; Gabas DB Fix	
+	.org 0x08900440
+		.dw   0x000000A0
+		.dw	  0x00000000
+		.dw   0x002B2200
+		
 	; Lao-Shan Timer
 	.org 0x0885AFA8
 		j			LaoShanTimer

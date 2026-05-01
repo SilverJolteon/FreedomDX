@@ -169,6 +169,8 @@ All-in-One patch that includes the following:
 ## Tweaks:
   - ### True Raw
     > Displays the non-bloated "true" raw attack value of weapons. Configurable. Ported from EUR cheat by YuzucchiNyan.
+  - ### Forest and Hills - Area 9 Camera Adjustment
+    > The camera position has been changed to allow more visibility.
  - ### Early Kill Lao-Shan Lung
     > Disables the HP threshold that prevents killing Lao-Shan Lung before reaching the final area. Configurable. Ported from IncognitoMan's FUC.
  - ### Lao-Shan Lung Extra Time to Carve
@@ -195,8 +197,6 @@ All-in-One patch that includes the following:
 ## Fixes:	
   - ### Input Drop Fix
     > Fixes issue where button inputs are ignored. Ported from cheat by YuzucchiNyan.
-  - ### Forest and Hills - Area 9 Camera Fix
-    > The camera position has been changed to allow more visibility.
   - ### MAC Address Bug Fix
     > In Portable/Freedom, when you create your character, the MAC address of your system is saved into memory. This is used when hunting with other players to increase friendship level. If however, you switch to a different system or randomize the MAC address, that breaks. This has been fixed so that it is automatically updated. Ported from cheat by YuzucchiNyan.
   - ### USA/EUR-exclusive quests now work on JPN Version

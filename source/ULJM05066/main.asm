@@ -100,6 +100,12 @@ YianGarugaSavedHPOffset equ 0x0985773C
 		.dw   0x0010000C
 		.dw	  0x000B8000
 		
+	; Gabas DB Fix	
+	.org 0x088FEDD4
+		.dw   0x000000A0
+		.dw	  0x00000000
+		.dw   0x002B2200
+		
 	; Lao-Shan Timer
 	.org 0x0885A4E0
 		j			LaoShanTimer

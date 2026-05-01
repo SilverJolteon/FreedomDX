@@ -25,6 +25,7 @@ TotalQuestTime			equ 0x089732FC
 		la			a1, TotalQuestTime
 		lw			a1, 0x0(a1)
 		sub			a0, a1, a0
+		addi		a0, a0, -1
 		
 		; min = frames // 1800
 		li			a1, 1800
