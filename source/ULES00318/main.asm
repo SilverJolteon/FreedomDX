@@ -95,11 +95,17 @@ MACAddrOffset			equ 0x09858D30
 		.dw   0x0010000C
 		.dw	  0x000B8000
 		
-	; Gabas DB Fix	
+	; MHG Gabas	
 	.org 0x08900440
 		.dw   0x000000A0
 		.dw	  0x00000000
-		.dw   0x002B2200
+		.dh   0x00002200
+		
+	; MHG Black Ruiner Lance
+	.org 0x089008B4
+		.dw   0x000400FA
+		.dw   0x002B0000
+		.dh   0x00000000
 		
 	; Lao-Shan Timer
 	.org 0x0885AFA8
