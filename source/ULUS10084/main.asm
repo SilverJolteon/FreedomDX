@@ -97,16 +97,16 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 		.dw	  0x000B8000
 		
 	; MHG Gabas
-	.org 0x088FF658
-		.dw   0x000000A0
-		.dw	  0x00000000
-		.dh   0x00002200
+	;.org 0x088FF658
+	;	.dw   0x000000A0
+	;	.dw	  0x00000000
+	;	.dh   0x00002200
 		
 	; MHG Black Ruiner Lance
-	.org 0x088FFACC
-		.dw   0x000400FA
-		.dw   0x002B0000
-		.dh   0x00000000		
+	;.org 0x088FFACC
+	;	.dw   0x000400FA
+	;	.dw   0x002B0000
+	;	.dh   0x00000000		
 	
 	; Lao-Shan Timer
 	.org 0x0885A7E4
