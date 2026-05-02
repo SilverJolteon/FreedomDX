@@ -131,19 +131,7 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 		nop
 		
 		jal			HallSelectR
-		nop	
-	
-		; Yian Garuga Glitch
-		la			t0, YianGarugaSavedHPOffset
-		lh			t1, 0x0(t0)
-		andi		t1, t1, 0xFFFF
-		li			t2, 0xF000
-		ble			t1, t2, EndYianGarugaGlitch
 		nop
-		li			t1, 0x1
-		sh			t1, 0x0(t0)
-		
-	EndYianGarugaGlitch:
 			
 		; Set MAC Address
 		la			a0, MACAddrOffset
@@ -157,12 +145,6 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 	ReadConfig:
 		; Check config flags
 		la			v0, CONFIG_BIN
-		jal			HoldToGather
-		lb			a0, 0x10(v0)
-		jal			LaoShanLung
-		lb			a0, 0x12(v0)
-		jal			SnSDebuff
-		lb			a0, 0x14(v0)
 		jal			FileLoader
 		lb			a0, 0x15(v0)
 	FileLoaderReturn:
@@ -176,108 +158,6 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 		jal			Treshi
 		lb			a0, 0x1C(v0)
 		j			HookReturn
-		nop
-		
-	HoldToGather:
-		beq			a0, zero, Return
-		nop
-		la			t0, HoldToGatherOffset
-		li			t1, 0x04A4
-		lhu			t2, 0x0(t0)
-		bne			t2, t1, Return
-		nop
-		li			t1, 0x04A0
-		sh			t1, 0x0(t0)
-		j			Return
-		nop
-		
-	TrueRaw:
-		beq			a0, zero, Return
-		nop
-		la			t0, TrueRawOffset
-		li			t1, 0x64
-		li			t2, 0x6
-		sw			t1, 0x0(t0)
-		addiu		t0, t0, 0x4
-		bne			t2, zero, . - 0x8
-		addiu		t2, t2, -0x1
-		j			Return
-		nop
-		
-	LaoShanLung:
-		beq			a0, zero, Return
-		nop
-		la			t0, LaoShanLungOffset
-		li			t1, 0x284103E8
-		lw			t2, 0x0(t0)
-		bne			t2, t1, Return
-		nop
-		sw			zero, 0x0(t0)
-		sw			zero, 0x4(t0)
-		sw			zero, 0x8(t0)
-		sw			zero, 0xC(t0)
-		j			Return
-		nop
-		
-	MapScale:
-		li			t0, 0x32
-		blt 		a0, t0, Return
-		nop
-		li			t0, 0x64
-		bgt			a0, t0, Return
-		nop
-		; Check
-		la			t0, MapScaleOffset
-		lw			t1, 0x0(t0)
-		li			t2, 0x3C023F80
-		bne			t1, t2, Return
-		nop
-		; Scale
-		li			t0, 0x100
-		mult		a0, t0
-		mflo		t1
-		addi		t1, t1, -0x3200
-		li			t0, 0x64
-		div			t1, t0
-		mflo		t1
-		la			t0, MapScaleOffset
-		sb			t1, 0x0(t0)
-		; X Coordinate
-		li			t2, 0x64
-		sub			t1, t2, a0 
-		li			t0, 0x4C
-		mult		t0, t1
-		mflo		t1
-		div			t1, t2
-		mflo		t1
-		
-		la			t0, MapScaleOffset
-		
-		lui			t2, 0x2405
-		ori			t2, t2, 0x0144
-		add			t2, t2, t1
-		sw			t2, 0xC(t0)
-		
-		lui			t2, 0x2406
-		ori			t2, t2, 0x0024
-		add			t2, t2, t1
-		sw			t2, 0x14(t0)	
-		
-		j			Return
-		nop
-		
-		SnSDebuff:
-		beq			a0, zero, Return
-		nop
-		la			t0, SnSDebuffOffset
-		lui			t1, 0x2402
-		ori			t1, 0x0096
-		lw			t2, 0x0(t0)
-		bne			t2, t1, Return
-		nop
-		li			t1, 0x78
-		sb			t1, 0x0(t0)
-		j			Return
 		nop
 		
 	CatSkills:
@@ -305,42 +185,6 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 		li			a0, 0x0
 		sw			a0, 0x4(t0)
 		j			Return
-		nop		
-		
-	SupplyChestDelay:
-		beq			a0, zero, Return
-		nop
-		la			t0, SupplyChestDelayOffset
-		li			t1, 0x1E
-		lb			t2, 0x0(t0)
-		bne			t1, t2, SupplyChestDelayReturn
-		nop
-		li			t1, 0x1
-		sb			t1, 0x0(t0)
-	SupplyChestDelayReturn:
-		j			Return
-		nop
-	
-	FOV:
-		la			t0, FOVOffset0
-		sb			a0, 0x0(t0)
-		la			t0, FOVOffset1
-		sb			a0, 0x0(t0)
-		la			t0, FOVOffset2
-		sb			a0, 0x0(t0)
-		la			t0, FOVOffset3
-		sb			a0, 0x0(t0)
-		la			t0, FOVOffset4
-		sb			a0, 0x0(t0)
-		j			Return
-		nop
-		
-	CameraPos:
-		la			t0, CameraPosOffset
-		lui			t1, 0x2403
-		or			t1, t1, a0
-		sw			t1, 0x0(t0)
-		j			Return
 		nop
 		
 	Treshi:
@@ -365,61 +209,6 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 		addiu		sp, sp, 0x4
 		jr			ra
 		nop
-		
-	ReadConfigToMem:
-		addi		sp, sp, -0xC
-		sw			ra, 0x8(sp)
-		sw			s0, 0x4(sp)
-		sw			a0, 0x0(sp)
-		; Open config file
-		la			a0, CONFIG_PATH
-		li			a1, 0x1
-		li			a2, 0x0
-		li			a3, 0x0
-		jal			sceIoOpen
-		li			t0, 0x0
-		; Check if config exists
-		li			v1, 0x80010002
-		beq			v0, v1, ReadConfigToMenReturn
-		nop
-		li			v1, 0x0
-		move		s0, v0	
-		; Read config
-		move		a0, s0
-		li			a1, CONFIG_BIN
-		jal			sceIoRead
-		li			a2, 0x30
-		; Close quests file
-		jal			sceIoClose
-		move		a0, s0
-		jal			sceKDWIA
-		nop	
-	ReadConfigToMenReturn:	
-		; Check config flags
-		la			v0, CONFIG_BIN
-		jal			HoldToGather
-		lb			a0, 0x10(v0)
-		jal			TrueRaw
-		lb			a0, 0x11(v0)
-		jal			MapScale
-		lb			a0, 0x13(v0)
-		jal			SupplyChestDelay
-		lb			a0, 0x19(v0)
-		jal			FOV
-		lb			a0, 0x1A(v0)
-		jal			CameraPos
-		lb			a0, 0x1B(v0)
-		
-		; Return
-		lw			a0, 0x0(sp)
-		lw			s0, 0x4(sp)
-		li			a1, 0x1
-		jal			sceIoOpen
-		li			a2, 0
-		lw			ra, 0x8(sp)
-		addi		sp, sp, 0xC
-		jr			ra
-		nop
 	
 	CONFIG_PATH:
 		.ascii "ms0:/PSP/SAVEDATA/FDXDAT/CONFIG.BIN"
@@ -429,6 +218,7 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 		.byte 0x00, 0x00, 0x00, 0x64, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x5F, 0x03, 0x00, 0x00, 0x00, 0x00
 		.byte 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
 
+	.include "source/ULUS10084/Init.asm"
 	.include "source/ULUS10084/LaoShanTimer.asm"	
 	.include "source/ULUS10084/QuestTime.asm"	
 	.include "source/ULUS10084/HallSelectFix.asm"	
@@ -481,7 +271,12 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 		j			EventLoader
 		nop
 		
-	; Input Drop Fix		
+	; Quest Related Init	
+	.org 0x1A290AF4 ; 0x098D5274
+		jal			QuestInit
+		nop	
+	
+	; Input Drop Fix	
 	.org 0x1A297A3C
 		.word 0x1060000C
 		
