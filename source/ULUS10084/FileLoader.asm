@@ -1,22 +1,11 @@
-sceIoLseekAsync equ 0x088AFFDC
-strlen			equ 0x08811380
-
 FileLoaderSetIndex:
-	addiu		sp, sp, -0x20
-	sw			s2, 0x1C(sp)
-	sw			s1, 0x18(sp)
-	sw			s0, 0x14(sp)
-	sw			a3, 0x10(sp)
-	sw			a2, 0xC(sp)
-	sw			a1, 0x8(sp)
-	sw			a0, 0x4(sp)
-	sw			ra, 0x0(sp)
+	addi		sp, sp, -4
+	sw			s2, 0x0(sp)
+	
 	la			a0, DEST
 	sw			s1, 0x04(a0)
 	la			a0, nativePSP
-	jal			strlen
-	move		s0, a0
-	addi		a0, a0, -5
+	addi		a0, a0, 0x2D ; HARDCODED to point to XXXX
 	
 	li			t2, 1000
 	move		t3, zero
@@ -36,17 +25,8 @@ SetDigit:
 	blt			t3, 4, SetDigit
 	nop
 	
-	lw			a0, 0x4(sp)
-	lw			a1, 0x8(sp)
-	lw			a2, 0xC(sp)
-	lw			a3, 0x10(sp)
-	lw			s0, 0x14(sp)
-	lw			s1, 0x18(sp)
-	lw			s2, 0x1C(sp)
-	jal			sceIoLseekAsync
-	li			t0, 0x0
-	lw			ra, 0x0(sp)
-	addiu		sp, sp, 0x20
+	lw			s2, 0x0(sp)
+	addi		sp, sp, 4
 	jr			ra
 	nop
 	
