@@ -61,6 +61,16 @@ GetCatSkillReturn:
 	addi		sp, sp, 8
 	
 ShowGCatSkills:
+	la			t0, CONFIG_BIN
+	lb			t0, 0x16(t0)
+	bne			t0, zero, ShowGCatSkillsCont
+	nop
+	lui			v0, 0x994
+	lhu			t0, -0x62B2(v0)
+	j			GCatReturn
+	nop
+
+ShowGCatSkillsCont:
 	addiu		sp, sp, -0x14
 	sw			a3, 0x10(sp)
 	sw			a2, 0xC(sp)
@@ -113,6 +123,16 @@ BarrelCatEnd:
 	nop
 	
 ShowKCatSkills:
+	la			t0, CONFIG_BIN
+	lb			t0, 0x16(t0)
+	bne			t0, zero, ShowKCatSkillsCont
+	nop
+	lui			v0, 0x993
+	lhu			t0, 0x1F26(v0)
+	j			KCatReturn
+	nop
+
+ShowKCatSkillsCont:
 	addiu		sp, sp, -0x14
 	sw			a3, 0x10(sp)
 	sw			a2, 0xC(sp)

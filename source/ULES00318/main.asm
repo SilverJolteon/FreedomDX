@@ -11,20 +11,6 @@ FONT					equ 0x0982C280
 drawText				equ 0x088723E4
 drawShadowedText		equ 0x08872660
 
-HoldToGatherOffset 		equ 0x098FB068
-TrueRawOffset			equ 0x088F2B10
-LaoShanLungOffset		equ 0x0990E3A4
-MapScaleOffset			equ 0x0881D7D0
-SnSDebuffOffset			equ 0x098D9B70
-KCatSkillsOffset		equ 0x098DAA34
-GCatSkillsOffset		equ 0x09931F88
-SupplyChestDelayOffset	equ 0x0882D2B0
-FOVOffset0				equ 0x08816038
-FOVOffset1				equ 0x088161D4
-FOVOffset2				equ 0x088162E8
-FOVOffset3				equ 0x0886B50C
-FOVOffset4				equ 0x0886DA9C
-CameraPosOffset			equ 0x08816218
 TreshiOffset			equ 0x09909E6C
 MACAddrOffset			equ 0x09858D30
 
@@ -148,8 +134,6 @@ MACAddrOffset			equ 0x09858D30
 		lb			a0, 0x15(v0)
 	FileLoaderReturn:
 		la			v0, CONFIG_BIN
-		jal			CatSkills
-		lb			a0, 0x16(v0)
 		jal			DosBonus
 		lb			a0, 0x18(v0)
 	DosBonusReturn:
@@ -158,33 +142,6 @@ MACAddrOffset			equ 0x09858D30
 		lb			a0, 0x1C(v0)
 		j			HookReturn
 		nop
-		
-	CatSkills:
-		beq			a0, zero, Return
-		nop	
-		la			t0, KCatSkillsOffset
-		lw			a0, -0x4(t0)
-		li			a1, 0x94462EB2
-		bne			a0, a1, Return
-		nop
-		la			a0, ShowKCatSkills
-		srl			a0, a0, 0x2
-		lui			a1, 0x0800
-		addu		a0, a1, a0
-		sw			a0, 0x0(t0)
-		li			a0, 0x0
-		sw			a0, 0x4(t0)
-		
-		la			t0, GCatSkillsOffset
-		la			a0, ShowGCatSkills
-		srl			a0, a0, 0x2
-		lui			a1, 0x0800
-		addu		a0, a1, a0
-		sw			a0, 0x0(t0)
-		li			a0, 0x0
-		sw			a0, 0x4(t0)
-		j			Return
-		nop	
 		
 	Treshi:
 		la			t0, TreshiOffset
@@ -283,6 +240,14 @@ MACAddrOffset			equ 0x09858D30
 	.org 0x1A88A2CC
 		j			GHDrinkCheck
 		lw			ra, 0xC(sp)
+		
+	; Visible Felyne Skills
+	.org 0x1A85BD34
+		j			ShowKCatSkills
+		nop		
+	.org 0x1A8B3288
+		j			ShowGCatSkills
+		nop		
 		
 	; Forest and Hills Area 9 Camera Fix	
 	.org 0x20A91098

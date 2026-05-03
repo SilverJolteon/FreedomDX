@@ -1,3 +1,16 @@
+HoldToGatherOffset 		equ 0x098FB068
+TrueRawOffset			equ 0x088F2B10
+LaoShanLungOffset		equ 0x0990E3A4
+MapScaleOffset			equ 0x0881D7D0
+SnSDebuffOffset			equ 0x098D9B70
+SupplyChestDelayOffset	equ 0x0882D2B0
+FOVOffset0				equ 0x08816038
+FOVOffset1				equ 0x088161D4
+FOVOffset2				equ 0x088162E8
+FOVOffset3				equ 0x0886B50C
+FOVOffset4				equ 0x0886DA9C
+CameraPosOffset			equ 0x08816218
+
 ; On Game Start
 	ReadConfigToMem:
 		addi		sp, sp, -0xC

@@ -1,3 +1,17 @@
+HoldToGatherOffset 		equ 0x098F9988
+TrueRawOffset			equ 0x088F1490
+LaoShanLungOffset		equ 0x0990CCBC
+MapScaleOffset			equ 0x0881D54C
+SnSDebuffOffset			equ 0x098D84C0
+SupplyChestDelayOffset	equ 0x0882CFA4
+FOVOffset0				equ 0x08816038
+FOVOffset1				equ 0x088161D4
+FOVOffset2				equ 0x088162E8
+FOVOffset3				equ 0x0886AC1C
+FOVOffset4				equ 0x0886D1AC
+CameraPosOffset			equ 0x08816218
+YianGarugaSavedHPOffset equ 0x0985773C
+
 ; On Game Start
 	ReadConfigToMem:
 		addi		sp, sp, -0xC

@@ -4,30 +4,15 @@ sceIoOpen				equ	0x088B0004
 sceIoLseek				equ	0x088B000C
 sceIoRead				equ	0x088AFFD4
 sceIoClose				equ	0x088AFFEC
-sceKDWIA				equ	0x088B01F4 ; sceKernelDcacheWritebackInvalidateAll
+sceKDWIA				equ	0x088B01F4 ; sceKernelIcacheWritebackInvalidateAll
 sceWlanGetEtherAddr		equ 0x088B081C
 
 FONT					equ 0x0982B500
 drawText				equ 0x08871B50
 drawShadowedText		equ 0x08871DCC
 
-HoldToGatherOffset 		equ 0x098FA270
-TrueRawOffset			equ 0x088F1D1C
-LaoShanLungOffset		equ 0x0990D5A4
-MapScaleOffset			equ 0x0881D600
-SnSDebuffOffset			equ 0x098D8DB0
-KCatSkillsOffset		equ 0x098D9B2C
-GCatSkillsOffset		equ 0x09931080
-SupplyChestDelayOffset	equ 0x0882CF04
-FOVOffset0				equ 0x08816038
-FOVOffset1				equ 0x088161D4
-FOVOffset2				equ 0x088162E8
-FOVOffset3				equ 0x0886AD48
-FOVOffset4				equ 0x0886D2D8
-CameraPosOffset			equ 0x08816218
 TreshiOffset			equ 0x09908E8C
 MACAddrOffset			equ 0x09857FB0
-YianGarugaSavedHPOffset equ 0x09857FBC
 
 .open "build/ULUS10084/EBOOT.BIN", 0x0880326C
 	; Game Init Hook
@@ -149,8 +134,6 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 		lb			a0, 0x15(v0)
 	FileLoaderReturn:
 		la			v0, CONFIG_BIN
-		jal			CatSkills
-		lb			a0, 0x16(v0)
 		jal			DosBonus
 		lb			a0, 0x18(v0)
 	DosBonusReturn:
@@ -158,33 +141,6 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 		jal			Treshi
 		lb			a0, 0x1C(v0)
 		j			HookReturn
-		nop
-		
-	CatSkills:
-		beq			a0, zero, Return
-		nop	
-		la			t0, KCatSkillsOffset
-		lw			a0, -0x4(t0)
-		li			a1, 0x94471F24
-		bne			a0, a1, Return
-		nop
-		la			a0, ShowKCatSkills
-		srl			a0, a0, 0x2
-		lui			a1, 0x0800
-		addu		a0, a1, a0
-		sw			a0, 0x0(t0)
-		li			a0, 0x0
-		sw			a0, 0x4(t0)
-		
-		la			t0, GCatSkillsOffset
-		la			a0, ShowGCatSkills
-		srl			a0, a0, 0x2
-		lui			a1, 0x0800
-		addu		a0, a1, a0
-		sw			a0, 0x0(t0)
-		li			a0, 0x0
-		sw			a0, 0x4(t0)
-		j			Return
 		nop
 		
 	Treshi:
@@ -284,6 +240,14 @@ YianGarugaSavedHPOffset equ 0x09857FBC
 	.org 0x1A25D86C
 		j			GHDrinkCheck
 		lw			ra, 0xC(sp)
+		
+	; Visible Felyne Skills
+	.org 0x1A22F3AC
+		j			ShowKCatSkills
+		nop		
+	.org 0x1A286900
+		j			ShowGCatSkills
+		nop		
 		
 	; Forest and Hills Area 9 Camera Fix
 	.org 0x2028E098

@@ -11,23 +11,8 @@ FONT					equ 0x0982AC80
 drawText				equ 0x08871920
 drawShadowedText		equ 0x08871B9C
 
-HoldToGatherOffset 		equ 0x098F9988
-TrueRawOffset			equ 0x088F1490
-LaoShanLungOffset		equ 0x0990CCBC
-MapScaleOffset			equ 0x0881D54C
-SnSDebuffOffset			equ 0x098D84C0
-KCatSkillsOffset		equ 0x098D92AC
-GCatSkillsOffset		equ 0x099308C0
-SupplyChestDelayOffset	equ 0x0882CFA4
-FOVOffset0				equ 0x08816038
-FOVOffset1				equ 0x088161D4
-FOVOffset2				equ 0x088162E8
-FOVOffset3				equ 0x0886AC1C
-FOVOffset4				equ 0x0886D1AC
-CameraPosOffset			equ 0x08816218
 TreshiOffset			equ 0x09908624
 MACAddrOffset			equ 0x09857730
-YianGarugaSavedHPOffset equ 0x0985773C
 
 .open "build/ULJM05066/EBOOT.BIN", 0x0880326C
 	; Game Init Hook
@@ -153,8 +138,6 @@ YianGarugaSavedHPOffset equ 0x0985773C
 		lb			a0, 0x15(v0)
 	FileLoaderReturn:
 		la			v0, CONFIG_BIN
-		jal			CatSkills
-		lb			a0, 0x16(v0)
 		jal			DosBonus
 		lb			a0, 0x18(v0)
 	DosBonusReturn:
@@ -163,33 +146,6 @@ YianGarugaSavedHPOffset equ 0x0985773C
 		lb			a0, 0x1C(v0)
 		j			HookReturn
 		nop
-			
-	CatSkills:
-		beq			a0, zero, Return
-		nop	
-		la			t0, KCatSkillsOffset
-		lw			a0, -0x4(t0)
-		li			a1, 0x944717E4
-		bne			a0, a1, Return
-		nop
-		la			a0, ShowKCatSkills
-		srl			a0, a0, 0x2
-		lui			a1, 0x0800
-		addu		a0, a1, a0
-		sw			a0, 0x0(t0)
-		li			a0, 0x0
-		sw			a0, 0x4(t0)
-		
-		la			t0, GCatSkillsOffset
-		la			a0, ShowGCatSkills
-		srl			a0, a0, 0x2
-		lui			a1, 0x0800
-		addu		a0, a1, a0
-		sw			a0, 0x0(t0)
-		li			a0, 0x0
-		sw			a0, 0x4(t0)
-		j			Return
-		nop		
 		
 	Treshi:
 		la			t0, TreshiOffset
@@ -256,6 +212,14 @@ YianGarugaSavedHPOffset equ 0x0985773C
 	.org 0x1A6C3084
 		j			GHDrinkCheck
 		lw			ra, 0xC(sp)
+		
+	; Visible Felyne Skills
+	.org 0x1A694BAC
+		j			ShowKCatSkills
+		nop		
+	.org 0x1A6EC1C0
+		j			ShowGCatSkills
+		nop		
 		
 	; Forest and Hills Area 9 Camera Fix	
 	.org 0x206DC098
