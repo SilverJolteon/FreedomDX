@@ -175,7 +175,7 @@ MACAddrOffset			equ 0x09857FB0
 		.byte 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
 
 	.include "source/ULUS10084/Init.asm"
-	.include "source/ULUS10084/LaoShanTimer.asm"	
+	.include "source/ULUS10084/CarveTimer.asm"	
 	.include "source/ULUS10084/QuestTime.asm"	
 	.include "source/ULUS10084/HallSelectFix.asm"	
 	.include "source/ULUS10084/CatSkills.asm"	

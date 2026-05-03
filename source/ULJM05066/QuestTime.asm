@@ -17,8 +17,8 @@ TotalQuestTime			equ 0x089732FC
 		sw			ra, 0x4(sp)
 		sw			a0, 0x0(sp)
 	
-		la			a0, QuestCompleteTime
-		lw			a0, 0x0(a0) ; frames
+		la			a1, QuestCompleteTime
+		lw			a0, 0x0(a1) ; frames
 		beq			a0, zero, DrawQuestTimeReturn
 		nop
 		

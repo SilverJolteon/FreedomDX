@@ -207,6 +207,10 @@ YianGarugaSavedHPOffset equ 0x0985773C
 		li			t1, 0x78
 		sb			t1, 0x0(t0)
 	SnSDebuffReturn:
+	
+		; Reset Stored Quest Time
+		la				a0, QuestCompleteTime
+		sw				zero, 0x0(a0)
 
 	QuestInitReturn:	
 		lw			a0, 0x0(sp)

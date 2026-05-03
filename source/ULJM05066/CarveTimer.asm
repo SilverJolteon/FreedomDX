@@ -1,5 +1,5 @@
-QuestAddressOffset			 equ 0x08973AD0
-LaoShanTimerReturnSkipOffset equ 0x0885A854
+QuestAddressOffset			 equ 0x089732B0
+LaoShanTimerReturnSkipOffset equ 0x0885A550
 
 	LaoShanTimer:
 		la			t0, QuestAddressOffset
@@ -7,7 +7,13 @@ LaoShanTimerReturnSkipOffset equ 0x0885A854
 		addi		t1, t1, 8
 		add			t1, t0, t1
 		lh			t1, 0x2(t1)
+		li			t0, 0x2 ; Fatalis
+		beq			t0, t1, IncreaseTimer
+		nop
 		li			t0, 0x7 ; Lao-Shan Lung
+		beq			t0, t1, IncreaseTimer
+		nop
+		li			t0, 0x24 ; Crimson Fatalis
 		beq			t0, t1, IncreaseTimer
 		nop
 		li			t0, 0x32 ; Ashen Lao-Shan Lung
@@ -22,9 +28,9 @@ LaoShanTimerReturnSkipOffset equ 0x0885A854
 	LaoShanTimerReturn:
 		beql		v0, zero, LaoShanTimerReturnSkip
 		nop
-		j			0x0885A7EC
+		j			0x0885A4E8
 		move		v0, t0
-		
+			
 	LaoShanTimerReturnSkip:
 		j			LaoShanTimerReturnSkipOffset
 		move		v0, t0

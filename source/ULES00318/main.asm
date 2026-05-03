@@ -175,7 +175,7 @@ MACAddrOffset			equ 0x09858D30
 		.byte 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
 
 	.include "source/ULES00318/Init.asm"
-	.include "source/ULES00318/LaoShanTimer.asm"			
+	.include "source/ULES00318/CarveTimer.asm"			
 	.include "source/ULES00318/QuestTime.asm"		
 	.include "source/ULES00318/HallSelectFix.asm"	
 	.include "source/ULES00318/CatSkills.asm"	

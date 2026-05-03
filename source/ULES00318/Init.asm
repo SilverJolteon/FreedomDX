@@ -196,7 +196,11 @@ CameraPosOffset			equ 0x08816218
 		sb			t1, 0x0(t0)
 	SnSDebuffReturn:
 
-	QuestInitReturn:	
+		; Reset Stored Quest Time
+		la				a0, QuestCompleteTime
+		sw				zero, 0x0(a0)
+
+	QuestInitReturn:
 		lw			a0, 0x0(sp)
 		addi		sp, sp, 4
 		sw			zero, 0x4C(s3)

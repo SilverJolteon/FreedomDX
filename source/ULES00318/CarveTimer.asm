@@ -7,7 +7,13 @@ LaoShanTimerReturnSkipOffset equ 0x0885B018
 		addi		t1, t1, 8
 		add			t1, t0, t1
 		lh			t1, 0x2(t1)
+		li			t0, 0x2 ; Fatalis
+		beq			t0, t1, IncreaseTimer
+		nop
 		li			t0, 0x7 ; Lao-Shan Lung
+		beq			t0, t1, IncreaseTimer
+		nop
+		li			t0, 0x24 ; Crimson Fatalis
 		beq			t0, t1, IncreaseTimer
 		nop
 		li			t0, 0x32 ; Ashen Lao-Shan Lung

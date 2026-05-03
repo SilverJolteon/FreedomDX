@@ -179,7 +179,7 @@ MACAddrOffset			equ 0x09857730
 		.byte 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
 	
 	.include "source/ULJM05066/Init.asm"
-	.include "source/ULJM05066/LaoShanTimer.asm"
+	.include "source/ULJM05066/CarveTimer.asm"
 	.include "source/ULJM05066/QuestTime.asm"
 	.include "source/ULJM05066/FixF1Quests.asm"
 	.include "source/ULJM05066/HallSelectFix.asm"		
