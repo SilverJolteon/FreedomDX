@@ -173,8 +173,8 @@ All-in-One patch that includes the following:
     > The camera position has been changed to allow more visibility.
  - ### Early Kill Lao-Shan Lung
     > Disables the HP threshold that prevents killing Lao-Shan Lung before reaching the final area. Configurable. Ported from IncognitoMan's FUC.
- - ### Lao-Shan Lung Extra Time to Carve
-    > Added 15 extra seconds to the timer to allow some extra time to carve Lao-Shan Lung.
+ - ### Lao-Shan Lung and Fatalis Extra Time to Carve
+    > Added 15 extra seconds to the timer to allow some extra time to carve Lao-Shan Lung and Fatalis.
  - ### Sharpness Bar Tweak
     > Added yellow and orange colors to the sharpness bar and shortened the phase in/out to make the colors more visible.
  - ### Field of View
@@ -193,6 +193,8 @@ All-in-One patch that includes the following:
     > The gathering hall select mode (Auto/Manual) now persists through reloads. The game will now remember which option you last selected.
   - ### Gathering Hall Cursor Persistence
     > The game now remembers the last hall you joined and keeps the cursor on it.
+  - ### Dual Blades and Heavy Bowgun Weapon Icons
+    > Normally, Dual Blades use the Sword and Shield icon and Heavy Bowgun uses the Light Bowgun icon, they now have their own. (Displayed next to your hunter's name).
 
 ## Fixes:	
   - ### Input Drop Fix
