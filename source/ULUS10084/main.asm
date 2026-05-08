@@ -35,6 +35,10 @@ MACAddrOffset			equ 0x09857FB0
 		jal			DrawQuestTime
 		move		a0, s2
 	
+	; Multiplayer Crossplay
+	.org 0x089193E4
+		.ascii		"ULJM05066", 0 
+		
 	; Sharpness Colors	
 	.org 0x0881A9A8
 		andi		v0, v0, 0x3F
