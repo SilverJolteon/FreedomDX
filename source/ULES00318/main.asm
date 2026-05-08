@@ -92,7 +92,7 @@ MACAddrOffset			equ 0x09858D30
 	.org 0x08823290
 		jal	  CheckMonsterLength
 		nop
-	.org 0x0x08823330
+	.org 0x08823330
 		jal	  CheckCrownSize
 		nop
 		
