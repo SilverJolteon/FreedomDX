@@ -1,5 +1,5 @@
 #------------------------------------------------------------
-VERSION = "v1.8.1"
+VERSION = "v1.8.2"
 ENGLISH_PATCH = 1
 QUESTS_LANG = "EN"
 VANILLA_MODE = 0
@@ -294,7 +294,7 @@ def setParamInfo():
                 if not VANILLA_MODE:
                     fp.write(f"MONSTER HUNTER FREEDOM DX {VERSION}".encode("ascii").ljust(40, b"\x00"))
                 else:
-                    fp.write(f"MONSTER HUNTER FREEDOM".encode("ascii").ljust(40, b"\x00")) 
+                    fp.write(f"MONSTER HUNTER PORTABLE".encode("ascii").ljust(40, b"\x00")) 
  
 def extractData():
     for _, _, files in os.walk(iso_dir):
