@@ -69,7 +69,7 @@ data = {
         "5013": [os.path.join("ES", "kitchen"), 0x14, 1],
     }
 }
-
+'''
 # Quests
 for i in range(4674, 4914):
     data["ULJM05066"][f"{i}"] = ["quest", 0x54, 2]
@@ -79,7 +79,7 @@ for i in range(4674, 4921):
     
 for i in range(4703, 4950):
     data["ULES00318"][f"{i}"] = ["quest", 0x54, 2]
-    
+'''    
         
 def getString(data, addr, encoding):
     return data[addr:data.find(b"\x00", addr)].decode(encoding)
@@ -152,7 +152,7 @@ def dumpGameText(key, folder, path, start, encoding):
     print(f"Dumping strings to \"{output}\"...");
     with open(input, "rb") as fp:
         data = fp.read()
-        with open(output, "w", encoding="utf-8") as out:
+        with open(output, "w", encoding=encoding) as out:
             def dump(sec):
                 prev_off = 0
                 off = 0

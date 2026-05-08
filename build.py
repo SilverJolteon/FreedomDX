@@ -1,5 +1,5 @@
 #------------------------------------------------------------
-VERSION = "v1.8.1h\n   Beta"
+VERSION = "v1.8.1"
 ENGLISH_PATCH = 1
 QUESTS_LANG = "EN"
 VANILLA_MODE = 0
@@ -20,6 +20,7 @@ asm_src_dir = "source"
 build_dir = "build"
 assets = "assets"
 quests_dir = "quests"
+release_dir = "release"
 #------------------------------------------------------------
 armips = os.path.join("tools", "armips.exe")
 umd_replace = os.path.join("tools", "UMD-replace.exe")
@@ -42,6 +43,9 @@ if platform == "linux" or platform == "linux2":
         installUMDReplace()
         
 games = []
+
+if VANILLA_MODE:
+    ENGLISH_PATCH = 1
 
 def createFolder(folder):
     if os.path.exists(folder):
@@ -141,6 +145,23 @@ def createPatches():
             stdout=subprocess.DEVNULL,
             stderr=subprocess.STDOUT
         )
+        v = VERSION.replace("\n   ", " ")
+        if folder == "ULJM05066":
+            if ENGLISH_PATCH:
+                if not VANILLA_MODE:
+                    release = os.path.join(release_dir, f"[FDX JPN (English Translated) {v}] ULJM05066.xdelta")
+                else:
+                    release = os.path.join(release_dir, "ULJM05066.xdelta")
+            else:
+                release = os.path.join(release_dir, f"[FDX JPN (Original Japanese) {v}] ULJM05066.xdelta")
+        elif folder == "ULUS10084":
+            release = os.path.join(release_dir, f"[FDX USA {v}] ULUS10084.xdelta")
+        elif folder == "ULES00318":
+            release = os.path.join(release_dir, f"[FDX EUR {v}] ULES00318.xdelta")
+            
+        if os.path.exists(release):
+            os.remove(release)
+        os.rename(patch, release)
 
 def patchISOs():
     for folder in games:
@@ -245,7 +266,7 @@ def addImage(folder, files, old_img, new_img, text=""):
 def addImages():
     if VANILLA_MODE:
         return
-    for folder in os.listdir(build_dir):
+    for folder in games:
         if folder == "ULJM05066":
             addImage(folder, ["0013"], "001_palette_RGBA8888.png", "Title.png", VERSION)
             addImage(folder, ["0014"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "EN.png"))
@@ -264,7 +285,7 @@ def addImages():
             addImage(folder, ["4959"], "000_pixels_RGBA8888.png", os.path.join("ui_fix", "000_pixels_RGBA8888.png"))
 
 def setParamInfo():
-    for folder in os.listdir(build_dir):
+    for folder in games:
         path = os.path.join(build_dir, folder, "PARAM.SFO")
         if folder == "ULJM05066" or folder == "ULUS10084" or folder == "ULES00318":
             with open(path, "r+b") as fp:
@@ -305,7 +326,12 @@ def extractData():
             os.rename(os.path.join(iso_dir, file), os.path.join(iso_dir, f"{game_id}.iso"))
             os.rename(os.path.join(dir, "BOOT.BIN"), os.path.join(dir, "EBOOT.BIN"))
             
-            games.append(game_id)
+            if not ENGLISH_PATCH or VANILLA_MODE:
+                if game_id == "ULJM05066":
+                    games.append(game_id)
+            else:
+                games.append(game_id)
+            
  
 if __name__ == "__main__":
     createFolder(build_dir)
