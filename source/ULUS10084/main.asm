@@ -85,7 +85,18 @@ MACAddrOffset			equ 0x09857FB0
 		.dw   0x0010000C
 		.dw	  0x000B8000
 		
-	; MHG Gabas
+	; Display Monster Info
+	.org 0x0885C47C	
+		jr	  ra
+		li    v0, 0x1
+	.org 0x08823028
+		jal	  CheckMonsterLength
+		nop
+	.org 0x088230C8
+		jal	  CheckCrownSize
+		nop
+		
+	; MHG Gabas	
 	;.org 0x088FF658
 	;	.dw   0x000000A0
 	;	.dw	  0x00000000
@@ -179,6 +190,7 @@ MACAddrOffset			equ 0x09857FB0
 		.byte 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
 
 	.include "source/ULUS10084/Init.asm"
+	.include "source/ULUS10084/DisplayMonsterInfo.asm"
 	.include "source/ULUS10084/CarveTimer.asm"	
 	.include "source/ULUS10084/QuestTime.asm"	
 	.include "source/ULUS10084/HallSelectFix.asm"	

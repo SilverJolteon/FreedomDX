@@ -85,6 +85,17 @@ MACAddrOffset			equ 0x09857730
 		.dw   0x0010000C
 		.dw	  0x000B8000
 		
+	; Display Monster Info
+	.org 0x0885C198	
+		jr	  ra
+		li    v0, 0x1
+	.org 0x08822FB4
+		jal	  CheckMonsterLength
+		nop
+	.org 0x08823054
+		jal	  CheckCrownSize
+		nop
+		
 	; MHG Gabas	
 	;.org 0x088FEDD4
 	;	.dw   0x000000A0
@@ -179,6 +190,7 @@ MACAddrOffset			equ 0x09857730
 		.byte 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
 	
 	.include "source/ULJM05066/Init.asm"
+	.include "source/ULJM05066/DisplayMonsterInfo.asm"
 	.include "source/ULJM05066/CarveTimer.asm"
 	.include "source/ULJM05066/QuestTime.asm"
 	.include "source/ULJM05066/FixF1Quests.asm"
