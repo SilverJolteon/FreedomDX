@@ -1,5 +1,5 @@
 #------------------------------------------------------------
-VERSION = "v1.8.1a"
+VERSION = "v1.8.2a\n   BETA"
 ENGLISH_PATCH = 1
 QUESTS_LANG = "EN"
 VANILLA_MODE = 0
@@ -191,14 +191,17 @@ def patchISOs():
         if not VANILLA_MODE:
             thumb = os.path.join(assets, "ICON0.PNG")
         else:
-            thumb = os.path.join(assets, "VANILLA.PNG")
+            thumb = os.path.join(assets, "VANILLA_ICON0.PNG")
         subprocess.run(
             [umd_replace, iso, "/PSP_GAME/ICON0.PNG", thumb],
             check=True,
             stdout=subprocess.DEVNULL,
             stderr=subprocess.STDOUT
         )
-        PIC0 = os.path.join(assets, "PIC0.PNG")
+        if not VANILLA_MODE:
+            PIC0 = os.path.join(assets, "PIC0.PNG")
+        else:
+            PIC0 = os.path.join(assets, "VANILLA_PIC0.PNG")
         subprocess.run(
             [umd_replace, iso, "/PSP_GAME/PIC0.PNG", PIC0],
             check=True,
