@@ -71,9 +71,17 @@ MACAddrOffset			equ 0x09858D30
 		
 	; Heavy Bowgun Icon Fix
 	.org 0x088F2D7A
+		.dh   0x88
+	.org 0x088F1FD4
+		.dw   0x00B000B0
+		.dw   0x0010000C
+		.dw	  0x000B8000
+	
+	; Light Bowgun Icon Fix	
+	.org 0x088F2D82
 		.dh   0x172
 	.org 0x088F2ACC
-		.dw   0x00B000B0
+		.dw   0x00C00018
 		.dw   0x0010000C
 		.dw	  0x000B8000
 		
