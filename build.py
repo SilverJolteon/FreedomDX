@@ -59,7 +59,7 @@ def combineQuests():
     quest_size = 0x6800
     
     id = 60001;
-    output = os.path.join(build_dir, "FDXDAT", "EVENT.BIN")
+    output = os.path.join(release_dir, "FDXDAT", "EVENT.BIN")
     with open(output, 'wb') as fp:
         for f in mib_files:
             quest = os.path.join(quests, f)
@@ -346,7 +346,11 @@ def extractData():
 if __name__ == "__main__":
     createFolder(build_dir)
     
-    shutil.copytree(os.path.join(assets, "FDXDAT"), os.path.join(build_dir, "FDXDAT"))
+    FDXDAT = os.path.join(release_dir, "FDXDAT")
+    if os.path.exists(FDXDAT):
+        shutil.rmtree(FDXDAT)
+    shutil.copytree(os.path.join(assets, "FDXDAT"), FDXDAT)
+    
     extractData()
     setParamInfo()
     buildASM()
