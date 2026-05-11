@@ -86,9 +86,9 @@ MACAddrOffset			equ 0x09857730
 		.dw	  0x000B8000
 		
 	; Display Monster Info
-	.org 0x0885C198	
-		jr	  ra
+	.org 0x088225E4	
 		li    v0, 0x1
+		nop
 	.org 0x08822FB4
 		jal	  CheckMonsterLength
 		nop

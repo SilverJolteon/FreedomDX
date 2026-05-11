@@ -1,5 +1,5 @@
 #------------------------------------------------------------
-VERSION = "v1.8.2a\n   BETA"
+VERSION = "v1.8.2b"
 ENGLISH_PATCH = 1
 QUESTS_LANG = "EN"
 VANILLA_MODE = 0
@@ -189,7 +189,10 @@ def patchISOs():
         )
         os.remove(os.path.join(build_dir, folder, "PARAM.SFO"))
         if not VANILLA_MODE:
-            thumb = os.path.join(assets, "ICON0.PNG")
+            if folder == "ULJM05066":
+                thumb = os.path.join(assets, "PortableDXThumb.PNG")
+            else:
+                thumb = os.path.join(assets, "FreedomDXThumb.PNG")
         else:
             thumb = os.path.join(assets, "VANILLA_ICON0.PNG")
         subprocess.run(
@@ -198,10 +201,11 @@ def patchISOs():
             stdout=subprocess.DEVNULL,
             stderr=subprocess.STDOUT
         )
-        if not VANILLA_MODE:
-            PIC0 = os.path.join(assets, "PIC0.PNG")
-        else:
+        if VANILLA_MODE or folder == "ULJM05066":
             PIC0 = os.path.join(assets, "VANILLA_PIC0.PNG")
+        else:
+            PIC0 = os.path.join(assets, "PIC0.PNG")
+        
         subprocess.run(
             [umd_replace, iso, "/PSP_GAME/PIC0.PNG", PIC0],
             check=True,
@@ -209,7 +213,7 @@ def patchISOs():
             stderr=subprocess.STDOUT
         )
 
-def addImage(folder, files, old_img, new_img, text=""):
+def addImage(folder, files, old_img, new_img, text="", text_x=0, text_y=0, text_size=0):
     print(f"Replacing {new_img} image for {folder}.iso...")
     path = os.path.join(build_dir, folder, "DATA.BIN")
     for file in files:
@@ -234,9 +238,9 @@ def addImage(folder, files, old_img, new_img, text=""):
             overlay = Image.new("RGBA", img.size, (255, 255, 255, 0))
             draw = ImageDraw.Draw(overlay)
             
-            font = ImageFont.truetype(os.path.join(assets, "MyriadPro-Bold.otf"), 20)
+            font = ImageFont.truetype(os.path.join(assets, "MyriadPro-Bold.otf"), text_size)
             
-            draw.text((350,215), f"{VERSION}", (255, 255, 255), font=font)
+            draw.text((text_x,text_y), f"{VERSION}", (255, 255, 255), font=font)
             img = Image.alpha_composite(img, overlay)
             img = img.convert("P", palette=Image.ADAPTIVE, colors=256)
             img.save(RBGA8888)
@@ -271,15 +275,15 @@ def addImages():
         return
     for folder in games:
         if folder == "ULJM05066":
-            addImage(folder, ["0013"], "001_palette_RGBA8888.png", "Title.png", VERSION)
+            addImage(folder, ["0013"], "001_palette_RGBA8888.png", "PortableDXTitle.png", VERSION, 390, 210, 20)
             addImage(folder, ["0014"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "EN.png"))
             addImage(folder, ["4923"], "000_pixels_RGBA8888.png", os.path.join("ui_fix", "000_pixels_RGBA8888.png"))
         elif folder == "ULUS10084":
-            addImage(folder, ["0013"], "001_palette_RGBA8888.png", "Title.png", VERSION)
+            addImage(folder, ["0013"], "001_palette_RGBA8888.png", "FreedomDXTitle.png", VERSION, 350, 215, 20)
             addImage(folder, ["0014"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "EN.png"))
             addImage(folder, ["4930"], "000_pixels_RGBA8888.png", os.path.join("ui_fix", "000_pixels_RGBA8888.png"))
         elif folder == "ULES00318":
-            addImage(folder, ["0017", "0022", "0023", "0024", "0025", "0026"], "001_palette_RGBA8888.png", "Title.png", VERSION)
+            addImage(folder, ["0017", "0022", "0023", "0024", "0025", "0026"], "001_palette_RGBA8888.png", "FreedomDXTitle.png", VERSION, 350, 215, 20)
             addImage(folder, ["0018"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "EN.png"))
             addImage(folder, ["0027"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "FR.png"))
             addImage(folder, ["0028"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "DE.png"))
@@ -295,7 +299,10 @@ def setParamInfo():
                 print(f"Setting PARAM.SFO info for {folder}.iso...")
                 fp.seek(0x158)
                 if not VANILLA_MODE:
-                    fp.write(f"MONSTER HUNTER FREEDOM DX {VERSION}".encode("ascii").ljust(40, b"\x00"))
+                    if folder == "ULJM05066":
+                        fp.write(f"MONSTER HUNTER PORTABLE DX {VERSION}".encode("ascii").ljust(40, b"\x00"))
+                    else:
+                        fp.write(f"MONSTER HUNTER FREEDOM DX {VERSION}".encode("ascii").ljust(40, b"\x00"))
                 else:
                     fp.write(f"MONSTER HUNTER PORTABLE".encode("ascii").ljust(40, b"\x00")) 
  

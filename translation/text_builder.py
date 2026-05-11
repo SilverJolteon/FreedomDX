@@ -7,9 +7,9 @@ build_dir = "built_files"
 newline = "<NEWLINE>"
 new_section = "<NEW SECTION>"
 
-def build_0003(txt_path):
+def build_0003(input_path, output_path):
     data = []
-    with open(txt_path, "rb") as fp:
+    with open(input_path, "rb") as fp:
         lines = fp.read()
         lines = lines.split(new_section.encode("shift_jis_2004"))
         for i, line in enumerate(lines):
@@ -24,7 +24,7 @@ def build_0003(txt_path):
             if section:
                 data.append(section)
 
-    with open(os.path.join(build_dir, "0003"), "wb") as fp:
+    with open(output_path, "wb") as fp:
         fp.write(len(data).to_bytes(4, byteorder="little"))
         fp.write((8).to_bytes(4, byteorder="little"))
         
@@ -49,10 +49,3 @@ def build_0003(txt_path):
             for str in section:
                 fp.write(str)
             fp.write(b"\x00")
-          
-if __name__ == "__main__":
-    if os.path.exists(build_dir):
-        shutil.rmtree(build_dir)
-    os.makedirs(build_dir, exist_ok=True)     
-    
-    build_0003("0003.txt")

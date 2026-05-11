@@ -1,8 +1,9 @@
-from sys import platform
-import subprocess
-import struct
-import array
 import os
+import array
+import struct
+import subprocess
+from sys import platform
+from .text_builder import *
 
 armips = os.path.join("tools", "armips.exe")
 if platform == "linux" or platform == "linux2":
@@ -109,6 +110,9 @@ def translate(build_dir):
     injector.buildASM(build_dir, 54, "arcade_task")
         
     path = os.path.join("translation", "data")
+    
+    build_0003(os.path.join("translation", "text", "0003.txt"), os.path.join(path, "0003"))
+    
     if os.path.exists(path):
         files = sorted(os.listdir(path))
         for f in files:
