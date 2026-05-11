@@ -152,7 +152,7 @@ def dumpGameText(key, folder, path, start, encoding):
     print(f"Dumping strings to \"{output}\"...");
     with open(input, "rb") as fp:
         data = fp.read()
-        with open(output, "w", encoding=encoding) as out:
+        with open(output, "w", encoding="utf-8") as out:
             def dump(sec):
                 prev_off = 0
                 off = 0

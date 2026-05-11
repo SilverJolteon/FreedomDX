@@ -533,9 +533,9 @@ Preparing Quest.
 Connecting to land.
 Preparing the network.
 Players Waiting
-Quest Clear!
-Quest Failed
-Quest Retire
+‚p‚t‚d‚r‚s@‚b‚k‚d‚`‚qI
+‚p‚t‚d‚r‚s@‚e‚`‚h‚k‚d‚c
+‚p‚t‚d‚r‚s@‚q‚d‚s‚h‚q‚d
 Other players are waiting to end Quest.
 %d^%d
 Quest Completed
