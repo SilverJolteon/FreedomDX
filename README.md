@@ -195,6 +195,8 @@ All-in-One patch that includes the following:
     > The game now remembers the last hall you joined and keeps the cursor on it.
   - ### Dual Blades and Heavy Bowgun Weapon Icons
     > Normally, Dual Blades use the Sword and Shield icon and Heavy Bowgun uses the Light Bowgun icon, they now have their own. (Displayed next to your hunter's name).
+  - ### Extended Monster Log Info
+    > The Monster Log now shows kill counts for Lao-Shan Lung, Fatalis, and small monsters.
 
 ## Fixes:	
   - ### Input Drop Fix
