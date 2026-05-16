@@ -1,7 +1,5 @@
 .psp
 
-strcpy      equ 0x088112E8
-
 .open "build/ULJM05066/gallery_task.bin", 0x098D4700
 	; Gallery Titles Positions
 	.org 0x098D7006 ; MHF Trailer
