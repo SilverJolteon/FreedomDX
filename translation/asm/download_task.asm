@@ -23,95 +23,155 @@
 	
 	; English Text
 	.org 0x099187B0
-		.ascii "Quitting online mode", 0x00
+	.area 24, 0
+		.asciiz "Quitting online mode"
+	.endarea
 		
 	.org 0x099187C8
-		.ascii "and returning to the Game Menu.", 0x00
+	.area 32, 0
+		.asciiz "and returning to the Game Menu."
+	.endarea
 		
 	.org 0x099187E8
-		.ascii "Proceed?", 0x00
+	.area 24, 0
+		.asciiz "Proceed?"
+	.endarea
 		
 	.org 0x09918810
-		.ascii "Confirm", 0x00
+	.area 8, 0
+		.asciiz "Confirm"
+	.endarea
 
 	.org 0x09918820
-		.ascii "Cancel", 0x00
+	.area 8, 0
+		.asciiz "Cancel"
+	.endarea
 		
 	.org 0x09918850
-		.ascii "The Quest", 0x00
+	.area 16, 0
+		.asciiz "The Quest"
+	.endarea
 		
 	.org 0x09918860
-		.ascii "will be downloaded.", 0x00
+	.area 24, 0
+		.asciiz "will be downloaded."
+	.endarea
 		
 	.org 0x09918898
-		.ascii "Download completed.", 0x00
+	.area 32, 0
+		.asciiz "Download completed."
+	.endarea
 		
 	.org 0x099188D0
-		.ascii "Downloading...", 0x00
+	.area 32, 0
+		.asciiz "Downloading..."
+	.endarea
 		
 	.org 0x09918908
-		.ascii "Failed to download.", 0x00
+	.area 24, 0
+		.asciiz "Failed to download."
+	.endarea
 		
 	.org 0x09918920
-		.ascii "A communication error occurred.", 0x00
+	.area 32, 0
+		.asciiz "A communication error occurred."
+	.endarea
 		
 	.org 0x09918B28
-		.ascii "No Game data found.", 0x00
+	.area 24, 0
+		.asciiz "No Game data found."
+	.endarea
 		
 	.org 0x09918B40
-		.ascii "Create new Game data", 0x00
+	.area 16, 0
+		.asciiz "Create new data"
+	.endarea
 		
 	.org 0x09918B50
-		.ascii "then save?", 0x00
+	.area 24, 0
+		.asciiz "then save?"
+	.endarea
 		
 	.org 0x09918B80
-		.ascii "The Quest has", 0x00
+	.area 16, 0
+		.asciiz "The Quest has"
+	.endarea
 		
 	.org 0x09918B90
-		.ascii "been downloaded.", 0x00
+	.area 24, 0
+		.asciiz "been downloaded."
+	.endarea
 		
 	.org 0x09918BB8
-		.ascii "Data will be saved.", 0x00
+	.area 24, 0
+		.asciiz "Data will be saved."
+	.endarea
 
 	.org 0x09918BE8
-		.ascii "Data will be saved.", 0x00		
+	.area 24, 0
+		.asciiz "Data will be saved."
+	.endarea	
 		
 	.org 0x09918C10
-		.ascii "Select where you would like to save.", 0x00
+	.area 40, 0
+		.asciiz "Select where you would like to save."
+	.endarea
 		
 	.org 0x09918C48
-		.ascii "You may save up to three Quests.", 0x00
+	.area 40, 0
+		.asciiz "You may save up to three Quests."
+	.endarea
 		
 	.org 0x09918C80
-		.ascii "Quest Name:", 0x00
+	.area 16, 0
+		.asciiz "Quest Name:"
+	.endarea
 	
 	.org 0x09918CA8
-		.ascii "The Memory Stick Duo"
-		.dw 0x00004082 ; TM
+	.area 24, 0
+		.asciiz "The Memory Stick Duo"
+		.dh 0x4082 ; TM
+	.endarea
 		
 	.org 0x09918CC0
-		.ascii "is in use.", 0x00
+	.area 24, 0
+		.asciiz "is in use."
+	.endarea
 		
 	.org 0x09918CE8
-		.ascii "Saving...", 0x00		
+	.area 24, 0
+		.asciiz "Saving..."
+	.endarea		
 		
 	.org 0x09918D10
-		.ascii "should not be removed.", 0x00
+	.area 32, 0
+		.asciiz "should not be removed."
+	.endarea
 		
 	.org 0x09918D50
-		.ascii "Save completed.", 0x00
+	.area 24, 0
+		.asciiz "Save completed."
+	.endarea
 		
 	.org 0x09918E08
-		.ascii "Delete corrupted", 0x00
+	.area 24, 0
+		.asciiz "Delete corrupted"
+	.endarea
 		
 	.org 0x09918E20
-		.ascii "Game data?", 0x00
+	.area 16, 0
+		.asciiz "Game data?"
+	.endarea
 		
 	.org 0x09918EA8
-		.ascii "and returning to the Game Menu.", 0x00
+	.area 32, 0
+		.asciiz "and returning to the Game Menu."
+	.endarea
 
 	; MH Oldschool Event Quest Server
-	.org 0x09919150	
-		.ascii "http://psp.mholdschool.com/psp/MHPSPENG/DL_TOP.PHP", 0x00
+	.org 0x09919150
+	.area 56, 0
+		.asciiz "http://psp.mholdschool.com/psp/MHPSPENG/DL_TOP.PHP"
+	.endarea
 	
 .close

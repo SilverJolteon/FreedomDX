@@ -276,5 +276,7 @@ MACAddrOffset			equ 0x09857730
 		
 	; MH Oldschool Event Quest Server
 	.org 0x1A68EA50
-		.ascii "http://psp.mholdschool.com/psp/MHPSP/DL_TOP.PHP", 0x00
+	.area 56, 0
+		.asciiz "http://psp.mholdschool.com/psp/MHPSP/DL_TOP.PHP"
+	.endarea
 .close
