@@ -56,7 +56,7 @@
 		.ascii "Quest Name:", 0x00
 		
 	.org 0x09918BB8
-		.ascii "Data will be replaced.", 0x00
+		.ascii "Data will be saved.", 0x00
 		
 	.org 0x09918D50
 		.ascii "Save completed.", 0x00
@@ -65,7 +65,7 @@
 		.ascii "The Quest has", 0x00
 		
 	.org 0x09918B90
-		.ascii "been saved.", 0x00
+		.ascii "been downloaded.", 0x00
 		
 	.org 0x09918CE8
 		.ascii "Saving...", 0x00
@@ -78,9 +78,33 @@
 		
 	.org 0x09918B50
 		.ascii "then save?", 0x00
+		
+	.org 0x09918BE8
+		.ascii "Data will be saved.", 0x00
+		
+	.org 0x09918E08
+		.ascii "Delete corrupted", 0x00
+		
+	.org 0x09918E20
+		.ascii "Game data?", 0x00
+		
+	.org 0x099187B0
+		.ascii "Quitting online mode", 0x00
+		
+	.org 0x099187C8
+		.ascii "and returning to the Game Menu.", 0x00
+		
+	.org 0x09918908
+		.ascii "Failed to download.", 0x00
+		
+	.org 0x09918920
+		.ascii "A communication error occurred.", 0x00
+		
+	.org 0x09918EA8
+		.ascii "and returning to the Game Menu.", 0x00
 
 	; MH Oldschool Event Quest Server
 	.org 0x09919150	
-		.ascii "http://151.80.238.99/psp/MHPSPENG/DL_TOP.PHP", 0x00
+		.ascii "http://192.168.1.34/psp/MHPSPENG/DL_TOP.PHP", 0x00
 	
 .close
