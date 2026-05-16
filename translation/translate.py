@@ -105,6 +105,7 @@ def translate(build_dir):
     injector = Injector(DATA_BIN)
 
     injector.buildASM(build_dir, 44, "demo_task")
+    injector.buildASM(build_dir, 48, "connect_task")
     injector.buildASM(build_dir, 49, "gallery_task")
     injector.buildASM(build_dir, 50, "download_task")
     injector.buildASM(build_dir, 51, "lobby_task")

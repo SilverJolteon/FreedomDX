@@ -18,7 +18,15 @@
   .org 0x0889AA38 ; Character Select "No" Position
     addiu v1, s4, 0x50
 	
-  .org 0x0889BF2C ; "Press the ○ button" Position
+  .org 0x0889B6C0 ; "Press the ○ button" Position
+    li a0, 0xAE
+  .org 0x0889B738
+    li a0, 0xAE
+  .org 0x0889BF2C
+    li a0, 0xAE
+  .org 0x0889C7CC
+    li a0, 0xAE
+  .org 0x0889CFC0
     li a0, 0xAE
   .org 0x0889D26C
     li a0, 0xAE	
