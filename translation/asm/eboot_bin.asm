@@ -17,6 +17,14 @@
     li a0, 0x15C
   .org 0x0889AA38 ; Character Select "No" Position
     addiu v1, s4, 0x50
+	
+  .org 0x0889BF2C ; "Press the ○ button" Position
+    li a0, 0xAE
+  .org 0x0889D26C
+    li a0, 0xAE	
+  .org 0x0889D5C8
+    li a0, 0xAE
+
   ; --------------------------------------
   ; Lang set for system level messages
   ; --------------------------------------

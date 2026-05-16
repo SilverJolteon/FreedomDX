@@ -6389,7 +6389,7 @@ The Memory Stick Duo~10 used to start<NEWLINE>this game is not inserted.<NEWLINE
 Save completed.
 Abort loading?
 Connect to download contents? <NEWLINE>~C02Please do not disconnect from<NEWLINE>the Network or remove the Memory<NEWLINE>Stick Duo~B10 while downloading.~C00
-The following Quests are saved <NEWLINE>on the Memory Stick Duo~B10. 
+ The following Quests are saved <NEWLINE>   on the Memory Stick Duo~B10. 
 There are no Quests saved <NEWLINE>on the Memory Stick Duo~B10. 
 Exit game?
 If you quit the game without saving, <NEWLINE>all of the items and money (z) <NEWLINE>that you acquired will be lost.     <NEWLINE><NEWLINE>    Save?      Exit without saving?
