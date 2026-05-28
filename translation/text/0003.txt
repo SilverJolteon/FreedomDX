@@ -374,24 +374,24 @@ Speed burst has expired!
 Vitality burst has expired!
 Natural recovery has increased!
 Stamina has stopped decreasing!
- obtained.
+~C02%s~C00 obtained.
 dummy
 dummy
- at maximum.
- has fallen unconscious.
- has broken!
- was stolen.
- taken back.
- delivered.
- was made.
- was made instead!
- was caught.
- was dropped.
- received.
- has broken.
- can't be carried, not enough space.
- given.
- has all been given.
+~C02%s~C00 at maximum.
+~C02%s~C00 has fallen unconscious.
+~C02%s~C00 has broken!
+~C02%s~C00 was stolen.
+~C02%s~C00 taken back.
+~C02%s~C00 delivered.
+You made a ~C02%s~C00
+Oh no! It became a ~C02%s~C00
+You caught a ~C02%s~C00
+You dropped the ~C02%s~C00
+~C02%s~C00 received.
+~C02%s~C00 has broken.
+You can't carry any more ~C02%s~C00
+~C02%s~C00 given.
+You've given all of the ~C02%s~C00
 dummy
 dummy
 dummy

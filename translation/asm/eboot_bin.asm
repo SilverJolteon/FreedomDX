@@ -46,4 +46,60 @@
 
   .org 0x0889DA5C ; No savedata found / Savedata corrupt
     sw s4,0x68C(s1)
+	
+  ; --------------------------------------
+  ; ~C02%s Formatted Strings - Copied from Freedom [USA]
+  ; --------------------------------------
+  .org 0x0884B360
+    lh			a0, 0xA(s0)
+	li			v1, 0x08915D18
+	sll			a0, a0, 0x1
+	addu		v1, v1, a0
+	lui			v0, 0x892
+	lhu			a1, 0x0(v1)
+	jal			0x088461DC
+	lw			a0, 0x32A0(v0)
+	move		s1, v0
+	lui			v0, 0x892
+	lw			a0, 0x32A0(v0)
+	jal			0x088461E8
+	lhu			a1, 0x8(s0)
+	move		a1, s1
+	move		a2, v0
+	jal			0x08810E9C
+	addiu		a0, sp, 0x30
+	nop
+	nop
+  .org 0x0884B910
+	li			a1, 0
+	lh			a0, 0xA(s1)
+	li			v1, 0x08915D18
+	sll			a0, a0, 0x1
+	addu		v1, v1, a0
+	lui			v0, 0x892
+	lhu			a1, 0x0(v1)
+	jal			0x088461DC
+	lw			a0, 0x32A0(v0)
+	move		s0, v0
+	lui			v0, 0x892
+	lw			a0, 0x32A0(v0)
+	jal			0x088461E8
+	lhu			a1, 0x8(s1)
+	lui			v1, 0x0898
+	lh			a1, 0x28(sp)
+	lh			a2, 0x2A(sp)
+	lw			a0, -0x5CD8(v1)
+	move		a3, s0
+	j			ParseText
+	nop
+  .org 0x0880CCA4
+  ParseText:
+	jal			0x08872364
+	move		t0, v0
+	j			0x0884BCB4
+	nop
+  .org 0x0884B574
+	jal			0x08871548
+  ; --------------------------------------
+	
 .close
