@@ -13,6 +13,7 @@ drawShadowedText		equ 0x08871B9C
 
 TreshiOffset			equ 0x09908624
 MACAddrOffset			equ 0x09857730
+TaskOffset				equ 0x098D4720
 
 .open "build/ULJM05066/EBOOT.BIN", 0x0880326C
 	; Game Init Hook
@@ -239,7 +240,16 @@ MACAddrOffset			equ 0x09857730
 		nop		
 	.org 0x1A6EC1C0
 		j			ShowGCatSkills
-		nop		
+		nop
+		
+	; Wandering Chef Generation
+	.org 0x1A6EAC08
+		jal			GenerateBarrelCat
+		nop
+	.org 0x1A6EAC14
+		nop
+	.org 0x1A6EAC70
+		slti		v1, s2, 0x6
 		
 	; Forest and Hills Area 9 Camera Fix	
 	.org 0x206DC098

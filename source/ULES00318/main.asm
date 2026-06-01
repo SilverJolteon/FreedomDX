@@ -13,6 +13,7 @@ drawShadowedText		equ 0x08872660
 
 TreshiOffset			equ 0x09909E6C
 MACAddrOffset			equ 0x09858D30
+TaskOffset				equ 0x098D5D20
 
 .open "build/ULES00318/EBOOT.BIN", 0x0880326C
 	; Game Init Hook
@@ -273,6 +274,15 @@ MACAddrOffset			equ 0x09858D30
 		j			ShowGCatSkills
 		nop		
 		
+	; Wandering Chef Generation
+	.org 0x1A8B1CF0
+		jal			GenerateBarrelCat
+		nop
+	.org 0x1A8B1CFC
+		nop
+	.org 0x1A8B1D58
+		slti		v1, s2, 0x6
+		
 	; Forest and Hills Area 9 Camera Fix	
 	.org 0x20A91098
 		.word 0x43F50000
@@ -289,30 +299,45 @@ MACAddrOffset			equ 0x09858D30
 		jal			StoreHall
 		nop
 		
-	; Dengeki Ticket	
+	; Dengeki Ticket
 	.org 0x12C4B03A
-		.ascii "DengekiTck", 0
+	.area 10, 0
+		.asciiz "DengekiTkt"
+	.endarea
 		
 	; Treshi dummy
 	.org 0x1E0A90F4 ; EN
-		.ascii "...", 0
-		.byte 0x00, 0x00, 0x00
+	.area 5, 0
+		.asciiz "..."
+	.endarea
 	.org 0x1E0B311F ; FR
-		.ascii "...", 0
-		.byte 0x00, 0x00, 0x00
+	.area 7, 0
+		.asciiz "..."
+	.endarea
 	.org 0x1E0BD4D2 ; DE
-		.ascii "...", 0
-		.byte 0x00, 0x00, 0x00
+	.area 8, 0
+		.asciiz "..."
+	.endarea
 	.org 0x1E0C712D ; IT
-		.ascii "...", 0
-		.byte 0x00, 0x00, 0x00
+	.area 10, 0
+		.asciiz "..."
+	.endarea
 	.org 0x1E0D083E ; ES
-		.ascii "...", 0
-		.byte 0x00, 0x00, 0x00
+	.area 5, 0
+		.asciiz "..."
+	.endarea
 
 	; Quest info capitalize zone
 	.org 0x12C41E49
-		.ascii "Zone:", 0
+	.area 5, 0
+		.asciiz "Zone:"
+	.endarea
+	
+	; Changed Muscot to Muscat
+	.org 0x1D92C1D4
+	.area 6, 0
+		.asciiz "Muscat"
+	.endarea
 		
 	; "The Desert Plesioth" Supplies Fix
 	.org 0x1DAAD774

@@ -1,8 +1,8 @@
 #------------------------------------------------------------
-VERSION = "v1.8.4a"
+VERSION = "v1.8.4c"
 ENGLISH_PATCH = 1
 QUESTS_LANG = "EN"
-VANILLA_MODE = 1
+VANILLA_MODE = 0
 #------------------------------------------------------------
 import os
 import io

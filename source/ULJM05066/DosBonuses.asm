@@ -8,7 +8,6 @@ GetGameState0			equ 0x088450C8
 GetGameState1			equ 0x08845334
 SetQuestState			equ 0x0884508C
 GarugaState				equ 0x098532E1
-GenerateCats			equ 0x0992F370
 
 	CheckGameState:
 		addiu		sp, sp, -4
@@ -49,17 +48,12 @@ GenerateCats			equ 0x0992F370
 	DosBonus:
 		beq			a0, zero, Return
 		nop
-		move		t1, a0
-		la			a0, GenerateCats
-		lw			a1, 0x0(a0)
-		lui			a2, 0x2A43
-		ori			a2, 0x0005
-		bne			a1, a2, SkipGenCat
+		la			t0, TaskOffset
+		lw			t0, 0x0(t0)
+		li			t1, 0x62626F6C
+		bne			t0, t1, Return
 		nop
-		addi		a2, a2, 0x1
-		sw			a2, 0x0(a0)
-		
-	SkipGenCat:
+		move		t1, a0		
 		; Create hook
 		la			t0, SetGrannyGift
 		lw			a0, -0x4(t0)
@@ -213,4 +207,15 @@ GenerateCats			equ 0x0992F370
 		addiu		sp, sp, 0xC
 
 		j			DosBonusReturn
+		nop
+		
+	GenerateBarrelCat:
+		sb			v0, 0x1(s0)
+		move		a0, s3
+		li			a1, 0x5
+		blt			s2, a1, SkipGenerateBarrelCat
+		li			a1, 0x0
+		li			a1, 0x1	
+	SkipGenerateBarrelCat:	
+		jr			ra
 		nop

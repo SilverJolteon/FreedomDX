@@ -13,6 +13,7 @@ drawShadowedText		equ 0x08871DCC
 
 TreshiOffset			equ 0x09908E8C
 MACAddrOffset			equ 0x09857FB0
+TaskOffset				equ 0x098D4FA0
 
 .open "build/ULUS10084/EBOOT.BIN", 0x0880326C
 	; Game Init Hook
@@ -273,6 +274,15 @@ MACAddrOffset			equ 0x09857FB0
 		j			ShowGCatSkills
 		nop		
 		
+	; Wandering Chef Generation
+	.org 0x1A285360
+		jal			GenerateBarrelCat
+		nop
+	.org 0x1A28536C
+		nop
+	.org 0x1A2853C8
+		slti		v1, s2, 0x6
+		
 	; Forest and Hills Area 9 Camera Fix
 	.org 0x2028E098
 		.word 0x43F50000
@@ -288,19 +298,30 @@ MACAddrOffset			equ 0x09857FB0
 	.org StoreHallOffset
 		jal			StoreHall
 		nop
-		
-	; Dengeki Ticket	
+	
+	; Dengeki Ticket
 	.org 0x12C4AF25
-		.ascii "DengekiTkt", 0
+	.area 10, 0
+		.asciiz "DengekiTkt"
+	.endarea
 		
 	; Treshi dummy
 	.org 0x1D9408EF
-		.ascii "...", 0
-		.byte 0x00, 0x00, 0x00
+	.area 5, 0
+		.asciiz "..."
+	.endarea
 		
 	; Quest info capitalize zone
 	.org 0x12C41E3C
-		.ascii "Zone:", 0
+	.area 5, 0
+		.asciiz "Zone:"
+	.endarea
+	
+	; Changed Muscot to Muscat
+	.org 0x1D2DE17B
+	.area 6, 0
+		.asciiz "Muscat"
+	.endarea
 		
 	; "The Desert Plesioth" Supplies Fix
 	.org 0x1D3C2A94
