@@ -9,7 +9,7 @@ All-in-One patch that includes the following:
   - ### Full English Patch (Portable)
     > Port of the English text from Freedom with some adjustments to fit the format of Portable. Included as a .xdelta patch for both DX and Vanilla.
   - ### Event Quest Loader
-    > Read event quests from an external file.
+    > Read event quests from an external file. If EVENT.bin does not exist, uses the internal downloaded quests. Download menu now automatically directs to the MHOldschool Server. (Portable only)
   - ### Hold to Gather
     > Allows you to simply press and hold the gather button when crouched. Configurable. Ported from cheat by YuzucchiNyan.
   - ### File Replacer
@@ -110,48 +110,48 @@ All-in-One patch that includes the following:
 					<td valign="top">
 						<div align="left">
 							<table>
-							  <tr><th>Possible<br>Ingredients</th></tr>
-							  <tr><td>Bran &#9733;&#9733;&#9733;<br>Drnk &#9733;&#9733;<br>Info Lvl -</td></tr>
-							  <tr><td>Veg &#9733;&#9733;&#9733;<br>Oil &#9733;&#9733;<br>Info Lvl -</td></tr>
-							  <tr><td>Fish &#9733;&#9733;&#9733;<br>Milk &#9733;&#9733;<br>Info Lvl -</td></tr>
-							  <tr><td>Oil &#9733;&#9733;&#9733;<br>Drnk &#9733;&#9733;&#9733;<br>Info Lvl -</td></tr>
-							  <tr><td>Fish &#9733;<br>Bran &#9733;&#9733;<br>Info Lvl &#9733;&#9733;</td></tr>
-							  <tr><td>Meat &#9733;<br>Fish &#9733;&#9733;<br>Info Lvl &#9733;&#9733;</td></tr>
-							  <tr><td>Veg &#9733;&#9733;<br>Bran &#9733;<br>Info Lvl &#9733;&#9733;</td></tr>
-							  <tr><td>Meat &#9733;&#9733;<br>Veg &#9733;<br>Info Lvl &#9733;&#9733;</td></tr>
-							  <tr><td>Oil &#9733;&#9733;&#9733;<br><br>Info Lvl &#9733;&#9733;&#9733;</td></tr>
-							  <tr><td>Milk &#9733;&#9733;&#9733;<br><br>Info Lvl &#9733;&#9733;&#9733;</td></tr>
-							  <tr><td>Drnk &#9733;&#9733;&#9733;<br><br>Info Lvl &#9733;&#9733;&#9733;</td></tr>
+							  <tr><th><sub>Possible<br>Ingredients</th></tr>
+							  <tr><td><sub>Bran &#9733;&#9733;&#9733;<br>Drnk &#9733;&#9733;<br>Info Lvl -</sub></td></tr>
+							  <tr><td><sub>Veg &#9733;&#9733;&#9733;<br>Oil &#9733;&#9733;<br>Info Lvl -</sub></td></tr>
+							  <tr><td><sub>Fish &#9733;&#9733;&#9733;<br>Milk &#9733;&#9733;<br>Info Lvl -</sub></td></tr>
+							  <tr><td><sub>Oil &#9733;&#9733;&#9733;<br>Drnk &#9733;&#9733;&#9733;<br>Info Lvl -</sub></td></tr>
+							  <tr><td><sub>Fish &#9733;<br>Bran &#9733;&#9733;<br>Info Lvl &#9733;&#9733;</sub></td></tr>
+							  <tr><td><sub>Meat &#9733;<br>Fish &#9733;&#9733;<br>Info Lvl &#9733;&#9733;</sub></td></tr>
+							  <tr><td><sub>Veg &#9733;&#9733;<br>Bran &#9733;<br>Info Lvl &#9733;&#9733;</sub></td></tr>
+							  <tr><td><sub>Meat &#9733;&#9733;<br>Veg &#9733;<br>Info Lvl &#9733;&#9733;</sub></td></tr>
+							  <tr><td><sub>Oil &#9733;&#9733;&#9733;<br><br>Info Lvl &#9733;&#9733;&#9733;</sub></td></tr>
+							  <tr><td><sub>Milk &#9733;&#9733;&#9733;<br><br>Info Lvl &#9733;&#9733;&#9733;</sub></td></tr>
+							  <tr><td><sub>Drnk &#9733;&#9733;&#9733;<br><br>Info Lvl &#9733;&#9733;&#9733;</sub></td></tr>
 							</table>
 						</div>
 					</td>
 					<td valign="top">
 						<div align="left">
 							<table align="left">
-								<tr><th>Possible<br>Lineages</th></tr>
-								<tr><td>Grape</td></tr>
-								<tr><td>Muscat</td></tr>
-								<tr><td>Moody</td></tr>
-								<tr><td>Red Tiger</td></tr>
-								<tr><td>Cherry</td></tr>
-								<tr><td>Blue</td></tr>
-								<tr><td>Gold</td></tr>
-								<tr><td>Purple</td></tr>
-								<tr><td>Deep Sea</td></tr>
+								<tr><th><sub>Possible<br>Lineages</sub></th></tr>
+								<tr><td><sub>Grape</sub></td></tr>
+								<tr><td><sub>Muscat</sub></td></tr>
+								<tr><td><sub>Moody</sub></td></tr>
+								<tr><td><sub>Red Tiger</sub></td></tr>
+								<tr><td><sub>Cherry</sub></td></tr>
+								<tr><td><sub>Blue</sub></td></tr>
+								<tr><td><sub>Gold</sub></td></tr>
+								<tr><td><sub>Purple</sub></td></tr>
+								<tr><td><sub>Deep Sea</sub></td></tr>
 							</table>
 						</div>
 					</td>
 					<td valign="top">
 						<div align="left">
 							<table align="left">
-								<tr><th>Possible<br>Skill Sets</th></tr>
-								<tr><td>Felyne Blunt Force<br>Felyne Aim<br>Felyne Combine[Hi]</td></tr>
-								<tr><td>Felyne Heroics<br>Felyne Culinary Arts<br>Felyne Gathering</td></tr>
-								<tr><td>Felyne Woodwinds<br>Felyne Strongcat<br>Felyne Supercat</td></tr>
-								<tr><td>Ultra Lucky Cat<br>Ultra Lucky Cat<br>Mega Lucky Cat</td></tr>
-								<tr><td>Felyne Great Break<br>Felyne Strongcat<br>Felyne Combine[Hi]</td></tr>
-								<tr><td>Felyne Throw<br>Felyne Courage<br>FelyneDismantle[Hi]</td></tr>
-								<tr><td>Felyne Charisma<br>Felyne Blunt Force<br>Felyne Throw</td></tr>
+								<tr><th><sub>Possible<br>Skill Sets</sub></th></tr>
+								<tr><td><sub>Felyne Blunt Force<br>Felyne Aim<br>Felyne Combine[Hi]</sub></td></tr>
+								<tr><td><sub>Felyne Heroics<br>Felyne Culinary Arts<br>Felyne Gathering</sub></td></tr>
+								<tr><td><sub>Felyne Woodwinds<br>Felyne Strongcat<br>Felyne Supercat</sub></td></tr>
+								<tr><td><sub>Ultra Lucky Cat<br>Ultra Lucky Cat<br>Mega Lucky Cat</sub></td></tr>
+								<tr><td><sub>Felyne Great Break<br>Felyne Strongcat<br>Felyne Combine[Hi]</sub></td></tr>
+								<tr><td><sub>Felyne Throw<br>Felyne Courage<br>FelyneDismantle[Hi]</sub></td></tr>
+								<tr><td><sub>Felyne Charisma<br>Felyne Blunt Force<br>Felyne Throw</sub></td></tr>
 							</table>
 						</div>
 					</td>
@@ -272,7 +272,7 @@ All-in-One patch that includes the following:
 ## Usage
 Place the `FDXDAT` folder in `ms0:/PSP/SAVEDATA/` and apply the ISO patch with either [DeltaPatcher](https://www.romhacking.net/utilities/704/) (PC) or [UniPatcher](https://play.google.com/store/apps/details?id=org.emunix.unipatcher&pcampaignid=web_share) (Android) to your respective version.
 
-Unlike my EventQuestLoader, event quests are now stored in `FDXDAT/EVENT.BIN`.
+Event quests are stored in `FDXDAT/EVENT.BIN`.
 
 ## Config Editor
 Use [this](https://silverjolteon.github.io/FreedomDX/config_editor.html) online tool to make edits to your CONFIG.BIN.
