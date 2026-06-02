@@ -1,5 +1,5 @@
 #------------------------------------------------------------
-VERSION = "v1.8.4"
+VERSION = "v1.8.4a"
 ENGLISH_PATCH = 1
 QUESTS_LANG = "EN"
 VANILLA_MODE = 0
