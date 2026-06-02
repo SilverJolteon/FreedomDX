@@ -104,13 +104,66 @@ All-in-One patch that includes the following:
           <td>-</td>
         </tr>
         <tr>
-          <td><b>Wandering Chef (Barrel Cat)</b></td>
+          <td><b>Wandering Chef (Barrel Cat)<br>Appears with early access to the following:</b><br><br>
+			<table>
+				<tr>
+					<td valign="top">
+						<div align="left">
+							<table>
+							  <tr><th>Possible<br>Ingredients</th></tr>
+							  <tr><td>Bran &#9733;&#9733;&#9733;<br>Drnk &#9733;&#9733;<br>Info Lvl -</td></tr>
+							  <tr><td>Veg &#9733;&#9733;&#9733;<br>Oil &#9733;&#9733;<br>Info Lvl -</td></tr>
+							  <tr><td>Fish &#9733;&#9733;&#9733;<br>Milk &#9733;&#9733;<br>Info Lvl -</td></tr>
+							  <tr><td>Oil &#9733;&#9733;&#9733;<br>Drnk &#9733;&#9733;&#9733;<br>Info Lvl -</td></tr>
+							  <tr><td>Fish &#9733;<br>Bran &#9733;&#9733;<br>Info Lvl &#9733;&#9733;</td></tr>
+							  <tr><td>Meat &#9733;<br>Fish &#9733;&#9733;<br>Info Lvl &#9733;&#9733;</td></tr>
+							  <tr><td>Veg &#9733;&#9733;<br>Bran &#9733;<br>Info Lvl &#9733;&#9733;</td></tr>
+							  <tr><td>Meat &#9733;&#9733;<br>Veg &#9733;<br>Info Lvl &#9733;&#9733;</td></tr>
+							  <tr><td>Oil &#9733;&#9733;&#9733;<br><br>Info Lvl &#9733;&#9733;&#9733;</td></tr>
+							  <tr><td>Milk &#9733;&#9733;&#9733;<br><br>Info Lvl &#9733;&#9733;&#9733;</td></tr>
+							  <tr><td>Drnk &#9733;&#9733;&#9733;<br><br>Info Lvl &#9733;&#9733;&#9733;</td></tr>
+							</table>
+						</div>
+					</td>
+					<td valign="top">
+						<div align="left">
+							<table align="left">
+								<tr><th>Possible<br>Lineages</th></tr>
+								<tr><td>Grape</td></tr>
+								<tr><td>Muscat</td></tr>
+								<tr><td>Moody</td></tr>
+								<tr><td>Red Tiger</td></tr>
+								<tr><td>Cherry</td></tr>
+								<tr><td>Blue</td></tr>
+								<tr><td>Gold</td></tr>
+								<tr><td>Purple</td></tr>
+								<tr><td>Deep Sea</td></tr>
+							</table>
+						</div>
+					</td>
+					<td valign="top">
+						<div align="left">
+							<table align="left">
+								<tr><th>Possible<br>Skill Sets</th></tr>
+								<tr><td>Felyne Blunt Force<br>Felyne Aim<br>Felyne Combine[Hi]</td></tr>
+								<tr><td>Felyne Heroics<br>Felyne Culinary Arts<br>Felyne Gathering</td></tr>
+								<tr><td>Felyne Woodwinds<br>Felyne Strongcat<br>Felyne Supercat</td></tr>
+								<tr><td>Ultra Lucky Cat<br>Ultra Lucky Cat<br>Mega Lucky Cat</td></tr>
+								<tr><td>Felyne Great Break<br>Felyne Strongcat<br>Felyne Combine[Hi]</td></tr>
+								<tr><td>Felyne Throw<br>Felyne Courage<br>FelyneDismantle[Hi]</td></tr>
+								<tr><td>Felyne Charisma<br>Felyne Blunt Force<br>Felyne Throw</td></tr>
+							</table>
+						</div>
+					</td>
+				</tr>
+			</table>
+		  </td>
           <td>Appears once per connection.</td>
           <td>~12.5% chance to appear after each quest.</td>
           <td>Kitchen</td>
         </tr>
 		<tr>
-          <td><b>Granny has her full stock of items</b></td>
+          <td><b>Granny has her extended stock of items</b></td>
           <td>Once per connection.</td>
           <td>~25% chance after each quest.</td>
           <td>-</td>
