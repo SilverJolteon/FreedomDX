@@ -301,25 +301,25 @@ TaskOffset				equ 0x098D4FA0
 	
 	; Dengeki Ticket
 	.org 0x12C4AF25
-	.area 10, 0
+	.area 11, 0
 		.asciiz "DengekiTkt"
 	.endarea
 		
 	; Treshi dummy
 	.org 0x1D9408EF
-	.area 5, 0
+	.area 6, 0
 		.asciiz "..."
 	.endarea
 		
 	; Quest info capitalize zone
 	.org 0x12C41E3C
-	.area 5, 0
+	.area 6, 0
 		.asciiz "Zone:"
 	.endarea
 	
 	; Changed Muscot to Muscat
 	.org 0x1D2DE17B
-	.area 6, 0
+	.area 7, 0
 		.asciiz "Muscat"
 	.endarea
 		

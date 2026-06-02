@@ -301,41 +301,41 @@ TaskOffset				equ 0x098D5D20
 		
 	; Dengeki Ticket
 	.org 0x12C4B03A
-	.area 10, 0
+	.area 11, 0
 		.asciiz "DengekiTkt"
 	.endarea
 		
 	; Treshi dummy
 	.org 0x1E0A90F4 ; EN
-	.area 5, 0
+	.area 6, 0
 		.asciiz "..."
 	.endarea
 	.org 0x1E0B311F ; FR
-	.area 7, 0
-		.asciiz "..."
-	.endarea
-	.org 0x1E0BD4D2 ; DE
 	.area 8, 0
 		.asciiz "..."
 	.endarea
+	.org 0x1E0BD4D2 ; DE
+	.area 9, 0
+		.asciiz "..."
+	.endarea
 	.org 0x1E0C712D ; IT
-	.area 10, 0
+	.area 11, 0
 		.asciiz "..."
 	.endarea
 	.org 0x1E0D083E ; ES
-	.area 5, 0
+	.area 6, 0
 		.asciiz "..."
 	.endarea
 
 	; Quest info capitalize zone
 	.org 0x12C41E49
-	.area 5, 0
+	.area 6, 0
 		.asciiz "Zone:"
 	.endarea
 	
 	; Changed Muscot to Muscat
 	.org 0x1D92C1D4
-	.area 6, 0
+	.area 7, 0
 		.asciiz "Muscat"
 	.endarea
 		
