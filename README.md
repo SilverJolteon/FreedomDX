@@ -9,7 +9,7 @@ All-in-One patch that includes the following:
   - ### Full English Patch (Portable)
     > Port of the English text from Freedom with some adjustments to fit the format of Portable. Included as a .xdelta patch for both DX and Vanilla.
   - ### Event Quest Loader
-    > Read event quests from an external file.
+    > Read event quests from an external file. If EVENT.bin does not exist, uses the internal downloaded quests. Download menu now automatically directs to the MHOldschool Server. (Portable only)
   - ### Hold to Gather
     > Allows you to simply press and hold the gather button when crouched. Configurable. Ported from cheat by YuzucchiNyan.
   - ### File Replacer
@@ -272,7 +272,7 @@ All-in-One patch that includes the following:
 ## Usage
 Place the `FDXDAT` folder in `ms0:/PSP/SAVEDATA/` and apply the ISO patch with either [DeltaPatcher](https://www.romhacking.net/utilities/704/) (PC) or [UniPatcher](https://play.google.com/store/apps/details?id=org.emunix.unipatcher&pcampaignid=web_share) (Android) to your respective version.
 
-Unlike my EventQuestLoader, event quests are now stored in `FDXDAT/EVENT.BIN`.
+Event quests are stored in `FDXDAT/EVENT.BIN`.
 
 ## Config Editor
 Use [this](https://silverjolteon.github.io/FreedomDX/config_editor.html) online tool to make edits to your CONFIG.BIN.
