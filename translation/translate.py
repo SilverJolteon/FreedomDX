@@ -110,8 +110,7 @@ def translate(build_dir):
     injector.buildASM(build_dir, 50, "download_task")
     injector.buildASM(build_dir, 51, "lobby_task")
     injector.buildASM(build_dir, 54, "arcade_task")
-    # Might crash game
-    #injector.buildASM(build_dir, 56, "game_sub_task")
+    injector.buildASM(build_dir, 56, "game_sub_task")
         
     path = os.path.join("translation", "data")
     

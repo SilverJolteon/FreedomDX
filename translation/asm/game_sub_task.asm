@@ -8,7 +8,7 @@
 		j			EndScreenFormat
 		nop		
 	
-	.org 0x09AC7C40
+	.org 0x09AC7C3C
 	EndScreenFormat:
 		lui			v1, 0x0897
 		ori			v1, v1, 0xA328
@@ -25,8 +25,7 @@
 		beq			v0, zero, ESFBranch1
 		nop
 		addiu		v0, s0, 0x1
-		j			0x09AC38AC
-		nop
+		seh			s0, v0
 	ESFBranch1:
 		j			0x09AC38B0
 		nop
