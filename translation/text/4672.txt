@@ -1,0 +1,330 @@
+
+~C00About Weapons
+  About Sharpness
+  Sword Usage
+  Dual Blades Usage
+  Great Sword Usage
+  Lance Usage
+  Hammer Usage
+  Bowgun Usage
+Hunter Basics: Viewing Your Surroundings
+This is the village chief, also known as<NEWLINE>the ~C05Hero of Kokoto~C00. I'll be guiding you<NEWLINE>through your first quests.<NEWLINE>You're standing in the ~C05base camp~C00 right<NEWLINE>now. This is where your quest begins.
+Let's take a look at the basic controls.<NEWLINE>If you want to call yourself a hunter,<NEWLINE>you've got to master the fundamentals!<NEWLINE>~C06Analog stick: Move character<NEWLINE>Tap the ~B04 button: Center camera viewpoint
+To be a good hunter you must always be<NEWLINE>aware of your surroundings! Make a habit <NEWLINE>of pressing the ~C05~B04 button frequently, so <NEWLINE>you can stay one step ahead of your quarry~C00.
+You'll find a ~C05Supply Box~C00, a ~C05Delivery Box~C00,<NEWLINE>and a ~C05bed~C00 at the base camp. Try<NEWLINE>using the ~B04 button as you look around for<NEWLINE>them.
+About the Supply Box
+That is the ~C05Supply Box~C00. It contains<NEWLINE>~C05useful items~C00 that will aid you on your<NEWLINE>journey. Be sure to take a look in there<NEWLINE>whenever you start a new quest.<NEWLINE>~C06~B00 button: View contents of Supply Box
+Use the ~C05~B01 button to remove items~C00 from<NEWLINE>the Supply Box ~C05and place them in your<NEWLINE>personal inventory~C00.
+If you take the ~C05Map~C00 from the Supply Box,<NEWLINE>you can ~C05see an overview of the region~C00.
+After checking over the gear at camp, take a<NEWLINE>look at the map and try ~C05moving into Zone<NEWLINE>1~C00. ~C06The red mark on the map indicates<NEWLINE>your current position~C00.<NEWLINE>Press the START button to open the menu.<NEWLINE>~C06Select Map Zoom~C00 and you can<NEWLINE>~C06change the size of the map~C00.
+About Beds
+This is a bed where you can rest up and<NEWLINE>~C05restore your Health~C00. It's a godsend<NEWLINE>when you don't have any recovery items.<NEWLINE>~C06~B00 button: Rest in bed<NEWLINE>The green gauge is your Health gauge~C00.
+About the Delivery Box
+This here is the ~C05Delivery Box~C00.<NEWLINE>Put the ~C05requested items~C00 for a quest<NEWLINE>~C05inside the box~C00 to complete your task.<NEWLINE>~C06~B00 button: Place items in Delivery Box
+Hunter Basics: Hunting
+To become a hunter you must hunt!<NEWLINE>You won't last long if you don't master<NEWLINE>hunting. The region you're in now is home <NEWLINE>to ~C05relatively docile herbivorous monsters~C00.
+Let's try hunting an ~C05Aptonoth~C00 for<NEWLINE>some weapons practice. These fellas<NEWLINE>are ~C05skittish~C00. If they run, use the<NEWLINE>~B04 button to keep your attacks focused.<NEWLINE>~C06Tap the ~B04 button: Center camera viewpoint<NEWLINE>Analog stick + ~B01 button: Quick roll
+About Weapons Usage
+No matter how powerful a weapon may be,<NEWLINE>its edge will always become dull and<NEWLINE>pitted with use. However, this damage<NEWLINE>can be repaired by sharpening it.<NEWLINE>Always keep an eye on your weapon's<NEWLINE>~C05Sharpness~C00!
+Swords, Great Swords, Lances, Hammers, and<NEWLINE>Dual Blades lose effectiveness ~C05as their<NEWLINE>Sharpness decreases~C00. The worse the<NEWLINE>condition, the more likely your ~C05blows will<NEWLINE>be deflected~C00 by the harder parts of a<NEWLINE>monster's carapace.
+Of course, you can use items like the<NEWLINE>~C05Mini Whetstone~C00 to ~C05sharpen a dull weapon~C00.<NEWLINE>~C06Hold down ~B04 button<NEWLINE> + ~B03 button or ~B00 button: Select item<NEWLINE>~B03 button: Use item
+~C00Check the blade-shaped icon on the upper<NEWLINE>left of the screen to view the Sharpness<NEWLINE>of your weapon. If it flashes red and the<NEWLINE>icon is pitted, it means your weapon has<NEWLINE>lost its edge.<NEWLINE>~C05Icon at upper left indicates Sharpness.
+~C00No matter how powerful your weapon,<NEWLINE>it'll become next to useless if you<NEWLINE>don't pay attention to its ~C05Sharpness~C00!<NEWLINE>Don't forget what I've told you.
+To become a hunter you must hunt!<NEWLINE>You won't last long if you don't master<NEWLINE>hunting. Let's try using a Sword.<NEWLINE>~C06~B02 button: Draw sword<NEWLINE>~B05 button while sword is drawn: Guard<NEWLINE>~B03 button: Sheathe sword
+~C00Now let's try attacking.<NEWLINE>~C06~B02 button: Slice down<NEWLINE>~B00 button: Spin-slice<NEWLINE>~B02 button + ~B00 button: Jumping attack<NEWLINE>~C00Press the ~B02 button in a set<NEWLINE>pattern for ~C05combo attacks~C00.
+Swords are known for their attack speed<NEWLINE>and the fact that you can run while<NEWLINE>they're drawn. You'll find they work<NEWLINE>better than other weapons when fighting <NEWLINE>fast-moving monsters.
+By strengthening a sword, it may be crafted<NEWLINE>into Dual Blades. While it may be too early <NEWLINE>for this, I'd like to cover Dual Blade usage. <NEWLINE>~C06~B02 button: Draw blades<NEWLINE>~B05 button while swords are drawn: Demonize<NEWLINE>~B05 button while demonized: Release demon<NEWLINE>~B03 button: Sheathe blades.
+~C00Now let's try attacking.<NEWLINE>~C06~B02 button: Slice down<NEWLINE>~B00 button: Spin-slice<NEWLINE>~B02 button + ~B00 button: Thrust attack<NEWLINE>~C00Like a sword, you can press the ~B02 button<NEWLINE>in a set pattern for ~C05combo attacks~C00.
+The main characteristic of Dual Blades is the<NEWLINE>ability to Demonize and create strong combo<NEWLINE>attacks. However, watch your stamina! It falls<NEWLINE>rapidly during Demonization. Remember you must<NEWLINE>~C05cancel Demonization~C00 even after you are<NEWLINE>~C05defeated or sheathe your weapon.~C00
+To become a hunter you must hunt!<NEWLINE>You won't last long if you don't master<NEWLINE>hunting. Let's try using a Great Sword.<NEWLINE>~C06~B02 button: Draw sword<NEWLINE>~B05 button while sword is drawn: Guard<NEWLINE>~B03 button: Sheathe sword
+~C00Now let's try attacking.<NEWLINE>~C06~B02 button: Vertical slice<NEWLINE>~B00 button: Side-slice<NEWLINE>~B02 button + ~B00 button: Slice up<NEWLINE>~C00Join different attacks in a set<NEWLINE>pattern for ~C05combo attacks~C00.
+Great Swords are known for the Attack<NEWLINE>power their weight gives them. But that<NEWLINE>weight also adds to the time it takes<NEWLINE>to swing them. It also goes without saying<NEWLINE>that you can't run with one unsheathed.
+To become a hunter you must hunt!<NEWLINE>You won't last long if you don't master<NEWLINE>hunting. Let's try using a Lance.<NEWLINE>~C06~B02 button: Draw weapon<NEWLINE>~B05 button while brandishing a lance: Guard<NEWLINE>~B03 button: Sheathe weapon
+~C00Now let's try attacking.<NEWLINE>~C06~B02 button: Medium thrust<NEWLINE>~B00 button: Upper thrust<NEWLINE>~B02 button + ~B00 button: Charge<NEWLINE>~C00While brandishing a Lance ~C05press the<NEWLINE>~B01 button~C00 to perform a ~C05back-step~C00.
+Lances are known for making use of their<NEWLINE>length via mid-range attack ability. They also<NEWLINE>allow you to move and fight while keeping your<NEWLINE>Guard up.
+To become a hunter you must hunt!<NEWLINE>You won't last long if you don't master<NEWLINE>hunting. Let's try using a Hammer.<NEWLINE>~C06~B02 button: Draw weapon<NEWLINE>~B05 button while weapon is drawn: Charge power<NEWLINE>~B03 button: Sheathe weapon
+~C00Now let's try attacking.<NEWLINE>~C06~B02 button: Smash down<NEWLINE>~B00 button: Side-smash
+~C00Hammers are famed for the wide<NEWLINE>variety of attacks you can perform<NEWLINE>when they're charged with power.<NEWLINE>~C05The longer you hold the ~B05 button,<NEWLINE>the more power will be charged~C00.
+As for the attack variations, <NEWLINE>try using a Hammer and see for yourself!<NEWLINE>Oh, and one other thing: you can't use a<NEWLINE>Hammer to Guard against attacks.
+To become a hunter you must hunt!<NEWLINE>You won't last long if you don't master<NEWLINE>hunting. Let's try using a Bowgun.<NEWLINE>~C06~B02 button: Ready weapon<NEWLINE>~B03 button: Sheathe weapon
+Let's try attacking.<NEWLINE>~C06~B02 button: Reload<NEWLINE>~B04 button + directional button: Move sight<NEWLINE>~B00 button: Fire<NEWLINE>~B02 button + ~B00 button: Melee attack<NEWLINE>~C00When the word ~C05"RELOAD" appears<NEWLINE>at upper left, reload right away~C00!
+~C05For more precision, add a scope.<NEWLINE>~C06~B05 button: Switch to scope<NEWLINE>Analog stick: Move sight<NEWLINE>~C00Equipping the scope will allow you to zoom.<NEWLINE>~C06Directional button: Change magnification<NEWLINE>~C00You can switch between the normal view<NEWLINE>and the scope to match the situation.
+Remember, ~C05a Bowgun is useless without<NEWLINE>ammunition~C00! Try different types of<NEWLINE>ammunition with your Bowgun to see their<NEWLINE>different characteristics and effects.<NEWLINE>Some of the more specialized ones<NEWLINE>can only be obtained via combination.
+Carving up a Kill
+Well done, hunter!<NEWLINE>The monster you killed ~C05may<NEWLINE>contain some usable items~C00.<NEWLINE>~C06Press ~B00 button while on top<NEWLINE>of a fallen monster to "carve up"<NEWLINE>the body and obtain items~C00.
+~C00You'll find different items<NEWLINE>depending on the type of monster.<NEWLINE>Keep that in mind, as it's one of<NEWLINE>the fundamentals of becoming a hunter!
+Hunter Basics: Survival Skills
+To become a hunter you must take care<NEWLINE>of yourself. You won't last long if<NEWLINE>you don't keep that in mind!
+You can ~C05cook the Raw Meat~C00 you<NEWLINE>obtain from carving up monsters to<NEWLINE>make it edible.
+Take the ~C05Portable Spit~C00<NEWLINE>from the Supply Box with you when<NEWLINE>you go out hunting!
+Sprinting
+You can ~C05Sprint~C00 by holding the ~C05~B05 button<NEWLINE>while moving~C00. However, Sprinting ~C05expends<NEWLINE>Stamina~C00, so keep an eye on your <NEWLINE>~C05Stamina gauge~C00.<NEWLINE>~C06Analog stick + ~B05 button: Sprint<NEWLINE>~C05The yellow gauge is your Stamina gauge~C00.
+As time goes by, the maximum limit of<NEWLINE>your Stamina gauge will decrease. This<NEWLINE>indicates your ~C05hunger level~C00. If it<NEWLINE>drops too low, you won't be able to Sprint,<NEWLINE>so don't let your ~C05food items~C00 run out!
+How to Barbecue
+It looks like you have what it takes<NEWLINE>to be a hunter! Now, carve up your kill,<NEWLINE>and cook the ~C05Raw Meat ~C00on your<NEWLINE>~C05Portable Spit~C00!<NEWLINE>~C06 Hold ~B04 button + ~B03 or ~B00: Select item<NEWLINE>~B03 button: Use item
+~C00Cooking meat is all in the timing.<NEWLINE>~C05Press the ~B00 button just after the<NEWLINE>music stops (the moment the color of the<NEWLINE>meat changes)~C00. If you ~C05press the ~B00 button<NEWLINE>at the right time~C00, you'll have a perfect<NEWLINE>~C05Well-Done Steak~C00!
+You can ~C05eat~C00 the meat that<NEWLINE>you just cooked by pressing the<NEWLINE>~C06~B03 button to use the item~C00.<NEWLINE>~C05The better job you do of cooking<NEWLINE>it, the more your maximum Stamina<NEWLINE>will increase~C00.
+Abandoning a Quest
+If you want to abandon your quest,<NEWLINE>selecting ~C05Abandon Quest~C00 from the<NEWLINE>menu will return you to the village.
+However, when you abandon a quest, your<NEWLINE>status will be returned to ~C05exactly how<NEWLINE>it was before you left on the quest~C00.<NEWLINE>Deciding whether to abandon a quest is<NEWLINE>left entirely up to you.<NEWLINE>~C06START button: Open menu
+Hunter Basics: Searching
+To become a hunter you must learn how<NEWLINE>to search for items. You won't last long<NEWLINE>if you don't master searching!
+Find the requested items in the region,<NEWLINE>and put them in the Delivery Box.<NEWLINE>One of your requested items, the ~C05Spiderweb~C00,<NEWLINE>can be found somewhere in ~C05Zone 6~C00.
+The other requested item, an ~C05Herb~C00,<NEWLINE>is out there somewhere too. Search under<NEWLINE>trees and among the tall grass in the zones<NEWLINE>that you can access.<NEWLINE>And make sure you don't get lost!
+Every quest has a ~C05time limit~C00.<NEWLINE>For this quest, you've got ~C0550 minutes~C00<NEWLINE>to find the items and ~C05place them<NEWLINE>inside the Delivery Box~C00.<NEWLINE>~C06Time remaining is shown in the upper left~C00.
+Obtaining Items
+The wilds are a treasure trove of items.<NEWLINE>If you see anything out of the ordinary,<NEWLINE>be sure to search the area.<NEWLINE>~C06Press ~B00 button while your weapon is<NEWLINE>sheathed: Search for items~C00.
+Climbing Cliffs and Vines
+~C05Areas with low cliffs or hanging vines~C00<NEWLINE>can be ~C05climbed~C00.<NEWLINE>~C06Press ~B00 button when facing the<NEWLINE>cliff or vine to climb it~C00.
+Hunter Basics: Item Combination
+To become a hunter you must learn how<NEWLINE>to combine items. You won't last<NEWLINE>long if you don't master combination!<NEWLINE>Search for an ~C05Herb~C00 and a<NEWLINE>~C05Blue Mushroom~C00, and ~C05combine the<NEWLINE>two materials~C00 to create a ~C06Potion~C00.
+Search around the region in underbrush<NEWLINE>and in the shadows of trees.<NEWLINE>And be careful that you don't get<NEWLINE>yourself lost!
+The time limit is 50 minutes.<NEWLINE>Don't forget to ~C05place the completed<NEWLINE>"Potion" ~C05into the Delivery Box~C00!
+About Combining
+Combination involves ~C05taking two materials<NEWLINE>and combining them to make something<NEWLINE>entirely new~C00. To carry this out, just select<NEWLINE>~C05Combine~C00 from the menu.<NEWLINE>~C06START button: Open menu
+~C00Once you get the hang of it, you can<NEWLINE>use materials you find in the field to<NEWLINE>make new items on the spot. However, each<NEWLINE>combination has a ~C05difficulty level~C00.<NEWLINE>~C05The higher the difficulty, the lower the<NEWLINE>success rate~C00.
+~C05When you successfully make a new item<NEWLINE>for the first time, its "recipe" will be<NEWLINE>added to your Combo List~C00.<NEWLINE>Try different combinations and see what you<NEWLINE>can make!
+Hunter Basics: Fishing
+To become a hunter you must learn how<NEWLINE>to fish. You won't last long if you<NEWLINE>don't master fishing!
+You'll find areas called ~C05Fishing Points~C00<NEWLINE>scattered throughout the wilds, generally<NEWLINE>around streams and lakes. Keep your eyes<NEWLINE>peeled and look out for fish in the water!<NEWLINE>If you're carrying ~C05bait~C00, you can<NEWLINE>try fishing at these ~C05Fishing Points~C00.
+Find a Fishing Point, catch a ~C05Sushifish~C00,<NEWLINE>and bring it back to the Delivery Box.<NEWLINE>If you search hard enough you will find<NEWLINE>~C05Worms ~C00and ~C05Crickets~C00 to use as bait.
+There's a Fishing Point right here in<NEWLINE>camp as well, but you can't catch any<NEWLINE>~C05Sushifish ~C00there. You will find them<NEWLINE>at a ~C05Fishing Point located in the<NEWLINE>upper left of the map~C00. Good luck!
+How to Fish
+~C05When you're close to a Fishing Point,<NEWLINE>the Å~ mark next to the bait item icon<NEWLINE>will disappear~C00, meaning you can fish<NEWLINE>in that area. When the Å~ mark disappears,<NEWLINE>press the ~C06~B03 button to use the item and<NEWLINE>start fishing~C00.
+The trick to fishing is watching the<NEWLINE>movement of the fish and keeping a<NEWLINE>close eye on the ~C05bobber~C00.<NEWLINE>~C05Press the ~B01 button the moment the<NEWLINE>bobber sinks~C00!
+If you're too slow, the fish will<NEWLINE>~C05take the bait and run~C00, so you<NEWLINE>have to be on your toes.
+Hunter Basics: Winning the Battle
+To become a hunter you must defeat your<NEWLINE>foes. You won't last long if you don't<NEWLINE>master combat!
+The ~C05Velociprey~C00 you're stalking<NEWLINE>are ~C05carnivores~C00. These monsters are<NEWLINE>known for their sharp claws and<NEWLINE>blue skin. Stay alert, pay attention to<NEWLINE>your surroundings, and take them down!
+Reward Money
+You probably already know this, but<NEWLINE>every quest has a corresponding reward.<NEWLINE>However, ~C05if you fall in combat during<NEWLINE>a quest, the reward is reduced by 1/3~C00.<NEWLINE>~C06When your Health drops to zero,<NEWLINE>you will fall unconscious~C00.
+This means that ~C05if you fall in combat<NEWLINE>three times~C00, your reward is reduced to<NEWLINE>zero, and ~C05you fail the quest~C00.
+On the other hand, ~C05if you can finish a<NEWLINE>quest without falling in combat once,<NEWLINE>you'll get the full reward amount~C00. When<NEWLINE>you're hunting carnivores in particular,<NEWLINE>be sure to keep an eye on your Health.
+Confirming Quest Details
+You can select ~C05Quest Info~C00 from<NEWLINE>the menu to confirm the ~C05conditions<NEWLINE>required to complete a quest~C00, such as<NEWLINE>the number of monsters you need to kill or<NEWLINE>items you need to deliver.<NEWLINE>~C06START button: Open menu
+Carving up a Kill
+You can carve up carnivores to obtain<NEWLINE>items, just like with other monsters.<NEWLINE>~C05Materials you obtain this way can be<NEWLINE>taken to the Crafting Shop in the village<NEWLINE>for use in creating <NEWLINE>or improving your equipment~C00.
+If you want to take on more powerful<NEWLINE>monsters, you'll have to improve your<NEWLINE>weapons and equipment to make them<NEWLINE>stronger! Got it?
+Hunter Basics: Item Gathering
+This time, I'd like you to find an<NEWLINE>item called a ~C05Special Mushroom~C00 in<NEWLINE>the field and deliver some back here.
+Where can you find ~C05Special Mushrooms~C00?<NEWLINE>For the answer to that, you'd do well<NEWLINE>to follow a ~C05Mosswine~C00! They've got<NEWLINE>~C05a nose for ~C05Special Mushrooms~C00. Watch<NEWLINE>their behavior and you might get lucky!
+And while it's not part of the quest,<NEWLINE>it'd be a good idea to get a feel for<NEWLINE>using tools to find other items. Try<NEWLINE>out the ~C05Old Pickaxe~C00 and ~C05Old<NEWLINE>Bugnet~C00 in your Supply Box.
+When you're in the field, experiment and<NEWLINE>try to figure out what they're used for.
+About Bug Collecting
+When you're out in the wilds, you'll see<NEWLINE>areas with floating yellow lights.<NEWLINE>Those are ~C05Bugnet Points~C00.<NEWLINE>If you wave a ~C05Bugnet~C00 there,<NEWLINE>you can find ~C05all sorts of bugs~C00.
+You can use the bugs you catch as<NEWLINE>~C05ingredients for combining~C00.
+About Mining
+In caves and on the rocky places you<NEWLINE>find in the field, you can find cracks<NEWLINE>to use as ~C05Mining Points~C00.<NEWLINE>Try using your ~C05Pickaxe~C00 on them<NEWLINE>and you can find ~C05all sorts of ore~C00.
+This is one of the most important<NEWLINE>aspects of being a hunter. You can<NEWLINE>use the ore you find for ~C05creating<NEWLINE>new equipment~C00 or ~C05improving your<NEWLINE>weapons~C00.
+Using Bugnets
+When you're near a ~C05Bugnet Point~C00,<NEWLINE>the Å~ mark over the Bugnet item icon will<NEWLINE>disappear, meaning that you can use<NEWLINE>your ~C05Bugnet~C00. When this happens,<NEWLINE>press the ~C05~B03 button ~C00to begin<NEWLINE>waving your ~C05Bugnet~C00!
+Also, ~C05it's possible to collect bugs even<NEWLINE>in places without the floating lights~C00.<NEWLINE>Just pay attention to whether you can<NEWLINE>use the ~C05Bugnet ~C00or not when you're<NEWLINE>searching around.
+There are various levels of ~C05Bugnet~C00.<NEWLINE>~C05The cheaper they are, the easier they<NEWLINE>rip~C00. Expensive ones are more durable.<NEWLINE>You should keep this in mind.
+Using Pickaxes
+When you're near a ~C05Mining Point~C00,<NEWLINE>the Å~ mark over the Pickaxe item icon will<NEWLINE>disappear, meaning that you can use<NEWLINE>your ~C05Pickaxe~C00. When this happens, <NEWLINE>press the ~C06~B03 button ~C00to begin<NEWLINE>swinging your ~C05Pickaxe~C00!
+There are various levels of ~C05Pickaxe~C00.<NEWLINE>~C05The cheaper they are, the easier they<NEWLINE>break~C00. Expensive ones are more durable.<NEWLINE>Obvious, I know, but worth remembering.
+Hunter Basics: Recovering from Injury
+It appears that there are ~C05Wyvern Eggs<NEWLINE>~C05in a nest in Zone 5~C00. The only problem<NEWLINE>is, a ~C05Rathalos~C00 has been seen guarding<NEWLINE>the area.
+They're far too powerful for you to<NEWLINE>face one-on-one. So if you encounter<NEWLINE>one, don't try and fight back, just get<NEWLINE>out of there at once!
+Remember, hunters who know when to run<NEWLINE>away can live to fight another day.<NEWLINE>Use your judgment and ~C05run~C00 whenever<NEWLINE>you feel it's necessary.<NEWLINE>I will pray for your safe return.
+Wyvern Tactics 1
+If a monster ~C05notices~C00 you, an<NEWLINE>~C05eye icon~C00 will appear on the left<NEWLINE>side of your screen.
+If you run into a monster, be sure to<NEWLINE>check whether or not they've noticed you.<NEWLINE>This is an ironclad rule!
+How to Carry Eggs
+~C05Press the ~B00 button when you're near<NEWLINE>an egg~C00 to pick it up.
+Eggs are very fragile. ~C05If you are<NEWLINE>attacked by a monster or fall from a high<NEWLINE>place, it will almost certainly break~C00.<NEWLINE>~C06Press the directional button up or down<NEWLINE>to switch the camera angle and check your <NEWLINE>surroundings~C00.
+Also, since carrying the egg will occupy<NEWLINE>both hands, ~C05drawing a weapon, using an<NEWLINE>item, or simply ~C06becoming fatigued~C00 from<NEWLINE>sprinting will cause you to drop the egg.<NEWLINE>Be very careful about the actions you take.
+Hunter Basics: Items in Combat
+~C05Velocidromes~C00 are powered-up versions<NEWLINE>of ~C05Velociprey~C00. Acting as the alpha<NEWLINE>monsters in a pack, they have higher<NEWLINE>Attack and Defense than ~C05Velociprey~C00.
+When they feel threatened,<NEWLINE>~C05Velocidromes ~C00tend to ~C05retreat to<NEWLINE>another zone to recover their Health~C00.<NEWLINE>If you want to avoid trouble, don't let<NEWLINE>them get away!
+Skilled hunters don't face off against<NEWLINE>monsters one-on-one, ~C05they fight using<NEWLINE>a wide range of items~C00.<NEWLINE>To stay one step ahead of a ~C05Velocidrome~C00,<NEWLINE>use your items very carefully.
+You'll find some ~C05Combat Support<NEWLINE>Items~C00 already in the Supply Box.<NEWLINE>Put them to good use.
+Flash Bombs
+~C05Flash Bombs ~C00stun monsters by dazzling<NEWLINE>them with a powerful flash of light.<NEWLINE>~C06Press the ~B03 button to throw a<NEWLINE>~C05Flash Bomb~C00.~C00 For best effect, keep<NEWLINE>practicing until you can set it off<NEWLINE>right before a monster's eyes.
+Small Barrel-Bombs
+A small and handy ~C05time bomb~C00.<NEWLINE>~C06Press the ~B03 button to place it~C00.<NEWLINE>Be careful. If you get caught in the blast,<NEWLINE>you'll be injured as well!
+Large Barrel-Bombs
+A powerful explosive that's ~C05triggered by<NEWLINE>an external impact~C00.<NEWLINE>~C06Press the ~B03 button to place it~C00.<NEWLINE>You can place up to ~C06two in a zone~C00.<NEWLINE>~C05Detonate them by using Stones, Small<NEWLINE>Barrel-Bombs, or a Bowgun Shell~C00.
+They're expensive so I can't supply you<NEWLINE>with any this time, but you should keep<NEWLINE>in mind that ~C05Large Barrel-Bombs ~C00are<NEWLINE>invaluable for fighting large monsters.
+Hunter Basics: Mortal Combat
+Hunters measure themselves by the number<NEWLINE>of battles they've survived. The<NEWLINE>~C05Yian Kut-Ku~C00 may be relatively weak for<NEWLINE>a wyvern, but don't let your guard down!<NEWLINE>If you successfully complete this quest,<NEWLINE>you'll have earned the title of "hunter".
+You'll find some Support Items<NEWLINE>in the Supply Box. Use them together<NEWLINE>with the skills you've learned to<NEWLINE>succeed in this, your first true hunt!
+You'll be in a totally new region.<NEWLINE>And the visibility will be poor.<NEWLINE>Overcome the obstacles before you<NEWLINE>and show us what you're made of!
+Paintballs
+~C05Paintballs ~C00can be ~C05thrown at a monster<NEWLINE>to mark it~C00. The monster will then<NEWLINE>appear as an icon on your map. ~C05Paintballs~C00<NEWLINE>are indispensable tools on a wyvern hunt.<NEWLINE>Throw a ~C05Paintball ~C00by ~C06pressing the<NEWLINE>~B03 button~C00.
+If you are successful in marking a monster,<NEWLINE>you can track it from afar. Furthermore, it<NEWLINE>will activate a ~C05skill~C00 called<NEWLINE>~C05Detect~C00, allowing you to know the<NEWLINE>condition of the distant wyvern. The ~C05Paint<NEWLINE>Shells~C00 of Gunners work in the exact same<NEWLINE>way.
+While the ~C05Detection Skill~C00 is active,<NEWLINE>you will know whether the ~C05monster is<NEWLINE>unaware of your presence via a blue<NEWLINE>marking~C00, or if the monster is in ~C05attack<NEWLINE>mode via a red marking~C00. The yellow<NEWLINE>portions on the map indicate the ~C05areas<NEWLINE>where wyverns are active~C00.
+Smoke Bombs
+An item used to ~C05conceal your position~C00.<NEWLINE>You can set off a ~C05Smoke Bomb ~C00by using the<NEWLINE>~C06~B03 button~C00. It isn't effective when<NEWLINE>wyverns are already in attack mode.<NEWLINE>Keep an eye on the status of the wyvern<NEWLINE>to use these to best effect.
+Raw Meat
+~C05Raw Meat ~C00is indispensable as ~C05bait for<NEWLINE>attracting wyverns~C00. Use the ~C06~B03 button~C00<NEWLINE>to place it. You can use the combination<NEWLINE>function to create new types with<NEWLINE>different effects. ~C05You can have up to<NEWLINE>three of these placed at one time~C00.
+Pitfall Traps
+An item that ~C05traps a wyvern to stop it<NEWLINE>from moving~C00. They're expensive, so you<NEWLINE>haven't been provided with one this time,<NEWLINE>but you can make your own by ~C05combining a<NEWLINE>~C05Net ~C05and a ~C05Trap Tool~C00.
+You can place a ~C05Pitfall Trap ~C00with the<NEWLINE>~C06~B03 button~C00.<NEWLINE>~C05You can only place one of these at a time~C00.
+After you place a ~C05Pitfall Trap~C00, the hard<NEWLINE>part is working out ~C05how to lead a wyvern<NEWLINE>into it~C00. There are many different<NEWLINE>ways. Try for yourself and see.
+Wyvern Tactics 2
+The best way to ~C05determine a wyvern's<NEWLINE>Health~C00 is to ~C05pay close attention<NEWLINE>to the way it moves~C00.<NEWLINE>The amount of damage you have caused<NEWLINE>to a wyvern will eventually become<NEWLINE>evident in its movement.
+Wyvern Tactics 3
+Some wyverns will ~C05retreat to their nest<NEWLINE>and sleep to recover their Health~C00.<NEWLINE>The ~C06Rathalos ~C00is a perfect example.<NEWLINE>When you're hunting a wyvern, observe its<NEWLINE>habits beforehand and ~C05track<NEWLINE>it closely~C00 when it heads back home!
+Capturing Monsters
+The materials you obtain by carving up<NEWLINE>wyverns are extremely valuable to<NEWLINE>merchants. To capture a wyvern,<NEWLINE>you'll need to use ~C05items specially<NEWLINE>designed for capturing them~C00.
+You'll find some items in the Supply Box<NEWLINE>to help you with capturing monsters.<NEWLINE>While we're at it, let me tell you what<NEWLINE>I know about hunting wyverns.
+This is the last thing I can tell you.<NEWLINE>You've come so far. I...I want you<NEWLINE>to know that I'm proud of you.<NEWLINE>Now go out and ~C05capture a wyvern~C00!
+Tranq Bombs
+~C05A grenade-like item used to capture<NEWLINE>wyverns~C00. Throw several of them at a<NEWLINE>weakened wyvern that you've managed to<NEWLINE>catch in a ~C05Pitfall Trap~C00.
+When a wyvern is close to death,<NEWLINE>throwing these ~C05Tranq Bombs ~C00at it will<NEWLINE>put it to sleep so you can capture it.
+Tranq Shells
+~C05Tranq Shells ~C00can only be fired with a<NEWLINE>Bowgun. The tips are coated with a<NEWLINE>tranquilizer.<NEWLINE>~C05Fire several of them at a weakened<NEWLINE>wyvern~C00 that you've managed to catch<NEWLINE>in a ~C05Pitfall Trap~C00.
+When a wyvern is close to death,<NEWLINE>firing ~C05Tranq Shells ~C00at it will put it<NEWLINE>to sleep so you can capture it.
+Wyvern Tactics 1
+If a wyvern ~C05notices~C00 you, an<NEWLINE>~C05eye icon~C00 will appear on the left<NEWLINE>side of your screen.
+If you run into a wyvern, be sure to<NEWLINE>check whether or not they've noticed you.<NEWLINE>This is an ironclad rule!
+Wyvern Tactics 2
+The best way to ~C05determine a wyvern's<NEWLINE>Health~C00 is to ~C05pay close attention<NEWLINE>to the way it moves~C00.<NEWLINE>The amount of damage you have caused<NEWLINE>to a wyvern will eventually become<NEWLINE>evident in its movement.
+Wyvern Tactics 3
+Some wyverns will ~C05retreat to their nest<NEWLINE>and sleep to recover their Health~C00.<NEWLINE>The ~C06Rathalos ~C00is a perfect example.<NEWLINE>When you're hunting a wyvern, observe its<NEWLINE>habits beforehand and ~C05track<NEWLINE>it closely~C00 when it heads back home!
+<NEW SECTION>
+
+"Gravios Ecology"
+"Plesioth Ecology"
+"Khezu Ecology"
+"Diablos Ecology"
+"Rathian Ecology"
+"Hall of Heroes"
+Blue Hunter
+Shepherd
+King of the Heavens
+Divine Providence
+The Avian Master of the Jungle
+Menace in the Sand
+Poison of the Swamp
+The Ancient Piscine
+Supreme Ruler of the Inferno
+The White Shadow in the Darkness
+The Cornered Monoblos
+Lao-Shan Lung
+Legend of the Black Dragon
+Advent of Disaster
+Dragon of the Jagged Rocks
+The Lone Black Wolf
+The Phantom Beast
+Update information
+Gallery
+updated.
+Motion Demo
+Training School
+%s %s
+Monster Log Updated!!
+Length: %4.1f
+End
+Length: ---
+End reward payment
+Total Reward:%8dz
+Contract Fee        :%8dzÅ~2
+Contract Fee        :%8dz
+Reward              :%8dz
+Quest Cleared
+Quest Failed
+TimeRemaining:%3d
+Quest ScoreÅ@:%s
+Current Money:%7dz
+End point payment
+Total Points:%8d
+Lost Points  :%4d
+<Died: %1dTime(s)>
+<Quest Exp Points>
+<Quest Cleared>
+Addtnl Points:%4d
+Quest Cleared
+Quest Failed
+TimeRemaining:%3d
+Quest Score  :%s
+Current Guild Points:%7d
+<Hunter Rank:  %d>
+Communication error
+A communication error occurred.
+Exiting & returning to town.
+Player's status is
+Returning to previous status.
+Time Remaining:Å@%3d
+%s Åá
+%s Å~%d
+You have too many of this item.
+Sell special items
+Time Remaining:%2d
+Head to the Training School east of the Village.
+Award Acquired!
+You've gotten a new award:
+ 
+Connectivity Info
+Connect with Monster Hunter 2
+for the PlayStationR 2 and 
+Guild Card
+upgraded.
+unlock a Quest with a 
+mysterious flying wyvern!
+discover the fate of the "defeated" Yian Garuga!
+unlock new creation recipies!
+Rank Up!
+Exit
+High Score: %4d
+High Score Updated.
+Well, well.<NEWLINE>I don't usually get<NEWLINE>too many visitors<NEWLINE>here. Are you lost,<NEWLINE>youngster?
+What is it, youngster?<NEWLINE>Is there something<NEWLINE>stuck to my face?
+You don't say? What<NEWLINE>business might a<NEWLINE>hunter have with me?
+Can't you take a<NEWLINE>hint, young'un?<NEWLINE>As you can see,<NEWLINE>I'm busy!<NEWLINE>Go on! Be off with<NEWLINE>you then!
+You lazy dog!!<NEWLINE>You can't rely<NEWLINE>on the help of<NEWLINE>others forever!<NEWLINE>Now off with you!
+Come again?<NEWLINE>I'm afraid my<NEWLINE>hearing isn't<NEWLINE>what it used to<NEWLINE>be. 
+Aha! That is quite<NEWLINE>a prize you've<NEWLINE>got there. Care<NEWLINE>to make an exchange?
+A smart one, I see!<NEWLINE>Take this. I'm sure<NEWLINE>it'll come in handy<NEWLINE>one day!
+Pfft. I should have<NEWLINE>guessed! Now shoo!
+Ah, yes.<NEWLINE>I'll give you this.<NEWLINE>You take care of it<NEWLINE>now, you hear?
+Oh ho! I smell<NEWLINE>a rare and wonderful<NEWLINE>item! Care to make<NEWLINE>an exchange?
+So you've got a head<NEWLINE>on your shoulders!<NEWLINE>This one's a treasure<NEWLINE>of mine, so treat it<NEWLINE>well!
+Hmmrph...<NEWLINE>So disappointing...<NEWLINE>If you would have had<NEWLINE>something nice, I was<NEWLINE>thinking of trading <NEWLINE>you one of my prized<NEWLINE>possessions. 
+I'm in a good mood<NEWLINE>today, so I'll<NEWLINE>teach you something,<NEWLINE>whippersnapper.
+Whhhhattttt!?!?! I<NEWLINE>can't believe my eyes.<NEWLINE>You've got 20 BBQ<NEWLINE>Tickets? Do you wanna<NEWLINE>trade? Don't say no!
+Wahoo! You sure are a<NEWLINE>hard one to read.<NEWLINE>Here! You should take<NEWLINE>this. But don't you<NEWLINE>tell a soul!
+Whhhhattttt!?!?! I<NEWLINE>can't believe my eyes.<NEWLINE>You've got 30 Plum<NEWLINE>Felyne Meal Passes? Do<NEWLINE>you wanna trade? Don't<NEWLINE>say no!
+Whhhhattttt!?!?! I<NEWLINE>can't believe my eyes.<NEWLINE>You've got 20 Bamboo<NEWLINE>Felyne Meal Passes? Do<NEWLINE>you wanna trade? Don't<NEWLINE>say no!
+Whhhhattttt!?!?! I<NEWLINE>can't believe my eyes.<NEWLINE>You've got 10 Pine<NEWLINE>Felyne Meal Passes? Do<NEWLINE>you wanna trade? Don't<NEWLINE>say no!
+Hey! You've got some<NEWLINE>Treasure, don't ya?
+Out in the field,<NEWLINE>there is lots of<NEWLINE>hidden treasure. You<NEWLINE>should look everywhere<NEWLINE>for it! 
+You might also find<NEWLINE>treasure when you slay<NEWLINE>a monster.
+If you bring the<NEWLINE>treasure you find to<NEWLINE>me, I will give you<NEWLINE>points for it. Go get<NEWLINE>some treasure!
+Wahhhooo! You found<NEWLINE>some treasure!
+Woooooooooo! This,<NEWLINE>this, this is really<NEWLINE>an incredible<NEWLINE>treasure! 
+You can definetely<NEWLINE>find treasure set up<NEWLINE>like that! Now go get<NEWLINE>some treasure! 
+Status Display
+Map Display
+Targeting
+Camera Type
+Camera Settings
+Status Display
+~C10Map Display~C00
+Targeting
+Camera Type
+Camera Settings
+ON
+OFF
+ON
+OFF
+NORMAL
+REVERSE1
+REVERSE2
+TYPE 1
+TYPE 2
+NORMAL
+REVERSE1
+REVERSE2
+OFF
+ON
+~C10OFF~C05
+ Å@ Å@~C05ÅsAbandon QuestÅt~C00<NEWLINE><NEWLINE> Player status will revert to<NEWLINE> that of before beginning the<NEWLINE> quest. If you want to redo<NEWLINE> this quest you will have to<NEWLINE> start from the beginning.<NEWLINE> Is this OK?
+Take reward
+End
+Delivered Treasure & Points
+Current Treasure Points:%6d
+Total: %4d
+%-16sÅ@%4dÅ~%2d
+:Beacon

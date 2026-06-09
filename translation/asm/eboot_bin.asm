@@ -33,6 +33,14 @@
   .org 0x0889D5C8
     li a0, 0xAE
 
+  .org 0x088EFA00 ; Take reward Text Box
+    .dh 0xD0	
+  .org 0x088EFA1C ; Take Reward Highlight
+    .dh 0xC4
+  .org 0x088EFA28 ; Time Remaining Text Box
+    .dh 0xD0
+
+
   ; --------------------------------------
   ; Lang set for system level messages
   ; --------------------------------------

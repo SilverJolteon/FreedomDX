@@ -30,6 +30,16 @@ strcpy      equ 0x088112E8
 	; Recruiting Note English Keyboard	
 	.org 0x098EFDBC
 		li			a1, 0x2
+		
+	; Quest Board Positioning
+	.org 0x09932DC0 ; Reward
+		.dh 0x15C
+	.org 0x09932EC4 ; Contract Fee
+		.dh 0x15C
+	.org 0x09932FC8 ; Time Limit
+		.dh 0x15C
+	.org 0x099330CC ; Location
+		.dh 0x15C
 
   ; ----------------------------
   ; Full-width text fixes (SJIS)

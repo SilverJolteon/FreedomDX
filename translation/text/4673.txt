@@ -1,0 +1,1529 @@
+
+?
+
+z
+Åá
+Å~
+dummy
+ID
+NAME:
+Server
+Å`
+Room Fee
+:
+%2d Åy%sÅz
+dummy
+ÅE%s
+RARE-
+
+SELECT
+mins
+No
+Yes
+dummy
+Amount
+Dtls
+Requires
+Heads Up Display OFF
+Heads Up Display ON
+Departure Prep
+Cancel Departure
+Menu
+Move
+Enter Town
+Area Movement
+Land Movement
+Guide
+Friends List
+Player Search
+Quest Search
+Information
+Short Mail
+Event Info
+Character Info
+Status
+Player Profile
+Status Options
+Mail & Chat
+Quick Phrase
+Chat Log
+Disconnect
+Hunter's Site
+Log Out
+Security
+Chat Limits
+Mail Limits
+Unable To Rec
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Åö
+/
+1P
+2P
+3P
+4P
+Quest Member:
+CAPCOM
+No Combinable Items
+Press the ~B00 button
+Current Character
+Rtrn to AreaSelect
+Weapon
+Armor
+Gunner Use
+Blademaster Use
+Female Use
+Male Use
+Female Gunner Use
+Male Gunner Use
+Female Blademaster Use
+Male Blademaster Use
+Type: Gunner
+Type: Blademaster
+~C00Please select a weapon to<NEWLINE>purchase.
+~C00Please select a piece of<NEWLINE>armor to purchase.
+~C00Equip this item now?
+~C00The item has been sent to<NEWLINE>the Item Box.
+~C00Equip this item now?<NEWLINE>~C05Equipping this weapon will<NEWLINE>unequip your current armor.<NEWLINE>OK?~
+~C05This item cannot be<NEWLINE>equipped in your current<NEWLINE>hunter class. OK?
+~C00Please select the equipment <NEWLINE>you would like to sell.
+~C00Please select a piece of<NEWLINE>armor to purchase.<NEWLINE> <NEWLINE>~B03 View Skill Details
+Weaponcraft
+Armorcraft
+Create Wpn
+Improve Wpn
+Crt Helmet
+Crt Plate
+Crt Gauntlet
+Crt Waist
+Crt Leggings
+Level Up
+Attach Silencer
+Remove Silencer
+Attach Long Barrel
+Remove Long Barrel
+Attach Zoom Scope
+Attach Fixed Scope
+~C00Create which weapon?
+~C00Improve which weapon?
+~C00Create which armor?
+~C00Execute which improvement?
+~C00Creating this requires the<NEWLINE>raw materials necessary for<NEWLINE>creation plus $z. OK?
+~C00Upgrading requires materials<NEWLINE>plus $z. Upgrade now?
+~C00Equip this item now?
+??????
+~C00Equip this item now?<NEWLINE>~C05Equipping this weapon will<NEWLINE>unequip your current armor.<NEWLINE>OK?
+~C05This item cannot be<NEWLINE>equipped in your current<NEWLINE>hunter class. OK?
+~C00ÅyLevel UpÅzÅF Attack<NEWLINE>strength, initial speed, and<NEWLINE>accuracy increased. 
+~C00ÅyAttach SilencerÅzÅFOn loan<NEWLINE>from shop. Quiets your weapon,<NEWLINE>but increases aim difficulty.
+~C00ÅyRemove SilencerÅzÅFRestores<NEWLINE>your weapon to normal, and<NEWLINE>returns the item to the shop.
+~C00ÅyAttach Long BarrelÅzÅFOn<NEWLINE>loan from shop. Accuracy and<NEWLINE>initial velocity greatly<NEWLINE>increased. 
+~C00ÅyRemove Long BarrelÅzÅF<NEWLINE>Restores your weapon to<NEWLINE>normal, and returns the item<NEWLINE>to the shop.
+~C00ÅyAttach Zoom ScopeÅzÅFOn<NEWLINE>loan from the shop. Zoom in<NEWLINE>and out by pressing the<NEWLINE>left button and right button.
+~C00ÅyAttach Fixed ScopeÅzÅF<NEWLINE>Restores Fixed Scope to<NEWLINE>weapon. Returns Zoom Scope to<NEWLINE>the shop. 
+~C00$z refitting fee<NEWLINE>required. OK?
+~C00$z refitting fee <NEWLINE>required. OK? <NEWLINE>~C05Remove Silencer.
+~C00$z refitting fee <NEWLINE>required. OK? <NEWLINE>~C05Remove Long Barrel.
+~C00Create which piece of<NEWLINE>armor?  <NEWLINE><NEWLINE>~B03 View Skill Details
+Today's meal will cost %dz.<NEWLINE>Would you like to order?
+Today's Menu
+Meal A:
+Meal B:
+Select a Meal
+Vitality Increased!
+Vitality Decreased!
+Stamina Increased!
+Stamina Decreased!
+Attack Strength Increased!
+Attack Strength Decreased!
+Defense Strength Increased!
+Defense Strength Decreased!
+~C05Today's menu ~C00%d/2
+Å|Å|Å|Å|Å|Å|Å|Å|
+You don't have enough money.
+No chefs are present.
+%s skill activated.
+Order Food
+Quit
+Meat Scraps
+Popo Meat
+Pumpkin
+Ancorn
+Twinshroom
+Clamchip
+Guts
+Scalefish
+Hardtack
+Mixed Beans
+Webcake
+Oily Raisins
+Dry Margarine
+Powdered Cheese
+Hopi
+Cubesteak
+Spicy Sausage
+Spotted Onion
+Ancorn
+Young Potato
+Mild Herb
+Snake Salmon
+Tuna Head
+Hardtack
+Sweetbug
+Fruity Jam
+Olive Paste
+Dry Margarine
+Aged Cheese
+Milk Pop
+Jungle Ribs
+Meatwagon
+Wild Wonton
+Cudgel Onion
+Western Parsley
+Sweet Mushroom
+Snake Salmon
+Horseshoe Crab
+Octofest
+Sweetbug
+Warwheat
+Fruity Jam
+Buffalo Butter
+Chili Cheese
+Spicepop
+Great Mutton
+White Liver
+Dragon Foot
+Wild Wonton
+Pinespice
+Cannon Lettuce
+Rare Onion
+Tortoiseshell
+King Squid
+Queen Shrimp
+Megabagel
+Powerlard
+Seafood Jam
+Sirloin Egg
+Panish
+Dragon Tail
+Bigmeat
+Dragon Head
+King Turkey
+King Truffle
+Rare Onion
+Fatty Tomato
+Queen Shrimp
+Foie Grande
+Pink Caviar
+Gold Rice
+Pearlnut
+Lifejam
+Royale Cheese
+Blessed Wine
+It tasted...normal.
+This is kinda good!
+Whoa! Smells fishy...
+This is kinda good!
+What a well-rounded flavor!
+It's strangely delicious!
+Tastes healthy!
+You don't feel so good...
+What an invigorating flavor!
+Good and good for you!
+A perfect amount of sweetness!
+Delicate and delicious!
+Sweet, yet...fishy!
+You don't feel so good...
+What an invigorating flavor!
+Tastes healthy!
+Flavor beyond imagination...
+A one-two punch of flavor!
+Wow! Double the essence!
+A one-of-a-kind texture!
+This tastes absolutely gross!
+It's strangely delicious!
+Tastes very healthy!
+Impressively flavorful!
+Simple and appealing.
+Flavor beyond imagination...
+Good and good for you!
+Tastes healthy!
+This tastes absolutely gross!
+Flavor beyond imagination...
+Delicate and delicious!
+Mucho flavor!
+This is kinda good!
+This tastes absolutely gross!
+Tastes wild!
+Wow! Double the essence!
+It's strangely delicious!
+Flavor beyond imagination...
+Tastes very healthy!
+Now this is a hearty meal!
+This is utterly vile...
+Spicy and satisfying!
+What a well-rounded flavor!
+It's strangely delicious!
+You can't even describe this!
+Good and good for you!
+Tastes healthy!
+Flavor beyond imagination...
+Impressively flavorful!
+Mucho flavor!
+Delicate and delicious!
+You can't even describe this!
+A finely-aged taste!
+A one-two punch of flavor!
+Wow! Double the essence!
+Good and good for you!
+A powerful flavor!
+Tastes very healthy!
+Bold yet sensitive flavor!
+A powerful flavor!
+An exquisitely divine flavor!
+This is utterly vile...
+It's strangely delicious!
+Good and good for you!
+An exquisitely divine flavor!
+A rich and luxurious flavor!
+Mucho flavor!
+Flavor beyond imagination...
+Tastes very healthy!
+The epitome of flavor!
+A dangerous taste...
+It's strangely delicious!
+Now this is a hearty meal!
+A rich and luxurious flavor!
+Such a fresh flavor!
+Rich and sweet!
+Tastes very healthy!
+A rich and luxurious flavor!
+Bold yet sensitive flavor!
+Creamy and delicious!
+A rich and luxurious flavor!
+A perfect match!
+An elegant flavor!
+Good and good for you!
+Creamy and delicious!
+Rich and sweet!
+Mucho flavor!
+A rich and luxurious flavor!
+You feel a little dizzy...
+A dangerous taste...
+A perfect match!
+Simple and appealing.
+ /1
+ /2
+ /3
+ /4
+ /5
+Hunters under Hunter Rank<NEWLINE>12 cannot join.
+CLEAR!!
+Hunters under Hunter Rank<NEWLINE>8 cannot join.
+Hunters under Hunter Rank<NEWLINE>16 cannot join.
+Item: 
+Equipment:
+Put In Item
+Take Out Item
+Change Equipment
+Arrange Items
+Sell Item
+Rotate
+Menu OFF
+Menu ON
+Camera
+Item
+Equipment
+That will be ~C00%s.
+This can be taken for free.
+~C00~B03View Skill Details
+~C00~B03Return
+~C00~B00ConfirmÅ@~B01Cancel
+  %d/%d
+Select item to deposit.
+Item deposited.
+~C02The Item Box is full.
+Select item to remove.
+Select where to place item. 
+How many would you like to<NEWLINE>remove?
+~C02Cannot carry any more of this<NEWLINE>item.
+Item removed.
+Replace Item. OK?
+There is nowhere to put this item.
+Select the Equipment to be<NEWLINE>changed.
+Change Equipment.<NEWLINE>~C05Equipping this weapon will<NEWLINE>unequip your current armor. OK?~
+~C02Cannot remove weapon.
+~C02This item cannot be equipped<NEWLINE>in your current hunter class.
+~C02Cannot Equip.
+Change Equipment.
+Remove Equipment.
+Equip.
+Equipping...
+Equipment Changed.
+Please select the item you would<NEWLINE>like to replace.
+Please select the equipment you<NEWLINE>would like to replace. 
+Please select the item you would<NEWLINE>like to sell. 
+Please select the equipment you<NEWLINE>would like to sell. 
+Please select<NEWLINE>the number of items<NEWLINE>you would like to sell.
+<NEWLINE>OK?
+~C02You cannot sell items that<NEWLINE>are currently equipped. 
+OK to sort?
+Please select the set you<NEWLINE>would like to edit.
+Please select the part you<NEWLINE>would like to edit and <NEWLINE>register.
+Register this equipment.
+You cannot equip the currently<NEWLINE>selected weapon.
+The currently selected weapon<NEWLINE>cannot be joined with certain<NEWLINE>armor. OK? 
+Please select the set you<NEWLINE>would like to equip.
+Registered. Update this<NEWLINE>equipment?
+Select the weapon to be<NEWLINE>registered.
+Select the equipment to be<NEWLINE>registered.
+Cannot remove weapon.
+Remove currently registered<NEWLINE>equipment.
+Please select where to<NEWLINE>register current equipment.
+Register current equipment<NEWLINE>here?
+You cannot equip the currently<NEWLINE>selected weapon.
+Please select the set to<NEWLINE>equip.
+Change equipment?
+No Quest Requests
+Unknown Quest
+Equipped
+No Open Quest Slots
+Set off on Quest?
+Disbanding
+No. Players:
+Password Set:
+Recruiting Note:
+Party Status
+1/3
+Quest Member:
+Party List
+2/3
+Reward:
+Contract Fee:
+Time Limit:
+Location:
+Spec Cond:
+Quest Info
+3/3
+Waiting for Players
+Confirm
+Players:
+QuestDetails
+Quest Level:
+GoalCondition:
+FailCondition:
+LVÅö
+Required HR: 1
+LVÅöÅö
+Required HR: 1
+LVÅöÅöÅö
+Required HR: 1
+LVÅöÅöÅöÅö
+Required HR: 1
+LVÅöÅöÅöÅöÅö
+Required HR: 2
+LVÅöÅöÅöÅöÅöÅö
+Required HR: 3
+LVÅöÅöÅöÅöÅöÅöÅö
+Required HR: 4
+LVÅöÅöÅöÅöÅöÅöÅöÅö
+Required HR: 5
+? ? ? ?
+Urgent Quest
+Event Quest
+Item
+Combine
+Check Materials
+Check Quest
+Player Info
+Option Settings
+Gesture
+Guild Card
+Status
+Equipment Detail
+Player Log
+Take Item
+Check current item inventory.
+Combine items. 
+Check materials.
+Check current quest status and<NEWLINE>contract conditions.
+Open Friends List.
+Displaying player info for all<NEWLINE>players in this town. 
+Check current area. 
+Go to Option Settings.
+Check your own status information.<NEWLINE>
+Check Equipment details. 
+Change status in your player<NEWLINE>profile.
+Set current play status.
+Open short mail inbox. 
+Check Gathering Hall history.
+Go to Quick Phrase.
+Network connection suspended. <NEWLINE>Returning to Game Menu.
+Select player.
+Select member.
+Not accepting Quest requests.
+Cancel current play status and<NEWLINE>return to previous status. 
+Set play status to "Seeking<NEWLINE>Members/Quest". 
+Set play status to "Seeking to<NEWLINE>Trade Items with Other Players". 
+Set play status to <NEWLINE>"Busy".
+Set play status to<NEWLINE>"Solo Play".
+Set play status to <NEWLINE>"Away". 
+Set play status to <NEWLINE>"Appear offline".
+Displaying player info for all<NEWLINE>players in this hall. 
+Communicate using Quick Actions. 
+Check/Show Guild Card. 
+Receive item sent by another<NEWLINE>player.
+Select item to receive.
+Sell remaining items and exit.
+ ~C05Present Location
+ ~C05Status Settings
+dummy
+~C00Member Recruit/Join
+~C00Trading Items
+~C00No Keyboard
+~C00Playing Solo
+~C00Away
+~C00Appear Offline
+Price List by Grade
+Pawn: 
+Rook:
+Bishop:
+Queen:
+King:
+dummy
+   0z(HR1 Å@)
+ 200z(HR5 Å@)
+ 500z(HR13  )
+1000z(HR21Å@)
+2000z(HR27Å@)
+Combine Ordr
+Buy
+Sell
+Combine how many times?
+Please select an item<NEWLINE>to buy.
+Please select an item<NEWLINE>to sell.
+That will be $z. OK?
+That will be $z. OK?
+That will be $z. <NEWLINE>Would you still like<NEWLINE>to sell these items?
+~C00Select the items to combine.
+~C00Select the items to combine.<NEWLINE>~C02Your item pouch is full. <NEWLINE>(You cannot have more than 20 <NEWLINE>different itemsÅj
+~C00Please select an item<NEWLINE>to buy.
+~C00Please select an item to<NEWLINE>purchase. ~C02Your item pouch is<NEWLINE>full. (You cannot have more than<NEWLINE>20 different items)
+~C00Please select an item<NEWLINE>to sell.
+This item can be acquired for<NEWLINE>free. OK?
+Name   :
+Weapon :
+HR     :
+Title  :
+Status
+StatusÅ@Å@Å@Å@~C00%d/2~C05
+Add to Friends List
+~C02Adding to List...
+Hunting Quest
+Gathering Quest
+Capture Quest
+Special Quest
+TreasureHuntersQuest
+Event Quest
+Sit Down
+Stand Up
+Return to Plaza
+Depart on a Quest
+Check Quest Board
+Go to the Bar
+Go to the Market
+Go to the Armory
+Go to the Guesthouse
+Return to Area
+Save Game Data
+Open Item Box
+Pawn
+Rook
+Queen
+View Price List
+Draw Sword
+Return to Reception
+Departure Prep Complete
+Order Food
+Enter House
+Exit
+Close Price List
+Offline Gathering Hall
+Online Gathering Hall
+Go to Kokoto Farm
+Return to Kokoto Village
+Enter the Felyne Kitchen
+Return Home
+Look at Shift Chart
+Read Info Magazine
+Go to the Training School
+Harvest Crops
+Go Fishing
+Mine Ore
+Gather Bugs
+Collect Mushrooms
+Collect Honey
+Ascend Ladder
+Decend Ladder
+Bishop
+King
+Party Camera ON
+Party Camera OFF
+No one is in this town.
+You've got mail. 
+Search Results: 0 matches
+No Registered Users
+No Quest Requests
+Looking up...
+Sender is not online
+Receiver is not online
+Item for use by Gunners.
+Quest under contract.
+You got 1500z!
+No password entered.
+No message entered.
+Monster List has been updated.
+Item Box storage capacity has increased!
+Item Box has reached maximum storage capacity.
+Registration has been closed for this Quest.
+This Quest has reached the maximum number of players. 
+Item Box is full.
+You don't have enough money. 
+Item for use only by Blademasters.
+Sending to Item Box. 
+Hunter Registration incomplete.
+Hunter Registration complete.
+You cannot return to this area. 
+Caution! You do not have any bullets!
+You got the Early Bird Piercing!
+"The Town of Hunters" has been updated in your Gallery.
+Too many items...
+"A Hero's Proof F" has been updated in your Gallery.
+"Hunter's Guild" has been updated in your Gallery.
+You can now watch all game cinemas in your Gallery.
+          has entered<NEWLINE>the Gathering Hall.
+          has departed<NEWLINE>on a Quest.
+          has returned<NEWLINE>from a Quest.
+          has left<NEWLINE>the Gathering Hall.
+Exmn
+Edit
+Give
+Processing...
+Canceling...
+You do not meet the requirements to initiate<NEWLINE>this Quest.
+You do not meet the requirements to join this<NEWLINE>Quest. 
+An error occurred while transmitting Quest<NEWLINE>Data.
+Cannot confirm Quest Details. <NEWLINE><NEWLINE>This Quest has either been <NEWLINE>dissolved, or has already begun.<NEWLINE>
+Quest joined. <NEWLINE>You can complete Quest preparations<NEWLINE>by pressing the ~B03 button in front<NEWLINE>of the departure area.
+Unable to connect.
+Password incorrect.
+This Quest is no longer accepting hunters.
+Quest has reached the maximum number of<NEWLINE>hunters.
+There are members who have not completed<NEWLINE>preparations. Would you still like to embark<NEWLINE>on the Quest.
+Would you like to embark on the Quest?
+Cancel departure preparations?
+A single hunter cannot embark on a Treasure<NEWLINE>Hunters Quest. Awaiting the completion of<NEWLINE>preparations by other hunters to embark<NEWLINE>upon this Quest.
+Quest Party Dissolved.
+The WLAN switch is turned off. Please push the<NEWLINE>WLAN switch to the on position.
+A communications error has occurred. <NEWLINE>The WLAN switch was turned off.
+A communications error has occurred. 
+Unable to enter because the room is full.
+Which Gathering Hall<NEWLINE>would you like to join?
+There are no Event Quests.
+Arthur
+Arnold
+Almond
+Ashley
+Apple
+Annie
+Alan
+Emmanuelle
+Gary
+Khan
+Kid
+Gilbert
+Graham
+Crystal
+Kei
+Ken
+Cocoa
+Conan
+Shiva
+Jim
+Shoe
+Sammy
+Shot
+Silvia
+Scorpion
+Scott
+Sarah
+Diana
+Dan
+Rob
+Chibi
+Charles
+David
+Timothy
+Telly
+Drew
+Thomas
+Donald
+Toni
+Tom
+Dora
+Natalie
+Pai
+Patricia
+Hank
+Pete
+Pia
+Shelly
+Fay
+Blake
+Helga
+Boyd
+Brandon
+Mack
+Marco
+Mai
+Micha
+Milo
+Musashi
+Yoshitsune
+Rafael
+Rey
+Leon
+Laura
+Felyne
+Tea Felyne
+Lemon
+Grape
+Muscat
+Melynx
+Blk Melynx
+Ylw Melynx
+Moody
+Secret
+Short Hair
+Tea Tiger
+Ylw Tiger
+Ash Tiger
+SilverTigr
+FreshTiger
+Red Tiger
+White
+Black
+Deep Blue
+Cherry
+Blue
+Tea
+Brown
+Peppermint
+Gold
+Blk & Wht
+Tea Spots
+Blue Spots
+Red Spots
+Purple
+Deep Sea
+Hire
+Dismiss
+Select a Felyne to hire.
+Select a Felyne to dismiss.
+The headhunting fee will be<NEWLINE>$z. Hire Felyne?
+Hire Felyne?
+Dismiss Felyne?
+~C02You cannot hire <NEWLINE>any more Felynes.~C00
+~C02You cannot dismiss<NEWLINE>all of the Felynes.~C00
+Felyne Lvl
+Main Ingrd
+Info Lvl
+Lineage
+Meat
+Veg
+Fish
+Bran
+Oil
+Milk
+Drnk
+Change Equipment
+EditEquipmentSet
+Equipment Set
+Reg Curr Equip
+Please select the set you<NEWLINE>would like to edit.
+Please select the part you<NEWLINE>would like to edit.
+Register this equipment.
+You cannot equip the currently<NEWLINE>selected weapon.
+The currently selected weapon<NEWLINE>cannot be joined with certain<NEWLINE>armor. OK? 
+Please select the set you<NEWLINE>would like to equip.
+Registered. Update this<NEWLINE>equipment?
+Menu
+Shift Chart
+Order
+Felyne Shift
+Break
+Chef
+Break Time
+Dismissed
+Dismiss
+Quit
+Change Order
+You can change the number of<NEWLINE>Felynes preparing the meal, or<NEWLINE>dismiss a Felyne altogether.
+Change your Chef order. The<NEWLINE>highest ranking Chef affects<NEWLINE>the no. of ingredients.
+~B00Select  ~B01Cancel
+Intro
+FS LVL
+View Model
+HR:
+Åö1Å`3
+Åö4Å`5
+Åö6Å`8
+:   x
+X
+Treasure
+Treasure Points
+Decoration
+Monster Log /3
+Turn Page
+Name:
+Mon Slain:
+Length:
+Guild Card
+No.
+Name
+HR
+FriendshipLV
+Exmn
+Edit
+Give
+Conf
+Rtrn
+Del
+Delete this Guild Card?
+Deleted
+Title
+Action
+Send Guild Card?
+Sending...
+Sent Guild Card to
+Unable to send Guild Card to
+Received Guild Card from
+File
+Slct
+Send
+Num of Guild Cards Received:
+You can file %2d more cards.
+Already sent Guild<NEWLINE>Card to
+cannot accept your Guild Card<NEWLINE>because he/she has too many. 
+Length:---
+Beginner
+Experienced Hunter
+Maid
+Courageous Hero
+Nameless Hunter
+Novice Hunter
+Would-be SkilledHunter
+New Village Friend
+Village Defender
+Top-Class Hunter
+Hero of Kokoto
+Guild Hunter
+Guild Trump Card
+Guild Ultimate Weapon
+Yian Kut-Ku Hunter
+Gypceros Hunter
+Rathalos Hunter
+Rathian Hunter
+Khezu Hunter
+Plesioth Hunter
+Cephadrome Hunter
+Monoblos Hunter
+Diablos Hunter
+Gravios Hunter
+Basarios Hunter
+Kirin Hunter
+Yian Garuga Hunter
+Velociprey Hunter
+Genprey Hunter
+Ioprey Hunter
+Saviour
+Dragon Slayer
+Red Bird
+Flash
+King
+Dragon Princess
+White Darkness
+Raging Rapids
+Dust Storm
+Single Horn
+Pair of Devils
+Blazing Mountain
+Hiding Rock
+Thunder God
+Black Wolf
+Blue Claw
+Green Fang
+Crimson Poison
+Dragon Sealer
+Dragon Ruiner
+Dragon Rider
+Professor
+Giant
+Titanic
+Gigantic
+Leader of Kings
+Sword Expert
+Dual Blades Expert
+Great Sword Expert
+Lance Expert
+Hammer Expert
+Bowgun Expert
+Sword Collector
+Great Sword Collector
+Lance Collector
+Hammer Collector
+Dual Blades Collector
+Light Bowgun Collector
+Heavy Bowgun Collector
+Mining Millionaire
+Bug Catch Millionaire
+Fishing Millionaire
+Harvest Millionaire
+Felyne Breeder
+Combining Sage
+Forest and Hills Guide
+Jungle Guide
+Desert Guide
+Swamp Guide
+Volcanic Belt Guide
+Bourgeois Hunter
+Weak Hunter
+Delivery Man
+Plesioth Angler
+Monster Hunter P
+Vagrant
+Stranger
+Ranger
+Rookie Hunter
+Woodsman
+Warden
+Egg Thief
+Beast Slayer
+Bone Duster
+Warrior
+Bull Fighter
+Berserker
+Mercenary
+Bounty Hunter
+Veteran Attacker
+Iron Breaker
+Samurai
+Pathwalker
+Strider
+Explorer
+Weapons Master
+Battle Master
+Dragon Buster
+Forest Guardian
+Lord of the Hunters
+Glorious Battler
+Champion
+Hero
+Monster Hunter
+Monster Hunter G
+Monster Hunter Legend
+Beginning Hunter's Title
+Cleared all of the Village<NEWLINE>Chief's Åö and ÅöÅö Quests.
+Cleared all of the Village<NEWLINE>Chief's ÅöÅöÅö and ÅöÅöÅöÅö <NEWLINE>Quests.
+Cleared all of the Village<NEWLINE>Chief's ÅöÅöÅöÅöÅö Quests.
+Cleared all of the Village<NEWLINE>Chief's Quests.
+Cleared all of the Åö to <NEWLINE>ÅöÅöÅö Gathering Hall <NEWLINE>Quests.
+Cleared all of the <NEWLINE>ÅöÅöÅöÅö to ÅöÅöÅöÅöÅö <NEWLINE>Gathering Hall Quests.
+Cleared all of the <NEWLINE>6Åö to 8Åö Gathering<NEWLINE>Hall Quests.
+Slayed many Yian Kut-Ku.
+Slayed many Gypceros.
+Slayed many Rathalos.
+Slayed many Rathian.
+Slayed many Khezu.
+Slayed many Plesioth.
+Slayed many Cephadrome.
+Slayed many Monoblos.
+Slayed many Diablos.
+Slayed many Gravios.
+Slayed many Basarios.
+Slayed many Kirin.
+Slayed many Yian Garuga.
+Slayed many Velocidrome.
+Slayed many Gendrome.
+Slayed many Iodrome.
+Slayed many Lao-Shan Lung.
+Slayed many Fatalis.
+Slayed unbelievable numbers<NEWLINE>of Yian Kut-Ku.
+Slayed unbelievable numbers<NEWLINE>of Gypceros.
+Slayed unbelievable numbers<NEWLINE>of Rathalos.
+Slayed unbelievable numbers<NEWLINE>of Rathian.
+Slayed unbelievable numbers<NEWLINE>of Khezu.
+Slayed unbelievable numbers<NEWLINE>of Plesioth.
+Slayed unbelievable numbers<NEWLINE>of Cephadrome.
+Slayed unbelievable numbers<NEWLINE>of Monoblos.
+Slayed unbelievable numbers<NEWLINE>of Diablos.
+Slayed unbelievable numbers<NEWLINE>of Gravios.
+Slayed unbelievable numbers<NEWLINE>of Basarios.
+Slayed unbelievable numbers<NEWLINE>of Kirin.
+Slayed unbelievable numbers<NEWLINE>of Yian Garuga.
+Slayed unbelievable numbers<NEWLINE>of Velocidrome.
+Slayed unbelievable numbers<NEWLINE>of Gendrome.
+Slayed unbelievable numbers<NEWLINE>of Iodrome.
+Slayed unbelievable numbers<NEWLINE>of Lao-Shan Lung.
+Slayed unbelievable numbers<NEWLINE>of Fatalis.
+Slayed an unimaginably evil<NEWLINE>dragon.
+Slayed all monster color<NEWLINE>variations.
+Slayed one monster worthy of<NEWLINE>a Gold Crown.
+Slayed five monsters worthy<NEWLINE>of a Gold Crown.
+Slayed ten monsters worthy<NEWLINE>of a Gold Crown.
+All slain monsters worthy of<NEWLINE>a Gold Crown.
+Cleared all Training School<NEWLINE>Sword Quests.
+Cleared all Training School<NEWLINE>Great Sword Quests.
+Cleared all Training School<NEWLINE>Lance Quests.
+Cleared all Training School<NEWLINE>Hammer Quests.
+Cleared all Training School<NEWLINE>Bowgun Quests.
+In possession of a great<NEWLINE>number of rare Swords.
+In possession of a great<NEWLINE>number of rare Great Swords.
+In possession of a great<NEWLINE>number of rare Lances.
+In possession of a great<NEWLINE>number of rare Hammers.
+In possession of a great<NEWLINE>number of rare Dual Blades.
+In possession of a great<NEWLINE>number of rare Light<NEWLINE>Bowguns.
+In possession of a great<NEWLINE>number of rare Heavy<NEWLINE>Bowguns.
+Finished all possible<NEWLINE>renovations on Kokoto Farms<NEWLINE>Mining area.
+Finished all possible<NEWLINE>renovations on Kokoto Farms<NEWLINE>Bug Catching area.
+Finished all possible<NEWLINE>renovations on Kokoto Farms<NEWLINE>Fishing area. 
+Finished all possible<NEWLINE>renovations on Kokoto Farms<NEWLINE>Farming area. 
+Employs many capable<NEWLINE>Felynes.
+Completed Combine List
+Completed many Quests in the<NEWLINE>Forest and Hills.
+Completed many Quests in the<NEWLINE>Jungle.
+Completed many Quests in the<NEWLINE>Desert.
+Completed many Quests in the<NEWLINE>Swamp.
+Completed many Quests in the<NEWLINE>Volcanic Belt.
+Possesses more than 200000z.
+Played for more than 100<NEWLINE>hours.
+Completed all Transport<NEWLINE>Quests.
+Successfully caught a<NEWLINE>Plesioth while fishing<NEWLINE>during a Quest.
+Earned all decorations.
+Earned a large number of<NEWLINE>Guild Points.
+Proof of completing Kokoto<NEWLINE>Beginner Quests. Earned a<NEWLINE>present from the Chief.
+Proof of completing Kokoto<NEWLINE>Intermediate Quests.<NEWLINE>Embroidered w/ Chief's face.
+Proof of completing Kokoto<NEWLINE>Hard Quests. Did the Chief<NEWLINE>knit this... nope.
+Proof of completing all<NEWLINE>Kokoto Quests. Worthy to be<NEWLINE>the successor to the Hero.
+Proof of mastering all<NEWLINE>Gathering Hall Normal Rank<NEWLINE>Quests. No longer a novice.
+Proof of mastering all<NEWLINE>Gathering Hall Hard Rank<NEWLINE>Quests. Shows true strength.
+Proof of mastering all<NEWLINE>Gathering Hall G-Class<NEWLINE>Quests. A true achievement.
+Proof of slaying many giant<NEWLINE>enemies. The gold crown is<NEWLINE>lusted after by top hunters.
+Proof of an expert Sword<NEWLINE>user. Earned by completing<NEWLINE>Training School Quests.
+Proof of an expert Great<NEWLINE>Sword user. Earned via<NEWLINE>Training School Quests.
+Proof of an expert Lance<NEWLINE>user. Earned by completing<NEWLINE>Training School Quests.
+Proof of an expert Hammer<NEWLINE>user. Earned by completing<NEWLINE>Training School Quests.
+Proof of an expert Bowgun<NEWLINE>user. Earned by completing<NEWLINE>Training School Quests.
+Proof of masterfully slaying<NEWLINE>a Kirin. The blue mane<NEWLINE>flutters even without wind.
+Proof of slaying the evil<NEWLINE>Fatalis. Catastrophe can be<NEWLINE>felt in every breath.
+Record of the incredibly<NEWLINE>powerful colored monsters.<NEWLINE>Confirms all rare breeds.
+Commemorates the first ore<NEWLINE>mined by Felynes from the<NEWLINE>mining facility in Kokoto.
+Rare butterfly from another<NEWLINE>land. Proof of Bug Catching<NEWLINE>area development.
+Beautiful pink fish caught<NEWLINE>from Kokoto Pond. Proof of<NEWLINE>Fishing area development.
+Legendary plant from this<NEWLINE>area. The smell is great!<NEWLINE>Proof of Field development.
+Letter from a grown-up<NEWLINE>Felyne. Its words of thanks<NEWLINE>bring tears to your eyes.
+Proof of mastery of<NEWLINE>combining. Feels like you<NEWLINE>can use anything, anytime.
+Replica of a hammer used by<NEWLINE>a legendary craftsman. Proof<NEWLINE>of a Weapon collector.
+A map with a record of your<NEWLINE>travels. Proof of traveling<NEWLINE>to all the game areas.
+Set %2dÅ@~C00%2d/%2d
+Select [%s]
+%2d/%2d
+Equp
+Register
+No Equipment
+~B03Pl Dtls
+Lg
+Hd
+To
+Ar
+Wa
+Renovate
+Explain Points
+Select an area to renovate.
+$pts. OK?
+Renovation Complete.
+ON
+OFF
+Select OL GatheringH
+AUTO
+MANUAL
+Right Pit
+Middle Pit
+Left Pit
+Tunnel for Explosive Mining. Until<NEWLINE>a bomb has been exploded, what can<NEWLINE>be obtained is unknown.
+White Cat Hammer
+Black Cat Hammer
+Gold Cat Hammer
+A White Cat Hammer for beginners.<NEWLINE>The ultimate in usability.
+A Black Cat Hammer for<NEWLINE>intermediate users. It has a<NEWLINE>reliability you can trust.
+A Gold Cat Hammer for advanced<NEWLINE>users. Using this could be the key<NEWLINE>to getting rare items.
+Receive Item
+Finish Receiving
+Give Seed
+Give Fertilizer
+Select vegetation to grow.
+Select an item to use as<NEWLINE>fertilizer. Using fertilizer<NEWLINE>will raise soil fertility.
+FrtltyLV
+None
+Mid:
+Lft:
+Rig:
+<NEW SECTION>
+Å|Å|Å|Å|Å|Å|
+Field Ridge
+Field Ridge +1
+Field Ridge +2
+Fishing Pier
+Fishing Pier+1
+Fishing Pier+2
+Casting Machine
+Mining Point
+Mining Point+1
+Mining Point+2
+Mining Bomb
+Insect Thicket
+Insect Thicket+1
+Insect Thicket+2
+Bug Tree
+Mushroom Tree
+Mushroom Tree+1
+Mushroom Tree+2
+Bee Hive
+<NEW SECTION>
+Å|Å|Å|Å|Å|Å|
+Dummy
+Field Ridge updated. <NEWLINE>Now you can gather<NEWLINE>even more plants.
+Field Ridge updated. <NEWLINE>Gather more plants<NEWLINE>than ever before.
+Dummy
+Fishing Pier extended. <NEWLINE>The number of fish you can<NEWLINE>catch has been increased.
+Fishing Pier extended. <NEWLINE>Catch more fish<NEWLINE>than ever before!
+Fires off a net capable of<NEWLINE>catching many fish. Beware<NEWLINE>of the usage limits.
+Dummy
+Mining location added.<NEWLINE>More rare ores are<NEWLINE>available.
+Mining location added.<NEWLINE>Mine more rare ores<NEWLINE>than ever before.
+Using bombs, you can do a<NEWLINE>ton of mining. Beware of<NEWLINE>the usage limits. 
+Dummy
+Strange thicket, with a<NEWLINE>smell loved by insects,<NEWLINE>added. Collect rare bugs!
+Strange thicket, with a<NEWLINE>smell loved by insects,<NEWLINE>added. Collect rare bugs!
+Shake a tree and gather<NEWLINE>the bugs! Beware of the<NEWLINE>usage limits!
+Plant a tree for mushrooms<NEWLINE>to grow upon.
+Plant a tree for high<NEWLINE>quality mushrooms to grow<NEWLINE>upon. 
+Plant a tree for top<NEWLINE>quality mushrooms to grow<NEWLINE>upon. Top-class item.
+Establish a Bee Hive and<NEWLINE>gather up the honey!
+<NEW SECTION>
+
+Hunting Life - A Monthly Magazine For Hunters
+The World of Minegarde
+Tools of the Trade - Melee Weapons
+Tools of the Trade - Bowguns
+The Beasts of Minegarde
+Hunter's Notes - Other Important Articles
+About the Forest and Hills
+[Minegarde Geography -1-]  <NEWLINE><NEWLINE>I am the top geographer in Minegarde. The main<NEWLINE>part of my job is to compare all of the areas <NEWLINE>of the world and record the results of my <NEWLINE>research. 
+First, allow me to tell you about the "Forest<NEWLINE>and Hills". It is a warm area, home to<NEWLINE>herbivores like Aptonoth and Mosswine. It is<NEWLINE>an excellent place to become used to life as a<NEWLINE>hunter.
+This area also has an abundance of plant<NEWLINE>vegetation. For instance, Herbs and Blue<NEWLINE>Mushrooms. Not to mention items important to<NEWLINE>gunners like Paintberry, Huskberry, and<NEWLINE>Needleberry. All of these can be obtained<NEWLINE>easily in this area.
+You can also search for Honey in the Forest<NEWLINE>and Hills. Honey is an incredibly beneficial<NEWLINE>item for hunters. It can be obtained from<NEWLINE>honeycombs found in the field.
+While there are many changes in elevation, a<NEWLINE>hunter can press the ~B00 button near low<NEWLINE>cliffs or vine covered walls to climb up.
+You should beware of small blue monsters<NEWLINE>called Velociprey. They travel in packs and<NEWLINE>will try and surround novice hunters, so<NEWLINE>caution is a must.
+This area is home to the absolutely dreadful<NEWLINE>Rathalos. Due to the warm climate, many<NEWLINE>different wyverns have been spotted here,<NEWLINE>especially among the caves in the mountains.<NEWLINE>One should definitely take care when traveling<NEWLINE>these areas. 
+About the Jungle
+[Minegarde Geography -2-]  <NEWLINE><NEWLINE>I am the top geographer in Minegarde. This is <NEWLINE>the record of my life's research. The second <NEWLINE>part of this research is on the Jungle zone.
+Also known as a "rain forest," this zone has<NEWLINE>dense vegetation as far as the eye can see.<NEWLINE>This often causes delays in spotting monsters.<NEWLINE>This is an area where you must definitely pay<NEWLINE>attention to your surroundings. 
+The high humidity in this area contributes to<NEWLINE>the dense plant growth. There is an abundance<NEWLINE>of mushrooms, that are often the subject of<NEWLINE>gathering quests from the Guild.
+There are also a great number of Jungle caves.<NEWLINE>Unlike the Jungle itself, the temperature<NEWLINE>inside these caves is very low, due to the<NEWLINE>influence of underground water sources. 
+You should be especially aware of monsters<NEWLINE>such as the Gypceros and Yian Kut-Ku. They are<NEWLINE>the most bird-like of the small wyverns. You<NEWLINE>may also spot giant Plesioths in the Jungle<NEWLINE>streams. 
+Outside of wyverns, you should be careful of<NEWLINE>monsters like the Vespoid and Hornetaur. These<NEWLINE>giant bugs often swarm, causing great amounts<NEWLINE>of damage. This also seems to cause quite a<NEWLINE>few quests centering around their<NEWLINE>extermination. 
+About the Desert
+[Minegarde Geography -3-]  <NEWLINE><NEWLINE>I am the top geographer in Minegarde. This is <NEWLINE>the record of my life's research. The third <NEWLINE>part of this research is on the Desert zone.
+The Desert is a huge rocky field surrounded by<NEWLINE>mountains. The sun beats down mercilessly on<NEWLINE>the Desert, sapping the strength of hunters<NEWLINE>who venture into its grips. Cool Drinks are<NEWLINE>indispensable for trips into the Desert.
+The Desert is also home to things like the<NEWLINE>anti-poison Cactus Flower, as well as the<NEWLINE>Power Seed, which has a mysterious effect on<NEWLINE>its users, and the Fire Herb, capable of<NEWLINE>releasing fire. The Cactus Flower is<NEWLINE>especially important, as it can only be<NEWLINE>obtained in the Desert.
+One should take care of the Sand Wyvern, also<NEWLINE>known as a Cephalos. It utilizes the fine<NEWLINE>grain sand as a medium to travel and hide.<NEWLINE>When it is traveling through the sand, only<NEWLINE>its fin can be seen, so the utmost of<NEWLINE>caution is required.
+A wyvern called Diablos has also been spotted<NEWLINE>in the Desert zone. A wyvern sporting giant<NEWLINE>horns, it is incredibly powerful. Rumor has it<NEWLINE>that you can also fish for Plesioth in the<NEWLINE>massive underground lake, although I have yet<NEWLINE>to confirm this as fact.  
+About the Swamp
+[Minegarde Geography -4-]  <NEWLINE><NEWLINE>I am the top geographer in Minegarde. This is <NEWLINE>the record of my life's research. The fourth <NEWLINE>part of this research is on the Swamp zone.
+The Swamp zone is a narrow strip of damp and<NEWLINE>humid marshlands enveloped in mist,<NEWLINE>characterized by the presence of caves. These<NEWLINE>caves, are very cold, so without adequate<NEWLINE>protection from these extreme temperatures<NEWLINE>stamina will be quickly depleted. However, the<NEWLINE>caves are also a great source of ore, so they<NEWLINE>are often visited by hunters. 
+One of the best ways to protect against the<NEWLINE>cold is by consuming a Hot Drink. By warming<NEWLINE>the interior of the body, it is able to curb<NEWLINE>sudden decreases in stamina. You can also<NEWLINE>counter-act the cold by wearing armor with<NEWLINE>high heat retention. 
+Due to the high humidity in the region, there<NEWLINE>are a large variety of mushrooms that can be<NEWLINE>gathered. For instance, Toadstools and<NEWLINE>Nitroshrooms are said to be quite abundant in<NEWLINE>the region. Due to their ability to be<NEWLINE>combined with many things, these mushrooms are<NEWLINE>considered a necessity for every hunter.
+One should be cautious with the albino wyverns<NEWLINE>that dwell in the caves. There is little<NEWLINE>definitive evidence of these white monsters,<NEWLINE>but they are said to be eyeless beasts that<NEWLINE>appear suddenly and strike with strong thunder<NEWLINE>attacks. However, the facts are hard to<NEWLINE>discern from rumors.
+One must also beware of the many wyverns from<NEWLINE>the volcano that slip into the area. Aside<NEWLINE>from wyverns, eye-witness reports state that<NEWLINE>herds of Bullfango have been spotted, so<NEWLINE>caution is a prerequisite for traveling the<NEWLINE>Swamp zone.
+About the Volcanic Belt
+[Minegarde Geography -5-]  <NEWLINE><NEWLINE>I am the top geographer in Minegarde. This is <NEWLINE>the record of my life's research. The fourth <NEWLINE>part of this research is on the Volcanic Belt.
+The Volcanic Belt is a land where the harsh<NEWLINE>nature of volcanic rock has killed off all the<NEWLINE>vegetation. The energy sapping heat is also<NEWLINE>known to have killed many who travel into the<NEWLINE>zone. Thus, it is necessary to properly<NEWLINE>prepare for any trips into this area.
+However, this is not to say that there is a<NEWLINE>lack of life in the Volcanic Belt. Quite the<NEWLINE>contrary. Fire Herbs grow in abundance in the<NEWLINE>volcanic rock. Moreover, the fortitude<NEWLINE>enhancing Armor Seed can only be found in the<NEWLINE>Volcanic Belt.
+The main characteristic of the zone is the<NEWLINE>overwhelming abundance of ore. From rocky<NEWLINE>areas, to caves, to the mouth of volcanoes<NEWLINE>themselves, it is possible to gather various<NEWLINE>types of ores. There is never a shortage of<NEWLINE>hunters trudging up the mountain with pickaxes<NEWLINE>in tow.
+You should beware the powerful wyvern Gravios,<NEWLINE>as well as the rock like Basarios. Both of<NEWLINE>these wyverns have exceptionally hard shells<NEWLINE>that can make it difficult to damage them with<NEWLINE>normal weapons.
+Beyond wyverns, Ioprey are often spotted in<NEWLINE>this zone. These small red monsters are<NEWLINE>equipped with a powerful nausea inducing<NEWLINE>poison, so great care should be exercised<NEWLINE>when dealing with these beasts. 
+About the Fortress
+[Minegarde Geography -Special Notes-]  <NEWLINE><NEWLINE>I am the top geographer in Minegarde. This is <NEWLINE>the record of my life's research. The Special<NEWLINE>Notes section of my work is information about<NEWLINE>the Fortress managed by the Guild.
+The Fortress was created as the last line<NEWLINE>of defense against giant wyverns. The<NEWLINE>Fortress was established on high ground,<NEWLINE>giving it a better vantage point to keep a<NEWLINE>look out for these giant menaces. It also<NEWLINE>allows gunners to carry out sniping attacks on<NEWLINE>opponents below.
+The Fortress also allows the firing of<NEWLINE>special, powerful shots from large siege<NEWLINE>weapons such as the Ballista and the Great<NEWLINE>Cannon. These weapons can be used when<NEWLINE>ammunition is transported to the Fortress.
+Ballista S, normally marked with an X, can be<NEWLINE>used when placed in front of the weapon. To<NEWLINE>use the Ballista, press the ~B03 button, then<NEWLINE>adjust aim by pressing the ~B05 button and the<NEWLINE>left or right on the analog stick. Finally<NEWLINE>press the ~B00 button to fire.
+Cannon S is often held in reserve at camp, so<NEWLINE>it must be transported to the Fortress. While<NEWLINE>carrying Cannon S, pressing the ~B00 button<NEWLINE>will set and fire the Great Cannon. Although<NEWLINE>it is a strong weapon, it cannot be fine<NEWLINE>tuned, so hold off on using it until the time<NEWLINE>is right.
+The ultimate weapon of last resort is the<NEWLINE>Dragonator. It can be activated by pressing<NEWLINE>the ~B00 button at the control system located<NEWLINE>above the castle gate.
+The Dragonator can only be used once per<NEWLINE>quest, so timing is of the essence when using<NEWLINE>this ultra powerful weapon. Can Lao-Shan Lung<NEWLINE>be defeated by using these weapons? I am<NEWLINE>curious to find out myself...
+About Castle Schrade
+[Minegarde Geography -Breaking Report-]<NEWLINE><NEWLINE>I am the top geographer in Minegarde. I was<NEWLINE>commissioned to complete this special report<NEWLINE>with great haste, thus this report contains<NEWLINE>the latest news available about Castle<NEWLINE>Schrade. 
+Castle Schrade is an ancient castle built upon<NEWLINE>a wide open plain, and is the setting for an<NEWLINE>epic battle to slay the wyvern Fatalis. It<NEWLINE>appears the castle has prepared siege weapons.<NEWLINE>However these weapons require great capital,<NEWLINE>thus the contract fee is directly related to<NEWLINE>the number of siege weapons available.
+These siege weapons are like those available<NEWLINE>to the fort. Ballista, Great Cannon, and the<NEWLINE>ultimate weapon, the Dragonator, all<NEWLINE>appear to be available for use at Castle<NEWLINE>Schrade. Once again, this all depends on the<NEWLINE>funds... as the Guild is surprisingly poor. 
+That is the latest information about Castle<NEWLINE>Schrade. Since I myself was rushed into action<NEWLINE>by the sudden appearance of Fatalis, please<NEWLINE>excuse any hastiness in the preparation of<NEWLINE>this report.
+Melee Weapons Usage 1
+[RED DEVIL MELEE WEAPONS COURSE -1-] <NEWLINE><NEWLINE>Don't you know who I am? I'm Red Devil of the<NEWLINE>fearsome Hell Brothers! Even crying babies<NEWLINE>stop their sniveling when they catch sight of<NEWLINE>a strong hunter like me! I'm going to be<NEWLINE>giving a melee weapons lecture for the<NEWLINE>subscribers of "Hunting Life"!
+Melee weapons! A man's true love! <NEWLINE>There are those who love their bowguns, but<NEWLINE>only a real man knows the joy of specializing<NEWLINE>in a melee weapon, and leaping with joy in the<NEWLINE>blood and carnage his skilled attacks create.
+There is one absolutely critical point to<NEWLINE>using melee weapons, and that is Sharpness. No<NEWLINE>matter how famous the sword, or how small the<NEWLINE>enemy, the more you slash an enemy, the more<NEWLINE>a weapon's Sharpness decreases. 
+As Sharpness decreases, so does the power of<NEWLINE>the weapon. It is even possible that the<NEWLINE>weapon may snap during usage. Conversely, when<NEWLINE>the Sharpness of a weapon is high, its attack<NEWLINE>strength is also heightened. So make sure to<NEWLINE>keep your weapon sharp!
+When a melee weapon becomes dull, it is time<NEWLINE>to use a Whetstone! Not a Wetstone, a<NEWLINE>Whetstone! By rubbing the Whetstone against<NEWLINE>the blade, you can revive its Sharpness with<NEWLINE>ease! HAHAHAHA!
+However, that is only a temporary solution to<NEWLINE>the problem. You'll want a weapon that will<NEWLINE>not lose its Sharpness over time... Everyone<NEWLINE>agrees with me, right? By improving a weapon,<NEWLINE>you not only increase its power, but you can<NEWLINE>also increase its durability. 
+There are six degrees of Sharpness for melee<NEWLINE>weapons. This value fluctuates depending on<NEWLINE>how a weapon is improved, but it is safe to<NEWLINE>say a weapon can be improved to about the<NEWLINE>fifth level. It seems that the sixth level of<NEWLINE>Sharpness can only be reached by improving<NEWLINE>special weapons.
+The limit on Sharpness upgrades via<NEWLINE>improvement is the sixth level, and this<NEWLINE>cannot be exceeded. However, if you get to a<NEWLINE>veteran level like myself, there are ways to<NEWLINE>improve Sharpness outside of upgrading a<NEWLINE>weapon. Well, that is enough for now. Look<NEWLINE>forward to my next lecture! Hahahaha!
+Melee Weapons Usage 2
+[RED DEVIL MELEE WEAPONS COURSE -2-] <NEWLINE><NEWLINE>Hahahahahahaha!<NEWLINE>How are all my little hunter boys and girls <NEWLINE>today? It is time for the second melee weapons<NEWLINE>course, with yours truly, the fearsome Hell<NEWLINE>Brother, Red Devil! 
+This time, I am going to give you a lecture <NEWLINE>about some insightful pieces of melee weapon <NEWLINE>knowledge! <NEWLINE><NEWLINE>First, attacking with a melee weapon! It is <NEWLINE>not ok to swing it around carelessly like some<NEWLINE>child's toy! Understand?
+There are three steps to an attack with a<NEWLINE>melee weapon. Drawing the weapon, applying the<NEWLINE>force, and the final follow-through. The<NEWLINE>strongest part of the attack is... I shouldn't<NEWLINE>have to tell you... Exactly! It is "Applying<NEWLINE>the Force"! 
+These stages are even more important to<NEWLINE>hunting game than sharpening a weapon. Drawing<NEWLINE>a weapon requires no strength at all. Hitting<NEWLINE>a monster while drawing a weapon is likely to<NEWLINE>damage the weapon. This is something you must<NEWLINE>make a great effort to avoid when using<NEWLINE>melee weapons.
+So, how exactly do you attack an enemy with<NEWLINE>the highest strength possible...? The most<NEWLINE>important things are distance and timing. You<NEWLINE>must judge your weapon's reach and your<NEWLINE>enemy's movements. This is not something I can<NEWLINE>explain to you, but something that you must<NEWLINE>learn for yourself and develop an intuition. 
+If that is difficult, you should use a weapon<NEWLINE>with excellent Sharpness. If a weapon is sharp<NEWLINE>enough, strength is no longer important, as it<NEWLINE>will slice through an opponent anyways. It is<NEWLINE>also important to allow your equipment to fill<NEWLINE>in the gaps of your technique. 
+The second subject I want to discuss is when,<NEWLINE>despite using a weapon to its potential, an<NEWLINE>opponent is just too hard to compete against.<NEWLINE>Wyverns like Basarios and Gravios are covered<NEWLINE>in a hard shell. Normal weapons won't leave a<NEWLINE>mark on these beasts, despite your best<NEWLINE>efforts.
+However, every monster has a weak point. For<NEWLINE>every hard point, there must also be a soft<NEWLINE>point. Where are these weak points located...<NEWLINE>well that is a trade secret. One of the keys<NEWLINE>to being a successful hunter is learning to<NEWLINE>attack in the most effective manner. 
+Next, even if they have a hard shell, it is<NEWLINE>easy to damage a monster via elemental<NEWLINE>attacks. If a monster is frustrating you with<NEWLINE>its defenses, try using a weapon that can<NEWLINE>attack with the elements. 
+Finally, I want to remind you all that killing<NEWLINE>a wyvern is not an easy thing, and it is often<NEWLINE>the case that the slaying of a wyvern is<NEWLINE>for revenge. To those who hunger for<NEWLINE>revenge, let me give you some advice on weapon<NEWLINE>selection. If you meet defeat despite using<NEWLINE>a complete set of armor, a weapon with a<NEWLINE>Defense bonus would be an wise choice.
+There are even weapons that increase your<NEWLINE>Defense just by carrying them. By using these<NEWLINE>types of weapons, it lowers your chances of<NEWLINE>defeat. It is important to consider more than<NEWLINE>just attack strength when selecting a weapon.<NEWLINE>That is all for now. Go out there and make me<NEWLINE>proud, little boys and girls! Hahahaha! 
+Weapon Creation And Improvement Part 1
+[Interview: Ask the Crafter Part One]<NEWLINE><NEWLINE>Today, we want to ask questions of a dynamic <NEWLINE>duo of crafters who have gained the respect of<NEWLINE>hunters far and wide for their work at the <NEWLINE>crafting shop- Bone Elder & Iron Elder! Their <NEWLINE>amazing works have hunters frothing with <NEWLINE>rabid desire!
+Q: First things first, let's talk about the <NEWLINE>manufacturing process of a weapon. <NEWLINE><NEWLINE>Bone Elder (BE): Bone makes a great crafting <NEWLINE>material! Its touch! Its feel! It's great!<NEWLINE>Iron Elder (IE): What is he talking about!? <NEWLINE>Metal has weight and radiance. It is clearly <NEWLINE>superior!
+Q: No no! Not about materials. I wanted to ask<NEWLINE>about the entire process of making a weapon.<NEWLINE><NEWLINE>BE: The entire process!? Whether you are <NEWLINE>crafting a new weapon at the Crafting Shop, or<NEWLINE>just improving one, the most important thing <NEWLINE>is absolutely materials!
+Q: OK OK. Iron Elder What are your thoughts<NEWLINE>on materials?<NEWLINE><NEWLINE>IE: Well for creating a new item, it is key to<NEWLINE>procure so-called special materials. If you <NEWLINE>get these, you can create new pieces of <NEWLINE>equipment. When you get some new materials, <NEWLINE>you should bring them to the Crafting Shop. 
+Q: What do you feel are some key materials?<NEWLINE><NEWLINE>BE: Well, I can't really tell you a rule <NEWLINE>but... You can often get materials from <NEWLINE>monsters. For instance, armor can be made from<NEWLINE>scales or shells. For weapons, you should try <NEWLINE>using horns or fangs. Bone is also a good <NEWLINE>material for weapons.
+IE: Is he still talking about bone?! The key<NEWLINE>item is clearly ore. On hard or G-Class<NEWLINE>quests, you can find rare ore. That is the<NEWLINE>most important item for crafting. As you<NEWLINE>rise in class, you should dig for ore!
+Q: Next we would like to ask about upgrades.<NEWLINE>Can you describe how to improve equipment? <NEWLINE>BE: Basically it extracts the potential from a<NEWLINE>weapon. For melee weapons, it means advancing<NEWLINE>to the next level of a weapon's evolution. <NEWLINE>IE: Exactly. By getting materials and<NEWLINE>improving equipment, you can mold it into<NEWLINE>excellence. Now that's progress!
+Q: Progress?<NEWLINE><NEWLINE>BE: Progress. The first step in this evolution<NEWLINE>is the improvement of a weapon's Sharpness. <NEWLINE>The next step is improving the weapon itself. <NEWLINE>This is usually the end of basic improvements.<NEWLINE>Improving a weapon is that simple. 
+IE: Evolving a weapon is not just a one-way<NEWLINE>street. It is a process of finding the right<NEWLINE>path. Improving melee weapons is the same<NEWLINE>thing. According to the materials used, you<NEWLINE>can raise offensive power, elemental ability,<NEWLINE>or Sharpness.
+BE: Let's talk about Bone Materials... <NEWLINE>Q: So, um... How do you improve a bowgun?<NEWLINE><NEWLINE>BE: Improving a bowgun is different from <NEWLINE>improving a melee weapon. For instance, you <NEWLINE>don't need materials, just money. Bowgun parts<NEWLINE>that can be improved are delicate. You can't<NEWLINE>just bang on things and hope they turn out ok.
+IE: Just to add, improving a bowgun is not<NEWLINE>about improving its overall offensive<NEWLINE>abilities. It can also be about adding a Long<NEWLINE>Barrel to snipe far away wyverns, or adding a<NEWLINE>Silencer to muffle the sounds of a bowgun. It<NEWLINE>is important to pay attention to these two<NEWLINE>things as well.
+We would like to thank Bone Elder and Iron<NEWLINE>Elder for their sincerity in answering our<NEWLINE>questions about weapons manufacturing. Join us<NEWLINE>in our next issue as we discuss the ins and<NEWLINE>outs of improving a weapon with these 2<NEWLINE>predominant crafters.
+Weapon Creation And Improvement Part 2
+[Interview: Ask the Crafter Part Two]<NEWLINE><NEWLINE>Let's continue our discussion with the <NEWLINE>dynamic duo of crafters Bone Elder and Iron <NEWLINE>Elder in our "Ask the Crafter" series. The <NEWLINE>second half of our interview covers the finer <NEWLINE>points of Bone and Iron materials.
+Q: Alright. Let's talk about the features of <NEWLINE>Iron and Bone.<NEWLINE>Bone Elder (BE): Bone is the supreme material!<NEWLINE>Iron Elder (IE): NO! IRON REIGNS SUPREME!<NEWLINE>BE: What!? Iron, you have no idea what your <NEWLINE>talking about! Shut up. <NEWLINE>IE: I have no idea? Shut up? If anyone should <NEWLINE>shut up, it should be you! 
+Q: Since it obviously isn't going to be <NEWLINE>cordial, let's take turns. Bone, your first.<NEWLINE><NEWLINE>BE: You know the truth. Young people should <NEWLINE>know too. Bone Manufacturing! <NEWLINE>It has a number of special abilities such as <NEWLINE>Poison or Paralysis effects. It is like the <NEWLINE>power of a monster in your hands!
+BE: The most well known of all the bone<NEWLINE>materials is Monster Bone. Monster Bone comes<NEWLINE>in three sizes, Small, Medium, and Large.<NEWLINE>There are also high quality bones - Monster<NEWLINE>Bone+ and Hard Monster Bone. You can use these<NEWLINE>for general purpose bone equipment, but don't<NEWLINE>expect any special effects. 
+BE: If you are after the special effects, you<NEWLINE>are going to have to use materials from<NEWLINE>specific wyverns. For instance, by using<NEWLINE>Rathalos Scale, your weapon can gain increased<NEWLINE>Fire abilities. A crafting material's value is<NEWLINE>related to these special abilities. 
+BE: As you fight various monsters, you will be<NEWLINE>able to gather up valuable materials. You can<NEWLINE>never forget to carve materials from a monster<NEWLINE>once it is defeated. 
+IE: You talk entirely too much. I'm too old <NEWLINE>for this! But now it is my turn to talk... <NEWLINE>Iron Crafting! It is even more powerful and<NEWLINE>Sharp! Solid and flexible with high usability,<NEWLINE>there just is no substitute! 
+IE: The most famous Iron materials would be<NEWLINE>Iron Ore and Machalite Ore. High quality ores<NEWLINE>are those like Dragonite and Carbalite.<NEWLINE>Getting ahold of either one is quite an<NEWLINE>advantage over basic ores. 
+IE: By using a Pickaxe in rocky areas or<NEWLINE>caves, you can mine for these ores. You should<NEWLINE>never forget to equip a Pickaxe when heading<NEWLINE>off on a Quest. Pickaxes... Never leave home<NEWLINE>without them!
+BE: It is unbecoming to get so excited at your<NEWLINE>age! Anyways, we all know that there are many<NEWLINE>places where Bone shows its true worth.<NEWLINE>However, by placing Bone together with Iron,<NEWLINE>you can truly strengthen an item.
+IE: Hmmph. Look at you talking nice. But only<NEWLINE>gathering one kind of material would be a<NEWLINE>fool's folly. Only Iron or only Bone. Either<NEWLINE>is a mistake. Only through their miraculous <NEWLINE>collaboration are the best items created.<NEWLINE>BE: Exactly.
+-- They may not look like they get along, but<NEWLINE>the truth is they rely and trust each other<NEWLINE>like friends and partners, and it comes<NEWLINE>through in this interview. We would like to<NEWLINE>thank Bone Elder and Iron Elder for their time<NEWLINE>and patience in giving us this interview. End.
+Sword
+[Practical Hunting Lecture -Melee Weapons-]<NEWLINE><NEWLINE>There are hunters who are happy they have<NEWLINE>made it into the hunting ranks, but are unsure<NEWLINE>of what weapon to use. In this lecture, we<NEWLINE>will give these worried hunters a special<NEWLINE>report on swords. 
+Many people feel that swords are simple<NEWLINE>weapons for weak beginners, but the truth is<NEWLINE>that they are weapons with immense depth.<NEWLINE>Sure, it is true that a single hit is<NEWLINE>relatively minor, and that it is possible to<NEWLINE>be knocked out of one's guard; however, swords<NEWLINE>make up for this with a plethora of special<NEWLINE>characteristics and attributes. 
+The interval between sword attacks is very<NEWLINE>small, so combination attacks suit this weapon<NEWLINE>well. Moreover, swords are graced with the<NEWLINE>ability to quickly shift from attacking to<NEWLINE>defending and evasion. This is an excellent<NEWLINE>feature to have when facing large groups of<NEWLINE>monsters, or especially nimble ones like the<NEWLINE>Velociprey. 
+When facing the toughest class of wyverns, you<NEWLINE>can see a sword's true worth by using its<NEWLINE>attributes. Weapons capable of afflicting a<NEWLINE>monster with special ailments in a rapid<NEWLINE>number of hits are quick to show their<NEWLINE>effectiveness. Swords fit this bill nicely!
+Furthermore, weapons with Fire or Water<NEWLINE>attributes validate all the labor needed to<NEWLINE>make them. Attribute damage is constant<NEWLINE>damage. It will damage a monster no matter how<NEWLINE>hard their flesh.
+Another one of the benefits of a sword is the<NEWLINE>fact that they do not require a vast quantity<NEWLINE>of materials to create or improve. The prices<NEWLINE>they command are also less than comparable<NEWLINE>weapons in other classes, and swords can be<NEWLINE>improved into powerful Dual Blades.
+Let me talk about some swords you can<NEWLINE>attain even with a low Hunter's Rank. First is<NEWLINE>the Red Saber. Made from Rathalos Shell,<NEWLINE>among other Fire Wyvern materials, this sword<NEWLINE>has a strong Fire attribute. If you continue<NEWLINE>to improve this with Fire Wyvern materials, it<NEWLINE>will be capable of incredible power! 
+Next is the Deathprize. By using Genprey<NEWLINE>materials to improve a Viper Bite (made from<NEWLINE>Velociprey), you can create a sword with a<NEWLINE>powerful paralysis attribute. By afflicting<NEWLINE>wyverns with this paralysis effect, attacking<NEWLINE>them becomes a veritable pinata party.
+Last, I would like to talk about the Poison<NEWLINE>Battleaxe. It uses Monster Bone, along with<NEWLINE>the Poison Sacs from a monster's internal<NEWLINE>organs, and Gypceros Hide for protection. The<NEWLINE>Poison Battleaxe's high attack strength and<NEWLINE>poison attribute make it a textbook hunter's<NEWLINE>weapon.
+Large numbers, an abundance of attributes, and<NEWLINE>easy to acquire. These are all the strengths<NEWLINE>of a sword. You, too, should give a sword a<NEWLINE>try today!
+Great Sword
+[Practical Hunting Lecture -Melee Weapons-] <NEWLINE><NEWLINE>You have gathered up materials and money, but<NEWLINE>you have no idea what weapon you should<NEWLINE>make... There must be hunters thinking this<NEWLINE>right now. This report is aimed at these<NEWLINE>hunters, and in this edition, we will cover<NEWLINE>Great Swords.
+Many people feel that Great Swords are just<NEWLINE>large blades, and lack any sort of<NEWLINE>flexibility. However, the truth is that they<NEWLINE>are an incredibly deep class of weapon. Sure,<NEWLINE>it may take time before they can unleash an<NEWLINE>attack, and leave you open too long<NEWLINE>afterwards, but they make up for this with<NEWLINE>ease of use, range, and power.
+Great Swords have three types of attacks, <NEWLINE>after one type of attack, it is possible to<NEWLINE>link to one of the two remaining types. You<NEWLINE>can also continue to connect these different<NEWLINE>attacks until you have used all three.<NEWLINE>Moreover, by pressing left and right on the<NEWLINE>analog stick with an attack, you can continue<NEWLINE>attacking while changing directions.
+Great Swords can be drawn and used immediately<NEWLINE>for an attack. The Great Sword is also able to<NEWLINE>hit high places, so it is effective against<NEWLINE>giant flying wyverns. While your sword is<NEWLINE>drawn, pressing the ~B00 button will allow you<NEWLINE>to unleash a quick circular attack. The wide<NEWLINE>range of this attack is especially useful when<NEWLINE>surrounded by monsters. 
+These techniques can be used whether you are<NEWLINE>surrounded by giant wyverns or small monsters.<NEWLINE>After an attack, you can connect with another<NEWLINE>attack, or quickly move into evasive actions.<NEWLINE>Since Great Swords have a balanced guard and<NEWLINE>powerful attacks, they are said to be the lead<NEWLINE>player in a hunt. 
+However, one should be aware of one point. The<NEWLINE>power of a Great Sword's attacks changes<NEWLINE>depending on where they land. If the sword<NEWLINE>lands near the hilt or tip, instead of its<NEWLINE>sweet spot, it will not do any significant<NEWLINE>damage. This is something that you will have<NEWLINE>to become accustomed to when using a Great<NEWLINE>Sword.
+Now I would like to talk about a few Great<NEWLINE>Swords that you can attain without a high<NEWLINE>Hunter's Rank. First, I would like to discuss<NEWLINE>the Golem Blade. It is a strong weapon made of<NEWLINE>Bone materials. Its weight and destructive<NEWLINE>power is fully developed. It also has many<NEWLINE>paths that can be taken for improvement.
+Next is the Defender. It is a sword with<NEWLINE>tremendous defensive abilities. Featuring a<NEWLINE>blade coated with Machalite Ore, it can take<NEWLINE>the role of a solid shield. It is a perfect<NEWLINE>sword for those who feel they will be hit by<NEWLINE>an enemy no matter what they do.
+Finally, I'd like to talk about the Lacerator<NEWLINE>Blade. Made from a base of Machalite Ore, with<NEWLINE>a blade fitted with Rathalos and Rathian Claw,<NEWLINE>this Great Sword is the perfect example of the<NEWLINE>fusion between Bone and Iron materials. Even<NEWLINE>its Sharpness is beyond reproach.
+Enormous attack range, the ability to string<NEWLINE>together attacks, high attack strength. These<NEWLINE>are said to be the greatest points of the<NEWLINE>Great Sword. Shouldn't you give one a try?
+Hammer
+[Practical Hunting Lecture -Melee Weapons-] <NEWLINE><NEWLINE>You have gathered up materials and money, but<NEWLINE>you have no idea what weapon you should<NEWLINE>make... There must be hunters thinking this<NEWLINE>right now. This report is aimed at these<NEWLINE>hunters, and in this edition, we will cover<NEWLINE>Hammers.
+There are many who feel the Hammer is<NEWLINE>deficient because it can't guard, and has a<NEWLINE>large interval between attacks; however, the<NEWLINE>truth is that the Hammer is a truly deep<NEWLINE>weapon. Sure, it lacks variation in its combos<NEWLINE>and there is a long gap between attacks, but<NEWLINE>it makes up for it with light footwork and a<NEWLINE>wide variety of charged attacks. 
+Like a Great Sword or a Lance, a Hammer's<NEWLINE>attacks are heavy and strong; however, unlike<NEWLINE>those weapons, you can run even while<NEWLINE>brandishing a Hammer. It is a weapon of<NEWLINE>limitless merits, with the ability to change<NEWLINE>with varying situations. With it you can<NEWLINE>launch any type of attack, and still be able<NEWLINE>to move with haste.
+By pressing the ~B05 button, you can charge up<NEWLINE>for an attack. These charged attacks can be<NEWLINE>unleashed at three levels of power, depending<NEWLINE>on how long they were charged. By charging to<NEWLINE>the final level of power, you can unleash a<NEWLINE>devastating combo while moving, or an<NEWLINE>incredible smashing attack launched from a<NEWLINE>stationary position.
+If you are executing a combo attack, you can<NEWLINE>press the ~B02 button during the combo to<NEWLINE>unleash one of two extra attacks. These<NEWLINE>attacks have intense destructive power. These<NEWLINE>attacks are believed to compensate for the<NEWLINE>lack of guard.
+However these awesome charged attacks drain<NEWLINE>Stamina if you continually charge. Since<NEWLINE>charging an attack to unleash on a wyvern<NEWLINE>takes a great deal of time, you should drink<NEWLINE>Power Juice to bolster your Stamina for the<NEWLINE>fight.
+Now I would like to talk about a few Hammers<NEWLINE>that you can attain without a high Hunter's<NEWLINE>Rank. First, I would like to discuss the Atlas<NEWLINE>Hammer. This item is considered a mid-range<NEWLINE>Bone Hammer. Obtaining the materials to craft<NEWLINE>this is quite easy, and you can expect that a<NEWLINE>variety of improvements will be possible.
+Next is the Shell Hammer. This is a strong<NEWLINE>Hammer carrying a powerful poison. It takes<NEWLINE>the strength and poison of a Basarios and<NEWLINE>strengthens it with Rathian Spikes and<NEWLINE>Machalite Ore. The poison is incredibly<NEWLINE>helpful in battle.
+Finally, let's discuss the Diablos Maul. It is<NEWLINE>made from Diablos Tail, a material very<NEWLINE>difficult for hammer users. However, by using<NEWLINE>other weapons, or maybe with some help from<NEWLINE>your friends, you should be able to obtain the<NEWLINE>materials to make this weapon. A weapon whose<NEWLINE>strength and Sharpness are considered by many<NEWLINE>to be second to none.
+Light on its feet, with a variety of charged<NEWLINE>attacks. These are considered the greatest<NEWLINE>advantages of a Hammer. Care to go for a<NEWLINE>smash?
+Lance
+[Practical Hunting Lecture -Melee Weapons-] <NEWLINE><NEWLINE>You have gathered up materials and money, but<NEWLINE>you have no idea what weapon you should<NEWLINE>make... There must be hunters thinking this<NEWLINE>right now. This report is aimed at these<NEWLINE>hunters, and in this edition, we will cover<NEWLINE>Lances.
+There are many people who feel a Lance is too<NEWLINE>slow and that its attacks are too simple, but<NEWLINE>the truth is this weapon has great potential.<NEWLINE>Sure, when it is drawn, a Lance slows you<NEWLINE>down, and other weapons have a wider range of<NEWLINE>attacks; however, a Lance has great guarding<NEWLINE>ability, charging attacks, and combos.
+Thanks to its large shield, using a Lance to<NEWLINE>block a wyvern's attack will not break your<NEWLINE>stance. Moreover, by holding the ~B05 button,<NEWLINE>you can move and attack while guarding.
+You can also press the ~B02 button +<NEWLINE>~B00 button to execute a charge attack. Use this<NEWLINE>attack to break out from a siege by small<NEWLINE>monsters, or to damage a wyvern from head to<NEWLINE>tail by running it through.
+You can string together up to three standard<NEWLINE>thrusting attacks, and by pressing the <NEWLINE>~B01 button plus the analog stick left, right,<NEWLINE>or backwards, you can dodge in any of these<NEWLINE>three directions. This move is not only to <NEWLINE>avoid an enemy, but also to gain small <NEWLINE>advantages in position.
+With top quality guard, strong attacks, and<NEWLINE>adjustable combos, the Lance is said to be an<NEWLINE>incredibly balanced weapon. Moreover, it has a<NEWLINE>longer reach than other weapons and it can cut<NEWLINE>through armor with its exceptional Sharpness.<NEWLINE>One can't say enough great things about<NEWLINE>Lances.
+Now I would like to talk about a few Lances<NEWLINE>that you can attain without a high Hunter's<NEWLINE>Rank. First, I would like to discuss the Long<NEWLINE>Tusk. An item that, although still in<NEWLINE>development, is considered to have enormous<NEWLINE>potential. It can be crafted with the<NEWLINE>relatively easy to obtain Medium Monster Bone.
+Next is the Aqua Spear. This Lance can be<NEWLINE>acquired at an early stage. It is a rare gem<NEWLINE>with a strong Fire attribute. It can be<NEWLINE>improved with Rathalos and Green Plesioth<NEWLINE>materials, the Aqua Spear has a base of<NEWLINE>strength that can carry one through to the end<NEWLINE>of their hunting careers.
+Finally, let's discuss the Babel Spear. Made<NEWLINE>from a large quantity of Iron Ore and<NEWLINE>Machalite Ore, it has guaranteed strength and<NEWLINE>defensive ability. It can be crafted without<NEWLINE>defeating certain wyverns, which is considered<NEWLINE>one of its high points. So grab a Pickaxe and<NEWLINE>keep on mining.
+Terrific balance. An all-purpose weapon. That<NEWLINE>is a Lance. Shouldn't you take a stab at using<NEWLINE>one?
+Dual Blades
+[Practical Hunting Lecture -Melee Weapons-] <NEWLINE><NEWLINE>You have gathered up materials and money, but<NEWLINE>you have no idea what weapon you should<NEWLINE>make... There must be hunters thinking this<NEWLINE>right now. This report is aimed at these<NEWLINE>hunters, and in this edition, we will cover<NEWLINE>Dual Blades.
+There are many people who discount Dual<NEWLINE>Blades because they cannot guard and their<NEWLINE>Sharpness decreases quickly; however, they are<NEWLINE>actually remarkable weapons. It is true that<NEWLINE>they can't guard, and the Sharpness does drop<NEWLINE>quickly, but it makes up for it with a variety<NEWLINE>of improvements, attributes, and Demonization.
+Dual Blades are notable for many different<NEWLINE>abilities. By pressing the ~B05 button, you<NEWLINE>can enter into Demonization mode. In this<NEWLINE>mode, in exchange for consuming Stamina, you<NEWLINE>can unleash a stunning array of combination<NEWLINE>attacks. Most notable is the destructive<NEWLINE>Frenzy attack that can be launched by<NEWLINE>pressing the ~B02 button + ~B00 button.
+If you unleash a Frenzy attack when a monster<NEWLINE>is paralyzed or immobilized in a Pitfall Trap,<NEWLINE>it will be devastatingly effective. Add a<NEWLINE>Power Juice to maintain your Stamina, and no<NEWLINE>enemies will be able to survive before your<NEWLINE>Dual Blades. 
+Sharpness is quick to drop, but even if<NEWLINE>Sharpness drops, or the attack is broken,<NEWLINE>attribute attacks are still likely to cause<NEWLINE>damage. Compared to a Sword, Dual Blades do<NEWLINE>not have many Poison or Paralysis attacks;<NEWLINE>however, they do have more than enough models<NEWLINE>capable of attribute attacks like Water or<NEWLINE>Fire.
+Another point worth mentioning is the large<NEWLINE>number of improvement routes, especially<NEWLINE>compared with other weapons. Dual Blades are<NEWLINE>made as an evolution of Swords. Comparatively<NEWLINE>speaking, since they are made from easy to<NEWLINE>obtain Swords, Dual Blades are remarkable<NEWLINE>weapons.
+Now I would like to talk about a few Dual<NEWLINE>Blades that you can attain without a high<NEWLINE>Hunter's Rank. First, I would like to discuss<NEWLINE>the Cyclone, powerful Dual Blades created from<NEWLINE>a Sword made from Iron and strengthened. These<NEWLINE>blades are made without monster materials,<NEWLINE>instead using Iron and Machalite Ores. Thanks<NEWLINE>to this, their Sharpness is unimpeachable.
+Next I'd like to talk about Gradios. Made from<NEWLINE>a base of Monster Bone and strengthened with<NEWLINE>Rathalos and Rathian materials, the blades<NEWLINE>still have room for improvement, even while<NEWLINE>sporting a strong Fire attribute. By<NEWLINE>collecting the proper materials, there is no<NEWLINE>doubt these blades will become incredibly<NEWLINE>powerful.
+Finally, let's discuss the Dromenail. Starting<NEWLINE>with a Sword crafted from Velociprey, the<NEWLINE>Serpent Bite, and then combined with a<NEWLINE>Velocidrome Claw and other strong wyvern<NEWLINE>materials, this attribute-less weapon has<NEWLINE>incredible strength and Sharpness.
+Easy to obtain, with devastating combos and<NEWLINE>attribute attacks. These are the strong points<NEWLINE>of Dual Blades. Care to take a set for a spin?
+Bowgun Usage 1
+[The Gunner's Book -1-]  <NEWLINE><NEWLINE>I, the "Legendary Gunner", am using this <NEWLINE>manuscript to record everything for those <NEWLINE>aiming to become gunners in the generations to<NEWLINE>come. It will cover all matters related to <NEWLINE>gunners, from the basics to the advanced.
+The Ancients often said, "There is a pioneer<NEWLINE>for even the littlest things." Lately, people<NEWLINE>are prone to forgetting the words of the<NEWLINE>pioneers, and there are many who pay these<NEWLINE>words no heed. I would like to thank the<NEWLINE>editors of Hunting Life for giving me a place<NEWLINE>to spread these words. I pray that hunters<NEWLINE>assist me in my quest.
+In the first part of this series, I would like<NEWLINE>to create a reference for the basic of the<NEWLINE>basic. First, let's talk about Bowgun ammo.
+It is natural that a bowgun without bullets<NEWLINE>cannot stand in battle. If you aim to be a<NEWLINE>gunner, you must make it a habit to carry<NEWLINE>enough bullets for the fight ahead.
+As for how to acquire ammo, lately it has been<NEWLINE>available for purchase in the armor shop.<NEWLINE>As a low ranking hunter, you can request that<NEWLINE>the Guild show favor upon you and provide you<NEWLINE>with ammo provisions. These are the simplest<NEWLINE>ways of getting ammo.
+However, there is never enough money to buy<NEWLINE>all the ammo you need, and the basic ammo<NEWLINE>provided by the Guild will never lead you to<NEWLINE>improvement. If you really want to become a<NEWLINE>gunner, you must learn the fine art of<NEWLINE>creating your own ammunition. 
+Creating your own ammo is as simple as<NEWLINE>Combining. We will cover the specifics of this<NEWLINE>process in a later edition, but basically you<NEWLINE>gather materials in the field and try various<NEWLINE>combinations to make the best ammunition.
+Bowgun Usage 2
+[The Gunner's Book -2-]  <NEWLINE><NEWLINE>The second part of The Gunner's Book covers <NEWLINE>items that must garner a gunner's attention. <NEWLINE>First, it goes without saying that there are <NEWLINE>two large divisions of bowguns.
+Light Bowguns are weak, but light and easy to<NEWLINE>use. In contrast, guns that trade light weight<NEWLINE>for high power are called Heavy Bowguns. Each<NEWLINE>one has its pluses and minuses, and you should<NEWLINE>choose which one to use according to your<NEWLINE>enemy and your friends.
+The Light Bowgun allows you to run while it is<NEWLINE>drawn. I suppose one can say that, when facing<NEWLINE>a giant wyvern, it is important to be agile<NEWLINE>and strafe the beast. On the other hand, a<NEWLINE>Heavy Bowgun makes up for its weight in power.<NEWLINE>Its ability to fire powerful ammo is a clear<NEWLINE>indication of its value.
+The second point you must be aware of as a<NEWLINE>gunner is how to properly gauge the range to a<NEWLINE>target. The power needed to hit a target can<NEWLINE>change dramatically depending on which<NEWLINE>ammunition you are using. Even when you use<NEWLINE>the same shot, a change in distance could mean<NEWLINE>double the firing power is needed.
+The power needed can depend on the type of<NEWLINE>shot, as well as the type of bowgun. Not too<NEWLINE>fast, not too close. The intuition needed to<NEWLINE>join a shot with the optimum distance and<NEWLINE>power is critical to a hunter.
+At any rate, gunners are a team. Depending<NEWLINE>on the ammunition being used, a strong<NEWLINE>attacker should be coupled with a rock steady<NEWLINE>supporter, whose role it is to slow a monster<NEWLINE>down. Victory or defeat depend entirely on<NEWLINE>this gunner team.
+Finally, I would like to add one last item<NEWLINE>with regards to bowgun usage. I recommend that<NEWLINE>you create ammo more often than you buy. By<NEWLINE>creating ammo, it costs half as much than if<NEWLINE>you were to buy it. While you do need<NEWLINE>materials to create ammo, as a hunter, this<NEWLINE>shouldn't pose a problem.
+About Ammunition 1
+[The Gunner's Book -3-]  <NEWLINE>The third part of my Gunner's Book series<NEWLINE>will cover the ins and outs of the most<NEWLINE>important item for a gunner, ammunition. In<NEWLINE>part one, I covered the basic methods of<NEWLINE>attaining ammunition, this time I would like<NEWLINE>to talk about how to combine things to create<NEWLINE>your own ammunition.
+How to combine things should be common sense<NEWLINE>for an intelligent hunter, but for the sake of<NEWLINE>completeness, I will cover everything. From<NEWLINE>the Menu, select Combine, and then select two<NEWLINE>materials to combine. Depending on the two<NEWLINE>materials you selected, you can create your<NEWLINE>own ammunition.
+There are five advantages to making ammo.<NEWLINE>á@ÅFLower Cost <NEWLINE>áAÅFAble to make ammunition during a Quest<NEWLINE>áBÅFDepending on the ammo, you can create <NEWLINE>multiple shots by combining only once<NEWLINE>áCÅFMake strong shots not sold in stores <NEWLINE>áDÅFUse more shots than the area carrying <NEWLINE>restrictions allow.
+About No. 1: Since a hunter can gather or fish<NEWLINE>for materials during a quest, and may even be<NEWLINE>rewarded for doing so, there should be no need<NEWLINE>to worry about the cost of creating ammo.<NEWLINE>However, even though it is hard to get many<NEWLINE>materials at once, you must be careful of<NEWLINE>buying materials at a store, since it<NEWLINE>adversely affects cost.
+About No. 2: Depending on the ammo, you will<NEWLINE>gather the materials in the field, or carve<NEWLINE>them from slain monsters. When you don't have<NEWLINE>enough ammo, you can replace your ammo on the<NEWLINE>field. Resupplying on the field is important<NEWLINE>when trying to slay giant wyverns, or when<NEWLINE>presented with unforeseen circumstances.
+About No. 3: For different bowgun shots, one<NEWLINE>combination session can yield from one to four<NEWLINE>shots. Shots that you use more frequently will<NEWLINE>net a higher yield than other forms of<NEWLINE>ammunition.
+About No. 4: You create all of the different<NEWLINE>forms of ammunition via combination. High<NEWLINE>level ammo not sold in stores, and other<NEWLINE>special forms of ammo can be attained by<NEWLINE>combining materials. A top class gunner is<NEWLINE>also a top class combiner.
+Finally, About No. 5: This is one of utmost<NEWLINE>importance. There is a limit on the number of<NEWLINE>shots one can possess. However, there are many<NEWLINE>giant wyverns that cannot be slayed within<NEWLINE>that limited number of shots. 
+So, gather up materials during the Quest, and<NEWLINE>when your ammunition has been depleted,<NEWLINE>combine these materials to replenish your<NEWLINE>stocks. When facing a giant wyvern, this is<NEWLINE>one of the most important battle techniques<NEWLINE>for a gunner.
+That about covers the serious issue of<NEWLINE>combining. In the next edition, we will build<NEWLINE>upon this lecture and provide a recipe for<NEWLINE>creating various different shots.
+About Ammunition 2
+[The Gunner's Book -4-]  <NEWLINE><NEWLINE>The fourth part of my series will focus on<NEWLINE>the basic recipes for the ammo that can be<NEWLINE>made by combining. I believe one of the best<NEWLINE>parts of being a gunner is the ability to<NEWLINE>master all the different shots that can be<NEWLINE>used in a bowgun. 
+There are three basic materials that you need<NEWLINE>to craft ammunition. Huskberry, Small Bone<NEWLINE>Husk, and Large Bone Husk. Bone Husk is the<NEWLINE>husk of a bone from a monster's spine. Due to<NEWLINE>its extreme strength, powerful shots can be<NEWLINE>created using Bone Husk. 
+Put simply, Huskberry is a material that is<NEWLINE>used frequently, while Large Bone Husk is used<NEWLINE>when combining to make powerful shots, and<NEWLINE>Small Bone Husk is used for ammunition with<NEWLINE>mid-range power. The most basic notion you<NEWLINE>should remember is that Huskberry can be used<NEWLINE>to make everything from Normal S to the most<NEWLINE>power ammunitions around.
+You can fill husks with materials from a truly<NEWLINE>diverse set of sources. These empty shells can<NEWLINE>be combined with materials taken from plants,<NEWLINE>fish, or monsters. Let's go over some classic<NEWLINE>recipes for each one of these classes.
+First, let's take a look at Plant materials.<NEWLINE>Berries or Mushrooms with special natural<NEWLINE>properties are quite compatible with<NEWLINE>Huskberry, also a member of the plant class of<NEWLINE>materials. This class generally creates shots<NEWLINE>low in power, but there are exceptions.<NEWLINE>Dragonseed and Large Bone Husk combine to make<NEWLINE>Dragon S, a great shot to use against wyverns.
+Here are a few recipes indicative of what <NEWLINE>Huskberry is capable of: Huskberry and<NEWLINE>Scatternut will create Pellet S LV1, while<NEWLINE>Huskberry and Bomberry combine to create<NEWLINE>Clust S LV1. Moreover, by using Power Seed or<NEWLINE>Armor Seed, you can create highly effective<NEWLINE>medicines like Demondrug and Armorskin. 
+Next, let's discuss the Fish class of<NEWLINE>materials. There are a wide variety of Fish<NEWLINE>materials that can be used to craft ammo,<NEWLINE>especially those from an Arrowana, which prove<NEWLINE>priceless when crafting Crag S. Scatterfish<NEWLINE>can be used to make Clust S LV3, while Pin<NEWLINE>Tuna can make Pierce S LV3.
+Finally, let me say a few words about<NEWLINE>Monster materials. Using materials that were<NEWLINE>formerly a monster's implements of war, like<NEWLINE>fangs or claws, to create ammo is known as a<NEWLINE>traditional method of supply. Velociprey Fang<NEWLINE>can create Pierce S LV1, while Ioprey Fang can<NEWLINE>make Poison S LV2. Finally Genprey Fang is<NEWLINE>used to create Stun S LV2.
+It is also worth mentioning that Wyvern Fang<NEWLINE>and Wyvern Claw are both treasures when used<NEWLINE>as ammo materials. I have already mentioned<NEWLINE>some common recipes; however, there are many<NEWLINE>more ammo types than the few I mentioned.<NEWLINE>There are attribute shots like Flaming S and<NEWLINE>Ice S, while Demon S and Armor S make good<NEWLINE>ammo for supporting your comrades in battle.
+I believe the wide variety of shots a gunner<NEWLINE>can use is an advantage over users of melee<NEWLINE>weapons. It allows a hunter to adapt tactics<NEWLINE>and ammunition to the prey being stalked. A<NEWLINE>gunner who can do this properly is said to<NEWLINE>have truly grown into their position.
+Bowgun Creation and Improvement
+[The Gunner's Book -5-]  <NEWLINE><NEWLINE>The final part of my Gunner's Book will cover<NEWLINE>the Creation and Improvement of Bowguns.  
+Improving a Bowgun is different than improving<NEWLINE>a melee weapon. In return for not needing<NEWLINE>materials, specific items must be acquired to<NEWLINE>improve a bowgun. In this sense, improving a<NEWLINE>bowgun is actually more like customization. 
+There are four types of improvements for a<NEWLINE>bowgun. Level Up is literally a full<NEWLINE>improvement of the bowgun. Attack strength is<NEWLINE>raised, as well as shell velocity, and<NEWLINE>accuracy. There are up to five levels a gun<NEWLINE>can reach. I recommend improving your bowgun<NEWLINE>as high as your budget will allow. 
+Next is attaching a Silencer to a bowgun. This<NEWLINE>item silences the report of your bowgun when<NEWLINE>attacking, making you less of a target to a<NEWLINE>monster than other hunters. However, monsters<NEWLINE>are no fools. Using this when you are alone or<NEWLINE>too close to other hunters nullifies its<NEWLINE>effects, so you must be careful.
+You can also add a Long Barrel to a bowgun. A<NEWLINE>Long Barrel reduces the amount of drift in a<NEWLINE>bullet's path, increasing the accuracy of the<NEWLINE>bowgun. Moreover, the initial barrel velocity<NEWLINE>is also raised, so one can expect an overall<NEWLINE>increase in efficiency.
+Finally, a Zoom Scope can also be attached to<NEWLINE>a bowgun. By pressing left or right on the<NEWLINE>directional buttons, you can change the degree<NEWLINE>of zoom. By changing the zoom to match the<NEWLINE>situation, you can execute precise, long range<NEWLINE>attacks. However, you must have steady hands<NEWLINE>when aiming with high zoom.
+Now lets talk about Bowgun Creation. For melee<NEWLINE>weapons, you can make a weak weapon and<NEWLINE>improve it along the way until it becomes a<NEWLINE>weapon of true power. However, since improving<NEWLINE>a bowgun is fundamentally different, you can<NEWLINE>start off by making a strong weapon. When<NEWLINE>creating a new bowgun, you should always<NEWLINE>consider your present abilities and situation.
+Finally, let's go over a few bowguns you can<NEWLINE>acquire even if you are a low ranking<NEWLINE>Hunter. First, let's examine the Shotgun<NEWLINE>(Azure). Made from Velociprey material, it is<NEWLINE>sold as a high capacity Pellet S bowgun. It is<NEWLINE>possible to shoot friends with Pellet S, so be<NEWLINE>careful; however, when attacking many monsters<NEWLINE>at once no other shot is stronger.
+Next up is the Valkyrie Fire. With reassuring<NEWLINE>attack strength, and the ability to use high<NEWLINE>powered shells, this is a light bowgun with<NEWLINE>many fans. Made with Rathian Scales and Shell,<NEWLINE>along with Machalite Ore and Gunpowder, this<NEWLINE>gun is said to match its high material<NEWLINE>requirements with its high usability.
+Finally, I'd like to introduce the heavy<NEWLINE>bowgun Tankmage. Made from Gypceros materials<NEWLINE>along with Machalite Ore, this gun's attack<NEWLINE>strength is said to bolster the reputation of<NEWLINE>the entire heavy bowgun class. Furthermore, it<NEWLINE>can use all of the abnormal condition shells,<NEWLINE>once again proving its worth.
+Now that we have discussed the five major<NEWLINE>points of a bowgun, I understand that no<NEWLINE>matter the number of benefits, there is still<NEWLINE>some hesitation in becoming a gunner. However,<NEWLINE>I hope that all who have read my text now have<NEWLINE>been instilled with enough knowledge to take<NEWLINE>up the bowgun without any lingering doubts.
+More than just having knowledge of bullets and<NEWLINE>bowgun usage, I hope that you have come to<NEWLINE>understand the benefits involved with using a<NEWLINE>bowgun. Also, I'd like to apologize to my<NEWLINE>fellow bowgun masters for being presumptuous<NEWLINE>enough to think that an old fool such as<NEWLINE>myself could teach bowgun novices.
+I would like to thank all of you readers who<NEWLINE>have followed my manuscript to the very end,<NEWLINE>as well as the editors of this magazine for<NEWLINE>their advice. Finally, I would like to thank<NEWLINE>the villagers of Kokoto for their assistance<NEWLINE>and support in my return to active duty. 
+About Monster Materials
+[Practical Hunting -Monster Materials-]<NEWLINE><NEWLINE>You want monster materials, but you can't slay<NEWLINE>a single thing... There must be hunters<NEWLINE>thinking this right now. This report is aimed <NEWLINE>at these hunters, and in this edition, we will<NEWLINE>cover destroying specific monster parts.
+You can get these materials without having to<NEWLINE>slay flying wyverns. All you have to do is<NEWLINE>destroy certain parts. There are two types of<NEWLINE>parts destruction. The first is cutting off a<NEWLINE>monster's tail and gathering the parts, while<NEWLINE>the second is destroying horns or claws and<NEWLINE>receiving a reward after a Quest is finished.
+There are wyverns who are prone to having<NEWLINE>their beloved tails hacked clean off. The good<NEWLINE>news is you can carve materials from these<NEWLINE>dismembered tails. Of course, you must be<NEWLINE>using a weapon capable of slicing to remove a<NEWLINE>wyvern's tail.
+To be rewarded with materials, like horns or<NEWLINE>claws, you should make a concentrated attack<NEWLINE>on the part that you want to receive. You can<NEWLINE>confirm that you got it by simply clearing the<NEWLINE>Quest. Of course, for Quests that require<NEWLINE>slaying a wyvern, you must slay it; however,<NEWLINE>in other Quests, this is an easy way to obtain<NEWLINE>materials.
+Even on a Hunting Quest, a reward for<NEWLINE>destroying specific parts of a monster is<NEWLINE>added onto the normal reward for the quest.<NEWLINE>Thus, it is a good idea to always be aware of<NEWLINE>your attacks.
+I don't just want materials, I want to slay a<NEWLINE>wyvern! Here is a tip on destroying pieces of<NEWLINE>a wyvern for hunters who think in this manner.<NEWLINE>Specific shots and melee weapons carry special<NEWLINE>attributes, of which some could overpower the<NEWLINE>weak points of a wyvern. 
+If you match a weapon with a wyvern's weak<NEWLINE>points, for instance Fire or Thunder, you can<NEWLINE>cause a great deal of damage. ...What wyvern<NEWLINE>has what weak point? Well, relax for a minute<NEWLINE>and let me explain...
+To determine a monster's weak points, you<NEWLINE>should first look at armor made from that<NEWLINE>monster's materials. For instance, armor that<NEWLINE>is weak against Fire is a good indication that<NEWLINE>the wyvern it is made from is also weak versus<NEWLINE>Fire. However, there can be exceptions to<NEWLINE>this rule.
+You do not necessarily have to create armor,<NEWLINE>weak points can also be determined even if you<NEWLINE>only have key items. You can confirm things by<NEWLINE>taking these key items to the Crafting Shop...<NEWLINE>just to recap, obtaining key materials from a<NEWLINE>wyvern without slaying it is called Part<NEWLINE>Destruction. 
+About Velociprey Breeds
+[Practical Hunting -Small Monsters-]<NEWLINE><NEWLINE>This section of Practical Hunting will discuss<NEWLINE>increasing damage when fighting monsters. This<NEWLINE>information, collected from the important <NEWLINE>points passed on to beginners by the Hunter's <NEWLINE>Guild, is worth reading for anyone who wants <NEWLINE>to become a hunter.
+This section features information on the<NEWLINE>important points of Velociprey and other small<NEWLINE>monsters. These small monsters are prevalent<NEWLINE>in many zones of the world, and are often<NEWLINE>the first monsters a beginning hunter will<NEWLINE>face. This class of monsters includes the<NEWLINE>Velociprey, Genprey, and Ioprey.
+The common feature among them is that they all<NEWLINE>travel in flocks. Alone they are not much of a<NEWLINE>threat, but they will work as a group to<NEWLINE>surround a hunter, attacking from all<NEWLINE>directions. Always stay aware of your<NEWLINE>surroundings, and try and position yourself so<NEWLINE>they can only approach from one direction. 
+Depending on the situation, there may even be<NEWLINE>a leader among the flock. These monsters are<NEWLINE>different from the norm. They are extremely<NEWLINE>strong, and can summon other members of the<NEWLINE>flock. They will also run off to a different<NEWLINE>zone to recover strength when they sense<NEWLINE>mortal danger. 
+If you see this happening, throw a Flash Bomb<NEWLINE>to impede the leader's movement. It will<NEWLINE>temporarily stun the leader and allow you time<NEWLINE>to catch up and slay it. This technique can<NEWLINE>also be used if you do not have enough<NEWLINE>strength left to fight. Throw the Flash Bomb<NEWLINE>to cover your escape.
+Next, let's take a look at a breed in this<NEWLINE>class. With beautiful blue scales, the flock<NEWLINE>traveling Velociprey is deadly with its long<NEWLINE>range jumping attack. If you are unaccustomed<NEWLINE>to hunting, this is a monster that can easily<NEWLINE>catch you at unawares.
+The materials taken from this monster are<NEWLINE>quite useful, and are often worn by those<NEWLINE>aiming to take a step up as a hunter.<NEWLINE>Occasionally, you may come upon a Velociprey<NEWLINE>with white scales. Equipment made from the<NEWLINE>materials carved from this White Velociprey<NEWLINE>are quite different from those of a normal<NEWLINE>Velociprey.
+The Desert dwelling Genprey is typified by its<NEWLINE>long fangs. These fangs have a powerful<NEWLINE>paralysis inducing neurotoxin that snatches<NEWLINE>away the ability to move from all who fall<NEWLINE>victim to its attacks. Medicines and herbs<NEWLINE>cannot protect against this paralysis, so the<NEWLINE>utmost care should be paid when facing a<NEWLINE>Genprey. 
+However, thanks to its special properties, one<NEWLINE>of the key traits to materials taken from a<NEWLINE>Genprey is the Paralysis attribute. Not just<NEWLINE>contained in its fangs, the Gendrome has<NEWLINE>Stun Sacs that can be carved from its body.<NEWLINE>These Stun Sacs can induce incredibly<NEWLINE>powerful paralysis on those who fall victim to<NEWLINE>their contents.
+The Ioprey is an iconic red monster that makes<NEWLINE>its home in the heart of the Volcanic Belt.<NEWLINE>Comparatively tall, one should beware of its<NEWLINE>Poison Spray attack. If you are poisoned by an<NEWLINE>Ioprey, it will slowly suck away your strength<NEWLINE>until you take a curing Antidote. Quite a<NEWLINE>dangerous situation to be in.
+The strength of an Ioprey is also reflected in<NEWLINE>its materials. Armor made from the red scales<NEWLINE>are a defensive step above those made from<NEWLINE>Velociprey. You can also make weapons with a<NEWLINE>Poison attribute from the Ioprey's Poison Sacs<NEWLINE>or Poison Fangs.
+The first step to becoming a hunter is being<NEWLINE>able to slay Velociprey class small monsters.<NEWLINE>The Guild is always accepting members for our<NEWLINE>Quests.
+About Felynes
+[The Story of the Felyne]<NEWLINE><NEWLINE>The one and only hunter of the Felyne race!<NEWLINE>That's me. Of course, becoming a Felyne hunter<NEWLINE>was no easy feat.
+This is the first contribution to Hunting Life<NEWLINE>by a Felyne. For only I could force open <NEWLINE>the door to Felyne history! Well, that is<NEWLINE>enough introduction, so if you don't mind, let<NEWLINE>me tell you a little bit about the Felyne.
+We Felyne are a quiet race. For many years we<NEWLINE>have lived alongside both wyvern and human,<NEWLINE>serving in a variety of roles. We have been<NEWLINE>salesmen and waiters, and it is not uncommon<NEWLINE>for a Felyne to reach a high position in the<NEWLINE>Guild, or become a top chef. We are also bound<NEWLINE>by a job placement agreement with the Wyvern<NEWLINE>race. We hunt for jobs in villages and towns.
+Since we have cultivated relationships with<NEWLINE>other species, we have many friends in this<NEWLINE>land. However, we are a brave race, and if<NEWLINE>faced with an enemy, we will stand and face<NEWLINE>them straight on. Despite our appearance, it<NEWLINE>is a good idea to avoid any confrontations<NEWLINE>with a Felyne.
+However, for hunters, it is even more<NEWLINE>important to be aware of our dark haired<NEWLINE>cousins the Melynx. Their curiosity may not<NEWLINE>kill them... but it may lead them to sneak up<NEWLINE>on a hunter and rob the hunter blind. 
+They are quite irritating, but what they are<NEWLINE>really after is Felvine. If you happen to be<NEWLINE>carrying this item, they will steal it right<NEWLINE>out of your hands. I have no idea how many<NEWLINE>times they have stolen my beloved Felvine<NEWLINE>from right out of my paws... The point is, you<NEWLINE>have to be very, very careful when carrying<NEWLINE>Felvine.
+The good news is that you can travel to<NEWLINE>their dens and recover your possessions. You<NEWLINE>can also take things they have thrown away.<NEWLINE>There are Melynx dens in the Forest and Hills,<NEWLINE>Desert, and Swamp. If you are robbed in other<NEWLINE>areas, I have no idea what you should do!
+Since we happen to be in the same profession,<NEWLINE>I suppose I could provide some information on<NEWLINE>the Felyne weapons. First is the Catpaw. It<NEWLINE>can be made from materials like the Pawprint<NEWLINE>Stamp and Barrel Lid, and is an excellent<NEWLINE>weapon with a Paralysis attribute. With it,<NEWLINE>you too can become a Felyne.
+You may be able to find the rare Barrel Lid<NEWLINE>inside a Melynx den. Also, to create a Catpaw,<NEWLINE>you must use tickets given out by Felyne<NEWLINE>chefs. These chefs may give you a taste of my<NEWLINE>favorite food, and even make you stronger.
+That's all I've got to say about us Felyne. I<NEWLINE>was only paid five Felvines for this article,<NEWLINE>so I suppose I won't be retiring from hunting<NEWLINE>anytime soon. If you ever have a question<NEWLINE>about Felyne bravery, track me down and bring<NEWLINE>a Felvine... you can ask me anything. Nya nya<NEWLINE>nya nya nya...
+About Insects
+[Celebrity Hunter -Hooray for Bug Collecting-]<NEWLINE><NEWLINE>Hello everyone! How are you!? Since my<NEWLINE>fishing column was so popular, the magazine<NEWLINE>has requested that I write a short article on<NEWLINE>collecting bugs. I can't believe they think I<NEWLINE>have talent!
+If you've got a Bugnet or a Mega Bugnet, you<NEWLINE>should be able to leisurely collect insects.<NEWLINE>Even if you don't have large financial<NEWLINE>resources, you can pick up an Old Bugnet,<NEWLINE>which should do the job, I guess...
+In the field, there are lights dancing in the<NEWLINE>sky, aren't there? Those lights are actually<NEWLINE>insects. If you use a Bugnet in those areas,<NEWLINE>you can gather up insects. 
+There is a large diversity in the bugs you can<NEWLINE>collect. For example, the Bitterbug. It is a<NEWLINE>bug famous with hunters for the large number<NEWLINE>of items it can be combined with. Or how about<NEWLINE>the Thunderbug, a bug that can be used in the<NEWLINE>making of amazing weapons.
+There are also giant insects that cannot be<NEWLINE>collected with a Bugnet. The Vespoid and the<NEWLINE>Hornetaur are two examples of this type of<NEWLINE>insect. Were you aware that sudden explosions<NEWLINE>in the population of these insects is known to<NEWLINE>cause significant damage to the surroundings?
+If you attack them outright with your weapons,<NEWLINE>they will scatter. If you are after these<NEWLINE>insect for materials, it is important that you<NEWLINE>keep one thing in mind... Poison. Yes. Poison.<NEWLINE>By killing them slowly, they won't scatter.<NEWLINE>Understand?
+Hunters should prepare Poison weapons, such as<NEWLINE>Poison S for a bowgun, or a sword with a<NEWLINE>Poison attribute. With these weapons, a hunter<NEWLINE>can acquire highly sought after materials from<NEWLINE>these giant insects.
+Their shells can be used to make armor, and<NEWLINE>while their normal wings are useless, the<NEWLINE>Bladefin of a giant insect can cut through<NEWLINE>things like iron, and can be used to make<NEWLINE>weapons. Moreover, Monster Fluid taken from<NEWLINE>insects is useful in armor crafting, and can<NEWLINE>even be used as a combining material, causing<NEWLINE>it to command a very high price!
+Finally, although it was previously covered by<NEWLINE>the Bone Elder, in places that are plagued by<NEWLINE>Vespoids, you can obtain a valuable material<NEWLINE>called Vespoid Abdomen. I've never seen it,<NEWLINE>but I'm sure it can be used to make an<NEWLINE>incredible weapon. 
+That's it for my article on bug collecting. I<NEWLINE>hope that it has inspired everyone to take up<NEWLINE>bug collecting!
+About Wyverns 1
+[Practical Hunting -Wyverns Part 1-]<NEWLINE>This section of Practical Hunting will<NEWLINE>discuss increasing damage when fighting<NEWLINE>monsters. This information, collected from<NEWLINE>the important points passed on to beginners<NEWLINE>by the Hunter's Guild, is worth reading for<NEWLINE>anyone who wants to take a step up as a<NEWLINE>hunter.
+In this article I would live to cover the<NEWLINE>important points of the small wyverns roaming<NEWLINE>the world like Yian Kut-Ku, Gypceros, and<NEWLINE>Cephadrome. At this Guild, we like to use our<NEWLINE>knowledge to help inform beginning hunters on<NEWLINE>the relatively easy methods of slaying these<NEWLINE>beasts.
+While they are small and relatively easy to<NEWLINE>slay, these wyverns should still be treated<NEWLINE>with the respect the wyvern name deserves.<NEWLINE>There are many times when negligence can<NEWLINE>prove fatal, so adequate recover items,<NEWLINE>support items, equipment, wisdom, and<NEWLINE>technique are all required to take one of<NEWLINE>these beasts down.
+No matter what kind of wyvern you face, it is<NEWLINE>important to monitor their movements and<NEWLINE>condition to determine the best time to<NEWLINE>attack. Moreover, if they have a weak point,<NEWLINE>you should exploit it. If you are faced<NEWLINE>against a wyvern weak versus light or sound,<NEWLINE>the Guild will make every effort to provide<NEWLINE>you with the appropriate provisions. 
+Another important point to remember is to<NEWLINE>never allow a wyvern to recover. If a wyvern<NEWLINE>is allowed to eat or drink it can recover its<NEWLINE>strength. Also, if a wyvern is allowed to<NEWLINE>sleep, it will quickly recover, so do your<NEWLINE>best to keep the beast from resting!
+Next, let's examine each type of monster in<NEWLINE>greater depth. The Yian Kut-Ku, with its large<NEWLINE>ears and beak, is one of the most abundant of<NEWLINE>all wyverns. At times, their population has<NEWLINE>been known to explode in a single area. 
+The weak point of a Yian Kut-Ku happens to be<NEWLINE>their large ears. If you can set off a loud<NEWLINE>noise near their ears, it will limit their<NEWLINE>movements. Sonic Bombs are not the only item<NEWLINE>that can create these loud noises, Small<NEWLINE>Barrel Bombs and Crag S are also effective.<NEWLINE>Since Kut-Ku are also weak versus light, using<NEWLINE>a Flash Bomb will dizzy the monster.
+When an area is plagued by Yian Kut-Ku, even <NEWLINE>expert hunters can't kill all of the monsters<NEWLINE>by themselves. As a result, the Guild will<NEWLINE>provide all who take these Quests with a Paw<NEWLINE>Pass Ticket, allowing you to exit the Quest.<NEWLINE>If you feel that you have reached the limit of<NEWLINE>your abilities, please deliver this ticket. Of<NEWLINE>course, you must still slay two Kut-Ku.
+Next up is Gypceros, a monster typified by its<NEWLINE>sharp beak and large crest. Attacking this<NEWLINE>crest can release flashes of light. These<NEWLINE>flashes can be guarded against, but if you are<NEWLINE>using a weapon without a guard, it is best to<NEWLINE>try and destroy that crest as quickly as<NEWLINE>possible.
+Gypceros' most effective weapon is the poison<NEWLINE>it can spray from its mouth. This poison is<NEWLINE>more potent than even an Ioprey's, and it can<NEWLINE>quickly bring about a hunter's last breaths.<NEWLINE>If possible, you should prepare Antidote.<NEWLINE>Other Gypceros features are its ability to<NEWLINE>feign death, its rubbery hide, and its<NEWLINE>vast material uses in equipment.
+Finally, let's discuss the Cephadrome. Able to<NEWLINE>swim under the desert sands, and is impervious<NEWLINE>to the effects of bright flashes. They are,<NEWLINE>however, susceptible to sound attacks. By<NEWLINE>attacking them with sound, you just may cause<NEWLINE>them to jump out of the sand in pain!
+However, even if you get it to spring out of<NEWLINE>the ground, don't think you are safe.<NEWLINE>Cephadrome has the ability to spit sand at<NEWLINE>high speed, capable of killing a hunter in an<NEWLINE>instant, and even a simple blow from the beast<NEWLINE>can be devastating. Its fins also contain<NEWLINE>Paralysis inducing poison that will numb any<NEWLINE>hunter careless enough to fall victim.
+Being able to destroy wyverns is the true mark<NEWLINE>of a developed hunter. The Guild is always<NEWLINE>accepting members for our Quests.
+About Wyverns 2
+[Practical Hunting -Wyverns Part 2-]<NEWLINE><NEWLINE>This section of Practical Hunting will discuss<NEWLINE>increasing damage when fighting monsters. This<NEWLINE>information, collected from the important<NEWLINE>points passed to beginners by the Hunter's<NEWLINE>Guild, is worth reading for anyone who wants<NEWLINE>to make a name for themselves as a hunter.
+This section will deal with the powerful<NEWLINE>wyverns Plesioth, Khezu, and Diablos. Yet,<NEWLINE>no matter how much experience a hunter piles<NEWLINE>up, these wyverns can quickly slay them. Thus,<NEWLINE>some may say that even the information<NEWLINE>compiled by the Guild is not sufficient enough<NEWLINE>for those facing these ferocious monsters.
+A hunter must know that when facing these<NEWLINE>wyverns, just like the monsters introduced<NEWLINE>before, that they are incredibly strong.<NEWLINE>Adequate equipment, along with adequate<NEWLINE>knowledge and skill, are just one step<NEWLINE>on the road to defeating wyverns of<NEWLINE>this level. 
+Plesioth is a wyvern mainly found to be living<NEWLINE>in the water. When this beast is in its liquid<NEWLINE>home, only a gunner can effectively damage<NEWLINE>a Plesioth. Thus, it is important to coax it<NEWLINE>out of the water. 
+To get a Plesioth out of the water, the carrot<NEWLINE>and stick approach is best. Fish a Plesioth<NEWLINE>out of the water by using bait they love, or<NEWLINE>hit them with things they hate. Plesioth are<NEWLINE>said to love frogs, using a frog as live bait<NEWLINE>is a great way to catch a water wyvern. The<NEWLINE>Guild is still researching items that may be<NEWLINE>Plesioth irritants.  
+Khezu is a flying wyvern whose favorite<NEWLINE>habitats are often dark and damp areas, like<NEWLINE>caves. The Khezu is known for its ability to<NEWLINE>quickly kill; traveling along the roofs of<NEWLINE>caves, and dropping down next to a hunter, or<NEWLINE>even upon a hunter's head. Here, even more<NEWLINE>than usual, a hunter must pay attention to the<NEWLINE>world above them. 
+Also, a Khezu houses a powerful<NEWLINE>internal source of Thunder, allowing it to<NEWLINE>unleash Thunder attacks from its body. Those<NEWLINE>unlucky enough to get hit with this Thunder<NEWLINE>are subject to paralysis, or even worse,<NEWLINE>death. You must pay attention and avoid these<NEWLINE>attacks!
+Finally, we want to briefly cover Diablos, a<NEWLINE>wyvern known to inhabit the Desert. With two<NEWLINE>giant horns attached to its head, this<NEWLINE>distinguishing feature is also its greatest<NEWLINE>weapon. When a Diablos uses its giant horns<NEWLINE>and massive strength to perform a thrust<NEWLINE>attack to any would be attackers, only the<NEWLINE>best armor can withstand the assault.
+This powerful attack is also its greatest<NEWLINE>weakness. When a Diablos thrusts its horns<NEWLINE>into a rock wall, its inability to move freely<NEWLINE>is a hunter's opportunity to attack. By aiming<NEWLINE>at the horns, you can slay the wyvern. Diablos<NEWLINE>is also capable of diving into the sands. As<NEWLINE>this is still being researched, we advise <NEWLINE>striking in the same manner as Cephalos.
+Use this information to slay flying wyverns,<NEWLINE>and you too will become a top class<NEWLINE>hunter. And remember, the Guild is always<NEWLINE>accepting members for our Quests.
+Lao-Shan Lung
+[Hunter's Guild Special Report]<NEWLINE> <NEWLINE>An urgent communication to all hunters<NEWLINE>associated with the Guild. We have confirmed<NEWLINE>the rumors that a giant wyvern is approaching.
+This mountain-like wyvern is confirmed to be<NEWLINE>Lao-Shan Lung. This wyvern's invasion poses a<NEWLINE>serious threat to our very existence. 
+We are preparing to ambush the monster at our<NEWLINE>Fortress on the outskirts of this land.<NEWLINE>Hunters, prepare for battle and help us stop<NEWLINE>this vile monster!
+We are also preparing our ambush weapons at<NEWLINE>the Fortress - Ballista, Great Cannon, and the<NEWLINE>ultimate weapon, the Dragonator. Of course,<NEWLINE>these weapons are nothing without someone to<NEWLINE>man them.
+We fear that these weapons alone will not be<NEWLINE>enough to bring down Lao-Shan Lung and are<NEWLINE>thus recruiting a corps of hunters ready to<NEWLINE>take the fight directly to the gigantic beast.<NEWLINE>Even those with no previous Guild affiliations<NEWLINE>are urged to join in the fight.
+If we are unable to stop Lao-Shan Lung, all<NEWLINE>sorts of calamities will surely befall our<NEWLINE>land. Ladies and Gentlemen, prepare for the<NEWLINE>fight of your lives!
+About Combining
+[Combining Master's School] <NEWLINE><NEWLINE>Hello. I am the Combiner's apprentice. This <NEWLINE>magazine had originally requested a manuscript<NEWLINE>from the master; however, he is very busy, so <NEWLINE>I will humbly be taking his place. Even though<NEWLINE>I just started working here...
+What is Combining? It is the mysterious art of<NEWLINE>taking two different items and creating a new<NEWLINE>item from them. Using items at hand to create<NEWLINE>useful new things is an indispensable skill<NEWLINE>for a hunter... or so I am told.
+They also say that a hunter is not a hunter<NEWLINE>until he is a master of combining things.<NEWLINE>Sure, it is just a combination of two items,<NEWLINE>but the amount of combinations and their<NEWLINE>creative difficulty make it something you have<NEWLINE>to study to really get a handle on. 
+For difficult combinations, it is often the<NEWLINE>case that the success rate is very low, and<NEWLINE>the materials you had prepared to combine<NEWLINE>become useless trash. If this was to happen<NEWLINE>during a Quest it would be very disappointing.<NEWLINE> 
+This is why there exists the Book of Combos<NEWLINE>series. Written by my master, they are<NEWLINE>absolutely indispensable. As you acquire each<NEWLINE>book in the 5 book series, your chances of<NEWLINE>success raise accordingly. You should<NEWLINE>definitely buy these, and I am not just trying<NEWLINE>to sell my master's work. I really mean it!
+Now that the basics are out of the way, let me<NEWLINE>share a few tips I have learned so far. I<NEWLINE>suppose you know that if you combine Bitterbug<NEWLINE>with Honey you can create Catalyst, but did<NEWLINE>you know that combining Catalyst with other<NEWLINE>materials could radically increase their<NEWLINE>effectiveness?
+For instance, if you combine it with Rare<NEWLINE>Steak, known to recover stamina, you can<NEWLINE>create Power Juice, which will give you<NEWLINE>unlimited stamina for a short period of time.<NEWLINE>Catalyst can be combined with other things as<NEWLINE>well. It is also said to go well with monster<NEWLINE>extracts; however, I am not familiar with the<NEWLINE>details.
+Next I would like to explain how to create a<NEWLINE>unique flute. The first item to prepare is, of<NEWLINE>course, a Flute. You also want Medium Monster<NEWLINE>Bone. Combine these two with Lifepowder and<NEWLINE>Mega Demondrug. This will create a special<NEWLINE>flute with effects that can be felt by all the<NEWLINE>other hunters on the field.
+Finally, let me tell you how to create Max<NEWLINE>Potion. Combine the rare and dangerous Dragon<NEWLINE>Toadstool with strength increasing Mega<NEWLINE>Nutrients to create Max Potion, a powerful<NEWLINE>potion that rapidly increases physical<NEWLINE>strength.
+There are supposedly drugs even more powerful<NEWLINE>than Max Potion, but I haven't ever created<NEWLINE>one, as my master refuses to teach me these<NEWLINE>combinations... the Felyne shop across the way<NEWLINE>had no problem giving him the secrets though!<NEWLINE>Come to think of it, I have seen him combining<NEWLINE>a special drug with some kind of horn... 
+That is all I have to write about combining. I<NEWLINE>am worried that it was not helpful, but since<NEWLINE>there are so many facets to combining, trying<NEWLINE>things out is the best way to learn. Thank you<NEWLINE>for reading this humble apprentice's thoughts<NEWLINE>and have a great time combining.
+About Fishing
+[Celebrity Hunter - World Fishing]<NEWLINE><NEWLINE>How ya all doin'? I hope you don't mind me <NEWLINE>taking some time to tell you all about my <NEWLINE>hobbyÅc fishing. Of course, these are just<NEWLINE>my personal opinions. 
+If you have a Worm, Cricket, or Firefly, you<NEWLINE>can enjoy the leisurely hobby of fishing.<NEWLINE>These live baits can be purchased at the Armor<NEWLINE>shop, or acquired in the field.
+For standard bait, the amount of bait you have<NEWLINE>does not make a difference with regards to the<NEWLINE>fish you can catch. However, if you want to<NEWLINE>catch special fish, you should try and match<NEWLINE>the bait to a smell known to attract the<NEWLINE>specific fish you are after.
+Any of the fish you can catch are considered<NEWLINE>useful to a hunter. Sushifish are known to<NEWLINE>recover physical strength, Knife Mackerel can<NEWLINE>be used instead of ore as a material to make<NEWLINE>weapons, and there are many fish that can be<NEWLINE>used to make ammunition.
+If you are trying to obtain high level<NEWLINE>ammunitions, I suggest you try combining<NEWLINE>materials with the fish you have caught.
+Now I will present all of you who have read<NEWLINE>this far with some special information<NEWLINE>regarding some special fish. First up is the<NEWLINE>Goldenfish. As the name suggests, this a<NEWLINE>beautiful, shining fish. It is incredibly<NEWLINE>valuable, thus commanding a high price,<NEWLINE>especially from the Guild. This fish is all<NEWLINE>the rage among celebrities like me.
+Although the Goldenfish is very rare, it lives<NEWLINE>in a wide variety of locations, so don't be<NEWLINE>surprised to find one right under your nose.<NEWLINE>For instance, in the Forest and Hills... find<NEWLINE>just one and you will have something worth<NEWLINE>more than the pennies I am being paid for this<NEWLINE>manuscript. It's like they think I have a ton<NEWLINE>of free time to write these things...
+The next fish on our tour of the waters is the<NEWLINE>Speartuna. One look at this fish is enough to<NEWLINE>know it is special. There really is no<NEWLINE>comparison to its giant silhouette... If you<NEWLINE>happen to catch one of these fish, you can use<NEWLINE>that spear as material in crafting a weapon. 
+However, it is rumored that the Speartuna will<NEWLINE>only appear before hunters with true power. If<NEWLINE>you meet these requirements, you should<NEWLINE>certainly be able to spot one. 
+That is all for today's look at fishing, but<NEWLINE>if this column proves to be popular, you may<NEWLINE>well be hearing from me again soon. Farewell!
+About Items 1
+[BLACK DEVIL ITEMS COURSE -1-] <NEWLINE><NEWLINE>I'm Black Devil of the fearsome Hell Brothers!<NEWLINE>Even crying babies stop their sniveling when<NEWLINE>they catch sight of a strong hunter like me!<NEWLINE>I'm going to be giving a lecture on items for<NEWLINE>the subscribers of "Hunting Life"! Hahahaha!
+To become a first-class hunter, you have to be<NEWLINE>a true master of using items. Now, let me show<NEWLINE>all those boys and girls who can't kill a<NEWLINE>wyvern a few items that can cause real<NEWLINE>carnage.
+First are Pitfall Traps. They are excellent<NEWLINE>items to use when battling a wyvern. Set up a<NEWLINE>Pitfall Trap in the field, and lure a monster<NEWLINE>into it... then they won't have anywhere<NEWLINE>to go! Thus presenting a excellent<NEWLINE>opportunity to nail them!
+Next up are Barrel Bombs. Large Barrel Bombs<NEWLINE>cause huge explosions when struck... a nice<NEWLINE>item I must say. You can physically hit<NEWLINE>them, strike them with melee weapons, shoot<NEWLINE>them with bowgun shots, or even throw a rock<NEWLINE>at them, but once it is hit, anything in the <NEWLINE>area, friend or foe, is going to go BOOM! <NEWLINE>That's why you use Small Barrel Bombs.
+Small Barrel Bombs are set to explode on a<NEWLINE>timer. If you set up a Small Barrel Bomb near<NEWLINE>one of its larger cousins and run away as fast<NEWLINE>as you can, you can cause an enormous chain<NEWLINE>reaction explosion without getting caught in<NEWLINE>the bang! This is an especially important move<NEWLINE>for all you so called Blademasters.
+If you set a Pitfall Trap, or a Large Barrel<NEWLINE>Bomb, the true problem is how to get the<NEWLINE>target into the trap. The best way with<NEWLINE>wyverns is to stop them with Flash Bombs or<NEWLINE>Sonic Bombs. You can also lure them in with<NEWLINE>Raw Meat. 
+By placing Raw Meat out in the field, it will<NEWLINE>attract wyverns with a taste for this dish.<NEWLINE>However, if you mix this meat with a Toadstool<NEWLINE>or Stunshroom, it will have poison or stun<NEWLINE>effects.
+But it is also possible that you could be<NEWLINE>found before the meat. They are likely to spot<NEWLINE>you with their keen vision. If that happens,<NEWLINE>you should use a Smoke Bomb. If you use a<NEWLINE>Smoke Bomb before they are aware of your<NEWLINE>presence, it will allow you to cover your<NEWLINE>tracks. Pretty stealthy, huh?
+For me, instead of spending time with that<NEWLINE>trickery, I'd just concentrate on something<NEWLINE>else. For instance, I'd use some kind of BBQ<NEWLINE>Spit and make some steak, and eat it myself.<NEWLINE>Eating steak is known to restore your stamina.<NEWLINE>Alright boys and girls... I think you can see<NEWLINE>that items have a wide variety of uses.  
+The one thing you have to remember about items<NEWLINE>is that the amount of items you can have in<NEWLINE>the field is fixed. You can have one Pitfall<NEWLINE>Trap, two Large Barrel Bombs, and up to three<NEWLINE>pieces of Raw Meat. Well, that's all for now.<NEWLINE>See all you boys and girls next time!
+About Items 2
+[BLACK DEVIL ITEMS COURSE -2-] <NEWLINE><NEWLINE>Hello to all my "Hunting Life" boys and girls!<NEWLINE>I'm Black Devil of the fearsome Hell Brothers!<NEWLINE>In this part of my items course, I am going to<NEWLINE>let you all know about support items...<NEWLINE>Hahaha!
+First let's examine Power Juice and Mega<NEWLINE>Juice. By drinking these, you can prevent any<NEWLINE>Stamina loss. On Quests where you must deliver<NEWLINE>an egg, drink one of these and run all the way<NEWLINE>back to camp non-stop.
+These juices aren't just effective for egg<NEWLINE>carrying. If you are using stamina draining<NEWLINE>weapons, like Hammers or Dual Blades, in tough<NEWLINE>battles against strong opponents, you should<NEWLINE>have some juice. Mega Juice can be made by<NEWLINE>combining Power Extract taken from a Gypceros<NEWLINE>with something else? What something else? I'll<NEWLINE>leave that for you to figure out!
+Next up are Flutes. You have probably made<NEWLINE>them before, but had no idea about their<NEWLINE>effects. I guess I'll have to be the key to<NEWLINE>your knowledge! The truth is that by playing a<NEWLINE>Flute, you can capture a monster's attention.<NEWLINE>For instance, it's a great way to distract a<NEWLINE>monster when someone else is running off with<NEWLINE>an egg! 
+Not to mention that there are many different<NEWLINE>kinds of Flutes. One is called the Health<NEWLINE>Flute. By playing it, you and everyone in the<NEWLINE>same zone will see a recovery in health.<NEWLINE>Antidote Flutes, Demon Flutes, and Armor<NEWLINE>Flutes can also spread their Power or Armor<NEWLINE>effects to anyone within earshot.
+Flutes aren't really items that you will use<NEWLINE>by yourself, but when fighting in a group,<NEWLINE>they are incredibly useful. Occasionally a<NEWLINE>defect will cause a Flute to break, but in<NEWLINE>reality these breaks are related to skill.<NEWLINE>What skill? That is for you to find out!
+Some items that are useful when hunting alone<NEWLINE>are Powercharm and Armorcharm. Just by having<NEWLINE>one of these charms, your Attack or Defense<NEWLINE>may rise, and you may not have to worry about<NEWLINE>things like breakage or theft. You can also<NEWLINE>combine these with something and make the<NEWLINE>items even more effective! Combine with what<NEWLINE>you ask? That's for you to discover.
+Let's see... what's next... Oh yeah! The<NEWLINE>Farcaster! It allows you to instantly return<NEWLINE>to camp. That's it. Finally, let's take a look<NEWLINE>at Psychoserum. By drinking this serum, it<NEWLINE>will temporarily allow you to sense the<NEWLINE>location of wyverns in the area.
+That's it for items. But before I go, I want<NEWLINE>to share one more important point on the<NEWLINE>subject. There are some items that you can<NEWLINE>pass off to other hunters, and some items that<NEWLINE>you cannot. Items with a rarity higher than 4<NEWLINE>cannot be passed to other hunters. Don't<NEWLINE>forget that!
+As you can see, in this world, helpful items<NEWLINE>are a dime a dozen. Learning how to master<NEWLINE>them is an integral part of being a<NEWLINE>first-class hunter. What!? You know how to use<NEWLINE>items but you don't know how to get them!?<NEWLINE>Hahahaha! That is for you to figure out!!
+Veggie Elder
+[Veggie Elder Eyewitness Reports] <NEWLINE><NEWLINE>This story is a reporter's log of various<NEWLINE>encounters with men called Veggie Elders. <NEWLINE>Unfortunately, the date each entry was<NEWLINE>written, and who wrote it, has been lost to<NEWLINE>the sands of time.
+Entry 1: Today I met the mysterious Man-Wyvern<NEWLINE>Elder in the Forest and Hills. Occasionally he<NEWLINE>wants an Insect Husk, so I traded him one for<NEWLINE>a Special Mushroom. I wonder what that nice<NEWLINE>old man is using it for? 
+Entry 2: If you ask around in hunter's<NEWLINE>circles, that old man seems rather famous. No<NEWLINE>matter where you are, in the Forest and Hills,<NEWLINE>Swamp, or Jungle, if you take him items he<NEWLINE>loves, he is always happy to trade... Very,<NEWLINE>very interesting...
+Entry 3: I went to see the Veggie Elder in<NEWLINE>the Forest and Hills. Last time, I traded him<NEWLINE>Iron Ore for Small Monster Bone, so I was<NEWLINE>expecting the same. However, this time he gave<NEWLINE>me a Mystery Bone. I guess he doesn't give you<NEWLINE>the same thing every time...
+Entry 4: Today I ran into the Veggie Elder in<NEWLINE>the Swamp. It seems that he was a different<NEWLINE>person than the one in the Forest and Hills.<NEWLINE>We humans can't tell the difference in their<NEWLINE>outward appearance, but I knew he was<NEWLINE>different from the items he liked. I'd like to<NEWLINE>gather and study more data on this issue.
+Entry 5: Trading Note. I traded with the<NEWLINE>Veggie Elder in the Swamp. I gave him a<NEWLINE>Vespoid Abdomen for a Lightcrystal. However,<NEWLINE>in talking with other hunters, apparently I<NEWLINE>got a raw deal. It seems that he has given<NEWLINE>others some amazing items...
+Entry 6: I have finally discovered what the<NEWLINE>various Veggie Elders will trade. The Forest<NEWLINE>Elder (apparently this is what he is called)<NEWLINE>will give you monster materials, while the<NEWLINE>Swamp Elder hands out Iron materials. I have<NEWLINE>never met the Veggie Elder in the Jungle, so I<NEWLINE>haven't the slightest clue as to what he<NEWLINE>trades. 
+Entry 7: Trading Note. Today I traded the<NEWLINE>Swamp Elder a Hornet Razorwing for Carbalite<NEWLINE>Ore. Last time I got Dragonite Ore, so I<NEWLINE>consider today a win in my book.
+Entry 8: No matter how many times I try to<NEWLINE>test different trades, it is useless! I have<NEWLINE>no idea what items get treasure and what items<NEWLINE>get coal. I think it is entirely up to the<NEWLINE>whims of the Veggie Elders.
+Entry 9: Trading Note. If you trade the Forest<NEWLINE>Elder a Firecell Stone, you will get either a<NEWLINE>Gravios Carapace or a Pale Khezu Steak. The<NEWLINE>Elder is rather moody, but when it comes down<NEWLINE>to his whims, I have a hunch that he is more<NEWLINE>generous than not...
+Entry 10: I have finally confirmed some facts<NEWLINE>about the Veggie Elder in the Jungle. It seems<NEWLINE>he tends to give medicinal items. However, I<NEWLINE>wonder what this Elder's nickname is? Mystery<NEWLINE>Elder? Thicket Elder? Ahh! Jungle Elder.
+Entry 11: It seems that the Guild has issued<NEWLINE>an item called the Veggie Elder Ticket. Rumor<NEWLINE>has it that this ticket is given to those who<NEWLINE>embark on Quests with their friends... If you<NEWLINE>give this to a Veggie Elder, you may be able<NEWLINE>to get an excellent item. This is very<NEWLINE>interesting indeed...
+That is the final entry in the reporter's log<NEWLINE>chronicling the details of the Veggie Elders.<NEWLINE>If any readers happen to have details to add<NEWLINE>to this story, please contact our editorial<NEWLINE>department.
+The Hero of Kokoto
+[About The Hero of Kokoto]<NEWLINE><NEWLINE>Å¶An excerpt from the forthcoming book <NEWLINE>"Monster Hunter" by the Guild Master.
+While there are many opinions on the man<NEWLINE>called the Hero of Kokoto, I have done my best<NEWLINE>to gather and present only the facts on the<NEWLINE>subject.
+At the very least, we cannot deny the fact<NEWLINE>that the Hero of Kokoto possessed an<NEWLINE>incredibly powerful sword. It is also said<NEWLINE>that he worked as a monster hunter, and that<NEWLINE>he had many accomplishments to his name.
+The most eye-catching of these accomplishments<NEWLINE>is the story of the slaying of the Elder<NEWLINE>Wyvern of Mount Kokoto. Even if you consider<NEWLINE>it insignificant that the Hero of Kokoto takes<NEWLINE>his name from this mountain battle, it does<NEWLINE>not change the fact that the act of slaying<NEWLINE>this wyvern is more than enough to establish<NEWLINE>his position as a famed hunter. 
+As this is a story that is heard at least once<NEWLINE>by everyone on the path to becoming a hunter,<NEWLINE>obviously some points in the story have been<NEWLINE>dramatized more than necessary. For instance,<NEWLINE>the part of the story where victory was<NEWLINE>decided in the battle when the Hero tossed his<NEWLINE>sword directly into the head of the wyvern.
+However, this part of the story actually<NEWLINE>being true is beyond comprehension. Moreover,<NEWLINE>the story tells of the rock-like shell of the<NEWLINE>wyvern, and the sword permanently embedded<NEWLINE>deep inside. One must conclude that this part<NEWLINE>of the story is absolutely idiotic. 
+It is also natural for stories to originate<NEWLINE>from facts. It is said that of the four<NEWLINE>hunters who set off with the Hero, one of them<NEWLINE>fell prey during the battle and was<NEWLINE>slaughtered. This hunter is famed to be the<NEWLINE>Hero's fiancee, a women even more radiant that<NEWLINE>the brightest of crystals. 
+It is said that at first he was hesitant to<NEWLINE>embark on this dangerous mission with her, but<NEWLINE>eventually she convinced him to take her<NEWLINE>along. It is said that she wanted this be<NEWLINE>her most triumphant battle before retirement. 
+After slaying this great wyvern, his<NEWLINE>reputation as a hunter skyrocketed. However,<NEWLINE>the loss of his fiancee gave birth to a jinx.<NEWLINE>It was henceforth said that any group of five<NEWLINE>hunters were bound to misfortune and disaster.
+Now all hunters embark on Quests in groups of<NEWLINE>less than four, out of respect for the<NEWLINE>sacrifices made by the Hero of Kokoto, and<NEWLINE>with thoughts of safety for their fellow<NEWLINE>hunters in mind. It is said that the real Hero<NEWLINE>of Kokoto retired to a small and remote<NEWLINE>village, but firm details of this are scant. 
+The Legend of the Black Dragon
+[The Legend of the Black Dragon]<NEWLINE><NEWLINE>Hasn't there been a song stuck in your head? A<NEWLINE>song sung by children all across the land? A<NEWLINE>song with soul, sung diligently in the streets<NEWLINE>and in the alleys? What is that song?
+"The legend of death,<NEWLINE>death by a giant wyvern<NEWLINE>has been revived"<NEWLINE><NEWLINE>It is "The Legend of the Black Dragon"!<NEWLINE>Everyone should know it, as it is based on a<NEWLINE>famous fairy tale! 
+However, I think the fact that everyone is<NEWLINE>singing this song is actually a sign. They say<NEWLINE>children are always first to foretell the<NEWLINE>changing of the world. They are said to have a<NEWLINE>special sense for these kind of things. 
+I have gathered as much information as I could<NEWLINE>from the corners of this world, and I have<NEWLINE>told those who should be told. However, no one<NEWLINE>believes me. That is why I have begged for a<NEWLINE>few pages in Hunting Life to explain the<NEWLINE>Legend to all who care to learn.
+"The Legend of the Black Dragon" is said to<NEWLINE>exist everywhere, and while there are changes<NEWLINE>in the lyrics depending on location, the<NEWLINE>content of the song is the same. So please<NEWLINE>understand that the lyrics printed below are<NEWLINE>representative of the song as I know it. The<NEWLINE>lyrics may be different where you are located.<NEWLINE>
+The Legend of the Black Dragon
+When the world is full of wyverns<NEWLINE>The legend is revived<NEWLINE>Meat is eaten, Bone is crunched,<NEWLINE>And blood is sucked up dry
+He burns the earth<NEWLINE>and melts through iron<NEWLINE>He boils the rivers<NEWLINE>and mows down trees<NEWLINE>He awakens the winds<NEWLINE>and lights an inferno
+He is called Fatalis<NEWLINE>The wyvern of destiny<NEWLINE>He is called Fatalis<NEWLINE>The wyvern of destruction<NEWLINE>Call for help<NEWLINE>Run for your lives<NEWLINE>And don't forget to<NEWLINE>Pray to the skies
+He is called Fatalis<NEWLINE>The wyvern of destiny<NEWLINE>He is called Fatalis<NEWLINE>The wyvern of destruction<NEWLINE>Fatalis, Fatalis<NEWLINE>Heaven and Earth are yours<NEWLINE>Fatalis, Fatalis<NEWLINE>Heaven and Earth are yours
+About the Training School
+[Off to the Training School!] <NEWLINE>A new Training School has been established<NEWLINE>east of Kokoto Village! Its goal is to<NEWLINE>increase the survival of novice hunters.<NEWLINE>Something to be thankful for, indeed. If only<NEWLINE>they had this when I was a beginner...<NEWLINE>(Editor's Note:  Cut due to unintelligible<NEWLINE>verbosity)
+...and so since I am planning on drilling some<NEWLINE>discipline into some amateur hunters, I would<NEWLINE>like all of those reading this to make an<NEWLINE>appearance at my school! It's alright! I<NEWLINE>promise I won't be scary.
+Now I would like to present the basics of the<NEWLINE>Training School. Since discipline is about<NEWLINE>avoiding selfishness, when you come to the<NEWLINE>Training School, you should feel like you want<NEWLINE>to stop the age old fight between Gravios and<NEWLINE>Diablos... well, maybe that is too hard...<NEWLINE>How about you just feel like "No matter what,<NEWLINE>I won't be surprised"!
+At the Training School, we have several<NEWLINE>special rules that you must be aware of. For<NEWLINE>example, 1) Weapons and Armor are for Training<NEWLINE>Use Only. 2) Items Gathered in the Field are<NEWLINE>Different than Usual. 3) Items Carved from<NEWLINE>Monsters are Different than Usual. Since<NEWLINE>these Quests are different from the norm, you<NEWLINE>should come in with an open mind. 
+We do not randomly assign armor and weapons at<NEWLINE>the Training School. We examine a weapon's<NEWLINE>skills and attributes, and consider the type<NEWLINE>of battle it will be used in. We also use the<NEWLINE>strongest wyverns as training targets, the<NEWLINE>type of beasts that you can't challenge<NEWLINE>recklessly, but must employ skill and wits to<NEWLINE>slay! 
+There is one more point I'd like to cover. You<NEWLINE>can come directly to the Training School from<NEWLINE>Kokoto Village, but the skills that you may<NEWLINE>have acquired at the Felyne Kitchen, called<NEWLINE>Felyne Whim Skills, do not apply when at this<NEWLINE>school. Real training is about molding the<NEWLINE>real you.
+... hopefully I have you excited about coming<NEWLINE>here. If you want to learn more about the<NEWLINE>school, I suggest you come by and visit. I<NEWLINE>will see you all soon at the Training School!
+About the Guild Card
+[Explanation of the Guild Card]<NEWLINE><NEWLINE>Let's take this opportunity to introduce the <NEWLINE>Guild Card carried by hunters.
+[What is the Guild Card?] <NEWLINE><NEWLINE>The Guild Card is your hunter's ID. Besides <NEWLINE>your name, it lists what Quests you have <NEWLINE>completed, what Treasures you have collected,<NEWLINE>and what monsters you have slayed.
+You can do the following things with a Guild <NEWLINE>Card. <NEWLINE><NEWLINE>[Examine]<NEWLINE>You can examine the Guild Card you have in <NEWLINE>your possession. You can also examine Guild <NEWLINE>Cards that you have obtained from other <NEWLINE>hunters.
+[Edit]<NEWLINE><NEWLINE>You can edit parts of your own Guild Card. For<NEWLINE>instance, you can change the Self-Introduction<NEWLINE>as well as the Title. Other information on <NEWLINE>the card will be updated according to your <NEWLINE>present status.<NEWLINE>
+[Give] <NEWLINE><NEWLINE>You can give other hunters your Guild Card for<NEWLINE>them to examine. You will not lose your Guild<NEWLINE>Card when giving it to other hunters. 
+Try giving your Guild Card to hunters you meet<NEWLINE>along the way, as it is considered a sign of<NEWLINE>friendship and respect. However, be aware that<NEWLINE>this can only be done in the Online Gathering<NEWLINE>Hall. 
+[Take]<NEWLINE><NEWLINE>When you receive a Guild Card from another <NEWLINE>hunter, you are asked whether you wish to file<NEWLINE>this card away for future reference. Please <NEWLINE>take care of Guild Cards that seem important <NEWLINE>to you. <NEWLINE>That concludes the uses of the Guild Card.
+Next, let's explain Friendship Level.<NEWLINE>Friendship Level describes your relationship<NEWLINE>with other hunters. A Friendship level is<NEWLINE>established when you exchange Guild Cards with<NEWLINE>a hunter, and is raised when you successfully<NEWLINE>complete Quests together.
+Next, let's explain Awards. This section of<NEWLINE>the Guild Card shows the different awards you<NEWLINE>have earned from the Guild in recognition of<NEWLINE>your accomplishments. These awards are listed<NEWLINE>on your card, and can be checked any time you<NEWLINE>are in town. 
+Finally, let's explain Titles. Titles are a<NEWLINE>measure of how you are viewed around the<NEWLINE>world. 
+If you pile up achievements like completing<NEWLINE>numerous Quests, slaying giant wyverns, or<NEWLINE>obtaining many rare weapons, your fame will<NEWLINE>naturally expand. The Guild Card committee<NEWLINE>will take this into account and assign you a<NEWLINE>suitable title.
+That completes our examination of the Guild<NEWLINE>Card.<NEWLINE><NEWLINE><<Editor's Note>><NEWLINE>The Guild Manager really enjoys friendship,<NEWLINE>so if you keep raising your friendship level, <NEWLINE>something great might happen!
+Special Quest
+[SPECIAL QUEST]  <NEWLINE><NEWLINE>The Guild will occasionally issue a request<NEWLINE>to select hunters for Special Quests. These<NEWLINE>Special Quests are also called Event Quests.
+To take part in these Event Quests, use<NEWLINE>Infrastructure Mode to download the Quest<NEWLINE>data. Please check the instruction manual for<NEWLINE>more information on how to download Quests. 
+If you download a Quest, you and your hunting<NEWLINE>comrade will both be able to take part.<NEWLINE>(However, you still must adhere to the Quest<NEWLINE>Requirements)
+Moreover, even if you haven't downloaded a<NEWLINE>Quest, as long as you meet the Quest<NEWLINE>Requirements, you can join in an Event Quest<NEWLINE>that your hunting comrade has downloaded. We<NEWLINE>implore you to try as many Quests as possible.
+About Connectivity
+[Commemorative Issue -Connectivity Special-]<NEWLINE><NEWLINE>Å¶This commemorative issue is only for those<NEWLINE>who will connect to Monster Hunter 2.
+I suppose that those reading this have tried<NEWLINE>the connectivity at least once, but was once<NEWLINE>really enough? I've written this special<NEWLINE>update for those who want to get the special<NEWLINE>items available only via connectivity, or<NEWLINE>those who connect many times to keep advancing<NEWLINE>in either game.
+Each time you connect, you will meet a new<NEWLINE>Wandering Felyne Chef, and the Peddling Granny<NEWLINE>will have a new present for you! And once you<NEWLINE>slay the enemies that appear when you are<NEWLINE>connected, the next time you connect, who<NEWLINE>knows what will happen!
+Alright! Keep on connecting!
