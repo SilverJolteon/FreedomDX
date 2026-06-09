@@ -786,7 +786,7 @@ HR:
 š1`3
 š4`5
 š6`8
-:   x
+:Times
 X
 Treasure
 Treasure Points

@@ -31,7 +31,17 @@ strcpy      equ 0x088112E8
 	.org 0x098EFDBC
 		li			a1, 0x2
 		
+	; Guild Card :Times Hunted Position
+	.org 0x098DD68C
+		li			a1, 0x57
+		
 	; Quest Board Positioning
+	.org 0x098F25D0 ; Navigation Rectangle
+		li			v0, 0x80
+	.org 0x098F25E8
+		li			a3, 0x38
+	.org 0x098F262C ; Navigation Arrows
+		li			a3, 0x3C
 	.org 0x09932DC0 ; Reward
 		.dh 0x15C
 	.org 0x09932EC4 ; Contract Fee
