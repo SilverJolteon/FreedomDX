@@ -215,9 +215,9 @@ Stamina
 Attack
 Defense
 Fire Res
-Wtr Res
+Water Res :
 Thundr Res
-Drgn Res
+Dragon Res:
 :
 G.Sword
 H.Bowgun
@@ -259,9 +259,9 @@ Attack:
 Reload:
 Recoil:
 Mod Level:
-Defense
-Fire Res
-Thnder Res
+Defense   :
+Fire Res  :
+Thnder Res:
 VerySlow
 Slow
 Normal

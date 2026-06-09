@@ -40,7 +40,10 @@
   .org 0x088EFA28 ; Time Remaining Text Box
     .dh 0xD0
 
-
+  .org 0x08828E5C ; Resistances
+    addiu v1, s5, 0x54
+  .org 0x08828F28
+    addiu v0, s5, 0xC4
   ; --------------------------------------
   ; Lang set for system level messages
   ; --------------------------------------
