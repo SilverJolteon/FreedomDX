@@ -28,8 +28,13 @@ strcpy      equ 0x088112E8
 		sra			v0, s1, 0x5
 
 	; Recruiting Note English Keyboard	
-	.org 0x098EFDBC
+	.org 0x098EFDAC
+		move		s1, a1
 		li			a1, 0x2
+		beq			v1, a1, 0x098EFE30
+		move		s0, a0
+		li			t2, 0x1
+		beq			v1, t2, 0x098EFE08
 		
 	; Guild Card :Times Hunted Position
 	.org 0x098DD68C
