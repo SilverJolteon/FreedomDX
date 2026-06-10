@@ -1,5 +1,5 @@
 #------------------------------------------------------------
-VERSION = "v1.8.4b"
+VERSION = "v1.8.5"
 ENGLISH_PATCH = 1
 QUESTS_LANG = "EN"
 VANILLA_MODE = 0
@@ -123,6 +123,9 @@ def buildASM():
     for folder in games:
         print(f"Building ASM for {folder}.iso...")
         path = os.path.join(asm_src_dir, folder)
+        
+        setASMOffset(path, "Init.asm", 0, f'FDX_VERSION\t\t\t\tequ "{VERSION}"\n')
+        
         if(folder == "ULJM05066" and ENGLISH_PATCH):
             setASMOffset(path, "EventLoader.asm", 0, "SLOT_1\t\t\tequ 0x095079E0 ; EN\n")
         elif(folder == "ULJM05066" and not ENGLISH_PATCH):
@@ -275,15 +278,15 @@ def addImages():
         return
     for folder in games:
         if folder == "ULJM05066":
-            addImage(folder, ["0013"], "001_palette_RGBA8888.png", "PortableDXTitle.png", VERSION, 390, 210, 20)
+            addImage(folder, ["0013"], "001_palette_RGBA8888.png", "PortableDXTitle.png")
             addImage(folder, ["0014"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "EN.png"))
             addImage(folder, ["4923"], "000_pixels_RGBA8888.png", os.path.join("ui_fix", "000_pixels_RGBA8888.png"))
         elif folder == "ULUS10084":
-            addImage(folder, ["0013"], "001_palette_RGBA8888.png", "FreedomDXTitle.png", VERSION, 350, 215, 20)
+            addImage(folder, ["0013"], "001_palette_RGBA8888.png", "FreedomDXTitle.png")
             addImage(folder, ["0014"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "EN.png"))
             addImage(folder, ["4930"], "000_pixels_RGBA8888.png", os.path.join("ui_fix", "000_pixels_RGBA8888.png"))
         elif folder == "ULES00318":
-            addImage(folder, ["0017", "0022", "0023", "0024", "0025", "0026"], "001_palette_RGBA8888.png", "FreedomDXTitle.png", VERSION, 350, 215, 20)
+            addImage(folder, ["0017", "0022", "0023", "0024", "0025", "0026"], "001_palette_RGBA8888.png", "FreedomDXTitle.png")
             addImage(folder, ["0018"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "EN.png"))
             addImage(folder, ["0027"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "FR.png"))
             addImage(folder, ["0028"], "001_palette_RGBA8888.png", os.path.join("sharpness_fix", "DE.png"))

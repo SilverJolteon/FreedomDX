@@ -216,6 +216,11 @@ TaskOffset				equ 0x098D4720
 .close
 
 .open "build/ULJM05066/DATA.BIN", 0
+	; Title Screen Version
+	.org 0x1A639610
+		jal			TitleScreenVersion
+		nop
+	
 	.org 0x1A6AA0F8
 		j			EventLoader
 		nop

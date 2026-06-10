@@ -215,6 +215,11 @@ TaskOffset				equ 0x098D5D20
 .close
 
 .open "build/ULES00318/DATA.BIN", 0
+	; Title Screen Version
+	.org 0x1A7FF6F8
+		jal			TitleScreenVersion
+		nop
+		
 	.org 0x1a870ac4
 		.word 0x24460002
 	.org 0x1a8b54a8

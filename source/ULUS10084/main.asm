@@ -215,6 +215,11 @@ TaskOffset				equ 0x098D4FA0
 .close
 
 .open "build/ULUS10084/DATA.BIN", 0
+	; Title Screen Version
+	.org 0x1A1D3698
+		jal			TitleScreenVersion
+		nop
+
 	.org 0x1A244074
 		.word 0x24460002
 	.org 0x1A288A50

@@ -1,3 +1,4 @@
+FDX_VERSION				equ "v1.8.5"
 HoldToGatherOffset 		equ 0x098FA270
 TrueRawOffset			equ 0x088F1D1C
 LaoShanLungOffset		equ 0x0990D5A4
@@ -12,6 +13,30 @@ FOVOffset4				equ 0x0886D2D8
 CameraPosOffset			equ 0x08816218
 YianGarugaSavedHPOffset equ 0x09857FBC
 
+	TitleScreenVersion:
+		addi		sp, sp, -0x8
+		sw			ra, 0x4(sp)
+		sw			v0, 0x0(sp)
+		
+		li			a0, FONT
+		li			a1, 350 ; Text X Coordinate
+		li			a2, 215 ; Text Y Coordinate
+		li			t0, 0 ; Color
+		la			t1, VERSION
+		jal			drawShadowedText
+		li			a3, 0x1
+		
+		lw			v0, 0x0(sp)
+		lw			ra, 0x4(sp)
+		addi		sp, sp, 0x8
+		addiu		v0, v0, 0x1
+		jr			ra
+		sw			v0, 0x20(s0)
+		
+	VERSION:
+		.asciiz FDX_VERSION
+		.align 4
+		
 ; On Game Start
 	ReadConfigToMem:
 		addi		sp, sp, -0xC
