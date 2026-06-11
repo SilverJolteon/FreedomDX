@@ -210,15 +210,15 @@ HR      :
 GP      :
 Money   :
 Location:
-Health
-Stamina
-Attack
-Defense
-Fire Res
-Water Res :
-Thundr Res
-Dragon Res:
-:
+Health   :
+Stamina  :
+Attack   :
+Defense  :
+Fire Res   :
+Water Res  :
+Thundr Res :
+Dragon Res :
+
 G.Sword
 H.Bowgun
 Hammer
@@ -259,9 +259,9 @@ Attack:
 Reload:
 Recoil:
 Mod Level:
-Defense   :
-Fire Res  :
-Thnder Res:
+Defense     :
+Fire Res    :
+Thunder Res :
 VerySlow
 Slow
 Normal
