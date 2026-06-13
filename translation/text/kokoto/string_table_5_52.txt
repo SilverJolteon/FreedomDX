@@ -1,0 +1,69 @@
+2,You know that pretty<NEWLINE>woman that lives<NEWLINE>behind you...?<NEWLINE>
+2,She's always standing<NEWLINE>in her doorway.<NEWLINE>I wonder what she's<NEWLINE>waiting for?<NEWLINE>
+0,*sigh* I wish we could<NEWLINE>go out into the zones<NEWLINE>together. I'd climb up<NEWLINE>a cliff or a vine and<NEWLINE>find an Herb to give<NEWLINE>her...<NEWLINE>
+0,You know you can climb<NEWLINE>cliffs or vines with<NEWLINE>the ~B00 button,<NEWLINE>right? ...But never<NEWLINE>mind that. What am I<NEWLINE>gonna do about my<NEWLINE>poor, aching heart?
+2,You know that pretty<NEWLINE>woman that lives<NEWLINE>behind you...?<NEWLINE>
+2,She's always standing<NEWLINE>in her doorway.<NEWLINE>I wonder what she's<NEWLINE>waiting for?<NEWLINE>
+0,*sigh* I wish we could<NEWLINE>go out into the zones<NEWLINE>together. I'd climb up<NEWLINE>a cliff or a vine and<NEWLINE>find an Herb to give<NEWLINE>her...<NEWLINE>
+0,You know you can climb<NEWLINE>cliffs or vines with<NEWLINE>the ~B00 button,<NEWLINE>right? ...But never<NEWLINE>mind that. What am I<NEWLINE>gonna do about my<NEWLINE>poor, aching heart?
+2,I'm gonna do it!<NEWLINE>I'm going to send a<NEWLINE>present to the pretty<NEWLINE>woman that lives<NEWLINE>behind your house.
+2,Have you ever heard of<NEWLINE>a "Wyvern Egg"? It has<NEWLINE>superb flavor, and can<NEWLINE>be used as medicine.<NEWLINE>It would make a <NEWLINE>perfect present, <NEWLINE>don't you think?
+2,Except it seems the<NEWLINE>egg is enormous. I<NEWLINE>hear that even if you<NEWLINE>try to run while<NEWLINE>carrying it, you end<NEWLINE>up slow as a snail.
+0,If a monster caught<NEWLINE>you like that, it<NEWLINE>would be dreadful...<NEWLINE>... ...Alright, let's<NEWLINE>think of another <NEWLINE>present!
+2,If you ever go after<NEWLINE>wyvern eggs, let me<NEWLINE>give you one piece of<NEWLINE>advice. 
+0,Before you start<NEWLINE>carrying the egg, make<NEWLINE>sure your Stamina is<NEWLINE>at its maximum level.<NEWLINE>The longer you can<NEWLINE>run, the better off<NEWLINE>you'll be.
+2,I'm gonna do it!<NEWLINE>I'm going to send a<NEWLINE>present to the pretty<NEWLINE>woman that lives<NEWLINE>behind your house.
+2,Have you ever heard of<NEWLINE>a "Wyvern Egg"? It has<NEWLINE>superb flavor, and can<NEWLINE>be used as medicine.<NEWLINE>It would make a <NEWLINE>perfect present, <NEWLINE>don't you think?
+2,Except it seems the<NEWLINE>egg is enormous. I<NEWLINE>hear that even if you<NEWLINE>try to run while<NEWLINE>carrying it, you end<NEWLINE>up slow as a snail.
+0,If a monster caught<NEWLINE>you like that, it<NEWLINE>would be dreadful...<NEWLINE>... ...Alright, let's<NEWLINE>think of another <NEWLINE>present!
+2,If you ever go after<NEWLINE>wyvern eggs, let me<NEWLINE>give you one piece of<NEWLINE>advice. 
+0,Before you start<NEWLINE>carrying the egg, make<NEWLINE>sure your Stamina is<NEWLINE>at its maximum level.<NEWLINE>The longer you can<NEWLINE>run, the better off<NEWLINE>you'll be.
+2,I'm still fretting<NEWLINE>what kind of present I<NEWLINE>should give my<NEWLINE>beloved. You know, the<NEWLINE>woman who lives behind<NEWLINE>your house.
+2,I've heard that in the<NEWLINE>desert, there are<NEWLINE>beautiful Cactus<NEWLINE>Flowers... Don't you<NEWLINE>think that would make<NEWLINE>the perfect gift?
+0,But the desert is<NEWLINE>scorching hot... If<NEWLINE>you don't have a Cool<NEWLINE>Drink, you are sure to<NEWLINE>succumb to the heat.
+0,Alright! I'm off to<NEWLINE>buy some Cool Drinks<NEWLINE>and set off for the<NEWLINE>desert!
+2,I was able to get the<NEWLINE>Cactus Flower I<NEWLINE>wanted to give to my<NEWLINE>beloved... but it<NEWLINE>withered on the way<NEWLINE>home!
+2,There is nothing you<NEWLINE>can do to stop it.<NEWLINE>Thankfully, the Old<NEWLINE>Peddling Granny bought<NEWLINE>it from me, but now<NEWLINE>what am I going to do<NEWLINE>about a present...?
+0,If I was able to get<NEWLINE>ahold of the Dream <NEWLINE>Flower, "Dosbiscus", <NEWLINE>wouldn't that make a <NEWLINE>perfect gift?
+0,If I was able to get<NEWLINE>ahold of the Dream <NEWLINE>Flower, "Dosbiscus", <NEWLINE>wouldn't that make a <NEWLINE>perfect gift?
+2,I'm still fretting<NEWLINE>what kind of present I<NEWLINE>should give my<NEWLINE>beloved. You know, the<NEWLINE>woman who lives behind<NEWLINE>your house.<NEWLINE>
+2,I heard from a friend<NEWLINE>of mine that catching <NEWLINE>a rare fish would be a<NEWLINE>nice gift. I think <NEWLINE>I'll give it a try.<NEWLINE>
+2,My friend says that<NEWLINE>you can catch <NEWLINE>extremely rare, <NEWLINE>glittering <NEWLINE>Goldenfish...
+0,It would be the <NEWLINE>perfect gift for sure!
+2,If you are after a<NEWLINE>Goldenfish, you should<NEWLINE>get some bait for the <NEWLINE>occasion. 
+0,Maybe if you combined <NEWLINE>Snakebee Larva and a <NEWLINE>Firefly...
+2,I'm still fretting<NEWLINE>what kind of present I<NEWLINE>should give my<NEWLINE>beloved. You know, the<NEWLINE>woman who lives behind<NEWLINE>your house.<NEWLINE>
+2,I caught a Goldenfish,<NEWLINE>but a Guild member <NEWLINE>bought it from me. He <NEWLINE>kept saying it <NEWLINE>wouldn't last very <NEWLINE>long, so I should sell<NEWLINE>it.
+2,So now I think I will <NEWLINE>get her some Spicy <NEWLINE>Mushrooms. Not only do<NEWLINE>they taste good, they<NEWLINE>also increase your <NEWLINE>stamina. I bet she'll <NEWLINE>be happy.
+2,You can make it by <NEWLINE>combining a Special <NEWLINE>Mushroom with Hot <NEWLINE>Pepper. You can't buy<NEWLINE>a Special Mushroom, so<NEWLINE>you have to make it<NEWLINE>on the spot. 
+0,Huh? You can buy Spicy<NEWLINE>Mushrooms from the<NEWLINE>Guild? Nope, the truth<NEWLINE>is lately you have to<NEWLINE>make it yourself.
+2,Spicy Mushrooms not<NEWLINE>only taste good, they<NEWLINE>also increase your<NEWLINE>stamina. 
+0,Though really, getting<NEWLINE>a Dream Blossom would<NEWLINE>be the best gift,<NEWLINE>wouldn't it?
+2,The lady that lives<NEWLINE>behind your house has <NEWLINE>seemed awfully sad <NEWLINE>lately, hasn't she?
+2,Seeing her face like <NEWLINE>that, it makes me want<NEWLINE>to do something to <NEWLINE>make her feel better. 
+2,I finally found a <NEWLINE>Dosbiscus. You know, a<NEWLINE>Dream Blossom. I am <NEWLINE>planning on giving it <NEWLINE>to her as a present.
+0,Where did I find it? <NEWLINE>That's a secret. <NEWLINE>Surprisingly, it was <NEWLINE>close by. 
+2,I am going to give her<NEWLINE>a Dosbiscus as a<NEWLINE>present. 
+0,Surprisingly,  <NEWLINE>happiness can be found<NEWLINE>close by. 
+2,I wrote a letter and<NEWLINE>gave a Dream Blossom<NEWLINE>to that pretty lady<NEWLINE>that lives behind you.<NEWLINE>
+2,I hope she replies to <NEWLINE>me... I'm quite <NEWLINE>excited, but at the <NEWLINE>same time, a little <NEWLINE>bit scared. 
+2,Just sending the <NEWLINE>letter was enough for <NEWLINE>me! Now all I can do <NEWLINE>is wait and hope.
+0,Now that you mention<NEWLINE>it, it seems that you <NEWLINE>can use a Dosbiscus <NEWLINE>Flower as a raw <NEWLINE>material. Maybe you <NEWLINE>should talk with the <NEWLINE>crafting shop? 
+2,It seems that you can<NEWLINE>use a Dosbiscus <NEWLINE>Flower as a raw<NEWLINE>material. Maybe you <NEWLINE>should talk with the<NEWLINE>crafting shop? 
+0,Ahh... I hope she <NEWLINE>writes back to me...
+2,The lady that lives<NEWLINE>behind your house is <NEWLINE>back to her old self <NEWLINE>again!
+2,I wonder if she read<NEWLINE>my letter? I've been<NEWLINE>so worried that she <NEWLINE>won't reply, I haven't<NEWLINE>been able to get any<NEWLINE>sleep at all! 
+0,However, I'm just <NEWLINE>happy that she is <NEWLINE>happy again. All I can<NEWLINE>do now is wait and<NEWLINE>see what happens. 
+2,The lady that lives<NEWLINE>behind your house is <NEWLINE>back to her old self <NEWLINE>again!
+0,I'm still a bit<NEWLINE>worried about her<NEWLINE>reply, but just seeing<NEWLINE>her happy again is<NEWLINE>better than anything!
+2,The lady showed me a <NEWLINE>letter from her <NEWLINE>brother. It said, <NEWLINE>"Prepare Dragon <NEWLINE>Elemental equipment."<NEWLINE>
+2,I'd do anything for <NEWLINE>her, so I am going to <NEWLINE>gather up some Dragon <NEWLINE>Elemental equipment <NEWLINE>for her brother.
+2,The Chief said it long<NEWLINE>ago. Confronting a <NEWLINE>dragon requires <NEWLINE>strength. Use giant<NEWLINE>dragon materials to<NEWLINE>make a weapon, and it<NEWLINE>will be effective.
+0,Lao-Shan Lung <NEWLINE>materials... Can I <NEWLINE>really find them?
+2,To confront a dragon, <NEWLINE>you need its strength.<NEWLINE>If you use giant<NEWLINE>wyvern materials to<NEWLINE>make a weapon, it will<NEWLINE>be effective against a<NEWLINE>dragon.  
+0,Lao-Shan Lung <NEWLINE>materials... Can I <NEWLINE>really find them?
+2,I did it! I did it!!<NEWLINE>The girl behind your<NEWLINE>house said she loved<NEWLINE>me!
+2,The Dragon Elemental<NEWLINE>equipment I gathered <NEWLINE>up for her seems to <NEWLINE>have been useful to <NEWLINE>her brother. All the <NEWLINE>effort was worth it...<NEWLINE>
+2,Thanks to you, Fatalis<NEWLINE>is dead and her <NEWLINE>brother is safe. I <NEWLINE>wonder if it is really<NEWLINE>healthy to be this <NEWLINE>happy!?
+0,You were a true <NEWLINE>friend, listening to <NEWLINE>my troubles. Let's <NEWLINE>never forget of our <NEWLINE>friendship!
+0,I did it! I did it!! <NEWLINE>The girl behind your <NEWLINE>house said she loved <NEWLINE>me! I wonder if it is <NEWLINE>really healthy to be <NEWLINE>this happy!?

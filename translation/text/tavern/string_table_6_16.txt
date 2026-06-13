@@ -1,0 +1,75 @@
+2,Good day to you. It<NEWLINE>seems you have become<NEWLINE>a hunter. Quite<NEWLINE>courageous. 
+2,A hunter's work is<NEWLINE>just too scary for me.<NEWLINE>I can't do it. In<NEWLINE>fact, I am just here<NEWLINE>sightseeing.
+2,I heard that the<NEWLINE>Village Assembly Hall<NEWLINE>has been lent to the<NEWLINE>Guild Outpost. Since<NEWLINE>lots of hunters are<NEWLINE>coming, I wanted to<NEWLINE>check it out.
+2,Speaking of which, do<NEWLINE>you know Treshi? He is<NEWLINE>an old man who likes<NEWLINE>to spend time here.
+2,He seems to be after<NEWLINE>all kinds of treasure.<NEWLINE>He is looking for<NEWLINE>strong hunters, so<NEWLINE>maybe you should go<NEWLINE>speak with him.
+0,He should be to the<NEWLINE>left of the counter,<NEWLINE>near the fireplace. 
+2,Treshi seems to be<NEWLINE>after all kinds of<NEWLINE>treasure. 
+0,He should be to the<NEWLINE>left of the counter,<NEWLINE>near the fireplace.<NEWLINE>Maybe you should go<NEWLINE>speak with him.
+2,Good day to you. It<NEWLINE>seems you have become<NEWLINE>a hunter. Quite<NEWLINE>courageous. 
+2,A hunter's work is<NEWLINE>just too scary for me.<NEWLINE>I can't do it. In<NEWLINE>fact, I am just here<NEWLINE>sightseeing.
+2,I heard that the<NEWLINE>Village Assembly Hall<NEWLINE>has been lent to the<NEWLINE>Guild Outpost. Since<NEWLINE>lots of hunters are<NEWLINE>coming, I wanted to<NEWLINE>check it out.
+2,Speaking of which, do<NEWLINE>you know Treshi? He is<NEWLINE>an old man who likes<NEWLINE>to spend time here.
+2,He seems to be after<NEWLINE>all kinds of treasure.<NEWLINE>He is looking for<NEWLINE>strong hunters, so<NEWLINE>maybe you should go<NEWLINE>speak with him.
+0,He should be to the<NEWLINE>left of the counter,<NEWLINE>near the fireplace. 
+2,Treshi seems to be<NEWLINE>after all kinds of<NEWLINE>treasure. 
+0,He should be to the<NEWLINE>left of the counter,<NEWLINE>near the fireplace.<NEWLINE>Maybe you should go<NEWLINE>speak with him.
+2,It seems you had a<NEWLINE>chat with Treshi. He<NEWLINE>is a strange old man,<NEWLINE>isn't he?
+2,I have a bit of an<NEWLINE>interest in treasure<NEWLINE>myself, so I went to<NEWLINE>speak with him.<NEWLINE>However, Treasure<NEWLINE>Hunters Quests need <NEWLINE>two members. 
+2,I wonder if there is<NEWLINE>someone around here<NEWLINE>who would go on a<NEWLINE>Treasure Hunters Quest<NEWLINE>with me. 
+0,Huh? You would? I'm<NEWLINE>sorry, but I can't<NEWLINE>accept. I would only<NEWLINE>drag a real hunter<NEWLINE>down.
+2,It seems that Treasure<NEWLINE>Hunters Quests need<NEWLINE>two members.
+0,I wonder if there is<NEWLINE>someone around here<NEWLINE>who would go on a<NEWLINE>Treasure Hunters Quest<NEWLINE>with me. 
+2,Ah, good day. You sure<NEWLINE>have quite a presence.<NEWLINE>It's not even fair to<NEWLINE>compare you to the<NEWLINE>other hunters coming<NEWLINE>in and out of here.
+2,Speaking of which, you<NEWLINE>have a Guild Card,<NEWLINE>don't you?
+2,The card is used to<NEWLINE>introduce yourself as<NEWLINE>a hunter... It shows<NEWLINE>the title and awards<NEWLINE>you have earned<NEWLINE>according to your play<NEWLINE>style.
+0,I'm quite jealous.<NEWLINE>Maybe I should become<NEWLINE>a hunter as well!
+2,You have a Guild Card,<NEWLINE>don't you? You know,<NEWLINE>the card used to<NEWLINE>introduce yourself as<NEWLINE>a hunter. 
+0,It shows the title and<NEWLINE>awards you have earned<NEWLINE>according to your play<NEWLINE>style.
+2,Taking a Quest at the<NEWLINE>Guild Outpost? The<NEWLINE>word is even beginners<NEWLINE>can handle the low<NEWLINE>rank Quests.
+2,However, I heard that<NEWLINE>if two or more hunters<NEWLINE>take on the Quest,<NEWLINE>their Friendship Level<NEWLINE>goes up. 
+2,I bet if your <NEWLINE>Friendship Level<NEWLINE>rises, something good<NEWLINE>will happen... Huh?<NEWLINE>How do you check the<NEWLINE>your Friendship Level?
+2,If you have a Guild<NEWLINE>Card, select Examine<NEWLINE>from the Guild Card in<NEWLINE>the Menu, and you can<NEWLINE>see the Friendship<NEWLINE>Level next to your<NEWLINE>Friend's name.
+0,If you plan on going<NEWLINE>on Quests together<NEWLINE>often, it is a good<NEWLINE>idea to exchange Guild<NEWLINE>Cards with your<NEWLINE>partner. 
+2,Going on Quests<NEWLINE>together will build up<NEWLINE>your Friendship Level.<NEWLINE>If your Friendship<NEWLINE>Level rises, something<NEWLINE>good will happen...
+0,You can check the<NEWLINE>Friendship Level on<NEWLINE>the Guild Card in the<NEWLINE>menu, so it is a good<NEWLINE>idea to exchange Cards<NEWLINE>when you first meet. 
+2,Off on a Treasure<NEWLINE>Hunters Quest?<NEWLINE>According to Treshi,<NEWLINE>it is normal to come<NEWLINE>back with some unseen<NEWLINE>treasures. 
+2,It seems your contract<NEWLINE>says you have to give<NEWLINE>Treshi all the<NEWLINE>treasure you find, and<NEWLINE>you can't have any<NEWLINE>leftover for yourself.
+2,You do get a reward in<NEWLINE>proportion to the<NEWLINE>treasure you bring<NEWLINE>back. Bring back a lot<NEWLINE>of treasure and you<NEWLINE>will surely get<NEWLINE>something nice. 
+0,Since you don't have<NEWLINE>to hang on to it, I<NEWLINE>want to try<NEWLINE>surrounding myself<NEWLINE>with treasure.
+2,Off on a Treasure<NEWLINE>Hunters Quest?<NEWLINE>According to Treshi,<NEWLINE>it is normal to come<NEWLINE>back with some unseen<NEWLINE>treasures. 
+0,You've got to give it<NEWLINE>all to Treshi, but you<NEWLINE>will get a reward in<NEWLINE>proportion to what you<NEWLINE>bring back.
+2,Wow. You look like a<NEWLINE>top flight hunter. I<NEWLINE>bet you've been<NEWLINE>slaying wyverns left<NEWLINE>and right.
+2,I just happened to<NEWLINE>overhear something<NEWLINE>about an item you can<NEWLINE>get by building up<NEWLINE>your Friendship Level.<NEWLINE>Care to hear about it?
+2,It seems to be called<NEWLINE>a "Veggie Elder<NEWLINE>Ticket"... Maybe it<NEWLINE>has something to do<NEWLINE>with the old men<NEWLINE>collecting herbs in<NEWLINE>the swamp and forest?
+2,You can get something<NEWLINE>not just for your<NEWLINE>individual Friendship<NEWLINE>Levels, but for your<NEWLINE>collective Level as<NEWLINE>well. 
+2,If you have many<NEWLINE>friends, it should be<NEWLINE>easy to collect...<NEWLINE>Well, that's what I<NEWLINE>heard.
+0,You can get this item<NEWLINE>from the Guild<NEWLINE>Manager, so maybe you<NEWLINE>should go have a word<NEWLINE>with him. 
+2,If you build up your<NEWLINE>Friendship Level, you<NEWLINE>can get a convenient <NEWLINE>item from the Guild<NEWLINE>Manager...
+0,Since you can get an<NEWLINE>item not only for your<NEWLINE>individual Friendship<NEWLINE>Lvl, but also for your<NEWLINE>collective Lvl, if you<NEWLINE>have a lot of friends <NEWLINE>it should be easy. 
+2,Off on a Treasure<NEWLINE>Hunters Quest? I<NEWLINE>heard you can find<NEWLINE>hordes of treasure in<NEWLINE>various places.
+2,The eggs and gems that<NEWLINE>are hard to transport<NEWLINE>may be of very high<NEWLINE>value.
+2,Hard to slay monsters<NEWLINE>like wyverns or a<NEWLINE>Velocidrome may also<NEWLINE>hold special<NEWLINE>treasures...
+2,In exchange for not<NEWLINE>being able to bring<NEWLINE>your own items, the<NEWLINE>provisions provided<NEWLINE>are more than<NEWLINE>adequate.
+0,It seems that<NEWLINE>collaboration as a<NEWLINE>pair is the key, so I<NEWLINE>am quite jealous of<NEWLINE>those with a partner. 
+2,Treasure from eggs,<NEWLINE>gems, even wyverns...<NEWLINE>I just want to give it<NEWLINE>a try once. 
+0,It seems that<NEWLINE>collaboration as a<NEWLINE>pair is the key. I<NEWLINE>wish I could find<NEWLINE>someone to go with me.
+2,Wow. You are finally a<NEWLINE>G-Class Hunter! An<NEWLINE>unparalleled feat! 
+2,I've been sitting<NEWLINE>here watching hunters<NEWLINE>for ages, but since<NEWLINE>the start your aura<NEWLINE>was always different. 
+2,Since I am not hunter,<NEWLINE>I have been living<NEWLINE>vicariously through<NEWLINE>your career. 
+0,All I can do is cheer<NEWLINE>you on, so keep up the<NEWLINE>good work! 
+2,Watching your growth<NEWLINE>has been a privilege.<NEWLINE>Especially since I<NEWLINE>could never cut it as<NEWLINE>a hunter. 
+0,All I can do is cheer<NEWLINE>you on, so keep up the<NEWLINE>good work! 
+2,What to do!? What to<NEWLINE>do!? The Legendary<NEWLINE>Black Dragon has<NEWLINE>appeared!
+2,The mythical beast is<NEWLINE>a myth no longer. When<NEWLINE>will it be our time?
+0,I wanted to safely<NEWLINE>taste the life of a<NEWLINE>hunter, but this is<NEWLINE>not my fight...
+2,The Legendary Black<NEWLINE>Dragon is a myth no<NEWLINE>longer. When will it<NEWLINE>be our time?
+0,I wanted to safely<NEWLINE>taste the life of a<NEWLINE>hunter, but this is<NEWLINE>not my fight...
+2,You slayed Fatalis...<NEWLINE>You are without<NEWLINE>question the number<NEWLINE>one hunter in the<NEWLINE>room. 
+2,When you set off to<NEWLINE>face Fatalis,<NEWLINE>believing in your own<NEWLINE>wisdom and strength,<NEWLINE>it changed something<NEWLINE>in me!
+2,What I was lacking<NEWLINE>wasn't courage. I<NEWLINE>didn't believe in<NEWLINE>myself. I didn't<NEWLINE>believe in my own<NEWLINE>strength. 
+0,Thank you. I can't be<NEWLINE>a hunter yet, but<NEWLINE>thanks to you that<NEWLINE>seems like it is going<NEWLINE>to change. 
+2,What I was lacking<NEWLINE>wasn't courage. It was<NEWLINE>belief in myself.<NEWLINE>Seeing your confidence<NEWLINE>changed that.
+0,Thank you. I can't be<NEWLINE>a hunter yet, but<NEWLINE>thanks to you that<NEWLINE>seems like it is going<NEWLINE>to change. 
+2,Ah, good day. It<NEWLINE>appears you've been<NEWLINE>working very hard. 
+0,A hunter's work is<NEWLINE>just too scary for me.<NEWLINE>I can't do it. You, on<NEWLINE>the other hand, are<NEWLINE>courageous. 

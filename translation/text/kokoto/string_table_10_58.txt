@@ -1,0 +1,9 @@
+0,Welcome!! For new<NEWLINE>weapons or upgrading<NEWLINE>old ones, leave it to<NEWLINE>us!
+1,That'll cost you<NEWLINE>$z.<NEWLINE>That is OK with you,<NEWLINE>isn't it?
+1,You want to equip this<NEWLINE>right away?
+0,Thank you kindly. Come<NEWLINE>back soon!
+2,There's just one small<NEWLINE>problem. You don't<NEWLINE>have enough money!
+2,dummy
+2,Welcome!! That<NEWLINE>Peddling Granny gave<NEWLINE>me a great new recipe<NEWLINE>to cook up a weapon.
+2,It used to be you<NEWLINE>could only buy this,<NEWLINE>but if you've got the<NEWLINE>right materials, now<NEWLINE>you can have it made<NEWLINE>cheaply. 
+0,Let me know whenever<NEWLINE>you'd like to have one<NEWLINE>made for you.<NEWLINE>Hopefully that will be<NEWLINE>soon! 

@@ -1,0 +1,256 @@
+2,Welcome Gastronome...<NEWLINE>You can order food<NEWLINE>right here, meow! 
+0,We look forward to<NEWLINE>having you order our<NEWLINE>tasty treats, nya!
+2,Welcome Gastronome!<NEWLINE>Thanks for hiring us,<NEWLINE>meow!
+2,I'm gonna go ahead and<NEWLINE>use that room you<NEWLINE>aren't using! I'll be<NEWLINE>making you food, so<NEWLINE>you shouldn't mind at<NEWLINE>all! Nya!
+2,Food made by one<NEWLINE>Felyne is on the<NEWLINE>house, but if you add<NEWLINE>more staff to the<NEWLINE>kitchen we will charge<NEWLINE>you depending on the<NEWLINE>number of staff.
+0,We look forward to<NEWLINE>having you order our<NEWLINE>tasty treats, nya!
+2,Nice to meet you<NEWLINE>Gastronome! If there<NEWLINE>are two or more chefs,<NEWLINE>you can get better<NEWLINE>food than you've been<NEWLINE>getting. Meow! Meow!
+2,Instead of raising the<NEWLINE>effect of the meal,<NEWLINE>you can also get more<NEWLINE>food. To reduce the<NEWLINE>current staff, look at<NEWLINE>the Shift Chart and<NEWLINE>choose Break. Meow...
+0,So get ready because<NEWLINE>we are going to cook<NEWLINE>you gourmet meals! We<NEWLINE>look forward to having<NEWLINE>you order our tasty<NEWLINE>treats, nya!
+2,Thanks for always<NEWLINE>coming and eating our<NEWLINE>treats, nya! I'm<NEWLINE>really happy to be<NEWLINE>able to cook gourmet<NEWLINE>meals, meow! Meow!
+0,I'd like to give you a<NEWLINE>present to express my<NEWLINE>thanks, nya! If you<NEWLINE>save lots of these,<NEWLINE>I'm sure it will be<NEWLINE>worth it somehow! Nya!
+0,Gastronome, here, take<NEWLINE>this! I think you will<NEWLINE>be happy with it, nya!
+1,Gastronome... I really<NEWLINE>want 3 Felvines, nya!<NEWLINE>If you have some, it<NEWLINE>would really help me<NEWLINE>out... meow? 
+1,Gastronome... I really<NEWLINE>want 5 Felvines, nya!<NEWLINE>If you have some, it<NEWLINE>would really help me<NEWLINE>out... meow? 
+1,Gastronome... I really<NEWLINE>want 2 pieces of Raw<NEWLINE>Meat, nya! If you have<NEWLINE>some, it would really<NEWLINE>help me out... meow? 
+1,Gastronome... I really<NEWLINE>want 3 Frogs, nya! If<NEWLINE>you have some, it<NEWLINE>would really help me<NEWLINE>out... meow? 
+1,Gastronome... I really<NEWLINE>want 2 pieces of<NEWLINE>Sushifish, nya! If you<NEWLINE>have some, it would<NEWLINE>really help me out...<NEWLINE>meow? 
+1,Gastronome... I really<NEWLINE>want 3 pieces of Knife<NEWLINE>Mackerel, nya! If you<NEWLINE>have some, it would<NEWLINE>really help me out...<NEWLINE>meow? 
+1,Gastronome... I really<NEWLINE>want 3 Crickets, nya!<NEWLINE>If you have some, it<NEWLINE>would really help me<NEWLINE>out... meow? 
+1,Gastronome... I really<NEWLINE>want 3 Herbs, nya! If<NEWLINE>you have some, it<NEWLINE>would really help me<NEWLINE>out... meow? 
+1,Gastronome, do you<NEWLINE>remember what we<NEWLINE>talked about earlier,<NEWLINE>meow? I'd really like<NEWLINE>3 Felvines, nya...?
+1,Gastronome, do you<NEWLINE>remember what we<NEWLINE>talked about earlier,<NEWLINE>meow? I'd really like<NEWLINE>5 Felvines, nya...?
+1,Gastronome, do you<NEWLINE>remember what we<NEWLINE>talked about earlier,<NEWLINE>meow? I'd really like<NEWLINE>2 pieces of Raw Meat,<NEWLINE>nya...?
+1,Gastronome, do you<NEWLINE>remember what we<NEWLINE>talked about earlier,<NEWLINE>meow? I'd really like<NEWLINE>3 Frogs, nya...?
+1,Gastronome, do you<NEWLINE>remember what we<NEWLINE>talked about earlier,<NEWLINE>meow? I'd really like<NEWLINE>2 pieces of Sushifish,<NEWLINE>nya...?
+1,Gastronome, do you<NEWLINE>remember what we<NEWLINE>talked about earlier,<NEWLINE>meow? I'd really like<NEWLINE>3 pieces of Knife<NEWLINE>Mackerel, nya...?
+1,Gastronome, do you<NEWLINE>remember what we<NEWLINE>talked about earlier,<NEWLINE>meow? I'd really like<NEWLINE>3 Crickets, nya...?
+1,Gastronome, do you<NEWLINE>remember what we<NEWLINE>talked about earlier,<NEWLINE>meow? I'd really like<NEWLINE>3 Herbs, nya...?
+0,Thanks Gastronome!<NEWLINE>Nya! You were a great<NEWLINE>help! I'd like to give<NEWLINE>you this in return,<NEWLINE>meow! Use it wisely!
+0,Thanks Gastronome!<NEWLINE>Nya! Thanks for<NEWLINE>helping me out back<NEWLINE>there! I'd like to<NEWLINE>give you this in<NEWLINE>return, meow! Use it<NEWLINE>wisely!
+0,...I'm sorry for<NEWLINE>saying you were<NEWLINE>selfish, nya! Maybe<NEWLINE>you can help me out<NEWLINE>next time, meow! Meow!
+2,Hey Gastronome... did<NEWLINE>you know that there<NEWLINE>are up to 9 Felyne<NEWLINE>Levels, nya!?
+0,The number of<NEWLINE>different foods you<NEWLINE>can order depends on<NEWLINE>this level, nya. For<NEWLINE>instance, at level 9<NEWLINE>you can choose from 15<NEWLINE>varieties, nya!
+2,Hey Gastronome... did<NEWLINE>you know? You can have<NEWLINE>up to 5 Felynes<NEWLINE>working in the<NEWLINE>Kitchen, meow! 
+0,You didn't!? Oh well,<NEWLINE>nya... If you have 5<NEWLINE>Felynes working in the<NEWLINE>Kitchen, there is no<NEWLINE>doubt we can create<NEWLINE>incredible meals, nya!
+2,Hey Gastronome, are<NEWLINE>you using your bed at<NEWLINE>the Base Camp, nya?! 
+0,It not only heals your<NEWLINE>wounds, it also lets<NEWLINE>you recover even if<NEWLINE>you've been Poisoned,<NEWLINE>nya! If you get in a<NEWLINE>pinch near camp, come<NEWLINE>back and use the bed!
+2,Hey Gastronome, did<NEWLINE>you know that by<NEWLINE>joining pieces of<NEWLINE>Armor, you can<NEWLINE>activate special<NEWLINE>Skills, meow?!
+2,You can gather Skill<NEWLINE>Points from each piece<NEWLINE>of Armor, meow!
+0,When you buy armor at<NEWLINE>a shop or change<NEWLINE>equipment, press the<NEWLINE>~B03 button to confirm<NEWLINE>the total number of<NEWLINE>Skill Points, nya!
+2,Hey Gastronome, are<NEWLINE>you using the Supply<NEWLINE>Box located in your<NEWLINE>Base Camp, meow?!
+2,There are many useful<NEWLINE>items inside, but<NEWLINE>items marked as Supply<NEWLINE>Items are collected at<NEWLINE>the end of a Quest.
+0,Items marked as Supply<NEWLINE>Items are collected at<NEWLINE>the end of a Quest. 
+2,Hey Gastronome... do<NEWLINE>you know the old lady<NEWLINE>who works as our<NEWLINE>agent, nya?!
+2,The old lady makes<NEWLINE>contracts with Felynes<NEWLINE>like me, who want to<NEWLINE>work in the Village<NEWLINE>and tries to find<NEWLINE>positions for us.
+0,She will only let us<NEWLINE>work with those she<NEWLINE>trusts, meow! If you<NEWLINE>want her to trust you,<NEWLINE>you have to raise your<NEWLINE>status as a hunter.
+2,Hey Gastronome, you<NEWLINE>know about Poison<NEWLINE>Smoke Bombs, nya?!<NEWLINE>They're a great item<NEWLINE>that spews poison<NEWLINE>fumes when thrown...<NEWLINE>meow.
+0,Poison Smoke Bombs can<NEWLINE>be made by combining.<NEWLINE>Try combining Bomb<NEWLINE>Material and a<NEWLINE>poisonous mushroom,<NEWLINE>meow!
+2,Hey Gastronome... did<NEWLINE>you know there is a<NEWLINE>technique to return<NEWLINE>Burnt Meat to Raw<NEWLINE>Meat? 
+2,This terrible chef<NEWLINE>that I know is always<NEWLINE>burning meat. However,<NEWLINE>every time he messes<NEWLINE>up he uses a technique<NEWLINE>to return it to Raw<NEWLINE>Meat, meow!
+0,The technique is<NEWLINE>called Alchemy, nya.<NEWLINE>However, after you<NEWLINE>employ this technique,<NEWLINE>the taste of the food<NEWLINE>will significantly<NEWLINE>drop, nya nya nya! 
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Blunt Force, nya?! It<NEWLINE>is one of the Felyne<NEWLINE>Whim Skills. 
+2,When this skill is<NEWLINE>activated, a bowgun's<NEWLINE>melee attack strength<NEWLINE>will skyrocket, meow!
+0,A bowgun used as a<NEWLINE>melee weapon... wait,<NEWLINE>that can't be right...<NEWLINE>but it is, nya!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Throw, nya!? It is one<NEWLINE>of the Felyne Whim<NEWLINE>Skills.
+2,When you activate this<NEWLINE>skill, the power of<NEWLINE>something you throw,<NEWLINE>like a Stone, will<NEWLINE>skyrocket! Meow!
+0,Tossing a Throwing<NEWLINE>Knife is especially<NEWLINE>effective! You can get<NEWLINE>Throwing Knives as a<NEWLINE>supply item on G-Class<NEWLINE>or Treasure Hunters<NEWLINE>Quests, nya!
+2,Hey Gastronome...<NEWLINE>don't you know, nya?!<NEWLINE>The Felyne Level shows<NEWLINE>how we are growing.
+2,Basically, the more<NEWLINE>food we cook, the<NEWLINE>higher it gets, nya!<NEWLINE>You can also raise our<NEWLINE>Felyne Level by giving<NEWLINE>us items, meow...
+0,You can see our Status<NEWLINE>by checking the Shift<NEWLINE>Chart, nya! Nya!
+2,Hey Gastronome... did<NEWLINE>you know that you can<NEWLINE>get Tickets depending<NEWLINE>on the number of times<NEWLINE>you order food, nya?!
+2,Depending on the<NEWLINE>number of Chefs, you<NEWLINE>can earn a Silver<NEWLINE>Ticket or a Gold<NEWLINE>Ticket, meow!
+0,You can't get a ticket<NEWLINE>when only one chef is<NEWLINE>working, nya! Our<NEWLINE>Leader is also known<NEWLINE>to give tickets, so<NEWLINE>you should talk with<NEWLINE>him, meow! 
+2,Hey Gastronome... do<NEWLINE>you know about the<NEWLINE>Torso+1, Torso+2, and<NEWLINE>Torso Increased<NEWLINE>Skills, nya?! 
+2,Torso Increased will<NEWLINE>increase the number of<NEWLINE>Skill Points of your<NEWLINE>Torso armor, nya!
+2,When used multiple<NEWLINE>times, the Torso<NEWLINE>Points can be<NEWLINE>increased by factors<NEWLINE>of 2, 3, 4, or even 5,<NEWLINE>meow!
+0,Torso+ will add <NEWLINE>points to the Skill<NEWLINE>Tree of your Torso<NEWLINE>armor. Torso+ or Torso<NEWLINE>Increased, either one<NEWLINE>is a great bet, meow!
+2,Hey Gastronome...<NEWLINE>haven't you heard!?<NEWLINE>You can make Bowgun<NEWLINE>ammunition by<NEWLINE>combining, nya! Nya!
+0,For instance, you can<NEWLINE>make Flaming S, shots<NEWLINE>that release flames<NEWLINE>upon impact, by<NEWLINE>combining Fire Herb<NEWLINE>with Huskberry, nya!
+2,Hey Gastronome...<NEWLINE>haven't you heard!?<NEWLINE>You can make Bowgun<NEWLINE>ammunition by<NEWLINE>combining, nya! Nya!
+0,You can make Ice S, a<NEWLINE>shot that releases icy<NEWLINE>cold water on impact,<NEWLINE>by combining Knife<NEWLINE>Mackerel with<NEWLINE>Huskberry, nya!
+2,Hey Gastronome...<NEWLINE>haven't you heard!?<NEWLINE>You can make Bowgun<NEWLINE>ammunition by<NEWLINE>combining, nya! Nya!
+0,For instance, you can<NEWLINE>make Thunder S, a shot<NEWLINE>that releases an<NEWLINE>electrical shock on<NEWLINE>impact, by combining<NEWLINE>Flashbug with<NEWLINE>Huskberry, nya!
+2,Hey Gastronome... do<NEWLINE>you know about Felyne<NEWLINE>Whim Skills, meow?!
+2,Sometimes, you can<NEWLINE>activate these skills<NEWLINE>by eating the food we<NEWLINE>prepare, nya! They are<NEWLINE>purrfectly useful!
+2,Unlock these skills by<NEWLINE>choosing ingredients<NEWLINE>for a meal that<NEWLINE>matches a chef's<NEWLINE>strong suits, like<NEWLINE>Popo Meat for chef's<NEWLINE>who love Meat, meow! 
+0,You won't know what<NEWLINE>skill will be<NEWLINE>unleashed until you<NEWLINE>try it, but they are<NEWLINE>usually much better<NEWLINE>than normal skills,<NEWLINE>nya! 
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Charisma, nya?! It is<NEWLINE>one of the Felyne Whim<NEWLINE>Skills. 
+2,Unlocking this skill<NEWLINE>will make you want to<NEWLINE>have long<NEWLINE>conversations with<NEWLINE>other people, nya!
+0,When out in the field,<NEWLINE>there are often people<NEWLINE>who don't care to<NEWLINE>chat. With this skill,<NEWLINE>you can open them up a<NEWLINE>bit to chatting, nya!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Woodwinds, nya?! It is<NEWLINE>one of the Felyne Whim<NEWLINE>Skills. 
+2,Unlocking this skill<NEWLINE>will make you a<NEWLINE>skilled Flute player,<NEWLINE>meow! 
+0,Flutes are known to<NEWLINE>break suddenly, but<NEWLINE>with this skill, it<NEWLINE>seems they won't break<NEWLINE>nearly as easily, nya!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Great Break, nya?! It<NEWLINE>is one of the Felyne<NEWLINE>Whim Skills. 
+2,Melee Weapons can<NEWLINE>break when they hit a<NEWLINE>rock or when attacking<NEWLINE>a monster. If broken,<NEWLINE>attacks drastically<NEWLINE>reduce weapon<NEWLINE>Sharpness, nya!
+0,When this skill is<NEWLINE>active, even when a<NEWLINE>weapon is broken, its<NEWLINE>Sharpness will only<NEWLINE>drop by normal<NEWLINE>amounts, meow!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Frugality, nya?! It is<NEWLINE>one of the Felyne Whim<NEWLINE>Skills. 
+2,Unlocking this will<NEWLINE>make you very skilled<NEWLINE>in using Items, nya!
+0,Easy to break items<NEWLINE>like Pickaxes and<NEWLINE>Bugnets will become a<NEWLINE>bit harder to break,<NEWLINE>meow!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Negotiations, nya?! It<NEWLINE>is one of the Felyne<NEWLINE>Whim Skills. 
+2,By unlocking this<NEWLINE>skill, you can have<NEWLINE>many great chats, nya!<NEWLINE>The fickle Veggie<NEWLINE>Elders may even give<NEWLINE>you something nice,<NEWLINE>meow!
+0,It'll also be easier<NEWLINE>to get stolen items<NEWLINE>back from the Melynx<NEWLINE>Den. Negotiations are<NEWLINE>a simple, but useful<NEWLINE>skill, meow!
+2,Hey Gastronome, did<NEWLINE>you know that you can<NEWLINE>change the rank of a<NEWLINE>Felyne on the Shift<NEWLINE>Chart, nya!?
+2,The top ranked Felyne<NEWLINE>is the Leader, nya!<NEWLINE>The number of food<NEWLINE>choices at meal time<NEWLINE>changes depending on<NEWLINE>the Leader's Felyne<NEWLINE>Level, nya!
+0,The Red Tie is proof<NEWLINE>of who is the Felyne<NEWLINE>Leader. Everyone<NEWLINE>working in the Kitchen<NEWLINE>wants to be that cat.
+2,Hey Gastronome... do<NEWLINE>you know about the<NEWLINE>Gluttony Skill, nya!?
+0,Whenever you eat<NEWLINE>something like BBQ<NEWLINE>Steak, you will get an<NEWLINE>overwhelming sense of<NEWLINE>being full! Meow!<NEWLINE>Meow! Meow!
+2,Hey Gastronome... do<NEWLINE>you know about Hot<NEWLINE>Drink, nya?! It's a<NEWLINE>great item that can<NEWLINE>protect you from the<NEWLINE>cold for a set period<NEWLINE>of time, meow!
+0,You can make this item<NEWLINE>by combining, nya!<NEWLINE>Just combine Bitterbug<NEWLINE>with something really<NEWLINE>hot! Meow!
+2,Hey Gastronome... do<NEWLINE>you know about Cool<NEWLINE>Drink, nya?! It's a<NEWLINE>great item that can<NEWLINE>protect you from the<NEWLINE>heat for a set period<NEWLINE>of time, meow!
+0,You can make this item<NEWLINE>by combining, nya!<NEWLINE>Just combine Bitterbug<NEWLINE>with something cold!<NEWLINE>Meow!
+2,Hey Gastronome... do<NEWLINE>you know about<NEWLINE>Lifecrystals, nya?! <NEWLINE>They are essential<NEWLINE>items for combining <NEWLINE>great things, meow! 
+0,You can obtain<NEWLINE>Lifecrystals by<NEWLINE>combining a Godbug<NEWLINE>with a Wyvern Fang,<NEWLINE>nya! 
+2,Hey Gastronome... do<NEWLINE>you know about the<NEWLINE>Protection Skill,<NEWLINE>nya!?
+0,No matter what attack<NEWLINE>befalls you, it seems<NEWLINE>you'll take less<NEWLINE>damage than normal,<NEWLINE>nya! That doesn't mean<NEWLINE>you can use this skill<NEWLINE>whenever you want!
+2,Hey Gastronome... did<NEWLINE>you know that you can<NEWLINE>change the number of<NEWLINE>Chefs by looking at<NEWLINE>the Shift Chart, nya?!
+2,Depending on the<NEWLINE>number of Chefs, the<NEWLINE>price of a meal will<NEWLINE>change, meow. When a<NEWLINE>Chef is away, the Chef<NEWLINE>is probably on Break.
+0,When a Felyne is on<NEWLINE>Break, you can have<NEWLINE>even better chats with<NEWLINE>them than usual. They<NEWLINE>will also give you<NEWLINE>better items than<NEWLINE>usual, meow!
+2,Hey Gastronome... do<NEWLINE>you have an item<NEWLINE>called an Earth<NEWLINE>Crystal, nya?!
+0,Earth Crystals are not<NEWLINE>just armor material,<NEWLINE>they can also be used<NEWLINE>to combine! When used<NEWLINE>with a Bitterbug, you<NEWLINE>can make an Antiseptic<NEWLINE>Stone, nya!
+2,Hey Gastronome... do<NEWLINE>you know about an item<NEWLINE>called a Catalyst,<NEWLINE>nya?!
+0,You can make this item<NEWLINE>by combining! Just use<NEWLINE>a Bitterbug and some<NEWLINE>Honey, meow! 
+2,Hey Gastronome... do<NEWLINE>you know about an item<NEWLINE>called a Nutrients? It<NEWLINE>raises your maximum<NEWLINE>strength, nya! 
+0,You can make this item<NEWLINE>by combining! Just use<NEWLINE>a Blue Mushroom and a<NEWLINE>Godbug, meow! 
+2,Hey Gastronome... do<NEWLINE>you have an item<NEWLINE>called a Fire Herb,<NEWLINE>nya?!
+0,Fire Herb is mainly<NEWLINE>used as a combining<NEWLINE>item, most often<NEWLINE>combined with a<NEWLINE>Nitroshroom to make<NEWLINE>Gunpowder, meow!
+2,Hey Gastronome... did<NEWLINE>you know about Power<NEWLINE>Juice? When you drink<NEWLINE>it, your Stamina won't<NEWLINE>decrease for a set<NEWLINE>period of time, meow!
+0,You can make it by<NEWLINE>combining a Catalyst<NEWLINE>with a Rare Steak.<NEWLINE>Definitely useful when<NEWLINE>you will be doing a<NEWLINE>lot of running, meow!
+2,Hey Gastronome... do<NEWLINE>you have an item<NEWLINE>called a Cactus<NEWLINE>Flower, nya?!
+0,Cactus Flower is<NEWLINE>mainly used as a<NEWLINE>combining item, most<NEWLINE>often combined with<NEWLINE>Bitterbug to make a<NEWLINE>Recovery & Antidote<NEWLINE>Herbal Medicine, nya!
+2,Hey Gastronome... do<NEWLINE>you know about Felyne<NEWLINE>Whim Skills, meow?!
+2,Sometimes, you can<NEWLINE>activate these skills<NEWLINE>by eating the food we<NEWLINE>prepare, nya! They are<NEWLINE>purrfectly useful!
+2,Which skill will be<NEWLINE>unlocked is up to the<NEWLINE>Felyne, nya! Each<NEWLINE>Felyne has a few<NEWLINE>specific skills...<NEWLINE>which one will he<NEWLINE>choose, meow?!
+0,You won't know what<NEWLINE>skill will be<NEWLINE>unleashed, but the<NEWLINE>higher the Felyne<NEWLINE>Level, the easier it<NEWLINE>is to receive great<NEWLINE>skills, nya!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Defense, nya?! It is<NEWLINE>one of the Felyne Whim<NEWLINE>Skills. 
+2,When this skill is<NEWLINE>active, and you are<NEWLINE>hit by a monster,<NEWLINE>sometimes the damage<NEWLINE>received will be<NEWLINE>reduced, meow!
+0,It seems like a simple<NEWLINE>skill, but it can be<NEWLINE>really effective, nya!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Heroics, nya?! It is<NEWLINE>one of the Felyne Whim<NEWLINE>Skills. 
+2,When this skill is<NEWLINE>active, and you find<NEWLINE>yourself in a tight<NEWLINE>spot, you will have<NEWLINE>more strength than<NEWLINE>usual, nya!
+0,Your attacks will<NEWLINE>become stronger, your<NEWLINE>defense tougher, and<NEWLINE>you will exhibit the<NEWLINE>true qualities of a<NEWLINE>hero, meow!!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Aim, nya?! It is one<NEWLINE>of the Felyne Whim<NEWLINE>Skills. 
+2,When this skill is<NEWLINE>active, Normal S, an<NEWLINE>ammo often used by<NEWLINE>Gunners, will have<NEWLINE>increased accuracy,<NEWLINE>nya!
+0,At first the effect is<NEWLINE>small, but with each<NEWLINE>use the effect will<NEWLINE>get better! Of course,<NEWLINE>this is pointless to<NEWLINE>anyone other than a<NEWLINE>Gunner, meow!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Escape, nya?! It is<NEWLINE>one of the Felyne Whim<NEWLINE>Skills. 
+2,When you run away from<NEWLINE>large monsters or<NEWLINE>wyverns, your Stamina<NEWLINE>will fall more quickly<NEWLINE>than usual, meow!
+0,When this skill is<NEWLINE>unleashed, your<NEWLINE>Stamina will not fall<NEWLINE>nearly as fast, so you<NEWLINE>can run away for much<NEWLINE>longer periods, nya!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Culinary Arts, nya?!<NEWLINE>It is one of the<NEWLINE>Felyne Whim Skills. 
+2,When this skill is<NEWLINE>active, you can make<NEWLINE>great tasting meat<NEWLINE>with a regular BBQ<NEWLINE>Spit, nya!
+0,In the same amount of<NEWLINE>time that it would<NEWLINE>take to make a Rare<NEWLINE>Steak, you can make a<NEWLINE>Well-Done Steak, meow!<NEWLINE>Nya nya nya! Great! 
+2,Hey Gastronome... did<NEWLINE>you know that some<NEWLINE>wyverns are strong<NEWLINE>against Hammer<NEWLINE>strikes, but weak<NEWLINE>versus a Great Sword<NEWLINE>or a Sword slash!?
+2,For instance, a wyvern<NEWLINE>covered with elastic<NEWLINE>hide is strong against<NEWLINE>Hammer blows, but weak<NEWLINE>against a slash, meow!
+2,On the other hand, a<NEWLINE>wyvern covered in hard<NEWLINE>shell may snap a blade<NEWLINE>when hit, but the<NEWLINE>attack's damage will<NEWLINE>still travel through<NEWLINE>the shell.
+0,These are just<NEWLINE>examples, nya. I'm not<NEWLINE>sure if this applies<NEWLINE>to all wyverns. 
+2,Hey Gastronome... do<NEWLINE>you know about the<NEWLINE>Sharp Sword Skill,<NEWLINE>nya. There are no<NEWLINE>disadvantages when a<NEWLINE>Blademaster uses this<NEWLINE>skill, meow!
+2,Basically, it allows<NEWLINE>your Sword to hold its<NEWLINE>Sharpness for a long<NEWLINE>period of time. It<NEWLINE>allows you to just<NEWLINE>attack and attack,<NEWLINE>nya!!
+0,Conversely, there is<NEWLINE>also a Blunt Skill.<NEWLINE>This skill will make<NEWLINE>your weapon lose its<NEWLINE>Sharpness quickly, so<NEWLINE>be careful, nya!
+2,Hey Gastronome... do<NEWLINE>you know where you can<NEWLINE>get Honey? It is used<NEWLINE>to combine with<NEWLINE>various items, nya!
+2,In the Forest and<NEWLINE>Hills, Honey is in the<NEWLINE>narrow forest, as well<NEWLINE>as the area occupied<NEWLINE>by the Veggie Elder.<NEWLINE>In the Jungle, it's<NEWLINE>near the rock walls!
+0,You can also get Honey<NEWLINE>by trading with the<NEWLINE>Veggie Elder in the<NEWLINE>Jungle. But you<NEWLINE>better have something<NEWLINE>he wants... like hide,<NEWLINE>nya!
+2,Hey Gastronome... do<NEWLINE>you have any<NEWLINE>Lifecrystals or a<NEWLINE>Wyvern Claw, nya?!
+2,If you combine these<NEWLINE>two items, you can<NEWLINE>make an item called<NEWLINE>Lifepowder.
+0,By using this item,<NEWLINE>you and all the other<NEWLINE>hunters in the area<NEWLINE>can recover from<NEWLINE>battle. Lifepowder is<NEWLINE>an excellent item,<NEWLINE>nya?
+2,Hey Gastronome... do<NEWLINE>you know about the<NEWLINE>Master's Skull? It is<NEWLINE>incredibly popular<NEWLINE>among hunters, nya!
+0,Rumor has it that this<NEWLINE>item can be obtained<NEWLINE>in the Forest and<NEWLINE>Hills Nest, the Dark<NEWLINE>Desert, or the Fallen<NEWLINE>tree in the Swamp,<NEWLINE>nya!
+2,Hey Gastronome... do<NEWLINE>you know about an item<NEWLINE>called a Flash Bomb,<NEWLINE>nya! 
+2,If you throw this item<NEWLINE>at monsters and blind<NEWLINE>them, they will not<NEWLINE>be able to move, nya! 
+0,If you want to try and<NEWLINE>make a Flash Bomb,<NEWLINE>combine Bomb Material<NEWLINE>with a Flashbug, meow!
+2,Hey Gastronome...<NEWLINE>haven't you heard!?<NEWLINE>You can make Bowgun<NEWLINE>ammunition by<NEWLINE>combining, nya! Nya!
+0,For instance, you can<NEWLINE>make Clust S LV 2,<NEWLINE>ammo that spreads<NEWLINE>shrapnel when fired,<NEWLINE>by combining Wyvern<NEWLINE>Claw with Small Bone<NEWLINE>Husk, nya!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Dismantle, nya?! It is<NEWLINE>one of the Felyne Whim<NEWLINE>Skills. 
+2,When this skill is<NEWLINE>unleashed, the number<NEWLINE>of carvings you get<NEWLINE>from a monster will be<NEWLINE>increased. 
+0,If you have it active<NEWLINE>when you slay that one<NEWLINE>wyvern... MEEEEOOOW!<NEWLINE>However, it doesn't<NEWLINE>always work... nya...
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Supercat, nya?! It is<NEWLINE>one of the Felyne Whim<NEWLINE>Skills. 
+2,When this skill is<NEWLINE>active, your Stamina<NEWLINE>will not decrease as<NEWLINE>fast when you are<NEWLINE>carrying things like<NEWLINE>an egg, meow.
+0,If you combine it with<NEWLINE>the Backpacking Expert<NEWLINE>Skill, carrying an egg<NEWLINE>or Powderstone will be<NEWLINE>no cause for alarm,<NEWLINE>nya! A great skill<NEWLINE>for Treasure Hunters!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Strongcat, nya?! It is<NEWLINE>one of the Felyne Whim<NEWLINE>Skills. 
+2,When this skill is<NEWLINE>active, you can carry<NEWLINE>things like an ant<NEWLINE>carrying an apple! You<NEWLINE>will rarely drop eggs,<NEWLINE>or other items, meow!
+0,With this skill and a<NEWLINE>Power Juice, carrying<NEWLINE>an egg or Powderstone<NEWLINE>will be no threat to<NEWLINE>your stamina, nya!<NEWLINE>Great for Treasure<NEWLINE>Hunters!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Courage, nya?! It is<NEWLINE>one of the Felyne Whim<NEWLINE>Skills. 
+2,When traveling, if you<NEWLINE>run into a wyvern, it<NEWLINE>is only natural to be<NEWLINE>shocked, nya!
+0,However, when this<NEWLINE>skill is used, you are<NEWLINE>less likely to be<NEWLINE>surprised! Real nerves<NEWLINE>of steel, nya!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Combine, nya?! It is<NEWLINE>one of the Felyne Whim<NEWLINE>Skills. 
+2,When this skill is<NEWLINE>active, your chances<NEWLINE>of a successful<NEWLINE>combination are much<NEWLINE>higher, nya!
+0,It is as effective as<NEWLINE>having one volume of<NEWLINE>the Book of Combos...<NEWLINE>maybe... Still, it is<NEWLINE>definitely a skill you<NEWLINE>want when fighting a<NEWLINE>wyvern, meow!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Gathering, nya?! It is<NEWLINE>one of the Felyne Whim<NEWLINE>Skills. 
+2,When this skill is<NEWLINE>active, you will be<NEWLINE>able to gather large<NEWLINE>quantities of<NEWLINE>materials when<NEWLINE>gathering, nya!
+0,Sometimes you may feel<NEWLINE>as if the previous<NEWLINE>gathering trip was<NEWLINE>more successful. Well<NEWLINE>not anymore! This is a<NEWLINE>great skill to use <NEWLINE>when gathering, nya!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Medicine, nya?! It is<NEWLINE>one of the Felyne Whim<NEWLINE>Skills. 
+2,When this skill is<NEWLINE>active, it will<NEWLINE>slightly raise the<NEWLINE>effectiveness of the<NEWLINE>medicines you take,<NEWLINE>nya!
+0,It will slightly<NEWLINE>increase the recovery<NEWLINE>ability of an Herb,<NEWLINE>and will heighten the<NEWLINE>properties of Antidote<NEWLINE>Herb, meow!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Gunpowder, nya?! It is<NEWLINE>one of the Felyne Whim<NEWLINE>Skills. 
+2,When this skill is<NEWLINE>active, it will<NEWLINE>increase the power of<NEWLINE>Large Barrel Bombs and<NEWLINE>Small Barrel Bombs,<NEWLINE>nya!
+0,This is definitely one<NEWLINE>of a Felynes' better<NEWLINE>Skills, nya! Meow?<NEWLINE>Large Barrel Bomb+,<NEWLINE>nya? We don't use huge<NEWLINE>explosives like that,<NEWLINE>meow!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Martial Arts, nya?! It<NEWLINE>is one of the Felyne<NEWLINE>Whim Skills. 
+2,When this skill is<NEWLINE>active, it will stem<NEWLINE>the reduction in<NEWLINE>Stamina caused by<NEWLINE>evasive maneuvers,<NEWLINE>nya!
+0,When using a weapon<NEWLINE>that cannot Guard,<NEWLINE>evasive maneuvers are<NEWLINE>critical. If you have<NEWLINE>this skill, it will be<NEWLINE>easier to evade in the<NEWLINE>midst of battle, nya!
+2,Hey Gastronome, have<NEWLINE>you heard of Felyne<NEWLINE>Special Attack, nya?!<NEWLINE>It is one of the<NEWLINE>Felyne Whim Skills. 
+2,When this skill is<NEWLINE>active, the status<NEWLINE>abnormalities<NEWLINE>inflicted by weapons<NEWLINE>with special effects<NEWLINE>will be especially<NEWLINE>potent, meow!
+0,This is great to use<NEWLINE>with Swords or<NEWLINE>Bowguns! It should be<NEWLINE>able to make even the<NEWLINE>biggest, strongest<NEWLINE>monsters feel strange,<NEWLINE>nya!
+2,Hey Gastronome...<NEWLINE>haven't you ever<NEWLINE>accidentally Burnt<NEWLINE>Meat by cooking it for<NEWLINE>too long, nya?!
+2,The truth is that,<NEWLINE>sometimes even Burnt<NEWLINE>Meat will restore your<NEWLINE>Stamina, nya!
+0,However, sometimes it<NEWLINE>will also reduce your<NEWLINE>Stamina, so you better<NEWLINE>be resolved to your<NEWLINE>fate when you take a<NEWLINE>bite, meow!
+2,Hey Gastronome...<NEWLINE>haven't you heard?!<NEWLINE>Depending on the<NEWLINE>different kinds of<NEWLINE>monsters, some hate<NEWLINE>Fire, while others<NEWLINE>detest Thunder, meow!
+2,If the monster you are<NEWLINE>facing has a weak<NEWLINE>point, you can select<NEWLINE>a weapon to exploit<NEWLINE>it, nya! You should be<NEWLINE>able to slay monsters<NEWLINE>you couldn't before!
+0,How do you figure out<NEWLINE>a monster's weak<NEWLINE>points? I don't know,<NEWLINE>nya... it is your job<NEWLINE>to think of those<NEWLINE>things, Mr. Hunter!
+2,Hey Gastronome...<NEWLINE>haven't you heard?!<NEWLINE>Mushrooms like to live<NEWLINE>in dark, damp places,<NEWLINE>nya!
+0,When you want some<NEWLINE>Mushrooms, you should<NEWLINE>head to the Forest and<NEWLINE>Hills, Swamp, or<NEWLINE>Jungle, meow!
+0,dummy
+2,Hey Gastronome... do<NEWLINE>you know how to mine<NEWLINE>for the ores you need<NEWLINE>to Improve your armor<NEWLINE>or weapons, nya?!
+2,To find ore, you<NEWLINE>should dig near cracks<NEWLINE>in the rocks you find<NEWLINE>near the cliffs,<NEWLINE>nests, and caves, nya!
+2,However, you can only<NEWLINE>mine if you get a<NEWLINE>Pickaxe by buying one<NEWLINE>from a store or making<NEWLINE>one yourself by<NEWLINE>combining, meow!
+0,If you don't want to<NEWLINE>buy a Pickaxe, and<NEWLINE>can't make one, you<NEWLINE>can borrow one from<NEWLINE>Kokoto Farm. They<NEWLINE>always have some on<NEWLINE>hand to loan, nya!
+2,Hey Gastronome... do<NEWLINE>you know how to catch<NEWLINE>the insects you need<NEWLINE>for all kinds of<NEWLINE>combinations, nya?!
+2,You will see lightning<NEWLINE>bugs flying around in<NEWLINE>places where you can<NEWLINE>collect the critters,<NEWLINE>nya!
+2,However, you can only<NEWLINE>gather insects if you<NEWLINE>get a Bugnet by buying<NEWLINE>one at a store or<NEWLINE>making one yourself by<NEWLINE>combining, meow!
+0,If you don't want to<NEWLINE>buy a Bugnet, or can't<NEWLINE>make one, you can<NEWLINE>borrow one from Kokoto<NEWLINE>Farm. They always have<NEWLINE>some on hand to loan<NEWLINE>out, nya!
+2,Hey Gastronome... did<NEWLINE>you know that there<NEWLINE>are even Felynes who<NEWLINE>work for the Hunter's<NEWLINE>Guild, nya?!
+2,They work to bring the<NEWLINE>defeated hunters back<NEWLINE>home, nya! That is why<NEWLINE>you sometimes see them<NEWLINE>right in front of a<NEWLINE>giant wyvern, meow!
+0,What courage, nya!<NEWLINE>What ability, meow!<NEWLINE>They want to follow<NEWLINE>your example as a<NEWLINE>hunter, nya nya! 
+2,Hey Gastronome...<NEWLINE>don't you know that<NEWLINE>the most important way<NEWLINE>to make Felyne food<NEWLINE>effective is by<NEWLINE>choosing the right<NEWLINE>ingredients, nya?!
+2,By joining together<NEWLINE>ingredients, you can<NEWLINE>gain many different<NEWLINE>effects, nya! Like<NEWLINE>Meat with Meat, or<NEWLINE>Fish with Drinks...<NEWLINE>meow!
+0,But we can't guarantee<NEWLINE>you will get great<NEWLINE>effects just because<NEWLINE>we have great<NEWLINE>ingredients... meow.
+2,Hey Gastronome... I am<NEWLINE>sure you already know<NEWLINE>this, but when more<NEWLINE>than 2 Felynes are<NEWLINE>cooking, we will<NEWLINE>have to charge you,<NEWLINE>nya?!
+2,Our charge not only<NEWLINE>includes our salary,<NEWLINE>but also the amount of<NEWLINE>ingredients... but 2<NEWLINE>Felynes are better<NEWLINE>than one!
+0,Naturally, you can<NEWLINE>expect the best<NEWLINE>results from the best<NEWLINE>ingredients, nya! It<NEWLINE>also helps to have<NEWLINE>many paws in the<NEWLINE>kitchen, meow!
+2,Hey Gastronome... have<NEWLINE>you ever used a Great<NEWLINE>Sword to Guard against<NEWLINE>an enemies' attack,<NEWLINE>nya!
+0,You should be careful<NEWLINE>because Great Swords<NEWLINE>lose their Sharpness<NEWLINE>when used to Guard, so<NEWLINE>take lots of<NEWLINE>Whetstones with you,<NEWLINE>meow!
+2,Hey Gastronome... do<NEWLINE>you know about the<NEWLINE>Guard+ Skill, nya?! 
+2,It seems this skill<NEWLINE>will quicken the<NEWLINE>recovery time after<NEWLINE>you Guard against<NEWLINE>an enemy's attack,<NEWLINE>nya!
+0,Well, this depends on<NEWLINE>the attack you<NEWLINE>Guard... sometimes<NEWLINE>things won't change at<NEWLINE>all, meow!
+2,Hey Gastronome... have<NEWLINE>you ever seen a<NEWLINE>Mosswine? It is a<NEWLINE>giant pig that is<NEWLINE>covered with moss,<NEWLINE>nya!
+2,They love Special<NEWLINE>Mushrooms so much that<NEWLINE>searching for Special<NEWLINE>Mushrooms is said to <NEWLINE>be called searching<NEWLINE>for Mosswines, meow!
+0,When you see them<NEWLINE>sniffing the ground,<NEWLINE>it usually means<NEWLINE>something is down<NEWLINE>there, nya!
+2,Hey Gastronome... do<NEWLINE>you know about the<NEWLINE>Guard Increase Skill,<NEWLINE>nya!? I guess it only<NEWLINE>applies to weapons<NEWLINE>with guards, meow...
+2,If you have the Guard<NEWLINE>Increase Skill, you<NEWLINE>can Guard against<NEWLINE>previously unblockable<NEWLINE>attacks, like gas<NEWLINE>attacks, meow!
+0,You can also reduce<NEWLINE>the amount of damage<NEWLINE>you take... Of course<NEWLINE>the effect depends<NEWLINE>entirely on the<NEWLINE>opponent, nya!
+2,Hey Gastronome...<NEWLINE>haven't you heard,<NEWLINE>nya?! There are parts<NEWLINE>on a large monster<NEWLINE>that you can destroy<NEWLINE>without slaying the<NEWLINE>monster, nya!
+2,For instance, you can<NEWLINE>cut off parts of a<NEWLINE>wyvern like their<NEWLINE>tail, nya. You can<NEWLINE>also cut chunks off<NEWLINE>their head.
+0,If you cut off the<NEWLINE>tail, you will be able<NEWLINE>to carve items from<NEWLINE>it. If you cut off<NEWLINE>chunks from its head<NEWLINE>you can get reward<NEWLINE>items, nya!
+2,Hey Gastronome... I<NEWLINE>think if you were<NEWLINE>attacked by a poison<NEWLINE>monster, even you<NEWLINE>would fall victim to<NEWLINE>its toxin, nya! 
+2,When you are poisoned,<NEWLINE>you should take an<NEWLINE>Antidote to completely<NEWLINE>recover, nya!
+0,You can combine a Blue<NEWLINE>Mushroom with an<NEWLINE>Antidote Herb to make<NEWLINE>an Antidote, meow! 
+2,Hey Gastronome...<NEWLINE>haven't you heard!?<NEWLINE>You can make Bowgun<NEWLINE>ammunition by<NEWLINE>combining, nya! Nya!
+0,For instance, you can<NEWLINE>make Pellet S LV 2, a<NEWLINE>shot that hits many<NEWLINE>opponents at once, by<NEWLINE>combining Wyvern Fang<NEWLINE>with Huskberry, nya!
+2,Hey Gastronome...<NEWLINE>haven't you heard!?<NEWLINE>You can make Bowgun<NEWLINE>ammunition by<NEWLINE>combining, nya! Nya!
+0,For instance, you can<NEWLINE>make Crag S LV 2, a<NEWLINE>shot that explodes on<NEWLINE>impact, by combining<NEWLINE>Burst Arrowana with<NEWLINE>Small Bone Husk, nya!
+2,Hey Gastronome... when<NEWLINE>using a Melee Weapon,<NEWLINE>what method are you<NEWLINE>using to set off <NEWLINE>Large Barrel Bombs,<NEWLINE>nya?!
+2,I suppose Small Barrel<NEWLINE>Bombs are the usual<NEWLINE>way, but only using<NEWLINE>Small Barrel Bombs is<NEWLINE>boring, meow!
+0,I suggest using a<NEWLINE>Paintball to detonate<NEWLINE>the bomb. They are<NEWLINE>very common, and they<NEWLINE>are slow, which gives<NEWLINE>you more time to get<NEWLINE>out of the way, meow!
+2,Hey Gastronome... did<NEWLINE>you know that the<NEWLINE>Guild Card you are<NEWLINE>carrying has grades,<NEWLINE>nya?!
+2,Grades are determined<NEWLINE>by the variety and<NEWLINE>number of Quests you<NEWLINE>have completed, nya!
+0,So if you have any<NEWLINE>Quests that you<NEWLINE>haven't completed yet,<NEWLINE>get to work, meow!<NEWLINE>There is nothing<NEWLINE>stopping you!
+2,Hey Gastronome... do<NEWLINE>you know of an item<NEWLINE>called a Sonic Bomb,<NEWLINE>nya?!
+2,If you throw this item<NEWLINE>at a monster sensitive<NEWLINE>to sound, it will<NEWLINE>cause its ears to ring<NEWLINE>and it'll temporarily<NEWLINE>be unable to move,<NEWLINE>meow!
+0,If you want to try and<NEWLINE>make a Sonic Bomb,<NEWLINE>combine a Screamer<NEWLINE>with Gunpowder, nya!
+2,Hey Gastronome... do<NEWLINE>you know about G-Class<NEWLINE>Quests, nya?! They are<NEWLINE>Quests with levels<NEWLINE>higher than 6Åö, meow!
+2,It seems that these<NEWLINE>Quests take place in<NEWLINE>extremely distant and<NEWLINE>remote locations, nya!
+0,At these locations,<NEWLINE>it's said that you can<NEWLINE>obtain rare items,<NEWLINE>meow... They have to<NEWLINE>be talking about my<NEWLINE>favorite... Felvines!
+2,Hey Gastronome... do<NEWLINE>you know about the<NEWLINE>crags, found near<NEWLINE>places like volcanoes,<NEWLINE>that explode when you<NEWLINE>attack them, nya?!
+2,The destructive power<NEWLINE>of these crags rivals<NEWLINE>that of a Large Barrel<NEWLINE>Bomb, meow!!
+0,If you nail a<NEWLINE>monster's head with<NEWLINE>one of these, you can<NEWLINE>cause a great deal of<NEWLINE>damage! But be careful<NEWLINE>not to get caught in<NEWLINE>the explosion, meow!
+2,Hey Gastronome... do<NEWLINE>you know of a Skill<NEWLINE>line called Fencing?<NEWLINE>If you get a full set<NEWLINE>of this equipment, it<NEWLINE>will unleash the power<NEWLINE>of ESP, meow! 
+0,If you have ESP,<NEWLINE>attacks from your<NEWLINE>melee weapon will be<NEWLINE>unblockable, nya!
+2,Hey Gastronome... did<NEWLINE>you know that wyverns<NEWLINE>who are attacked can<NEWLINE>fly into a rage, nya?!<NEWLINE>An enraged wyverns'<NEWLINE>attacks are stronger<NEWLINE>than usual!
+2,When a wyvern is<NEWLINE>enraged, they look<NEWLINE>more ferocious than<NEWLINE>normal. For instance,<NEWLINE>fire and smoke belch<NEWLINE>forth with every<NEWLINE>breath... meow!
+0,Make sure you take a<NEWLINE>long hard look at a<NEWLINE>wyvern, and if it<NEWLINE>looks angry, run away<NEWLINE>as fast as you can,<NEWLINE>nyyyaaaaaa!

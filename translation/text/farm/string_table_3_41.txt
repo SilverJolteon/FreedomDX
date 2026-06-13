@@ -1,0 +1,14 @@
+2,You can catch lots of<NEWLINE>bugs in this area,<NEWLINE>nya. If you don't have<NEWLINE>a Bugnet, I will lend<NEWLINE>you one for free!<NEWLINE>Catch lots of bugs,<NEWLINE>meow!
+2,If you add an Insect<NEWLINE>Thicket, it will<NEWLINE>increase the number of<NEWLINE>times you can catch<NEWLINE>bugs, nya!
+2,You can catch bugs by<NEWLINE>walking up to the<NEWLINE>bushes around here and<NEWLINE>pressing the<NEWLINE>~B03 button, meow.
+0,Even if you visit<NEWLINE>while on a Quest, I<NEWLINE>will be happy to lend<NEWLINE>you another Bugnet,<NEWLINE>meow. Now go catch<NEWLINE>lots of bugs, meow...
+0,dummy
+2,There are lots of bugs<NEWLINE>living inside this<NEWLINE>tree, nya. If you<NEWLINE>shake this tree a few<NEWLINE>times, you are sure to<NEWLINE>catch lots of bugs,<NEWLINE>meow...
+2,I will lend you a<NEWLINE>Hammer to shake the<NEWLINE>tree for only 300z,<NEWLINE>nya!
+1,Would you like to<NEWLINE>borrow the hammer?
+0,You don't want to<NEWLINE>borrow the hammer?<NEWLINE>Aww.... Nya....
+0,You don't have enough<NEWLINE>money, nya! Bring some<NEWLINE>more money next time!
+1,Alright, I'll take<NEWLINE>300z then, nya!
+0,There are three types<NEWLINE>of Hammers. Which<NEWLINE>hammer would you like<NEWLINE>to borrow, meow?
+0,Here you go! Meow...
+0,I don't think there<NEWLINE>are any more insects<NEWLINE>left, nya... You<NEWLINE>should come back<NEWLINE>later.

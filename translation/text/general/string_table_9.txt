@@ -1,0 +1,282 @@
+Nothing equipped.
+Leather Armor
+Chain Mail
+Hunter's Mail
+Hunter's Vest
+Velociprey Mail
+Velociprey Vest
+Genprey Mail
+Genprey Vest
+Ioprey Mail
+Ioprey Vest
+Rathian Mail
+Rathian Vest
+Cephalos Mail
+Cephalos Vest
+Kut-Ku Mail
+Kut-Ku Vest
+Battle Mail
+Battle Vest
+Monoblos Mail
+Monoblos Vest
+Bone Mail
+Bone Vest
+Gypceros Mail
+Gypceros Vest
+Rathalos Mail
+Rathalos Vest
+Gravios Mail+
+Gravios Vest+
+Hi-Metal Mail+
+Hi-Metal Vest+
+Diablo Mail+
+Diablo Vest+
+Auroros Torso
+Genesis Torso
+Borealis Chest
+Glyph Chest
+Vespoid Mail+
+Vespoid Vest+
+Khezu Mail+
+Khezu Vest+
+Lobster Mail+
+Lobster Vest+
+Plesioth Mail+
+Plesioth Vest+
+Hornet Mail+
+Hornet Vest+
+Dragonhide
+Dragonskin
+Guild Knight Suit
+Guild Knight Vest
+Maiden's Vest
+Personal Vest
+Shinobi Suit (Sun)
+Shinobi Suit (Moon)
+Moss Breastplate
+Hi-Metal Mail
+Hi-Metal Vest
+Khezu Mail
+Khezu Vest
+Lobster Mail
+Lobster Vest
+Plesioth Mail
+Plesioth Vest
+Vespoid Mail
+Vespoid Vest
+Diablo Mail
+Diablo Vest
+Hornet Mail
+Hornet Vest
+Gravios Mail
+Gravios Vest
+Steel Mail
+Steel Mail+
+Rathian Mail+
+Rathian Vest+
+Rathalos Mail+
+Rathalos Vest+
+Kut-Ku Mail+
+Kut-Ku Vest+
+Leather Armor+
+Chain Mail+
+Hunter's Mail+
+Hunter's Vest+
+Bone Mail+
+Bone Vest+
+Velociprey Mail+
+Velociprey Vest+
+Battle Mail+
+Battle Vest+
+Genprey Mail+
+Genprey Vest+
+Ioprey Mail+
+Ioprey Vest+
+Gypceros Mail+
+Gypceros Vest+
+Cephalos Mail+
+Cephalos Vest+
+Leather Armor S
+Chain Mail S
+Hunter's Mail S
+Hunter's Vest S
+Bone Mail S
+Bone Vest S
+Velociprey Mail S
+Velociprey Vest S
+Battle Mail S
+Battle Vest S
+Vespoid Mail S
+Vespoid Vest S
+Hornet Mail S
+Hornet Vest S
+Hi-Metal Mail S
+Hi-Metal Vest S
+Genprey Mail S
+Genprey Vest S
+Kut-Ku Mail S
+Kut-Ku Vest S
+Ioprey Mail S
+Ioprey Vest S
+Gypceros Mail S
+Gypceros Vest S
+Cephalos Mail S
+Cephalos Vest S
+Steel Mail S
+Rathian Mail S
+Rathian Vest S
+Khezu Mail S
+Khezu Vest S
+Rathalos Mail S
+Rathalos Vest S
+Plesioth Mail S
+Plesioth Vest S
+Lobster Mail S
+Lobster Vest S
+Diablo Mail S
+Diablo Vest S
+Monoblos Mail S
+Monoblos Vest S
+Gravios Mail S
+Gravios Vest S
+Leather Armor U
+Hunter's Mail U
+Hunter's Vest U
+Bone Mail U
+Bone Vest U
+Velociprey Mail U
+Velociprey Vest U
+Hi-Metal Mail U
+Hi-Metal Vest U
+Kut-Ku Mail U
+Kut-Ku Vest U
+Gypceros Mail U
+Gypceros Vest U
+Cephalos Mail U
+Cephalos Vest U
+Khezu Mail U
+Khezu Vest U
+Plesioth Mail U
+Plesioth Vest U
+Diablo Mail U
+Diablo Vest U
+Gravios Mail U
+Gravios Vest U
+Black Belt Mail
+Rathian Heart Mail
+Rathian Heart Vest
+Rathalos Soul Mail
+Rathalos Soul Vest
+Monodevil Mail
+Monodevil Vest
+Moss Breastplate+
+Shinobi Suit (White)
+Shinobi Suit (Black)
+Guild Knight Suit+
+Guild Knight Vest+
+Maiden's Vest+
+Personal Vest+
+Rathian Heart Mail+
+Rathian Heart Vest+
+Rathalos Soul Mail+
+Rathalos Soul Vest+
+Auroros Torso Mai
+Genesis Torso Mai
+Borealis Chest Mai
+Glyph Chest Mai
+Dragonhide+
+Dragonskin+
+Moss Breastplate S
+Shinobi Suit(Heaven)
+Shinobi Suit (Earth)
+Guild Knight Suit S
+Guild Knight Vest S
+Maiden's Vest S
+Personal Vest S
+Rathian Heart Mail S
+Rathian Heart Vest S
+Rathalos Soul Mail S
+Rathalos Soul Vest S
+Monodevil Mail S
+Monodevil Vest S
+Auroros Torso Haku
+Genesis Torso Haku
+Borealis Chest Haku
+Glyph Chest Haku
+Dragonhide S
+Dragonskin S
+Auroros Torso Ten
+Genesis Torso Ten
+Borealis Chest Ten
+Glyph Chest Ten
+Golden Moon Mail
+Golden Moon Vest
+Silver Sol Mail
+Silver Sol Vest
+Fatalis Hide
+Fatalis Skin
+Battle Mail U
+Battle Vest U
+Leather Armor
+Basarios Mail
+Basarios Vest
+MelahoaFlowerJacket
+Bistro Jacket
+Makluva Cover
+Velociprey Body
+Genprey Body
+Ioprey Body
+Kirin Jacket
+Kirin Cape
+Yian Garuga Mail
+Yian Garuga Vest
+Velociprey Mail D
+Velociprey Vest D
+Kut-Ku Mail D
+Kut-Ku Vest D
+Plesioth Mail D
+Plesioth Vest D
+Gravios Mail D
+Gravios Vest D
+Basarios Mail+
+Basarios Vest+
+MelahoaFlowerJacket+
+Bistro Jacket+
+Makluva Cover+
+Velociprey Body+
+Genprey Body+
+Ioprey Body+
+Kirin Jacket+
+Kirin Cape+
+Kut-Ku Mail K
+Kut-Ku Vest K
+Plesioth Mail K
+Plesioth Vest K
+Gravios Mail K
+Gravios Vest K
+Basarios Mail S
+Basarios Vest S
+MelahoaFlowerJacketS
+Bistro Jacket S
+Makluva Cover S
+Velociprey Body S
+Genprey Body S
+Ioprey Body S
+Kirin Jacket S
+Kirin Cape S
+Yian Garuga Mail S
+Yian Garuga Vest S
+Chain Mail U
+Vespoid Mail U
+Vespoid Vest U
+Hornet Mail U
+Hornet Vest U
+Shinobi Suit (Sky)
+Shinobi Suit (Sea)
+Genprey Mail U
+Genprey Vest U
+Ioprey Mail U
+Ioprey Vest U
+Steel Mail U
+Basarios Mail U
+Basarios Vest U

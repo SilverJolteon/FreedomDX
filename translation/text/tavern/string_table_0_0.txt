@@ -1,0 +1,13 @@
+2,Welcome to the<NEWLINE>Hunter's Guild Kokoto!<NEWLINE>Please select the<NEWLINE>level of quest you<NEWLINE>would like to<NEWLINE>initiate. 
+2,Here are the quests<NEWLINE>available at this<NEWLINE>time.
+1,This quest requires a<NEWLINE>Contract Fee of<NEWLINE>$z. OK?
+1,Recruit hunters for<NEWLINE>this quest?
+0,A recruitment notice<NEWLINE>for this quest has<NEWLINE>been placed on the<NEWLINE>Quest Board. We wish<NEWLINE>you the best of luck.
+1,Look for another<NEWLINE>quest?
+0,Thanks for visiting<NEWLINE>the Hunter's Guild. We<NEWLINE>look forward to<NEWLINE>working with you<NEWLINE>again.
+2,It seems you don't<NEWLINE>have enough money.
+0,So you're heading off<NEWLINE>alone? Well, then may<NEWLINE>the light of luck<NEWLINE>shine upon you!
+1,This quest does not<NEWLINE>require a Contract<NEWLINE>Fee. Select this<NEWLINE>quest?
+1,Welcome to the<NEWLINE>Hunter's Guild Kokoto!<NEWLINE>You are currently<NEWLINE>under contract for<NEWLINE>this quest. Cancel<NEWLINE>this contract?
+1,The previously<NEWLINE>registered hunters in<NEWLINE>this quest will be<NEWLINE>disbanded. OK?
+0,Contract cancelled. We<NEWLINE>look forward to<NEWLINE>working with you<NEWLINE>again. 

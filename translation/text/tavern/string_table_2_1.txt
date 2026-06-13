@@ -1,0 +1,21 @@
+0,Welcome to Hunter's<NEWLINE>Shoppe Kokoto, the<NEWLINE>only store supporting<NEWLINE>a Hunter's lifestyle.<NEWLINE>What can we get for<NEWLINE>you? 
+1,That will be $z.<NEWLINE>OK?
+0,Thanks for shopping at<NEWLINE>Hunter's Shoppe.<NEWLINE>Please come again. 
+2,dummy
+2,ÅcHunter... You<NEWLINE>really are giving it<NEWLINE>your all, huh?
+2,Today we received<NEWLINE>"Potion", an item<NEWLINE>featured in the<NEWLINE>Hunter's Handbook. We<NEWLINE>guarantee it to help<NEWLINE>you as a hunter!
+2,We have been unable to<NEWLINE>get into town, so<NEWLINE>shipments have been<NEWLINE>delayed. However, for<NEWLINE>this trip, we have a<NEWLINE>new trade route. Sorry<NEWLINE>for any inconvenience.
+0,We have received quite<NEWLINE>a number of useful<NEWLINE>items, so you<NEWLINE>absolutely must shop<NEWLINE>with us soon. Until we<NEWLINE>meet again. 
+2,Ahh, esteemed hero.<NEWLINE>I've been hearing the<NEWLINE>rumors. It seems you<NEWLINE>have been quite<NEWLINE>active. 
+2,I have something<NEWLINE>special for you. You<NEWLINE>will be astonished at<NEWLINE>how effective this<NEWLINE>amulet is, simply by<NEWLINE>having it in your<NEWLINE>possession. 
+0,Make the most of it,<NEWLINE>won't you! Until we<NEWLINE>meet again.
+2,Ahh, esteemed hero.<NEWLINE>I've been hearing the<NEWLINE>rumors. It seems you<NEWLINE>have been quite<NEWLINE>active. 
+2,I have something<NEWLINE>special for you. The<NEWLINE>"Backpacker's Guide"<NEWLINE>will open 100 extra<NEWLINE>slots in your Item<NEWLINE>Box. It is a must<NEWLINE>have!
+2,We have finally been<NEWLINE>able to obtain info on<NEWLINE>an oft-rumored<NEWLINE>monster! We also<NEWLINE>received the coveted<NEWLINE>Normal S Lv3 for<NEWLINE>gunners! 
+0,This is all you're<NEWLINE>going to buy? Well,<NEWLINE>fare thee well then.
+2,Ahh, esteemed hero.<NEWLINE>I've heard you've met<NEWLINE>defeat at the claws of<NEWLINE>Lao-Shan quite a few<NEWLINE>times now. They must<NEWLINE>surely be joking.
+2,Hahaha! Just kidding!<NEWLINE>Can I interest you in<NEWLINE>info about the<NEWLINE>legendary Black<NEWLINE>Dragon? Although, you<NEWLINE>may never get to use<NEWLINE>it...
+0,Fare thee well.
+2,Ahh, esteemed hero.<NEWLINE>I've been hearing the<NEWLINE>rumors. It seems you<NEWLINE>have been quite<NEWLINE>active. 
+2,I have something<NEWLINE>special for you. You<NEWLINE>will be astonished at<NEWLINE>the effectiveness of<NEWLINE>this amulet. Simply<NEWLINE>possessing it makes<NEWLINE>clear its power.
+0,Make the most of it,<NEWLINE>won't you! Fare thee<NEWLINE>well.

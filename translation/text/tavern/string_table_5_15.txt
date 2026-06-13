@@ -1,0 +1,76 @@
+2,Here for a Guild Quest<NEWLINE>as well, I suppose.<NEWLINE>Since you can get<NEWLINE>Guild Quests in the<NEWLINE>village, it's<NEWLINE>wonderful that we can<NEWLINE>chat.
+2,If my experiences in<NEWLINE>town are anything to<NEWLINE>go by, a Guild Quest<NEWLINE>is going to be much<NEWLINE>harder to come by than<NEWLINE>one from the Village<NEWLINE>Chief.
+2,It would be good if<NEWLINE>you had some hunters<NEWLINE>with you, but if you<NEWLINE>don't, it would be<NEWLINE>safer to pick up a<NEWLINE>Quest from the Village<NEWLINE>Chief.
+0,Especially if you are <NEWLINE>still a rookie hunter,<NEWLINE>such as yourself.
+2,A Guild Quest is going<NEWLINE>to be much harder to<NEWLINE>come by than a<NEWLINE>commission from the<NEWLINE>Village Chief.
+0,It would be good if<NEWLINE>you had some hunters<NEWLINE>with you, but if you<NEWLINE>don't, it would be<NEWLINE>safer to pick up a<NEWLINE>Quest from the Village<NEWLINE>Chief.
+2,You're here for a<NEWLINE>Guild Quest as well, I<NEWLINE>suppose. Since you can<NEWLINE>get Guild Quests in<NEWLINE>town, it's wonderful<NEWLINE>that we can chat.
+2,If my experiences in<NEWLINE>town are anything to<NEWLINE>go by, a Guild Quest<NEWLINE>is going to be much<NEWLINE>harder to come by than<NEWLINE>a Quest from the<NEWLINE>Village Chief.
+2,If you are able to<NEWLINE>obtain strength in<NEWLINE>numbers, I believe a<NEWLINE>person of your ability<NEWLINE>should be able to<NEWLINE>handle a Guild Quest.
+0,To join a Quest<NEWLINE>created by other<NEWLINE>hunters, you should<NEWLINE>check the Quest Board<NEWLINE>to the right of the<NEWLINE>counter.
+2,A person of your<NEWLINE>ability should be able<NEWLINE>to handle a Guild<NEWLINE>Quest if you gain<NEWLINE>strength in numbers.
+0,To join a Quest<NEWLINE>created by other<NEWLINE>hunters, you should<NEWLINE>check the Quest Board<NEWLINE>to the right of the<NEWLINE>counter.
+2,On a Quest from the<NEWLINE>Village Chief? If that<NEWLINE>is the case, you must<NEWLINE>have learned the<NEWLINE>basics. 
+2,If you know some<NEWLINE>fellow hunters that<NEWLINE>would join you, it<NEWLINE>might be worth trying<NEWLINE>a Guild Quest.
+2,To join a Quest<NEWLINE>created by other<NEWLINE>hunters, you should<NEWLINE>check the Quest Board<NEWLINE>to the right of the<NEWLINE>counter.
+0,What? Me? I am a bit<NEWLINE>too experienced to<NEWLINE>join a beginner like<NEWLINE>you. Sorry.
+2,If you know some<NEWLINE>fellow hunters that<NEWLINE>would join you, it<NEWLINE>might be worth trying<NEWLINE>a Guild Quest.
+0,To join a Quest<NEWLINE>created by other<NEWLINE>hunters, you should<NEWLINE>check the Quest Board<NEWLINE>to the right of the<NEWLINE>counter.
+2,Seems like you've been<NEWLINE>working hard. Being an<NEWLINE>experienced hunter<NEWLINE>around this town, let<NEWLINE>me give you some<NEWLINE>advice. 
+2,The Quests you can<NEWLINE>pick up at this<NEWLINE>counter range from<NEWLINE>Level 1 to Level 3.<NEWLINE>I think they are<NEWLINE>easier than the Quests<NEWLINE>obtained in town.
+2,If you've got some<NEWLINE>strength in you, I<NEWLINE>guess you could handle<NEWLINE>it alone. 
+0,It is important to<NEWLINE>carefully consider the<NEWLINE>specifics of a Quest<NEWLINE>and make sure you are<NEWLINE>capable of completing<NEWLINE>it alone. Knowing your<NEWLINE>strength is essential!
+2,The Quests you can<NEWLINE>pick up at this<NEWLINE>counter range from<NEWLINE>Level 1 to Level 3.<NEWLINE>I think they are<NEWLINE>easier than the Quests<NEWLINE>obtained in town.
+0,It is important to<NEWLINE>carefully consider the<NEWLINE>specifics of a Quest<NEWLINE>and make sure you are<NEWLINE>capable of completing<NEWLINE>it alone. Knowing your<NEWLINE>strength is essential!
+2,It seems the Village<NEWLINE>Chief entrusted you<NEWLINE>with his sword. You<NEWLINE>should heed my words<NEWLINE>then.
+2,Alright. As an<NEWLINE>experienced hunter in<NEWLINE>this town, let me give<NEWLINE>you some advice.
+2,Initiating a Quest<NEWLINE>requires a contract<NEWLINE>fee, but joining a<NEWLINE>Quest started by<NEWLINE>another hunter is<NEWLINE>free.
+0,When you do not have<NEWLINE>any money, you could<NEWLINE>start a Quest without <NEWLINE>a contracting fee;<NEWLINE>however, those Quests<NEWLINE>are rather<NEWLINE>unappealing.
+2,Initiating a Quest<NEWLINE>requires a contract<NEWLINE>fee, but joining a<NEWLINE>Quest started by<NEWLINE>another hunter is<NEWLINE>free.
+0,When you do not have<NEWLINE>any money, you could<NEWLINE>start a Quest without <NEWLINE>a contracting fee;<NEWLINE>however, those Quests<NEWLINE>are unappealing.
+2,Seems like you've been<NEWLINE>working hard. Being an<NEWLINE>experienced hunter<NEWLINE>around this town, let<NEWLINE>me give you some<NEWLINE>advice. 
+2,Do you know about<NEWLINE>Guild Points? They are<NEWLINE>points you receive for<NEWLINE>completing a Quest. 
+2,In town, even if your<NEWLINE>Hunter Rank is rising,<NEWLINE>you must save these<NEWLINE>points. However, at<NEWLINE>this counter, you do<NEWLINE>not need to save these<NEWLINE>points to get work. 
+2,That does not mean you<NEWLINE>won't earn Guild<NEWLINE>Points. You can earn<NEWLINE>them here as well. In<NEWLINE>a way, your efforts<NEWLINE>are a contribution to<NEWLINE>the Guild.
+2,Saving these points<NEWLINE>will earn you new<NEWLINE>titles, among other<NEWLINE>things.
+0,Since it isn't<NEWLINE>essential to your work<NEWLINE>as a hunter, you do<NEWLINE>not need to save these<NEWLINE>points. But it's nice<NEWLINE>to save things, right?
+2,Saving these will earn<NEWLINE>you new titles, among<NEWLINE>other things.
+0,Saving points, even<NEWLINE>though you don't need<NEWLINE>to, is enough to make<NEWLINE>you feel good, huh?
+2,I see you've been<NEWLINE>doing quite well. You<NEWLINE>didn't stop with<NEWLINE>Rathalos, you also<NEWLINE>took down Piscine and<NEWLINE>Gravios... even<NEWLINE>Plesioth! Incredible!
+2,Let me give you some<NEWLINE>advice as a skilled<NEWLINE>hunter. Your Guild<NEWLINE>Card displays your<NEWLINE>Hunter Title as well<NEWLINE>as your Hunter Awards.
+2,You do know about the<NEWLINE>Guild Card, right? It<NEWLINE>is your identification<NEWLINE>as a hunter. 
+2,The Guild Card<NEWLINE>displays all the<NEWLINE>Hunter Awards you have<NEWLINE>earned through your<NEWLINE>various<NEWLINE>accomplishments.
+2,You can earn awards<NEWLINE>via how many Quests<NEWLINE>you finish or monsters<NEWLINE>you slay. Even<NEWLINE>equipment, on you or<NEWLINE>your farm, can earn<NEWLINE>you Hunter Awards!
+2,The Hunter Title at<NEWLINE>the top of the Guild<NEWLINE>Card. You can select<NEWLINE>this title from a list<NEWLINE>based upon your<NEWLINE>accomplishments.
+2,This Title is usually<NEWLINE>selected based upon<NEWLINE>how many Guild Points<NEWLINE>you have. However, you<NEWLINE>can earn other names<NEWLINE>based upon your<NEWLINE>hunting style.
+0,No matter which Hunter<NEWLINE>Title you hold, keep<NEWLINE>working to see what<NEWLINE>the future holds!
+2,You can earn titles<NEWLINE>and awards through<NEWLINE>various actions.
+0,Keep trying and see<NEWLINE>what happens!
+2,You defeated Lao-Shan<NEWLINE>Lung! You are indeed<NEWLINE>incredible!
+2,The truth is that I am<NEWLINE>not really an<NEWLINE>experienced hunter...<NEWLINE>But I have tried lower<NEWLINE>level Quests once or<NEWLINE>twice...
+2,Defeating Lao-Shan<NEWLINE>Lung is like a dream<NEWLINE>within a dream. You<NEWLINE>are unbelievable!
+0,I thought I could eek<NEWLINE>out a life for myself<NEWLINE>at this backwater<NEWLINE>stand, but... maybe I<NEWLINE>should really try to<NEWLINE>be a hunter.
+2,Defeating Lao-Shan<NEWLINE>Lung is like a dream<NEWLINE>within a dream. You<NEWLINE>are unbelievable!
+0,I thought I could eek<NEWLINE>out a life for myself<NEWLINE>at this backwater<NEWLINE>stand, but... maybe I<NEWLINE>should really try to<NEWLINE>be a hunter.
+2,At last, you have<NEWLINE>entered the G-Class!<NEWLINE>You are simply an <NEWLINE>amazing hunter!
+2,It was wrong of me to<NEWLINE>lie about my status as<NEWLINE>a hunter here in town.
+2,I've only tried lower<NEWLINE>level Quests once or<NEWLINE>twice, so a G-Class<NEWLINE>Quest is something of<NEWLINE>a dream... You are <NEWLINE>indeed incredible. 
+2,This will be my last<NEWLINE>advice to you. During<NEWLINE>a G-Class Quest, there<NEWLINE>is no guarantee that<NEWLINE>supplies will be able<NEWLINE>to reach your<NEWLINE>position.
+2,You should make sure<NEWLINE>that your armor is in<NEWLINE>perfect condition.
+0,Of course this is just<NEWLINE>what I've heard. I'm<NEWLINE>sure to someone who<NEWLINE>has come as far as you<NEWLINE>have, it is a bit like<NEWLINE>preaching to the<NEWLINE>choir.
+2,During a G-Class<NEWLINE>Quest, there is no <NEWLINE>guarantee any <NEWLINE>supplies will be able<NEWLINE>to reach you. So make<NEWLINE>sure your armor is in<NEWLINE>perfect condition.
+0,Of course this is just<NEWLINE>what I've heard. I'm<NEWLINE>sure for someone who<NEWLINE>has come as far as you<NEWLINE>have, it is a bit like<NEWLINE>preaching to the<NEWLINE>choir.
+2,This is surely the<NEWLINE>end! The legendary<NEWLINE>wyvern even more<NEWLINE>powerful than Lao-Shan<NEWLINE>Lung is headed this<NEWLINE>way!
+2,This is most<NEWLINE>definitely not a joke!<NEWLINE>I'm of no use fighting<NEWLINE>against the likes of<NEWLINE>this wyvern. I can't<NEWLINE>even take on Lao-Shan<NEWLINE>Lung!
+0,You are awfully calm<NEWLINE>for a time like this!<NEWLINE>Definitely the kind of<NEWLINE>hunter I expected you<NEWLINE>to be. Personally, I<NEWLINE>want to get as far<NEWLINE>away as possible!
+2,This is surely the<NEWLINE>end! The legendary<NEWLINE>wyvern even more<NEWLINE>powerful than Lao-Shan<NEWLINE>Lung is headed this<NEWLINE>way!
+0,The famed dragon is<NEWLINE>here and you are this<NEWLINE>calm? Exactly the kind<NEWLINE>of hunter I expected<NEWLINE>you to be. Personally,<NEWLINE>I'm running as far<NEWLINE>away as possible!
+2,You defeated<NEWLINE>Fatalis...! What can I<NEWLINE>say...?
+2,I've decided to return<NEWLINE>to my hometown, but<NEWLINE>that doesn't mean that<NEWLINE>I've given up on being<NEWLINE>a hunter! 
+2,I've been entrusted<NEWLINE>with leading the<NEWLINE>village guard.
+2,This time, I didn't<NEWLINE>lie and say I was an<NEWLINE>experienced hunter.<NEWLINE>They even told me that<NEWLINE>it didn't matter.
+0,It is in the middle of<NEWLINE>nowhere, but I will<NEWLINE>protect it to the<NEWLINE>end... The way you<NEWLINE>stood up to Fatalis<NEWLINE>inspired me. 
+2,I've decided to return<NEWLINE>to my hometown. They<NEWLINE>have entrusted me with<NEWLINE>leading the village<NEWLINE>guard.
+0,It is in the middle of<NEWLINE>nowhere, but I will<NEWLINE>protect it to the<NEWLINE>end... The way you<NEWLINE>stood up to Fatalis<NEWLINE>inspired me. 
+2,You came here to get a<NEWLINE>Guild Quest as well?
+0,Since you can get<NEWLINE>Guild Quests in the<NEWLINE>village, it's<NEWLINE>wonderful that we can<NEWLINE>chat.

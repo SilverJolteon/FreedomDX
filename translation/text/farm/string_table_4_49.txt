@@ -1,0 +1,17 @@
+2,This is Kokoto Farm,<NEWLINE>nya. You can take as<NEWLINE>many items as you'd<NEWLINE>like from here, nya.
+2,The Field, Fishing<NEWLINE>Spot, Mining Points,<NEWLINE>and Bug Catching area<NEWLINE>all have their own<NEWLINE>managers, so you<NEWLINE>should get details<NEWLINE>from them, nya.
+2,If you plant a<NEWLINE>Mushroom Tree in that<NEWLINE>enclosure with the<NEWLINE>roof, you will be able<NEWLINE>to gather Mushrooms<NEWLINE>from it, nya.
+2,You can even build a<NEWLINE>Bee Hive, nya. See<NEWLINE>that area on the left<NEWLINE>of the field? If you<NEWLINE>decide to build a Bee<NEWLINE>Hive, we will put it<NEWLINE>there, nya.
+0,You can gather up<NEWLINE>items from all of<NEWLINE>these by pressing the<NEWLINE>~B03 button. The Union<NEWLINE>Chief will quickly<NEWLINE>build these handy<NEWLINE>spots upon request.
+2,This is Kokoto Farm,<NEWLINE>nya. You can take as<NEWLINE>many items as you'd<NEWLINE>like from here, nya.
+2,If you replace a<NEWLINE>Mushroom Tree with a<NEWLINE>high quality version,<NEWLINE>you will be able to<NEWLINE>get many different<NEWLINE>kinds of Mushrooms,<NEWLINE>nya.
+0,I bet you could even<NEWLINE>get some Mushrooms<NEWLINE>that you have never<NEWLINE>seen before, meow...
+2,This is Kokoto Farm,<NEWLINE>nya. You can take as<NEWLINE>many items as you'd<NEWLINE>like from here, nya.
+2,The amount of Honey<NEWLINE>you can get from a Bee<NEWLINE>Hive is like something<NEWLINE>out of a dream, nya. I<NEWLINE>bet you can even get<NEWLINE>Snakebee Larva, meow! 
+0,The Bee Hive is<NEWLINE>located in the Field.<NEWLINE>Of course, that is<NEWLINE>only if you build<NEWLINE>one... Nya.
+2,This is Kokoto Farm,<NEWLINE>nya. You can take as<NEWLINE>many items as you'd<NEWLINE>like from here, nya.
+2,To make sure the<NEWLINE>establishments on the<NEWLINE>farm stay stocked, the<NEWLINE>number of times you<NEWLINE>can use them are<NEWLINE>limited, nya...
+0,If you head off on a<NEWLINE>Quest, the limit<NEWLINE>should be raised, and<NEWLINE>you should be able to<NEWLINE>use the different<NEWLINE>areas of the Farm,<NEWLINE>meow...
+2,This is Kokoto Farm,<NEWLINE>nya. You can take as<NEWLINE>many items as you'd<NEWLINE>like from here, nya.
+2,To gather items here,<NEWLINE>just walk up to one of<NEWLINE>the locations on the<NEWLINE>Farm and press the<NEWLINE>~B03 button, nya.
+0,If you need a Bugnet<NEWLINE>or a Pickaxe, we will<NEWLINE>get them ready for<NEWLINE>you, so just press the<NEWLINE>~B03 button, nya.<NEWLINE>Pretty easy, meow?

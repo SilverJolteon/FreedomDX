@@ -1,0 +1,36 @@
+2,So you want to become<NEWLINE>a hunter, huh? What a<NEWLINE>wonderful thing to<NEWLINE>aspire to, but<NEWLINE>remember, you must do<NEWLINE>your best!
+2,First, you have to<NEWLINE>speak with the Village<NEWLINE>Chief. I'm sure he<NEWLINE>will help you.
+0,One more thing...<NEWLINE>Once you have talked<NEWLINE>with the Chief, do you<NEWLINE>mind coming back here?<NEWLINE>I have a favor to ask.
+0,Once you have spoken<NEWLINE>with the Chief, do you<NEWLINE>mind coming back here?<NEWLINE>I have a favor to ask.
+2,So you want to become<NEWLINE>a hunter, huh? What a<NEWLINE>wonderful thing to<NEWLINE>aspire to, but<NEWLINE>remember, you must do<NEWLINE>your best!
+2,Of course, you must<NEWLINE>first consult with the<NEWLINE>Village Chief. I am<NEWLINE>sure you will become<NEWLINE>quite strong!
+0,One more thing...<NEWLINE>Once you have talked<NEWLINE>with the Chief, do you<NEWLINE>mind coming back here?<NEWLINE>I have a favor to ask.
+0,Once you have spoken<NEWLINE>with the Chief, do you<NEWLINE>mind coming back here?<NEWLINE>I have a favor to ask.
+2,I, as head of the<NEWLINE>merchant's union in<NEWLINE>this village, have a<NEWLINE>request for you, young<NEWLINE>hunter.
+2,Recently, the union<NEWLINE>has prepared a field<NEWLINE>for farming. Would you<NEWLINE>be the caretaker of<NEWLINE>this field?
+2,It is commonly called<NEWLINE>Kokoto Farm. All the<NEWLINE>necessary items and<NEWLINE>labor have been<NEWLINE>prearranged.
+2,You are welcome to use<NEWLINE>the fruits of the<NEWLINE>land.
+0,If you purchase or<NEWLINE>sell goods in town, or<NEWLINE>make a donation to the<NEWLINE>union, we will be able<NEWLINE>to work together to<NEWLINE>expand the farm.
+2,Hello, Hunter! How's<NEWLINE>it going? I can't wait<NEWLINE>for you to become a<NEWLINE>top hunter and make<NEWLINE>this town famous. We<NEWLINE>are all pulling for<NEWLINE>you. 
+0,What can I help you<NEWLINE>with?
+0,If you have equipment<NEWLINE>that needs to be<NEWLINE>fixed, just tell me.<NEWLINE>We are here to help,<NEWLINE>no matter what you<NEWLINE>need.
+2,Hello, Hunter! How's<NEWLINE>it going? I can't wait<NEWLINE>for you to become a<NEWLINE>top hunter and make<NEWLINE>this town famous. We<NEWLINE>are all pulling for<NEWLINE>you. 
+0,What can I help you<NEWLINE>with?
+0,If you have equipment<NEWLINE>that needs to be<NEWLINE>fixed, just tell me.<NEWLINE>We are here to help,<NEWLINE>no matter what you<NEWLINE>need.
+2,Hello, Hunter! It<NEWLINE>seems you are a hard<NEWLINE>worker.
+2,In recognition of your<NEWLINE>work, we have acquired<NEWLINE>new farm equipment for<NEWLINE>your efforts.
+0,So, is there something<NEWLINE>you need?
+2,Hello, Hunter! It<NEWLINE>seems you are a hard<NEWLINE>worker.
+2,Speaking of hard work,<NEWLINE>I've been hearing<NEWLINE>about some new<NEWLINE>equipment from the old<NEWLINE>peddler woman.
+0,But I'm sure that's<NEWLINE>not news to you. You<NEWLINE>probably already knew<NEWLINE>about that. I'm just<NEWLINE>here to help.
+0,Which reminds me,<NEWLINE>we've delivered this<NEWLINE>month's issue of<NEWLINE>"Hunting Life" to your<NEWLINE>home. It should be<NEWLINE>right next to your<NEWLINE>bed.
+2,To renovate Kokoto<NEWLINE>Farm, you must have<NEWLINE>enough Kokoto Points.
+2,Kokoto Points are a<NEWLINE>kind of service point<NEWLINE>awarded when you buy<NEWLINE>or sell things in<NEWLINE>town.
+2,You can get points by<NEWLINE>buying items from the<NEWLINE>shops in town. You<NEWLINE>will receive 10% of<NEWLINE>the price as Kokoto<NEWLINE>Points.
+2,At any rate, we would<NEWLINE>be most grateful if<NEWLINE>you would spend your<NEWLINE>hard earned money in<NEWLINE>our town.
+2,Also, if you sell<NEWLINE>items that you acquire<NEWLINE>during your travels,<NEWLINE>you will receive<NEWLINE>points for the full<NEWLINE>amount.
+2,Even if it is the most<NEWLINE>mundane of items,<NEWLINE>there are many things<NEWLINE>of value to us here.
+2,This covers points<NEWLINE>earned by buying<NEWLINE>items. When you buy<NEWLINE>Armor or Weapons, you<NEWLINE>will receive 1% of the<NEWLINE>price in Kokoto<NEWLINE>Points.
+2,Since armor and<NEWLINE>weapons are daily<NEWLINE>necessities, there is<NEWLINE>a large gap in the<NEWLINE>number of points<NEWLINE>earned.
+2,Buying or selling<NEWLINE>things in town will<NEWLINE>earn you Kokoto<NEWLINE>Points. 
+0,We hope this provides<NEWLINE>you incentive to buy<NEWLINE>and sell in Kokoto<NEWLINE>Village.

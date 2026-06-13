@@ -1,0 +1,66 @@
+2,My older brother is a<NEWLINE>hunter in town. He<NEWLINE>sends letters now and<NEWLINE>then, but I'm still<NEWLINE>really worried about<NEWLINE>him.<NEWLINE>
+2,You can't be too <NEWLINE>careful when you're a <NEWLINE>hunter. Don't forget <NEWLINE>to save your game data<NEWLINE>every once in a while <NEWLINE>by resting in the bed <NEWLINE>in your house, okay? 
+0,No matter what kind of<NEWLINE>great work you do, if <NEWLINE>you don't save it, it <NEWLINE>all goes up in smoke, <NEWLINE>you know.<NEWLINE>
+0,Don't forget! Resting <NEWLINE>in bed at home gives <NEWLINE>you the chance to save<NEWLINE>your game data or quit<NEWLINE>the game.<NEWLINE>
+2,My older brother is a<NEWLINE>hunter in town. He<NEWLINE>sends letters now and<NEWLINE>then, but I'm still<NEWLINE>really worried about<NEWLINE>him.<NEWLINE>
+2,You can't be too <NEWLINE>careful when you're a <NEWLINE>hunter. Don't forget <NEWLINE>to save your game data<NEWLINE>every once in a while <NEWLINE>by resting in the bed <NEWLINE>in your house, okay? 
+0,No matter what kind of<NEWLINE>great work you do, if <NEWLINE>you don't save it, it <NEWLINE>all goes up in smoke, <NEWLINE>you know.<NEWLINE>
+0,Don't forget! Resting <NEWLINE>in bed at home gives <NEWLINE>you the chance to save<NEWLINE>your game data or quit<NEWLINE>the game.<NEWLINE>
+2,A letter came from my <NEWLINE>brother who's a hunter<NEWLINE>in town. He said he <NEWLINE>took a Pickaxe and <NEWLINE>went to dig ore so he<NEWLINE>could make new <NEWLINE>weapons and armor. 
+2,Apparently, there are <NEWLINE>places where you can <NEWLINE>get ore called "Mining<NEWLINE>Points" in the cliffs <NEWLINE>and nests out in the <NEWLINE>wilds.<NEWLINE>
+2,He said all you need <NEWLINE>is a Pickaxe to mine <NEWLINE>those points.<NEWLINE>
+0,I wonder why he wants<NEWLINE>to tell me all this <NEWLINE>boring stuff about <NEWLINE>mining, anyway...?<NEWLINE>
+0,He said the rocks at <NEWLINE>the Mining Points have<NEWLINE>cracks in them. <NEWLINE>...Gee, I hope you're <NEWLINE>getting something out <NEWLINE>of all this stuff!<NEWLINE>
+2,A letter came from my <NEWLINE>brother who's a hunter<NEWLINE>in town. He said he <NEWLINE>took a Pickaxe and <NEWLINE>went to dig ore so he<NEWLINE>could make new <NEWLINE>weapons and armor. 
+2,Apparently, there are <NEWLINE>places where you can <NEWLINE>get ore called "Mining<NEWLINE>Points" in the cliffs <NEWLINE>and nests out in the <NEWLINE>wilds.<NEWLINE>
+2,He said all you need <NEWLINE>is a Pickaxe to mine <NEWLINE>those points.<NEWLINE>
+0,I wonder why he wants<NEWLINE>to tell me all this <NEWLINE>boring stuff about <NEWLINE>mining, anyway...?<NEWLINE>
+0,He said the rocks at <NEWLINE>the Mining Points have<NEWLINE>cracks in them. <NEWLINE>...Gee, I hope you're <NEWLINE>getting something out <NEWLINE>of all this stuff!<NEWLINE>
+2,I got another letter <NEWLINE>from my brother who's <NEWLINE>a hunter in town. It <NEWLINE>sounds like he's doing<NEWLINE>good work there. I'm <NEWLINE>proud of him!<NEWLINE>
+2,He says you shouldn't <NEWLINE>just come at the <NEWLINE>larger monsters head <NEWLINE>on. The key, he says, <NEWLINE>is in how you use your<NEWLINE>Support Items.<NEWLINE>
+2,He said making Pitfall<NEWLINE>Traps, blinding them <NEWLINE>with Flash Bombs, or <NEWLINE>using other kinds of <NEWLINE>bombs really helps.<NEWLINE>
+0,He said you could make<NEWLINE>all of these by <NEWLINE>combining things. Gee,<NEWLINE>my brother is making <NEWLINE>bombs? Now I'm really <NEWLINE>worried about him!<NEWLINE>
+0,It looks like you can <NEWLINE>make Pitfall Traps and<NEWLINE>all kinds of bombs by <NEWLINE>combining. Gee, I <NEWLINE>hope you're getting <NEWLINE>something out of all <NEWLINE>this information! 
+2,I got a letter from my<NEWLINE>brother. Remember? He<NEWLINE>is a hunter in town.<NEWLINE>He is happier than<NEWLINE>ever. 
+2,He says that since<NEWLINE>monsters have various<NEWLINE>attributes, it is good<NEWLINE>to consider these when<NEWLINE>choosing an attack...
+0,Attacking according to<NEWLINE>a monster's<NEWLINE>attributes... I have<NEWLINE>no clue what that is<NEWLINE>supposed to mean... Do<NEWLINE>you understand it?
+0,Think about a<NEWLINE>monster's attributes<NEWLINE>and then pick an<NEWLINE>attack... I guess my<NEWLINE>brother's advice is<NEWLINE>useful.
+2,I got another letter<NEWLINE>from my brother, the<NEWLINE>hunter in town. My big<NEWLINE>brother sure does<NEWLINE>write me often.
+2,He says that monsters<NEWLINE>are not restricted to<NEWLINE>being the same size<NEWLINE>all the time. He also<NEWLINE>says that today's<NEWLINE>beasts are enormous...
+0,The size of a<NEWLINE>monster, huh? Doesn't<NEWLINE>make much difference<NEWLINE>to me. Too bad there<NEWLINE>wasn't anything else<NEWLINE>in the letter. 
+2,My brother says that<NEWLINE>monsters are not<NEWLINE>restricted to being<NEWLINE>the same size all the<NEWLINE>time. He also says<NEWLINE>that today's beasts<NEWLINE>are enormous...
+0,The size of a<NEWLINE>monster, huh? Doesn't<NEWLINE>make much difference<NEWLINE>to me. Too bad there<NEWLINE>wasn't anything else<NEWLINE>in the letter. 
+2,I got another letter<NEWLINE>from my brother, the<NEWLINE>hunter who lives in<NEWLINE>town. Although it<NEWLINE>seems the town is<NEWLINE>engulfed in a weird<NEWLINE>atmosphere.
+2,It seems my brother<NEWLINE>has been frequently<NEWLINE>sent out on missions<NEWLINE>to find fuel for heavy<NEWLINE>weapons, like Cannon<NEWLINE>S, and take it to the<NEWLINE>Fortress.
+0,I'm worried. I hope<NEWLINE>nothing bad happens...
+2,It seems my brother<NEWLINE>has been frequently<NEWLINE>sent out on missions<NEWLINE>to find fuel for heavy<NEWLINE>weapons, like Cannon<NEWLINE>S, and take it to the<NEWLINE>Fortress.
+0,I'm worried. I hope<NEWLINE>nothing bad happens...
+2,...All of a sudden, I<NEWLINE>stopped getting<NEWLINE>letters from my<NEWLINE>brother...<NEWLINE>
+2,His last letter... <NEWLINE>It... It said that<NEWLINE>when you are in a huge<NEWLINE>battle, it is good to<NEWLINE>have friends who are<NEWLINE>gunners. 
+2,It said that a giant<NEWLINE>wyvern's weak spot <NEWLINE>is its back...<NEWLINE>and a gunner is best<NEWLINE>for attacking that<NEWLINE>spot...
+0,Giant wyvern... I<NEWLINE>wonder if that is why<NEWLINE>the letters stopped<NEWLINE>coming...? If my<NEWLINE>brother doesn't come<NEWLINE>back, I'll...
+2,A gunner is best for<NEWLINE>attacking the weak<NEWLINE>spot on a giant<NEWLINE>wyvern's back...
+0,But more<NEWLINE>importantly... Is my<NEWLINE>brother okay?
+2,I got a letter from<NEWLINE>that man who's always<NEWLINE>sitting in the Village<NEWLINE>Chief's yard...<NEWLINE>
+2,He told me to have<NEWLINE>faith that my brother<NEWLINE>was still alive, and<NEWLINE>to just believe and<NEWLINE>wait. He made me feel<NEWLINE>so much better!<NEWLINE>
+0,What a kind man!<NEWLINE>I really have to thank<NEWLINE>him the next time<NEWLINE>I see him.<NEWLINE>
+2,I got an encouraging<NEWLINE>letter from that man<NEWLINE>who's always sitting<NEWLINE>in the Village Chief's<NEWLINE>yard.<NEWLINE>
+0,What a kind man!<NEWLINE>I really have to thank<NEWLINE>him the next time<NEWLINE>I see him.<NEWLINE>
+2,I finally got a letter<NEWLINE>from my brother! I was<NEWLINE>right! Because of the<NEWLINE>giant wyvern, the<NEWLINE>pass out of town was<NEWLINE>cut off, so he<NEWLINE>couldn't contact me.
+2,According to the<NEWLINE>letter, he was called<NEWLINE>up for the battle<NEWLINE>against the giant<NEWLINE>wyvern, but it seems<NEWLINE>he couldn't do much.  
+2,You might be<NEWLINE>interested to know<NEWLINE>that the wyvern<NEWLINE>appeared to be running<NEWLINE>away from something...
+0,I'm glad that I heard<NEWLINE>from my brother, but I<NEWLINE>am afraid that this<NEWLINE>village won't be<NEWLINE>spared by that giant<NEWLINE>wyvern.
+2,I'm relieved I heard<NEWLINE>from my brother, but I<NEWLINE>am still worried about<NEWLINE>that wyvern...
+0,He said the wyvern<NEWLINE>ignored the hunters<NEWLINE>and appeared to be<NEWLINE>running away from<NEWLINE>something... I hope we<NEWLINE>get warning before<NEWLINE>something bad happens!
+2,The town my brother<NEWLINE>lives in is in an<NEWLINE>uproar over a story<NEWLINE>about a Legendary<NEWLINE>Black Dragon.
+2,The letter he sent me<NEWLINE>was just a single line<NEWLINE>scribbled on a sheet<NEWLINE>of paper. It said,<NEWLINE>"Prepare Dragon<NEWLINE>Elemental equipment!"
+0,I think he means that<NEWLINE>if you have that, you<NEWLINE>can stand up to this<NEWLINE>evil wyvern. 
+2,"Prepare Dragon<NEWLINE>Elemental<NEWLINE>equipment!"... that is<NEWLINE>all my brother's<NEWLINE>letter said.
+0,I am pretty sure that<NEWLINE>he didn't mean for me<NEWLINE>to prepare things...
+2,Thank you! Because of<NEWLINE>you, the danger posed<NEWLINE>by that evil wyvern is<NEWLINE>over!
+2,It seems my brother is<NEWLINE>going to take a break<NEWLINE>from work soon. He is<NEWLINE>exhausted from the<NEWLINE>stress caused by that<NEWLINE>vile wyvern. 
+2,By the way... I<NEWLINE>started dating that<NEWLINE>man who's always<NEWLINE>sitting in the Village<NEWLINE>Chief's yard.<NEWLINE>
+2,He's a little shy, but<NEWLINE>he's got a big heart!<NEWLINE>He gave me Dragon<NEWLINE>Elemental equipment to<NEWLINE>give to my brother.<NEWLINE>
+0,We're going to go have<NEWLINE>dinner in town with my<NEWLINE>brother someday soon.<NEWLINE>
+2,To tell you the<NEWLINE>truth... I started<NEWLINE>dating that man who's<NEWLINE>always sitting in the<NEWLINE>Village Chief's yard.
+0,Because of you I am<NEWLINE>finally at ease. Thank<NEWLINE>you so very much!

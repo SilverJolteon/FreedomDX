@@ -1,0 +1,30 @@
+0,Ahh, hello to ya! Got<NEWLINE>somethin' ya be<NEWLINE>needin'? I picked me<NEWLINE>up some nice rare<NEWLINE>items on me regul'r<NEWLINE>route.
+1,$z. <NEWLINE>You don't think<NEWLINE>I'm cheatin' ya here.<NEWLINE>Right?
+0,Thanks. Anytime ya be<NEWLINE>wantin' somthin' give<NEWLINE>me a shout.
+2,What are ya tryin' to<NEWLINE>pull here! I'm no<NEWLINE>charity! Not 'nough<NEWLINE>money? This bett'r be<NEWLINE>a joke.
+2,Come to a right nice<NEWLINE>place if I do say so<NEWLINE>myself. This towns'<NEWLINE>got itself a road jus'<NEWLINE>for us purveyors. Now<NEWLINE>we can get new<NEWLINE>shipments of items!
+2,I 'specially want to<NEWLINE>recommend these right<NEWLINE>new bowgun ammos.<NEWLINE>Flaming S, Ice S, and<NEWLINE>Thunder S are useful<NEWLINE>agains' any monsters<NEWLINE>weak to the elements.
+0,Of course, I still got<NEWLINE>me other useful items<NEWLINE>lyin' about... care to<NEWLINE>take a peak?
+2,Right nice timin'! I<NEWLINE>jus' got me some new<NEWLINE>items from town!
+2,How 'bout this "Book<NEWLINE>of Combos 3"? Usin'<NEWLINE>this with the first<NEWLINE>two "Book of Combos"<NEWLINE>will make ya mighty<NEWLINE>successful in<NEWLINE>combinin' things.
+0,Of course, I still got<NEWLINE>me other useful items<NEWLINE>lyin' about... care to<NEWLINE>take a peak?
+2,Is it really true ya<NEWLINE>knock'd out a<NEWLINE>Rathalos? Let me show<NEWLINE>ya some items as<NEWLINE>excellen' as yourself!
+2,"Book of Combos 4" and<NEWLINE>"Book of Combos 5"!<NEWLINE>Use 'em with the<NEWLINE>previous "Book of<NEWLINE>Combos" and even the<NEWLINE>hardes' combos are<NEWLINE>easy.
+0,Of course, I still got<NEWLINE>me other useful items<NEWLINE>lyin' about... care to<NEWLINE>take a peak?
+2,Ya getting' quite an<NEWLINE>air 'bout ya. I jus'<NEWLINE>got me some new items<NEWLINE>from town that migh'<NEWLINE>be right up your<NEWLINE>alley!
+2,Let me show ya this<NEWLINE>"Mega Pickaxe" and<NEWLINE>this "Mega Bugnet".<NEWLINE>Quality pieces that<NEWLINE>aren't gonna break<NEWLINE>when ya use 'em.
+0,Of course, I still got<NEWLINE>me other useful items<NEWLINE>lyin' about... care to<NEWLINE>take a peak?
+2,You're virtually a top<NEWLINE>class hunter, aren't<NEWLINE>ya? Nice. Speakin' of<NEWLINE>nice, I got me new<NEWLINE>items from town that<NEWLINE>migh' in'trest ya!
+2,Have ya seen this<NEWLINE>"Backpacker's Guide"!?<NEWLINE>It'll add 100 spaces<NEWLINE>to ya Item Box. An<NEWLINE>item beyond excellent<NEWLINE>if I do say so m'self.
+0,Of course, I still got<NEWLINE>me other useful items<NEWLINE>lyin' about... care to<NEWLINE>take a peak?
+2,I wouldn' mind tryin'<NEWLINE>some Guild work<NEWLINE>meself. Let me show<NEWLINE>ya this item. I may<NEWLINE>not be a top hunter,<NEWLINE>but I'm sur'ly a top<NEWLINE>salesman.
+2,"Book of Combos 4" and<NEWLINE>"Book of Combos 5"!<NEWLINE>Use 'em with the<NEWLINE>previous "Book of<NEWLINE>Combos" and even the<NEWLINE>hardes' combos are<NEWLINE>easy.
+0,Of course, I still got<NEWLINE>me other useful items<NEWLINE>lyin' about... care to<NEWLINE>take a peak?
+2,What the! You mean<NEWLINE>you've been abl' to<NEWLINE>combine ev'rything out<NEWLINE>there?
+2,I'm shock'd ya got<NEWLINE>that far in your<NEWLINE>knowledge. I bet if<NEWLINE>you took this book off<NEWLINE>me, it'd be of some<NEWLINE>use to ya.
+0,It's a secret manual<NEWLINE>in the "Book of<NEWLINE>Combos" series, call'd<NEWLINE>the "Alchemy Guide"!<NEWLINE>Its power is wasted<NEWLINE>on the likes of me, so<NEWLINE>feel free 'n take it.
+2,You've be'n workin' ya<NEWLINE>tail off, it seems!<NEWLINE>Lookin' like a real<NEWLINE>seasoned hunter. 
+2,I got som'thin' real<NEWLINE>nice for ya. Got it at<NEWLINE>the town market and<NEWLINE>I'm bettin it'd be<NEWLINE>quite useful to ya.<NEWLINE>
+0,Try takin' this ov'r<NEWLINE>to the Crafting Shop.
+2,This little piglet<NEWLINE>heres followed me all<NEWLINE>the way from town. Ya<NEWLINE>mind watchin' after <NEWLINE>Piggie for me? 
+0,He seems to 'ave taken<NEWLINE>a liken to ya. Thanks<NEWLINE>for lookin' out for<NEWLINE>the lil' snorter.

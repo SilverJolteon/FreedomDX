@@ -1,0 +1,22 @@
+0,Hello, and welcome! If<NEWLINE>it's new weapons or<NEWLINE>armor you're looking<NEWLINE>for, you've come to<NEWLINE>the right place. What<NEWLINE>can I do for you<NEWLINE>today? 
+1,You'll need<NEWLINE>$z for<NEWLINE>that. Okay by you?
+1,Do you want to equip<NEWLINE>it now?<NEWLINE>
+0,Come back again soon!<NEWLINE>
+2,Uh-oh! You don't have<NEWLINE>enough money!<NEWLINE>
+2,dummy
+2,Ah I heard what you<NEWLINE>did! Slayed a<NEWLINE>Rathalos, huh? Well<NEWLINE>done. 
+2,There is no need to<NEWLINE>shop with others when<NEWLINE>you can shop here.<NEWLINE>We've got a brand new<NEWLINE>shipment of armor for<NEWLINE>sale.
+2,Silver Metal Boots!<NEWLINE>Dark Metal Boots!<NEWLINE>Pink Metal Boots!<NEWLINE>Each a powerful<NEWLINE>piece of armor. 
+0,Since Pink Metal Boots<NEWLINE>are for female hunters<NEWLINE>only, I won't be able<NEWLINE>to sell them to a male<NEWLINE>hunter. Take another<NEWLINE>look!
+2,Welcome! Aren't you<NEWLINE>the hunter selling his<NEWLINE>goods? Your reputation<NEWLINE>proceeds you. 
+2,Of course, we got just<NEWLINE>what you want right<NEWLINE>here. A Chrome Metal<NEWLINE>Coat and Chrome Metal<NEWLINE>Boots!
+0,This forged black<NEWLINE>alloy has quite a<NEWLINE>refined pattern. A<NEWLINE>stylish choice for<NEWLINE>one's feet... care<NEWLINE>to take a look?
+2,This time you've<NEWLINE>managed to slay two<NEWLINE>Diablos at the same<NEWLINE>time? There is no<NEWLINE>limit to your<NEWLINE>strength, huh?
+2,You might be<NEWLINE>interested in this. We<NEWLINE>have established a<NEWLINE>sales channel with the<NEWLINE>Guild for this town.
+0,We've received<NEWLINE>upgraded Boots and<NEWLINE>Waist Coats made from<NEWLINE>all sorts of alloys.<NEWLINE>We recommend all of<NEWLINE>these gems. Definitely<NEWLINE>worth a look!
+2,Ah! Aren't you a<NEWLINE>G-Class Hunter? We've<NEWLINE>got all the latest<NEWLINE>armor on sale here!
+2,I finally got a new<NEWLINE>shipment of armor made<NEWLINE>from special metal<NEWLINE>alloys. For high<NEWLINE>quality just say "S"!<NEWLINE>Except I'm not sure<NEWLINE>what S stands for... 
+0,Anyhow, it is a top<NEWLINE>quality item. We got<NEWLINE>it in just for you, so<NEWLINE>be careful with it!<NEWLINE>Until we meet again. 
+2,Ahhhhh! The return of<NEWLINE>the hero who repelled<NEWLINE>Lao-Shan Lung. Either<NEWLINE>that or a thief! 
+2,My eyes must be<NEWLINE>deceiving me! Those<NEWLINE>are the secret Chrome<NEWLINE>Metal Boots S and<NEWLINE>Chrome Metal Coat S,<NEWLINE>the best pieces of<NEWLINE>armor in the world! 
+0,Perfect design.<NEWLINE>Perfect protection. It<NEWLINE>is safe to say that<NEWLINE>there is nothing finer<NEWLINE>than this. Until we<NEWLINE>meet again! 

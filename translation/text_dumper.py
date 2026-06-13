@@ -4,6 +4,7 @@ import shutil
 import pycdlib
 import subprocess
 
+#iso_dir = os.path.join("..", "build", "ULJM05066")
 iso_dir = os.path.join("..", "iso")
 mhff = os.path.join("..", "tools", "mhff", "psp", "data.py")
 build_dir = "dumped_text"
@@ -14,72 +15,73 @@ new_section = "<NEW SECTION>"
 
 data = {
     "ULJM05066": {
-        "0003": ["general", 0x08, 0],
-        "4672": ["game0", 0x08, 0],
-        "4673": ["game1", 0x08, 0],
-        "4958": ["tavern", 0x4C, 1],
-        "4959": ["kokoto", 0x94, 1],
-        "4960": ["farm", 0x34, 1],
-        "4961": ["kitchen", 0x14, 1]
+        "0003": ["general", 0],
+        "4672": ["game0", 0],
+        "4673": ["game1", 0],
+        "4958": ["tavern", 1],
+        "4959": ["kokoto", 1],
+        "4960": ["farm", 1],
+        "4961": ["kitchen", 1]
     },
     "ULUS10084": {
-        "0003": ["general", 0x08, 0],
-        "4672": ["game0", 0x08, 0],
-        "4673": ["game1", 0x08, 0],
-        "4965": ["tavern", 0x4C, 1],
-        "4966": ["kokoto", 0x94, 1],
-        "4967": ["farm", 0x34, 1],
-        "4968": ["kitchen", 0x14, 1]
+        "0003": ["general", 0],
+        "4672": ["game0", 0],
+        "4673": ["game1", 0],
+        "4965": ["tavern", 1],
+        "4966": ["kokoto", 1],
+        "4967": ["farm", 1],
+        "4968": ["kitchen", 1]
     },
     "ULES00318": {
-        "0003": [os.path.join("EN", "general"), 0x08, 0],
-        "0004": [os.path.join("FR", "general"), 0x08, 0],
-        "0005": [os.path.join("DE", "general"), 0x08, 0],
-        "0006": [os.path.join("IT", "general"), 0x08, 0],
-        "0007": [os.path.join("ES", "general"), 0x08, 0],    
-        "4693": [os.path.join("EN", "game0"), 0x08, 0],
-        "4694": [os.path.join("FR", "game0"), 0x08, 0],
-        "4695": [os.path.join("DE", "game0"), 0x08, 0],
-        "4696": [os.path.join("IT", "game0"), 0x08, 0],
-        "4697": [os.path.join("ES", "game0"), 0x08, 0],
-        "4698": [os.path.join("EN", "game1"), 0x08, 0],
-        "4699": [os.path.join("FR", "game1"), 0x08, 0],
-        "4700": [os.path.join("DE", "game1"), 0x08, 0],
-        "4701": [os.path.join("IT", "game1"), 0x08, 0],
-        "4702": [os.path.join("ES", "game1"), 0x08, 0],
-        "4994": [os.path.join("EN", "tavern"), 0x4C, 1],
-        "4995": [os.path.join("FR", "tavern"), 0x4C, 1],
-        "4996": [os.path.join("DE", "tavern"), 0x4C, 1],
-        "4997": [os.path.join("IT", "tavern"), 0x4C, 1],
-        "4998": [os.path.join("ES", "tavern"), 0x4C, 1],
-        "4999": [os.path.join("EN", "kokoto"), 0x94, 1],
-        "5000": [os.path.join("FR", "kokoto"), 0x94, 1],
-        "5001": [os.path.join("DE", "kokoto"), 0x94, 1],
-        "5002": [os.path.join("IT", "kokoto"), 0x94, 1],
-        "5003": [os.path.join("ES", "kokoto"), 0x94, 1],
-        "5004": [os.path.join("EN", "farm"), 0x34, 1],
-        "5005": [os.path.join("FR", "farm"), 0x34, 1],
-        "5006": [os.path.join("DE", "farm"), 0x34, 1],
-        "5007": [os.path.join("IT", "farm"), 0x34, 1],
-        "5008": [os.path.join("ES", "farm"), 0x34, 1],
-        "5009": [os.path.join("EN", "kitchen"), 0x14, 1],
-        "5010": [os.path.join("FR", "kitchen"), 0x14, 1],
-        "5011": [os.path.join("DE", "kitchen"), 0x14, 1],
-        "5012": [os.path.join("IT", "kitchen"), 0x14, 1],
-        "5013": [os.path.join("ES", "kitchen"), 0x14, 1],
+        "0003": [os.path.join("EN", "general"), 0],
+        "0004": [os.path.join("FR", "general"), 0],
+        "0005": [os.path.join("DE", "general"), 0],
+        "0006": [os.path.join("IT", "general"), 0],
+        "0007": [os.path.join("ES", "general"), 0], 
+        "4693": [os.path.join("EN", "game0"), 0],
+        "4694": [os.path.join("FR", "game0"), 0],
+        "4695": [os.path.join("DE", "game0"), 0],
+        "4696": [os.path.join("IT", "game0"), 0],
+        "4697": [os.path.join("ES", "game0"), 0],
+        "4698": [os.path.join("EN", "game1"), 0],
+        "4699": [os.path.join("FR", "game1"), 0],
+        "4700": [os.path.join("DE", "game1"), 0],
+        "4701": [os.path.join("IT", "game1"), 0],
+        "4702": [os.path.join("ES", "game1"), 0],
+        "4994": [os.path.join("EN", "tavern"), 1],
+        "4995": [os.path.join("FR", "tavern"), 1],
+        "4996": [os.path.join("DE", "tavern"), 1],
+        "4997": [os.path.join("IT", "tavern"), 1],
+        "4998": [os.path.join("ES", "tavern"), 1],
+        "4999": [os.path.join("EN", "kokoto"), 1],
+        "5000": [os.path.join("FR", "kokoto"), 1],
+        "5001": [os.path.join("DE", "kokoto"), 1],
+        "5002": [os.path.join("IT", "kokoto"), 1],
+        "5003": [os.path.join("ES", "kokoto"), 1],
+        "5004": [os.path.join("EN", "farm"), 1],
+        "5005": [os.path.join("FR", "farm"), 1],
+        "5006": [os.path.join("DE", "farm"), 1],
+        "5007": [os.path.join("IT", "farm"), 1],
+        "5008": [os.path.join("ES", "farm"), 1],
+        "5009": [os.path.join("EN", "kitchen"), 1],
+        "5010": [os.path.join("FR", "kitchen"), 1],
+        "5011": [os.path.join("DE", "kitchen"), 1],
+        "5012": [os.path.join("IT", "kitchen"), 1],
+        "5013": [os.path.join("ES", "kitchen"), 1],
     }
 }
-'''
+
 # Quests
+'''
 for i in range(4674, 4914):
-    data["ULJM05066"][f"{i}"] = ["quest", 0x54, 2]
+    data["ULJM05066"][f"{i}"] = ["quest", 2, 0x54]
     
 for i in range(4674, 4921):
-    data["ULUS10084"][f"{i}"] = ["quest", 0x54, 2]
+    data["ULUS10084"][f"{i}"] = ["quest", 2, 0x54]
     
 for i in range(4703, 4950):
-    data["ULES00318"][f"{i}"] = ["quest", 0x54, 2]
-'''    
+    data["ULES00318"][f"{i}"] = ["quest", 2, 0x54]
+'''
         
 def getString(data, addr, encoding):
     return data[addr:data.find(b"\x00", addr)].decode(encoding)
@@ -120,59 +122,76 @@ def dumpQuestText(key, folder, path, start, encoding):
         shutil.copyfile(input, os.path.join(npath, key))
     os.remove(input)
 
-def dumpNPCText(key, folder, path, start, encoding):
-    output = os.path.join(path, key)+".txt"
+def dumpNPCText(key, folder, path, encoding):
     input = os.path.join(build_dir, folder, key)
     
-    os.makedirs(os.path.dirname(output), exist_ok=True)
-    print(f"Dumping strings to \"{output}\"...");
-    with open(input, "rb") as fp:
-        data = fp.read()
-        with open(output, "w", encoding="utf-8") as out:
-            def dump(b, sec):
-                sec_off = sec
-                while(sec_off < getOffset(data, sec)+b):
-                    off = int.from_bytes(data[sec_off:sec_off+4], byteorder="little", signed=False)
-                    str = getString(data, off+b, encoding)
-                    out.write(str.replace("\n", newline)+"\n")
-                    sec_off += 8
-                return b+off+len(str.encode(encoding))+2
-            end = dump(getOffset(data, 4), start)
-            while(getOffset(data, end+4) != 0):
-                out.write(f"{new_section}\n")
-                end = dump(end, end+4)
-    shutil.copyfile(input, os.path.join(path, key))
-    os.remove(input)
+    os.makedirs(path, exist_ok=True)
     
-def dumpGameText(key, folder, path, start, encoding):
-    output = os.path.join(path, key)+".txt"
-    input = os.path.join(build_dir, folder, key)
-    
-    os.makedirs(os.path.dirname(output), exist_ok=True)
-    print(f"Dumping strings to \"{output}\"...");
+    print(f"Dumping strings to \"{path}\"...");
     with open(input, "rb") as fp:
+        header_data = []
         data = fp.read()
-        with open(output, "w", encoding=encoding) as out:
-            def dump(sec):
-                prev_off = 0
-                off = 0
-                sec_off = sec
-                while(1):
-                    prev_off = off
-                    off = int.from_bytes(data[sec_off:sec_off+4], byteorder="little", signed=False)
-                    if(off == 0xFFFFFFFF):
-                        break
-                    str = getString(data, off+sec, encoding)
-                    out.write(str.replace("\n", newline)+"\n")
-                    sec_off += 4
-                return sec+prev_off+len(str.encode(encoding))+2
+        h_off = 0
+        while(1):
+            sec_id = getOffset(data, h_off)
+            sec_off = getOffset(data, h_off+4)
+            if(sec_id == 0xFFFFFFFF and sec_off == 0xFFFFFFFF):
+                break;
+            header_data.append([sec_id, sec_off])
+            h_off += 8
             
-            end = dump(getOffset(data, start))
-            while(getOffset(data, end+4) != 0):
-                out.write(f"{new_section}\n")
-                end = dump(end)
+        for i, section in enumerate(header_data):
+            with open(os.path.join(path, f"string_table_{i}_{section[0]}.txt"), "w", encoding=encoding) as out:
+                sec_start = section[1]
+                
+                s_off = getOffset(data, sec_start+4)
+                
+                sec_off = sec_start
+                while(sec_off < sec_start + s_off):
+                    str_id = getOffset(data, sec_off)
+                    str_off = getOffset(data, sec_off+4)
+                    str = f"{str_id}," + getString(data, sec_start+str_off, encoding).replace("\n", newline)
+                    sec_off += 8
+                    if(sec_off+4 < sec_start + s_off):
+                        str += "\n"
+                    out.write(str)
+                    
     shutil.copyfile(input, os.path.join(path, key))
     os.remove(input)
+    
+def dumpGameText(key, folder, path, encoding):
+    input = os.path.join(build_dir, folder, key)
+    
+    os.makedirs(path, exist_ok=True)
+    
+    print(f"Dumping strings to \"{path}\"...");
+    with open(input, "rb") as fp:
+        header_data = []
+        data = fp.read()
+        sec_size = getOffset(data, 0)
+       
+        for i in range(8, sec_size * 4 + 8, 4):
+            sec_off = getOffset(data, i)
+            header_data.append(sec_off)
+            
+        for i, section in enumerate(header_data):
+            with open(os.path.join(path, f"string_table_{i}.txt"), "w", encoding=encoding) as out:
+                sec_start = section
+                
+                s_off = getOffset(data, sec_start)
+                
+                sec_off = sec_start
+                while(sec_off < sec_start + s_off):
+                    str_off = getOffset(data, sec_off)
+                    str = getString(data, sec_start+str_off, encoding).replace("\n", newline)
+                    sec_off += 4
+                    if(sec_off+4 < sec_start + s_off):
+                        str += "\n"
+                    out.write(str)
+                    
+    shutil.copyfile(input, os.path.join(path, key))
+    os.remove(input)
+        
 
 def extractFiles(folder):
     path = os.path.join(build_dir, folder, "DATA.BIN")
@@ -186,13 +205,14 @@ def extractFiles(folder):
             ["python", mhff, "x", path, key, file],
             check=True
         )
-        if(value[2] == 0):
-            dumpGameText(key, folder, os.path.join(build_dir, folder, value[0]), value[1], encoding);
-        if(value[2] == 1):
-            dumpNPCText(key, folder, os.path.join(build_dir, folder, value[0]), value[1], encoding);
-        if(value[2] == 2):
-            dumpQuestText(key, folder, value[0], value[1], encoding);
-    #os.remove(path)
+        if(value[1] == 0):
+            dumpGameText(key, folder, os.path.join(build_dir, folder, value[0]), encoding);
+        if(value[1] == 1):
+            dumpNPCText(key, folder, os.path.join(build_dir, folder, value[0]), encoding);
+        if(value[1] == 2):
+            dumpQuestText(key, folder, value[0], value[2], encoding);
+
+    os.remove(path)
 
 def extractDataBin():
     for _, _, files in os.walk(iso_dir):

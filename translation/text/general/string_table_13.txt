@@ -1,0 +1,254 @@
+Nothing equipped.
+Leather Belt
+Chain Belt
+Hunter's Tasset
+Hunter's Coat
+Velociprey Tasset
+Velociprey Coat
+Genprey Tasset
+Genprey Coat
+Ioprey Tasset
+Ioprey Coat
+Rathian Tasset
+Rathian Coat
+Cephalos Tasset
+Cephalos Coat
+Kut-Ku Tasset
+Kut-Ku Coat
+Battle Tasset
+Battle Coat
+Bone Tasset
+Bone Coat
+Gypceros Tasset
+Gypceros Coat
+Rathalos Tasset
+Rathalos Coat
+Gravios Tasset+
+Gravios Coat+
+Hi-Metal Tasset+
+Hi-Metal Coat+
+Auroros Tasset
+Genesis Tasset
+Borealis Tasset
+Glyph Tasset
+Vespoid Tasset+
+Vespoid Coat+
+Khezu Tasset+
+Khezu Coat+
+Hornet Tasset+
+Hornet Coat+
+Dragonwings
+Dragontail
+Guild Knight Coat
+Guild Knight Kilt
+Maiden's Skirt
+Personal Frills
+Shinobi Belt (Sun)
+Shinobi Belt (Moon)
+Light Belt
+Hide Belt
+Iron Belt
+Steel Belt
+Red Borealis Tasset
+Red Glyph Tasset
+Hi-Metal Tasset
+Hi-Metal Coat
+Khezu Tasset
+Khezu Coat
+Vespoid Tasset
+Vespoid Coat
+Hornet Tasset
+Hornet Coat
+Gravios Tasset
+Gravios Coat
+Steel Belt+
+Rathian Tasset+
+Rathian Coat+
+Rathalos Tasset+
+Rathalos Coat+
+Kut-Ku Tasset+
+Kut-Ku Coat+
+Chrome Metal Coat
+Leather Belt+
+Light Belt+
+Chain Belt+
+Iron Belt+
+Hunter's Tasset+
+Hunter's Coat+
+Bone Tasset+
+Bone Coat+
+Velociprey Tasset+
+Velociprey Coat+
+Battle Tasset+
+Battle Coat+
+Hide Belt+
+Genprey Tasset+
+Genprey Coat+
+Chrome Metal Coat+
+Ioprey Tasset+
+Ioprey Coat+
+Gypceros Tasset+
+Gypceros Coat+
+Cephalos Tasset+
+Cephalos Coat+
+Leather Belt S
+Light Belt S
+Chain Belt S
+Iron Belt S
+Hunter's Tasset S
+Hunter's Coat S
+Bone Tasset S
+Bone Coat S
+Velociprey Tasset S
+Velociprey Coat S
+Battle Tasset S
+Battle Coat S
+Hide Belt S
+Vespoid Tasset S
+Vespoid Coat S
+Hornet Tasset S
+Hornet Coat S
+Hi-Metal Tasset S
+Hi-Metal Coat S
+Genprey Tasset S
+Genprey Coat S
+Kut-Ku Tasset S
+Kut-Ku Coat S
+Chrome Metal Coat S
+Ioprey Tasset S
+Ioprey Coat S
+Gypceros Tasset S
+Gypceros Coat S
+Cephalos Tasset S
+Cephalos Coat S
+Steel Belt S
+Rathian Tasset S
+Rathian Coat S
+Khezu Tasset S
+Khezu Coat S
+Rathalos Tasset S
+Rathalos Coat S
+Gravios Tasset S
+Gravios Coat S
+Leather Belt U
+Hunter's Tasset U
+Hunter's Coat U
+Bone Tasset U
+Bone Coat U
+Velociprey Tasset U
+Velociprey Coat U
+Hi-Metal Tasset U
+Hi-Metal Coat U
+Kut-Ku Tasset U
+Kut-Ku Coat U
+Gypceros Tasset U
+Gypceros Coat U
+Cephalos Tasset U
+Cephalos Coat U
+Khezu Tasset U
+Khezu Coat U
+Gravios Tasset U
+Gravios Coat U
+Black Belt Tasset
+Rathian Heart Coil
+Rathian Heart Coat
+Rathalos Soul Coil
+Rathalos Soul Coat
+Shinobi Belt (White)
+Shinobi Belt (Black)
+Guild Knight Coat+
+Guild Knight Kilt+
+Maiden's Skirt+
+Personal Frills+
+Rathian Heart Coil+
+Rathian Heart Coat+
+Rathalos Soul Coil+
+Rathalos Soul Coat+
+Auroros Tasset Mai
+Genesis Tasset Mai
+Borealis Tasset Mai
+Glyph Tasset Mai
+Red Borealis Mai
+Red Glyph Mai
+Dragonwings+
+Dragontail+
+Shinobi Belt(Heaven)
+Shinobi Belt (Earth)
+Guild Knight Coat S
+Guild Knight Kilt S
+Maiden's Skirt S
+Personal Frills S
+Rathian Heart Coil S
+Rathian Heart Coat S
+Rathalos Soul Coil S
+Rathalos Soul Coat S
+Auroros Tasset Haku
+Genesis Tasset Haku
+Borealis Tasset Haku
+Glyph Tasset Haku
+Dragonwing S
+Dragontail S
+Auroros Tasset Ten
+Genesis Tasset Ten
+Borealis Tasset Ten
+Glyph Tasset Ten
+Golden Moon Tasset 
+Golden Moon Coat
+Silver Sol Tasset
+Silver Sol Coat
+Fatalis Wing
+Fatalis Tail
+Battle Tasset U
+Battle Coat U
+Red Borealis Haku
+Red Glyph Haku 
+Leather Belt
+Basarios Tasset
+Basarios Coat
+Melahoa Skirt
+Bistro Apron
+Mosswine Hip
+Kirin Hoop
+Kirin Shorts
+Garuga Tasset
+Garuga Coat
+Velociprey Tasset D
+Velociprey Coat D
+Kut-Ku Tasset D
+Kut-Ku Coat D
+Gravios Tasset D
+Gravios Coat D
+Basarios Tasset+
+Basarios Coat+
+Melahoa Skirt+
+Bistro Apron+
+Mosswine Hip+
+Kirin Hoop+
+Kirin Shorts+
+Kut-Ku Tasset K
+Kut-Ku Coat K
+Gravios Tasset K
+Gravios Coat K
+Basarios Tasset S
+Basarios Coat S
+Melahoa Skirt S
+Bistro Apron S
+Mosswine Hip S
+Kirin Hoop S
+Kirin Shorts S
+Garuga Tasset S
+Garuga Coat S
+Chain Belt U
+Vespoid Tasset U
+Vespoid Coat U
+Hornet Tasset U
+Hornet Coat U
+Shinobi Belt (Sky)
+Shinobi Belt (Sea)
+Genprey Tasset U
+Genprey Coat U
+Ioprey Tasset U
+Ioprey Coat U
+Steel Belt U
+Basarios Tasset U
+Basarios Coat U

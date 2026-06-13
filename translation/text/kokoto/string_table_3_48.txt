@@ -1,0 +1,66 @@
+2,Hello. Nice weather, <NEWLINE>eh? They say you're <NEWLINE>trying to be a hunter.<NEWLINE>I hear those hunter <NEWLINE>types are always <NEWLINE>worrying about their <NEWLINE>equipment. 
+2,Did you know you could<NEWLINE>open up the menu by <NEWLINE>pressing the <NEWLINE>START button? 
+0,You can choose<NEWLINE>"Status" or "Equipment<NEWLINE>Detail" from the menu<NEWLINE>to check out the <NEWLINE>weapons and armor you <NEWLINE>currently have <NEWLINE>equipped. 
+0,With "Equipment <NEWLINE>Detail", you can see<NEWLINE>detailed information<NEWLINE>about each weapon or<NEWLINE>piece of armor you<NEWLINE>have equipped.
+2,Hello. Nice weather, <NEWLINE>eh? They say you're <NEWLINE>trying to be a hunter.<NEWLINE>I hear those hunter <NEWLINE>types are always <NEWLINE>worrying about their <NEWLINE>equipment. 
+2,Did you know you could<NEWLINE>open up the menu by <NEWLINE>pressing the<NEWLINE>START button? 
+0,You can choose<NEWLINE>"Status" or "Equipment<NEWLINE>Detail" from the menu<NEWLINE>to check out the <NEWLINE>weapons and armor you <NEWLINE>currently have <NEWLINE>equipped. 
+0,With "Equipment <NEWLINE>Detail", you can see<NEWLINE>detailed information<NEWLINE>about each weapon or<NEWLINE>piece of armor you<NEWLINE>have equipped.
+2,I saw some carnivorous<NEWLINE>monsters outside the<NEWLINE>village! Our village<NEWLINE>won't be safe now! 
+0,I wish the legendary<NEWLINE>hunter who once lived<NEWLINE>in this town long ago<NEWLINE>would come back...He'd<NEWLINE>use potions and herbs<NEWLINE>and slay those beasts!
+0,When fighting a<NEWLINE>carnivore, recovery<NEWLINE>items are critical.<NEWLINE>Ah, I hope that<NEWLINE>legendary hunter<NEWLINE>really does come<NEWLINE>back...
+2,This village carries a<NEWLINE>good omen for hunters.<NEWLINE>The Village Chief used<NEWLINE>to be an absolute top<NEWLINE>class hunter himself.
+2,This village was also<NEWLINE>the home to a man they<NEWLINE>called the Legendary<NEWLINE>Gunner. He came here<NEWLINE>to recover from a<NEWLINE>battle wound.
+2,Now he is writing a<NEWLINE>Bowgun training manual<NEWLINE>for beginners until<NEWLINE>his comeback as a<NEWLINE>hunter.
+0,I also hear he is<NEWLINE>writing for "Hunting<NEWLINE>Life". 
+2,This village was also<NEWLINE>the home to a man they<NEWLINE>called the Legendary<NEWLINE>Gunner.
+0,If you are a hunter,<NEWLINE>you should scan over<NEWLINE>his articles in<NEWLINE>"Hunting Life".
+2,This village carries a<NEWLINE>good omen for hunters.<NEWLINE>The Village Chief used<NEWLINE>to be an absolute top<NEWLINE>class hunter himself.
+2,This village was also<NEWLINE>the home to a man they<NEWLINE>called the Legendary<NEWLINE>Gunner. He came here<NEWLINE>to recover from a<NEWLINE>battle wound.
+2,Now he is writing a<NEWLINE>Bowgun training manual<NEWLINE>for beginners until<NEWLINE>his comeback as a<NEWLINE>hunter.
+0,I also hear he is<NEWLINE>writing for "Hunting<NEWLINE>Life". 
+2,This village was also<NEWLINE>the home to a man they<NEWLINE>called the Legendary<NEWLINE>Gunner.
+0,If you are a hunter,<NEWLINE>you should scan over<NEWLINE>his articles in<NEWLINE>"Hunting Life".
+2,Do you know about the<NEWLINE>Training School? It is<NEWLINE>a place to train in<NEWLINE>hunting techniques. <NEWLINE>Someone with your<NEWLINE>skill should be able<NEWLINE>to attend. 
+2,The highway was<NEWLINE>recently completed, so<NEWLINE>you should be able to<NEWLINE>travel to the school<NEWLINE>directly.
+2,Can you see the road<NEWLINE>to the east? Head<NEWLINE>towards that road and<NEWLINE>then press the<NEWLINE>~B03 button. 
+0,The instructors there<NEWLINE>should be ready for<NEWLINE>you... But beware,<NEWLINE>they are notorious for<NEWLINE>their strictness.
+0,To go to the Training<NEWLINE>School, go straight<NEWLINE>along the road to the<NEWLINE>east. The fiendishly<NEWLINE>strict instructors<NEWLINE>should teach you many<NEWLINE>hunting techniques.
+2,Do you know about the<NEWLINE>Peddling Granny?
+2,That old lady has an<NEWLINE>original peddling<NEWLINE>route that allows her<NEWLINE>to gather various<NEWLINE>items and sell them<NEWLINE>here in the village.
+2,When she has gathered<NEWLINE>lots of items, she<NEWLINE>sells them here for<NEWLINE>half price!  What a<NEWLINE>wonderful old granny!
+0,It seems she is<NEWLINE>trailblazing a new<NEWLINE>peddling route as we<NEWLINE>speak. That old granny<NEWLINE>just never quits, does<NEWLINE>she!? Incredible!
+2,The Peddling Granny <NEWLINE>has an original <NEWLINE>peddling route that<NEWLINE>allows her to gather<NEWLINE>various items and sell<NEWLINE>them here in the <NEWLINE>village.
+0,When she has gathered<NEWLINE>lots of items, she<NEWLINE>sells them here for<NEWLINE>half price!  What a<NEWLINE>wonderful old granny!
+2,Been placed in charge<NEWLINE>of the farm by the<NEWLINE>village? Finding it<NEWLINE>useful?
+2,If you add a fishing<NEWLINE>spot and a field, you<NEWLINE>can safely gather<NEWLINE>items at any time. 
+2,Moreover, you can find<NEWLINE>useful items and<NEWLINE>materials that can be<NEWLINE>used for upgrading<NEWLINE>equipment, among other<NEWLINE>things.
+0,By buying items in<NEWLINE>town, you should be<NEWLINE>able to save up<NEWLINE>"Kokoto Points" to<NEWLINE>upgrade the farm.
+2,Finding "Kokoto Farm"<NEWLINE>useful?
+0,Since it doesn't take<NEWLINE>long to gather<NEWLINE>materials, it is<NEWLINE>convenient even when<NEWLINE>you are short on time.
+2,A Felyne is making<NEWLINE>food for you? You've<NEWLINE>gotten that busy huh?
+2,Eating food prepared<NEWLINE>by Felynes draws out<NEWLINE>special skills in all<NEWLINE>those who eat it.
+0,These skills are<NEWLINE>usually called "Felyne<NEWLINE>Whim Skills". These<NEWLINE>skills seem to depend<NEWLINE>on the food you choose<NEWLINE>to eat from the Felyne<NEWLINE>Chefs. 
+2,Eating food prepared<NEWLINE>by Felynes draws out<NEWLINE>special skills in all<NEWLINE>those who eat it.
+0,These skills are<NEWLINE>usually called "Felyne<NEWLINE>Whim Skills". These<NEWLINE>skills seem to depend<NEWLINE>on the food you choose<NEWLINE>to eat from the Felyne<NEWLINE>Chefs. 
+2,Making use of Kokoto<NEWLINE>Farm? You know, if you<NEWLINE>add some equipment,<NEWLINE>you can harvest<NEWLINE>various crops.
+2,Besides, depending on<NEWLINE>the equipment you use,<NEWLINE>you can harvest crops<NEWLINE>that are reserved for<NEWLINE>G-Class hunters. 
+0,If a monster's<NEWLINE>strength is pushing<NEWLINE>you to the limit, why<NEWLINE>not try preparing some<NEWLINE>equipment and<NEWLINE>harvesting crops?
+2,If you add equipment<NEWLINE>to Kokoto Farm, it<NEWLINE>seems you can harvest<NEWLINE>crops normally<NEWLINE>reserved for G-Class<NEWLINE>Hunters. 
+0,If a monster's<NEWLINE>strength is pushing<NEWLINE>you to the limits, why<NEWLINE>not try preparing some<NEWLINE>equipment and<NEWLINE>harvesting crops?
+2,Is it true you really<NEWLINE>defeated Lao-Shan<NEWLINE>Lung? You're quite the<NEWLINE>hunter, aren't you?
+0,I heard that the<NEWLINE>materials taken from a<NEWLINE>dead Lao-Shan Lung can<NEWLINE>make incredibly strong<NEWLINE>equipment. I'm quite<NEWLINE>jealous... 
+2,You can take many<NEWLINE>things from Lao-Shan<NEWLINE>Lung... Spine, Scale,<NEWLINE>Shell, Claw, Horn,<NEWLINE>Plate... and make<NEWLINE>incredibly strong<NEWLINE>equipment.
+0,I'm very envious of<NEWLINE>you...
+2,People have been<NEWLINE>streaming in and out<NEWLINE>of the Assembly Hall.<NEWLINE>The Guild is working<NEWLINE>feverishly on<NEWLINE>counter-measures to<NEWLINE>slay the Black Dragon.
+2,Naturally, they are<NEWLINE>gathering at this<NEWLINE>outpost as well. It is<NEWLINE>tough being a hunter,<NEWLINE>huh?
+2,They've been deploying<NEWLINE>various armaments to<NEWLINE>Castle Schrade. It<NEWLINE>will be the setting<NEWLINE>for the death of the<NEWLINE>Black Dragon.
+2,Ballistas and Great<NEWLINE>Cannons may be<NEWLINE>effective, but with a<NEWLINE>proper investment, you<NEWLINE>can spring even more<NEWLINE>effective traps.
+0,I've got a feeling the<NEWLINE>Guild is very serious.<NEWLINE>
+2,Ballistas and Great<NEWLINE>Cannons have been<NEWLINE>deployed to Castle<NEWLINE>Schrade. They plan for<NEWLINE>the castle to be the<NEWLINE>site of the Black<NEWLINE>Dragon's demise. 
+0,The Guild is very<NEWLINE>serious about this.<NEWLINE>But with a proper<NEWLINE>investment, you can<NEWLINE>spring even more<NEWLINE>effective traps. 
+2,I've heard that you<NEWLINE>finally defeated the<NEWLINE>Legendary Black Dragon<NEWLINE>Fatalis!
+2,I suppose that means<NEWLINE>you yourself are a<NEWLINE>legend... the Black<NEWLINE>Dragon Slayer!
+0,A story I will surely<NEWLINE>tell my kids someday.<NEWLINE>"A long time ago, in<NEWLINE>this town, a legendary<NEWLINE>hero..."
+2,It is our job to pass<NEWLINE>this legend down the<NEWLINE>generations of<NEWLINE>history... But right<NEWLINE>now, the Black Dragon<NEWLINE>Slayer is right in<NEWLINE>front of me!
+0,It is a story I will<NEWLINE>surely tell my kids<NEWLINE>someday.

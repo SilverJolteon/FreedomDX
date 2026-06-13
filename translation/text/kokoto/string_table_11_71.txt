@@ -1,0 +1,59 @@
+2,If you want to be a<NEWLINE>first-rate hunter,<NEWLINE>there are all sorts of<NEWLINE>challenges you have to<NEWLINE>meet. What level of<NEWLINE>quest would you like<NEWLINE>to undertake? 
+2,These are about the<NEWLINE>only quests that look<NEWLINE>right for you. 
+1,You'll have to pay a<NEWLINE>$z<NEWLINE>contract fee for <NEWLINE>this quest. Do you<NEWLINE>accept?
+0,What?! Hmph. Fine,<NEWLINE>I'll just cancel it,<NEWLINE>then... 
+0,To leave on your<NEWLINE>quest, press the<NEWLINE>~B03 button at the<NEWLINE>village entrance or by<NEWLINE>the big tree over<NEWLINE>there. Good luck to<NEWLINE>you!
+1,Can I help you with<NEWLINE>anything else? 
+0,Oh. Well, if you ever<NEWLINE>change your mind, come<NEWLINE>on back anytime. 
+2,Well! Looks like you<NEWLINE>don't have enough<NEWLINE>money. 
+1,What? You want to<NEWLINE>cancel the quest you<NEWLINE>accepted? 
+1,This might be a good<NEWLINE>quest to test your<NEWLINE>skills on. Will you<NEWLINE>accept it? 
+2,As an experienced<NEWLINE>hunter, let me tell<NEWLINE>you, these are no<NEWLINE>normal quests. You<NEWLINE>have to be dedicated.<NEWLINE>What level of Quest<NEWLINE>would you like?
+2,Well, you're starting<NEWLINE>to look the part! But<NEWLINE>you've still got a<NEWLINE>ways to go before<NEWLINE>you're a first-rate<NEWLINE>hunter. What level of<NEWLINE>quest would you like? 
+2,You've certainly<NEWLINE>become a first-rate<NEWLINE>hunter! There isn't<NEWLINE>much left for me to<NEWLINE>teach you... Now then,<NEWLINE>what level of quest<NEWLINE>would you like? 
+2,Well you do have the<NEWLINE>appearance of a hero.<NEWLINE>How about staying a<NEWLINE>while and trying a <NEWLINE>quest in this village?<NEWLINE>What level quest would<NEWLINE>you like? 
+2,Hmph. It seems you've<NEWLINE>set your sites on<NEWLINE>being a hunter.
+2,What is a hunter?
+2,A lonely soldier<NEWLINE>without a name.<NEWLINE>Someone with an eye<NEWLINE>for collecting.<NEWLINE>Someone chiseled with<NEWLINE>memories of victory<NEWLINE>with comrades. 
+2,Everyone has one or<NEWLINE>two of those traits,<NEWLINE>but a hunter must<NEWLINE>have them all. 
+2,If you are serious<NEWLINE>about wanting to be a<NEWLINE>top class hunter, then<NEWLINE>let me share with you<NEWLINE>everything I've<NEWLINE>learned as "The Hero<NEWLINE>of Kokoto"!
+2,To celebrate your<NEWLINE>setting off as a<NEWLINE>hunter, I'd like to<NEWLINE>give you a couple of<NEWLINE>presents. First, some<NEWLINE>money. It isn't much.
+2,Second, go back home<NEWLINE>and take a look in<NEWLINE>your item box. 
+2,I've placed a set of<NEWLINE>weapons in there for<NEWLINE>you. Please use<NEWLINE>whichever you'd like. 
+2,But, while you are<NEWLINE>still getting used to<NEWLINE>things, it's safe for<NEWLINE>you to use your<NEWLINE>current Hunter's Knife<NEWLINE>until you have gained<NEWLINE>a rank. 
+2,By the way, there is<NEWLINE>an outpost of the<NEWLINE>Hunter's Guild in this<NEWLINE>village now. 
+2,There you can embark<NEWLINE>on quests with a large<NEWLINE>number of hunters. Go<NEWLINE>to the counter to<NEWLINE>initiate a quest with<NEWLINE>others. 
+0,The counter is inside<NEWLINE>this house, so you<NEWLINE>should visit there for<NEWLINE>a better explanation. 
+2,The expression on your<NEWLINE>face... it seems we've<NEWLINE>piled too much<NEWLINE>information on you. 
+2,I've got nothing more<NEWLINE>to say. Show me what<NEWLINE>you can do!
+2,If you need it, I will<NEWLINE>lend you a hand. I am<NEWLINE>the hunter they call <NEWLINE>"The Hero of Kokoto"!
+2,To celebrate your<NEWLINE>setting off as a<NEWLINE>hunter, I'd like to<NEWLINE>give you a couple of<NEWLINE>presents. First, some<NEWLINE>money. It isn't much.
+2,Second, go back home<NEWLINE>and take a look in<NEWLINE>your item box. 
+2,I've prepared some<NEWLINE>weapons for you to<NEWLINE>use. Please choose<NEWLINE>whichever weapon you'd<NEWLINE>like. 
+2,By the way, there is<NEWLINE>an outpost of the<NEWLINE>Hunter's Guild in this<NEWLINE>village now. 
+2,The Quests there are<NEWLINE>the same as those<NEWLINE>found at the Hunter's<NEWLINE>Guild in town.
+2,There you can embark<NEWLINE>on quests with a large<NEWLINE>number of hunters. Go<NEWLINE>to the counter to<NEWLINE>initiate a quest with<NEWLINE>others. 
+0,The counter is inside<NEWLINE>this house, so you<NEWLINE>should visit there for<NEWLINE>a better explanation. 
+2,What! You slayed a<NEWLINE>Rathalos!? Shocking!<NEWLINE>It looks like you are<NEWLINE>closer to becoming a<NEWLINE>top class hunter. 
+2,I've decided to award<NEWLINE>you with my sword! 
+2,This is the sword I<NEWLINE>used to slay the one<NEWLINE>horned wyvern,<NEWLINE>Monoblos. 
+0,Go back behind your<NEWLINE>house, to the place<NEWLINE>where the sword is<NEWLINE>stuck into the ground.<NEWLINE>
+2,Noooooooo! How is it<NEWLINE>possible that you have<NEWLINE>brought down over<NEWLINE>twenty of each<NEWLINE>wyvern!?
+0,As proof of your<NEWLINE>accomplishment, you<NEWLINE>can have this<NEWLINE>piercing! Take care of<NEWLINE>it!
+2,I already heard from<NEWLINE>the townsmen! You've<NEWLINE>surmounted many<NEWLINE>obstacles, and now you<NEWLINE>have slayed Monoblos.<NEWLINE>Amazing!
+2,There is no doubt, you<NEWLINE>are the second<NEWLINE>generation "Hero of<NEWLINE>Kokoto"!
+2,No matter what<NEWLINE>obstacles are put in<NEWLINE>your path, you can<NEWLINE>certainly rise above<NEWLINE>them. 
+2,There are rumblings<NEWLINE>that an unprecedented<NEWLINE>disaster may befall<NEWLINE>the village... You<NEWLINE>must have heard the<NEWLINE>rumors... The rumors<NEWLINE>of a giant shadow..
+0,The Guild Manager is<NEWLINE>preparing, but you<NEWLINE>should talk to him for<NEWLINE>more information. By<NEWLINE>the way, slaying<NEWLINE>Monoblos was splendid!<NEWLINE>"The Hero Of Kokoto"!
+2,Good god! I don't know<NEWLINE>what to say... I'm<NEWLINE>utterly speechless!
+2,I have decided to<NEWLINE>cooperate with the<NEWLINE>Guild and devise a<NEWLINE>plan to protect the<NEWLINE>town. I've even<NEWLINE>thought of taking up<NEWLINE>arms myself! 
+2,That Lao-Shan Lung,<NEWLINE>you are going to have<NEWLINE>to run him off by<NEWLINE>yourself. 
+2,In other words, you<NEWLINE>are going to have to<NEWLINE>rescue the village. It<NEWLINE>seems you have<NEWLINE>completely surpassed<NEWLINE>me...
+2,What is a hunter? And<NEWLINE>what does it mean to<NEWLINE>be one? 
+2,That question can be<NEWLINE>answered entirely by<NEWLINE>the courage you<NEWLINE>display. 
+2,The Hero of Kokoto!<NEWLINE>Don't quit hunting!<NEWLINE>Instead prepare for<NEWLINE>the next hunt and push<NEWLINE>yourself even further.<NEWLINE>
+0,Take my treasured<NEWLINE>sword, Hero of Kokoto!<NEWLINE>You were amazing!<NEWLINE>Truly the Hero of<NEWLINE>Kokoto. 
+2,You didn't stop with<NEWLINE>Lao-Shan Lung, you<NEWLINE>also slayed two<NEWLINE>glittering phantom<NEWLINE>wyverns, one gold and<NEWLINE>one silver!
+2,While there are no<NEWLINE>more quests to be<NEWLINE>taken in this town,<NEWLINE>the path of a hunter<NEWLINE>has no end.
+2,Keep aiming higher and<NEWLINE>higher, and from now<NEWLINE>on, try taking on<NEWLINE>quests from the Guild<NEWLINE>Outpost.
+0,Finally, in<NEWLINE>commemoration of<NEWLINE>defeating the gold and<NEWLINE>silver wyverns, take<NEWLINE>this. You were<NEWLINE>splendid, Hero of<NEWLINE>Kokoto!

@@ -1,0 +1,4 @@
+0,Well hello there!<NEWLINE>What can I do for you<NEWLINE>today? There's quite a<NEWLINE>variety of items out<NEWLINE>there.
+1,dummy
+0,Thank you and come<NEWLINE>back soon!
+2,dummy

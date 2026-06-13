@@ -1,0 +1,297 @@
+Nothing equipped.
+Leather Helm
+Chain Helm
+Hunter's Helm
+Hunter's Cap
+Velociprey Helm
+Velociprey Cap
+Genprey Helm
+Genprey Cap
+Ioprey Helm
+Ioprey Cap
+Rathian Helm
+Rathian Cap
+Cephalos Helm
+Cephalos Cap
+Battle Helm
+Battle Cap
+Monoblos Helm
+Monoblos Cap
+Bone Helm
+Bone Cap
+Gypceros Helm
+Gypceros Cap
+Rathalos Helm
+Rathalos Cap
+Gravios Helm+
+Gravios Cap+
+Hi-Metal Helm+
+Hi-Metal Cap+
+Diablo Helm+
+Diablo Cap+
+Auroros Helm
+Genesis Headpiece
+Borealis Crown
+Glyph Crown
+Vespoid Helm+
+Vespoid Cap+
+Khezu Helm+
+Khezu Cap+
+Lobster Helm+
+Plesioth Helm+
+Plesioth Cap+
+Hornet Helm+
+Hornet Cap+ 
+Dragonhead
+Dragonface
+Guild Knight Feather
+Guild Knight Mask
+Maiden's Hat
+Designer Glasses
+Velociprey Mask
+Shinobi Mask (Sun)
+Shinobi Mask (Moon)
+Mosswine Mask
+Bullfango Mask
+Skull Face
+Hi-Metal Helm
+Hi-Metal Cap
+Khezu Helm
+Khezu Cap
+Lobster Helm
+Plesioth Helm
+Plesioth Cap
+Vespoid Helm
+Vespoid Cap
+Diablo Helm
+Diablo Cap
+Hornet Helm
+Hornet Cap
+Gravios Helm
+Gravios Cap
+Rathian Helm+
+Rathian Cap+
+Rathalos Helm+
+Rathalos Cap+
+Leather Helm+
+Chain Helm+
+Hunter's Helm+
+Hunter's Cap+
+Bone Helm+
+Bone Cap+
+Velociprey Helm+
+Velociprey Cap+
+Battle Helm+
+Battle Cap+
+Genprey Helm+
+Genprey Cap+
+Ioprey Helm+
+Ioprey Cap+
+Gypceros Helm+
+Gypceros Cap+
+Cephalos Helm+
+Cephalos Cap+
+Leather Helm S
+Chain Helm S
+Hunter's Helm S
+Hunter's Cap S
+Bone Helm S
+Bone Cap S
+Velociprey Helm S
+Velociprey Cap S
+Battle Helm S
+Battle Cap S
+Vespoid Helm S
+Vespoid Cap S
+Hornet Helm S
+Hornet Cap S
+Hi-Metal Helm S
+Hi-Metal Cap S
+Genprey Helm S
+Genprey Cap S
+Ioprey Helm S
+Ioprey Cap S
+Gypceros Helm S
+Gypceros Cap S
+Cephalos Helm S
+Cephalos Cap S
+Rathian Helm S
+Rathian Cap S
+Khezu Helm S
+Khezu Cap S
+Rathalos Helm S
+Rathalos Cap S
+Plesioth Helm S
+Plesioth Cap S
+Lobster Helm S
+Diablo Helm S
+Diablo Cap S
+Monoblos Helm S
+Monoblos Cap S
+Gravios Helm S
+Gravios Cap S
+Leather Helm U
+Hunter's Helm U
+Hunter's Cap U
+Bone Helm U
+Bone Cap U
+Velociprey Helm U
+Velociprey Cap U
+Hi-Metal Helm U
+Hi-Metal Cap U
+Gypceros Helm U
+Gypceros Cap U
+Cephalos Helm U
+Cephalos Cap U
+Khezu Helm U
+Khezu Cap U
+Plesioth Helm U
+Plesioth Cap U
+Diablo Helm U
+Diablo Cap U
+Gravios Helm U
+Gravios Cap U
+Black Belt Helm
+Red Piercing
+Blue Piercing
+Yellow Piercing
+Black Piercing
+Rathian Heart Helm
+Rathian Heart Cap
+Rathalos Soul Helm
+Rathalos Soul Cap
+Monodevil Helm
+Monodevil Cap
+Mosswine Mask+
+Velociprey Mask+
+Bullfango Mask+
+Shinobi Mask (White)
+Shinobi Mask (Black)
+Guild KnightFeather+
+Guild Knight Mask+
+Maiden's Hat+
+Designer Glasses+
+Red Piercing+
+Blue Piercing+
+Yellow Piercing+
+Black Piercing+
+Skull Face+
+Rathian Heart Helm+
+Rathian Heart Cap+
+Rathalos Soul Helm+
+Rathalos Soul Cap+
+Auroros Helm Mai
+Genesis HeadpieceMai
+Borealis Crown Mai
+Glyph Crown Mai
+Dragonhead+
+Dragonface+
+Mosswine Face S
+Velociprey Mask S
+Bullfango Mask S
+Shinobi Mask(Heaven)
+Shinobi Mask (Earth)
+Guild KnightFeatherS
+Guild Knight Mask S
+Maiden's Hat S
+Designer Glasses S
+Red Piercing S
+Blue Piercing S
+Yellow Piercing S
+Black Piercing S
+Skull Face S
+Rathian Heart Helm S
+Rathian Heart Cap S
+Rathalos Soul Helm S
+Rathalos Soul Cap S
+Monodevil Helm S
+Monodevil Cap S
+Auroros Helm Haku
+GenesisHeadpieceHaku
+Borealis Crown Haku
+Glyph Crown Haku
+Dragonhead S
+Dragonface S
+Auroros Helm Ten
+Genesis HeadpieceTen
+Borealis Crown Ten
+Glyph Crown Ten
+Golden Moon Helm
+Golden Moon Cap
+Silver Sol Helm
+Silver Sol Cap
+Fatalis Head
+Fatalis Face
+Battle Helm U
+Battle Cap U
+Protection Piercing
+Expert Piercing
+Power Piercing
+Life Piercing
+Technique Piercing
+Ambitious Piercing
+Sword Saint Piercing
+Sure Shot Piercing
+Early Bird Piercing
+Leather Helm
+Basarios Helm
+Basarios Cap
+Chaoshroom
+Felyne Mask
+Melahoa Flower Hat
+Bistro Cap
+Makluva Hood
+Genprey Mask
+Ioprey Mask
+Kirin Horn
+Kirin Crest
+Yian Garuga Helm
+Yian Garuga Cap
+Velociprey Helm D
+Velociprey Cap D
+Plesioth Helm D
+Plesioth Cap D
+Gravios Helm D
+Gravios Cap D
+Basarios Helm+
+Basarios Cap+
+Chaoshroom Mai
+Felyne Mask+
+Melahoa Flower Hat+
+Bistro Cap+
+Makluva Hood+
+Genprey Mask+
+Ioprey Mask+
+Kirin Horn+
+Kirin Crest+
+Plesioth Helm K
+Plesioth Cap K
+Gravios Helm K
+Gravios Cap K
+Basarios Helm S
+Basarios Cap S
+Chaoshroom Haku
+Felyne Mask S
+Melahoa Flower HatS
+Bistro Cap S
+Makluva Hood S
+Genprey Mask S
+Ioprey Mask S
+Kirin Horn S
+Kirin Crest S
+Garuga Helm S
+Garuga Cap S
+Garuga Mask
+Chain Helm U
+Vespoid Helm U
+Vespoid Cap U
+Hornet Helm U
+Hornet Cap U
+Shinobi Mask (Sky)
+Shinobi Mask (Sea)
+Genprey Helm U
+Genprey Cap U
+Ioprey Helm U
+Ioprey Cap U
+Basarios Helm U
+Basarios Cap U

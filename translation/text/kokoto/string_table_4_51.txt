@@ -1,0 +1,67 @@
+2,Oh, good morning!<NEWLINE>You're up early today,<NEWLINE>aren't you? Getting<NEWLINE>used to life in this<NEWLINE>village?
+2,What?! You want to be<NEWLINE>a hunter?! ...Well, if<NEWLINE>that's what you really<NEWLINE>want...
+0,Why don't you start by<NEWLINE>talking to the Village<NEWLINE>Chief?
+0,I guess you're really<NEWLINE>serious about being a<NEWLINE>hunter, eh? Why don't<NEWLINE>you start by talking<NEWLINE>to the Village Chief?
+2,Oh, good morning!<NEWLINE>You're up early today,<NEWLINE>aren't you? Getting<NEWLINE>used to life in this<NEWLINE>village?<NEWLINE>
+2,You seem different<NEWLINE>than your regular<NEWLINE>country bumpkin...<NEWLINE>Huh? You have<NEWLINE>experience as a<NEWLINE>hunter!?
+0,I see. If you are<NEWLINE>going to be a hunter<NEWLINE>in this town, how<NEWLINE>about having a talk<NEWLINE>with the Village<NEWLINE>Chief? I'm sure he<NEWLINE>will help you.
+0,If you are going to be<NEWLINE>a hunter in this town,<NEWLINE>how about having a<NEWLINE>talk with the Village<NEWLINE>Chief? I'm sure he<NEWLINE>will help you.
+2,This... this is<NEWLINE>terrible! I... I saw a<NEWLINE>Velociprey outside of<NEWLINE>town!
+2,Blue ~scales! Sharp<NEWLINE>claws! Moreover, I<NEWLINE>heard that the<NEWLINE>Velocipreys' are<NEWLINE>led by a very strong<NEWLINE>leader this time.
+0,If a large herd of<NEWLINE>them appears, there is<NEWLINE>no one in this small<NEWLINE>village to stop<NEWLINE>them...
+2,Velocipreys are<NEWLINE>vicious carnivores.<NEWLINE>Alone they are weak,<NEWLINE>but they always attack<NEWLINE>in packs...
+0,...and they are led<NEWLINE>by a powerful<NEWLINE>leader... It is a<NEWLINE>scary thought.
+2,This... this is<NEWLINE>terrible! I... I saw a<NEWLINE>Velociprey outside of<NEWLINE>town!
+2,Blue ~scales! Sharp<NEWLINE>claws! Moreover, I<NEWLINE>heard that the<NEWLINE>Velocipreys' are<NEWLINE>led by a very strong<NEWLINE>leader this time.
+0,If a large herd of<NEWLINE>them appears, there is<NEWLINE>no one in this small<NEWLINE>village to stop<NEWLINE>them...
+2,Velocipreys are<NEWLINE>vicious carnivores.<NEWLINE>Alone they are weak,<NEWLINE>but they always attack<NEWLINE>in packs...
+0,...and they are led<NEWLINE>by a powerful<NEWLINE>leader... It is a<NEWLINE>scary thought.
+2,You have to hear this!<NEWLINE>It seems my friend saw<NEWLINE>a Yian Kut-Ku in the<NEWLINE>jungle. 
+2,Rumor has it that they<NEWLINE>are even more powerful<NEWLINE>than a Velociprey.<NEWLINE>Yian Kut-Ku is a<NEWLINE>flying wyvern, you<NEWLINE>know.
+0,They live this close<NEWLINE>huh... I wonder if it<NEWLINE>wouldn't be better to<NEWLINE>move away from here.  
+2,It seems a Yian Kut-Ku<NEWLINE>was spotted in the<NEWLINE>jungle.
+0,They live this close<NEWLINE>huh... I wonder if it<NEWLINE>wouldn't be better to<NEWLINE>move away from here.  
+2,Have you heard!? It is<NEWLINE>really terrible! I<NEWLINE>heard the corpse of a<NEWLINE>carnivorous monster<NEWLINE>was found on a hill<NEWLINE>near town!
+2,The story goes that it<NEWLINE>looked like it was<NEWLINE>chewed upon by a giant<NEWLINE>wyvern. 
+0,The men who were at<NEWLINE>that place made a huge<NEWLINE>racket screaming<NEWLINE>"Rathalos is here!"<NEWLINE>This surely is the end<NEWLINE>of the village!
+0,A giant wyvern... A<NEWLINE>monster like that near<NEWLINE>the village will<NEWLINE>surely be the end of<NEWLINE>this place.
+2,I can't believe it!<NEWLINE>You slayed that<NEWLINE>Rathalos!?
+2,I saw the Rathalos in<NEWLINE>the forest as well. I<NEWLINE>was lucky that he<NEWLINE>didn't notice me...
+2,The wyvern was eating<NEWLINE>the meat of a<NEWLINE>herbivore with his<NEWLINE>sharp fangs. The sight<NEWLINE>of red blood and blue<NEWLINE>scales is still with<NEWLINE>me...
+2,To slay something like<NEWLINE>that is remarkable...<NEWLINE>Huh, the one you<NEWLINE>slayed wasn't blue? It<NEWLINE>was red!?
+0,The one I saw was<NEWLINE>definitely blue! ...I<NEWLINE>guess Rathalos come in<NEWLINE>different colors!
+2,I'm sure the Rathalos<NEWLINE>I saw was blue... This<NEWLINE>land must be home to<NEWLINE>various colors of<NEWLINE>Rathalos.
+0,If you make armor from<NEWLINE>the pieces of that<NEWLINE>beast, it would be the<NEWLINE>most beautiful blue<NEWLINE>set. The kind of armor<NEWLINE>dreams are made of. 
+2,According to the<NEWLINE>Village Chief, the<NEWLINE>swordsmen of old were<NEWLINE>much more remarkable<NEWLINE>in their abilities. 
+2,That sword you are<NEWLINE>holding... Wait a<NEWLINE>second, the Chief said<NEWLINE>he'd defend that sword<NEWLINE>until a truly worthy<NEWLINE>hunter appeared. 
+0,You are going to use<NEWLINE>that sword! In a way,<NEWLINE>I am a bit proud<NEWLINE>myself.
+2,I always thought you<NEWLINE>would make something<NEWLINE>of yourself. It isn't<NEWLINE>a surprise at all!
+0,The Village Chief's<NEWLINE>Sword... Take care of<NEWLINE>it, OK?
+2,Hey! Hey! Have you<NEWLINE>heard!? A giant dragon<NEWLINE>has appeared!!
+2,Rumor has it that its<NEWLINE>body is bigger than a<NEWLINE>mountain and its limbs<NEWLINE>are wider than a<NEWLINE>tree... Surely this<NEWLINE>must be the one called<NEWLINE>Lao-Shan Lung?
+0,I just can't believe<NEWLINE>it. It just has to be<NEWLINE>a cruel joke...
+2,Word on the street is<NEWLINE>that a giant dragon<NEWLINE>the size of a mountain<NEWLINE>has been spotted. 
+0,Is that kind of thing<NEWLINE>really possible in a<NEWLINE>peaceful village like<NEWLINE>this?
+2,I heard the news...<NEWLINE>You repelled Lao-Shan?<NEWLINE>The rumors about the<NEWLINE>giant dragon are true,<NEWLINE>huh?
+2,If that is the case,<NEWLINE>no matter what shows<NEWLINE>up, I won't be<NEWLINE>surprised. If the<NEWLINE>rumors are true, then<NEWLINE>the legend must be<NEWLINE>true as well. 
+2,The legend?  <NEWLINE><NEWLINE>"The legend of death,<NEWLINE>    death by a   <NEWLINE>   giant wyvern <NEWLINE> has been revived   "
+0,That is what we were<NEWLINE>told as children, but<NEWLINE>we didn't really know<NEWLINE>what a legend meant.
+2,"The legend of death,<NEWLINE>    death by a   <NEWLINE>   giant wyvern <NEWLINE> has been revived   "
+0,I'm sure something<NEWLINE>incredible is<NEWLINE>coming... But this<NEWLINE>time, I won't be<NEWLINE>surprised.
+2,I heard that you have<NEWLINE>become a G-Class<NEWLINE>Hunter.
+2,You definitely have<NEWLINE>the teachings of the<NEWLINE>Hero of Kokoto in you.<NEWLINE>Even the Village Chief<NEWLINE>is proud!
+2,But take care. In the<NEWLINE>G-Class, you are going<NEWLINE>to come face to face<NEWLINE>with all kinds of<NEWLINE>enormous monsters.
+0,They are called "King<NEWLINE>Size" amongst other<NEWLINE>hunters... It is a<NEWLINE>frightening tale,<NEWLINE>isn't it?
+0,They call G-Class<NEWLINE>beasts "King Size"...<NEWLINE>You should be OK,<NEWLINE>but be careful<NEWLINE>nonetheless.
+2,W...Wait...Wait!<NEWLINE>Did...did you hear the<NEWLINE>news? It's...it's...
+2,I said that no matter<NEWLINE>what happened, I<NEWLINE>wouldn't be surprised,<NEWLINE>but I take it back.<NEWLINE>There is a myth-like<NEWLINE>evil dragon that I<NEWLINE>wasn't expecting.
+0,The Evil Dragon<NEWLINE>Fatalis... Just<NEWLINE>thinking about it<NEWLINE>makes my heart jump<NEWLINE>out of my chest!
+2,Even though I said I<NEWLINE>wouldn't be surprised,<NEWLINE>I have my limits...!
+0,The Evil Dragon<NEWLINE>Fatalis... Just<NEWLINE>thinking about it<NEWLINE>makes my heart jump<NEWLINE>out of my chest!
+2,There was a legend I<NEWLINE>heard as a child...<NEWLINE><NEWLINE>"The legend of death,<NEWLINE>    death by a   <NEWLINE>   giant wyvern <NEWLINE> has been revived   "
+2,That legend has a new<NEWLINE>verse now.
+2,"A legend revived,<NEWLINE>destroyed by a hero<NEWLINE>who had true courage"
+2,If it is possible for<NEWLINE>an evil dragon of myth<NEWLINE>to reappear, then it<NEWLINE>is natural for a<NEWLINE>legendary hero to<NEWLINE>appear as well, don't<NEWLINE>you think?
+0,And that hero is<NEWLINE>standing right before<NEWLINE>me. That hero is you.<NEWLINE>The pride of the<NEWLINE>village. A perfect<NEWLINE>happy ending. 
+2,"A legend revived,<NEWLINE>destroyed by a hero<NEWLINE>who had true courage"
+0,A new legend that will<NEWLINE>be passed down through<NEWLINE>eternity.

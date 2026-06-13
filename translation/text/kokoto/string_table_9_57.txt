@@ -1,0 +1,77 @@
+2,Huh? You want<NEWLINE>something? I'm a<NEWLINE>hunter, you know. And<NEWLINE>I'm very busy! 
+2,What? You want to be a<NEWLINE>hunter too?! Now wait<NEWLINE>just a minute! Take it<NEWLINE>from me, hunting is<NEWLINE>too dangerous for<NEWLINE>somebody like you. You<NEWLINE>aren't cut out for it!
+0,What? Your mind's made<NEWLINE>up? Well, if you're<NEWLINE>sure... I guess you'd<NEWLINE>better go talk to the<NEWLINE>Village Chief, then.<NEWLINE>Well, see you later!<NEWLINE>Hah hah hah! 
+2,Look, I warned you how<NEWLINE>dangerous being a<NEWLINE>hunter was! But if you<NEWLINE>still want to be one,<NEWLINE>you'd better talk to<NEWLINE>the Village Chief. 
+0,It'll be a good fifty<NEWLINE>years before you get<NEWLINE>to be as good a hunter<NEWLINE>as me though! Hah hah<NEWLINE>hah! 
+2,Huh? You want <NEWLINE>something? I'm a <NEWLINE>hunter, you know. <NEWLINE>Can't you see that I'm<NEWLINE>busy?
+2,WHAT!? You are going <NEWLINE>to become a hunter!? <NEWLINE>...Well, it makes <NEWLINE>sense. You don't look <NEWLINE>like an amateur. Well,<NEWLINE>suit yourself...
+2,If you're going to be <NEWLINE>a hunter in this <NEWLINE>village, go talk to <NEWLINE>the Village Chief. <NEWLINE>That is the first <NEWLINE>step. 
+0,You better work hard. <NEWLINE>If you are to become <NEWLINE>the kind of excellent <NEWLINE>hunter I am, it is <NEWLINE>going to be up to your<NEWLINE>hard work. 
+2,If you're going to be <NEWLINE>a hunter in this <NEWLINE>village, go talk to <NEWLINE>the Village Chief. <NEWLINE>That is the first <NEWLINE>step. 
+0,You better work hard. <NEWLINE>If you are to become <NEWLINE>the kind of excellent <NEWLINE>hunter I am, it is <NEWLINE>going to be up to your<NEWLINE>hard work. 
+2,Huh? You need<NEWLINE>something? Oh yeah,<NEWLINE>you are probably here<NEWLINE>to get advice from me<NEWLINE>as a hunter. Fine with<NEWLINE>me. 
+2,Wisdom and courage are<NEWLINE>very important to a <NEWLINE>hunter, and you must <NEWLINE>also be overflowing <NEWLINE>with talent and <NEWLINE>charisma. With that, <NEWLINE>you should be ok.
+2,Huh? You also must be <NEWLINE>able to observe an <NEWLINE>enemy's actions, be a <NEWLINE>master of using items,<NEWLINE>and never let an<NEWLINE>enemy escape. 
+0,Indeed, these things <NEWLINE>are important to a <NEWLINE>beginner like you, but<NEWLINE>if you are filled to<NEWLINE>the brim with ability <NEWLINE>like me, it shouldn't <NEWLINE>be too hard. Hahaha!
+2,You have to observe<NEWLINE>your enemies, be a<NEWLINE>master of using items,<NEWLINE>and never let an enemy<NEWLINE>escape...
+0,Hey! That is just a<NEWLINE>pointer for someone<NEWLINE>like you. I have no<NEWLINE>need for that sort of<NEWLINE>thing. Hahaha! 
+2,Hey you! Have you ever<NEWLINE>heard of the Training<NEWLINE>School?
+2,Rumor has it that it<NEWLINE>is a place for a<NEWLINE>hunter to brush up on<NEWLINE>his skills. 
+2,Various Capture<NEWLINE>Quests, slaying<NEWLINE>countless monsters...<NEWLINE>I think you get the<NEWLINE>idea. 
+0,But I think that if<NEWLINE>you have the limitless<NEWLINE>skill I have, there is<NEWLINE>no need for<NEWLINE>training... Hahaha!
+2,The Training School. A<NEWLINE>place for a hunter to<NEWLINE>brush up on their<NEWLINE>skills. If there<NEWLINE>really is a place like<NEWLINE>that, by all means<NEWLINE>learn their moves...
+0,No no. If there is<NEWLINE>someone even more<NEWLINE>skilled that myself,<NEWLINE>they surely wouldn't<NEWLINE>need training.<NEWLINE>Hahahaha!
+2,Hey you! Have you ever<NEWLINE>heard of the Training<NEWLINE>School?
+2,Rumor has it that it<NEWLINE>is a place for a<NEWLINE>hunter to brush up on<NEWLINE>their skills. 
+2,Various Capture<NEWLINE>Quests, slaying<NEWLINE>countless monsters...<NEWLINE>I think you get the<NEWLINE>idea. 
+0,But I think that if<NEWLINE>you have the limitless<NEWLINE>skill I have, there is<NEWLINE>no need for<NEWLINE>training... Hahaha!
+2,The Training School. A<NEWLINE>place for a hunter to<NEWLINE>brush up on their<NEWLINE>skills. If there<NEWLINE>really is a place like<NEWLINE>that, by all means<NEWLINE>learn their moves...
+0,No no. If there is<NEWLINE>someone even more<NEWLINE>skilled that myself,<NEWLINE>they surely wouldn't<NEWLINE>need training.<NEWLINE>Hahahaha!
+2,I made Dual Blades so<NEWLINE>I could slay Rathalos!<NEWLINE>Even though I can't<NEWLINE>guard, with a blade in<NEWLINE>each hand, I'll<NEWLINE>overwhelm Rathalos<NEWLINE>with offense! 
+2,By pressing the<NEWLINE>~B05 button you can<NEWLINE>launch a whirlwind of<NEWLINE>blades. However, you<NEWLINE>must pay attention to<NEWLINE>the decrease in your<NEWLINE>stamina. 
+2,I kept improving my<NEWLINE>one handed sword, and<NEWLINE>before I knew it, it<NEWLINE>was like this... but I<NEWLINE>had it planned that<NEWLINE>way all along. 
+0,You've done well to<NEWLINE>take the initiative<NEWLINE>this far, but I think<NEWLINE>I'll be first to go<NEWLINE>after Rathalos. I'll<NEWLINE>be waiting! Haha!
+2,I made Dual Blades so<NEWLINE>I could slay Rathalos!<NEWLINE>With a blade in each<NEWLINE>hand, I'll overwhelm<NEWLINE>Rathalos with offense!<NEWLINE>
+0,I kept improving my<NEWLINE>one handed sword, and<NEWLINE>before I knew it, it<NEWLINE>was like this... but I<NEWLINE>had it planned that<NEWLINE>way all along. 
+2,WHAT!? You killed<NEWLINE>Rathalos!? I can't<NEWLINE>believe that you got<NEWLINE>the jump on me! It's<NEWLINE>all my fault!
+2,I didn't lose because<NEWLINE>of a difference in<NEWLINE>ability, I lost due to<NEWLINE>a difference in<NEWLINE>weapons. I must get an<NEWLINE>even better weapon! 
+2,Now I've got my eye on<NEWLINE>some bone material! I<NEWLINE>get this material all<NEWLINE>the time in my battles<NEWLINE>with monsters so it<NEWLINE>fits me perfectly,<NEWLINE>don't you think?
+2,The more and more you<NEWLINE>fight strong monsters,<NEWLINE>the stronger the<NEWLINE>materials you can<NEWLINE>earn.
+0,The only problem is<NEWLINE>how do I defeat<NEWLINE>Rathalos...?
+2,The more you fight<NEWLINE>strong monsters, the<NEWLINE>stronger the materials<NEWLINE>you can earn. This is<NEWLINE>especially true of<NEWLINE>bone material.
+0,The only problem is<NEWLINE>how do I defeat<NEWLINE>Rathalos...?
+2,I was defeated last<NEWLINE>time I tried to slay<NEWLINE>Rathalos, but this<NEWLINE>time I've found<NEWLINE>something even better!
+2,A wyvern with one<NEWLINE>giant horn... I'm<NEWLINE>going to take on<NEWLINE>Monoblos! It wont be<NEWLINE>like last time. I'm<NEWLINE>going to make up for<NEWLINE>losing to Rathalos!
+0,Hmph! I'm watching<NEWLINE>you! Now is the time<NEWLINE>to show your skills as<NEWLINE>a top class hunter.<NEWLINE>Hahaha!
+2,When Monoblos gets<NEWLINE>his horn stuck in a<NEWLINE>wall it's the perfect<NEWLINE>chance to strike...<NEWLINE>hrmph. 
+0,Cra...Crap! Someone<NEWLINE>overheard my surefire<NEWLINE>secret method!
+2,Well... seems like you<NEWLINE>have been on quite a<NEWLINE>roll. You've been<NEWLINE>slaying all kinds of<NEWLINE>wyverns... Somehow I<NEWLINE>feel there is a bigger<NEWLINE>difference between us.
+2,But, up to this point,<NEWLINE>I have been losing<NEWLINE>because of my weapons.<NEWLINE>Bone material had<NEWLINE>caught my eye but I<NEWLINE>couldnÅft get a bone<NEWLINE>from the right dragon.
+2,This time it is<NEWLINE>different. Recently, I<NEWLINE>stumbled on a<NEWLINE>Ruststone... The<NEWLINE>Crafting Shop said I<NEWLINE>may have found<NEWLINE>something incredible.
+2,Swords made with<NEWLINE>Ancient Metals were<NEWLINE>used by elite soldiers<NEWLINE>in the past to kill<NEWLINE>countless wyverns...<NEWLINE>They don't make swords<NEWLINE>like they used to...
+0,Well... this kind of<NEWLINE>thing is seldomly<NEWLINE>found, and to make<NEWLINE>good use of it, it<NEWLINE>seems you need a large<NEWLINE>number of Earth<NEWLINE>Crystals. 
+0,This Ruststone... Is<NEWLINE>it an elite soldier's<NEWLINE>sword or a regular<NEWLINE>weapon...? I am too<NEWLINE>scared to ask the<NEWLINE>Crafting Shop to<NEWLINE>polish it for me. 
+2,I heard the news! You<NEWLINE>fought back a Lao-Shan<NEWLINE>Lung didn't you? I<NEWLINE>figured you could do<NEWLINE>it. 
+2,What's the matter? You<NEWLINE>thought I'd be crying<NEWLINE>tears of regret or<NEWLINE>something? Haha!<NEWLINE>Well, too bad...
+2,The truth is when you<NEWLINE>killed that giant<NEWLINE>dragon, I was there<NEWLINE>too! When the rock<NEWLINE>fell on top of it,<NEWLINE>that was my work! 
+0,In other words, our<NEWLINE>battle, at least with<NEWLINE>regards to the fight<NEWLINE>with Lao-Shan Lung,<NEWLINE>was a draw! 
+2,I was in the battle<NEWLINE>against the Lao-Shan<NEWLINE>Lung. The Guild<NEWLINE>Manager personally<NEWLINE>invited me. 
+0,I didn't just let<NEWLINE>loose the stone, I<NEWLINE>also transported the<NEWLINE>Cannon S. What?<NEWLINE>Odd jobs...? Quit<NEWLINE>being stupid...<NEWLINE>Hahaha!
+2,Huh? The G-Class?<NEWLINE>Trying to get a leg up<NEWLINE>on me again, I see. I<NEWLINE>myself am just waiting<NEWLINE>to be promoted. 
+2,I heard somewhere that<NEWLINE>G-Class Quests are for<NEWLINE>Hunter Ranks 3 to 5.<NEWLINE>It also seems that<NEWLINE>they have 3 levels. 
+2,I hope I get promoted<NEWLINE>before you do...<NEWLINE>I hear the best<NEWLINE>equipment is made <NEWLINE>with G-Class monster<NEWLINE>materials. 
+0,No way! No way! Don't<NEWLINE>you be cowardly with<NEWLINE>me. No matter what, I<NEWLINE>am your rival!
+2,I hope I get to the<NEWLINE>G-Class before you.<NEWLINE>Especially since you<NEWLINE>can make the best of<NEWLINE>the best equipment<NEWLINE>with G-Class<NEWLINE>materials. 
+0,No way! No way! Don't<NEWLINE>you be cowardly with<NEWLINE>me. No matter what, I<NEWLINE>am your rival!
+2,"The Evil Dragon<NEWLINE>Fatalis"... The<NEWLINE>existence of that<NEWLINE>mythological beast<NEWLINE>really is a reality...
+2,According to the myth,<NEWLINE>no matter how many<NEWLINE>times he tried, the<NEWLINE>hunter they called the<NEWLINE>hero was never able to<NEWLINE>slay Fatalis. I can't<NEWLINE>imagine it myself... 
+2,What? You are going to<NEWLINE>face that Evil Dragon<NEWLINE>yourself? You<NEWLINE>shouldn't harbor such<NEWLINE>stupid ideas... There<NEWLINE>is no way you can win.<NEWLINE>
+0,I see... Then let me<NEWLINE>break the bonds we had<NEWLINE>as rivals. Your only<NEWLINE>rival this time will<NEWLINE>be that cursed wyvern.<NEWLINE>
+2,Let me break the bonds<NEWLINE>we had as rivals. Your<NEWLINE>only rival this time<NEWLINE>will be that cursed<NEWLINE>wyvern. 
+0,Nothing is impossible<NEWLINE>to you, is it? You<NEWLINE>truly have grasped the<NEWLINE>essence of life. 
+2,You did it! You<NEWLINE>defeated Fatalis! It<NEWLINE>looks like you didn't<NEWLINE>even break a sweat<NEWLINE>beating him!
+2,I miss the days we<NEWLINE>used to compete<NEWLINE>against each other. 
+2,Now that you mention<NEWLINE>it, did you happen to<NEWLINE>obtain materials from<NEWLINE>Fatalis? I was<NEWLINE>wondering what kind of<NEWLINE>equipment you could<NEWLINE>make?
+0,I bet you could make<NEWLINE>weapons like the "True<NEWLINE>Black Dragon Spear"<NEWLINE>with that material,<NEWLINE>huh...
+2,It looks like you<NEWLINE>didn't even break a<NEWLINE>sweat beating Fatalis.<NEWLINE>I miss the days we<NEWLINE>used to compete<NEWLINE>against each other. 
+0,Now that you mention<NEWLINE>it, did you get any<NEWLINE>materials off Fatalis?<NEWLINE>You could make weapons<NEWLINE>like the "True Black<NEWLINE>Dragon Spear" with<NEWLINE>that stuff... 

@@ -1,0 +1,18 @@
+0,Oh! How are you? I<NEWLINE>brought some Felynes<NEWLINE>looking for work with<NEWLINE>me. If you see one<NEWLINE>you'd like to hire,<NEWLINE>just say so!
+2,I'm sorry, but I must<NEWLINE>leave. I'll be back,<NEWLINE>so if you want to hire<NEWLINE>one then, just say so!<NEWLINE>I don't know when I'll<NEWLINE>be back though!
+0,If you want to hire<NEWLINE>some Felynes, become a<NEWLINE>reliable hunter. Then<NEWLINE>I'll be happy to do<NEWLINE>business with you. 
+2,I'm sorry, but I must<NEWLINE>leave. I'll be back,<NEWLINE>so if you want to hire<NEWLINE>one then, just say so!<NEWLINE>I don't know when I'll<NEWLINE>be back though!
+0,I can definitely trust<NEWLINE>you with these<NEWLINE>Felynes.
+2,I'm the granny who<NEWLINE>takes care of getting<NEWLINE>these Felynes work.<NEWLINE>You are a hunter,<NEWLINE>aren't you?
+2,How about trying some<NEWLINE>of these Felynes as<NEWLINE>workers?
+2,These Felynes I am <NEWLINE>with are excellent <NEWLINE>cooks. If you hire <NEWLINE>them, you can eat the <NEWLINE>kind of gourmet meals <NEWLINE>that will have your<NEWLINE>taste buds dancing.
+2,A hunter in your<NEWLINE>position should have <NEWLINE>a Felyne employee. <NEWLINE>How about taking one <NEWLINE>out on a trial run?
+0,Well, I guess the<NEWLINE>first Felyne will be<NEWLINE>on me. After that, you<NEWLINE>have to pay a finder's<NEWLINE>fee for any of these<NEWLINE>cats you hire.
+2,Oh! You seem to be<NEWLINE>doing well! You will<NEWLINE>be wanting to hire<NEWLINE>some more Felynes<NEWLINE>soon, huh?
+0,I suppose I could let<NEWLINE>you have 2 Felynes or<NEWLINE>so... If you see any<NEWLINE>you want to hire, let<NEWLINE>me know.
+2,Oh! You seem to be<NEWLINE>doing well! You will<NEWLINE>be wanting to hire<NEWLINE>some more Felynes<NEWLINE>soon, huh?
+0,Looking at you now, I<NEWLINE>suppose I could let<NEWLINE>you have about 3<NEWLINE>Felynes... If you see<NEWLINE>any you want to hire,<NEWLINE>let me know.
+2,Oh! You seem to have<NEWLINE>really grown up! You<NEWLINE>will be wanting to<NEWLINE>hire some more<NEWLINE>Felynes soon, huh?
+0,For someone like you I<NEWLINE>suppose I could let<NEWLINE>you have about 4<NEWLINE>Felynes... If you see<NEWLINE>any you want to hire,<NEWLINE>let me know.
+2,Oh! What a fine hunter<NEWLINE>you have become! I can<NEWLINE>let a fine hunter like<NEWLINE>you hire 5 Felynes.
+0,But 5 is the limit. I<NEWLINE>can't let you have<NEWLINE>anymore than that. If<NEWLINE>you see a Felyne you<NEWLINE>would like to hire,<NEWLINE>just let me know.

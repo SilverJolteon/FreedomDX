@@ -1,0 +1,282 @@
+Nothing equipped.
+Lightweight body armor. The<NEWLINE>first step towards becoming<NEWLINE>a hunter!
+Sturdy chainmail armor. A<NEWLINE>time-tested and proven<NEWLINE>design for novices.
+Custom armor for hunters.<NEWLINE>One of the most common types<NEWLINE>of armor.
+Although weaker than<NEWLINE>Hunter's Mail, this is more<NEWLINE>resistant to the elements.
+Made from Velociprey scales.<NEWLINE>Craftable by novices, this <NEWLINE>sports balanced resistances.
+Velociprey scales fused with<NEWLINE>Iron Ore. A vest with a wide<NEWLINE>range of high resistances.
+Stronger version of<NEWLINE>Velociprey Mail. Made from<NEWLINE>Genprey scales.
+Vest of Iron Ore fused with<NEWLINE>Genprey scales. Improved<NEWLINE>Thunder resistance.
+Strongest of all the<NEWLINE>"Velociprey" mail. Made from<NEWLINE>Ioprey scales.
+Vest of Iron Ore fused with<NEWLINE>Ioprey scales. Improved <NEWLINE>resistance to Fire attacks.
+Rathian material fused with<NEWLINE>ore makes for highly<NEWLINE>protective mail.
+Vest made from Rathian<NEWLINE>material. Trades protection<NEWLINE>for Fire resistance.
+Made from Cephalos material.<NEWLINE>Sturdy armor, but weak<NEWLINE>against Thunder attacks.
+Made from Cephalos material,<NEWLINE>this shoulder-finned armor<NEWLINE>is resistant to Water.
+Made from a Yian Kut-Ku, the<NEWLINE>peach-colored material<NEWLINE>evokes nature.
+Made from a Yian Kut-Ku.<NEWLINE>Uniquely colored armor that<NEWLINE>is highly Fire resistant.
+Custom body armor for<NEWLINE>hunters. Everyone wants to<NEWLINE>try this on once.
+Body armor for hunters.<NEWLINE>Light and resistant to Fire<NEWLINE>attack. Top-class equipment.
+Made with Monoblos horn,<NEWLINE>this oversized body armor<NEWLINE>boasts superior protection.
+Made from a Monoblos and<NEWLINE>resistant to Fire. The horn<NEWLINE>is proof of one's standing.
+Body armor made from hide<NEWLINE>and monster bone. Features<NEWLINE>wing-like shoulder plates.
+Made from hide and monster<NEWLINE>bone, it protects against<NEWLINE>both Fire and Water.
+Gypceros hide makes this<NEWLINE>armor rubbery and resistant<NEWLINE>to physical damage.
+Gypceros hide makes this<NEWLINE>armor highly resistant to<NEWLINE>the Thunder element.
+Rathalos material gives good<NEWLINE>protection as well as Fire<NEWLINE>and Thunder resistance.
+Rathalos material gives this<NEWLINE>vest excellent Fire and<NEWLINE>Thunder resistance.
+Improved Gravios Mail.<NEWLINE>Boasts top-class physical<NEWLINE>protection.
+Improved Gravios Vest. High<NEWLINE>Defense plus resistance to<NEWLINE>Fire and Thunder attacks.
+Improved Hi-Metal Mail.<NEWLINE>Crafted from ultra-pure ore.<NEWLINE>Highly protective.
+Improved Hi-Metal Vest. The<NEWLINE>special ore used resists<NEWLINE>Thunder attacks.
+Improved Diablo Mail. The<NEWLINE>two horns evoke a sense of<NEWLINE>pure power.
+Improved Diablo Vest. The<NEWLINE>giant horn symbolizes its<NEWLINE>elemental resistance.
+Armor for men made from<NEWLINE>Lao-Shan material. Only for<NEWLINE>the bravest of hunters.
+Made from Lao-Shan material.<NEWLINE>Oriental techniques lend it<NEWLINE>superb Thunder resistance.
+Female armor created from<NEWLINE>Lao-Shan material. Physical<NEWLINE>proof of valor.
+Female armor created from<NEWLINE>Lao-Shan material. Resistant<NEWLINE>to three elements.
+Improved Vespoid Mail. Weak<NEWLINE>against Fire and Water but<NEWLINE>very protective.
+Improved Vespoid Vest. Made<NEWLINE>with a special shell that<NEWLINE>resists Thunder attacks.
+Improved Khezu Mail. The<NEWLINE>cool, soft material feels<NEWLINE>surprisingly nice.
+Improved Khezu Vest. Feels<NEWLINE>nice, once you can get used<NEWLINE>to it.
+Improved Lobster Mail. Hard<NEWLINE>armor plate, but weak<NEWLINE>against Thunder.
+Improved Lobster Vest.<NEWLINE>Strong resistance to the<NEWLINE>Water element.
+Improved Plesioth Mail.<NEWLINE>Superb protection, but weak<NEWLINE>against Thunder.
+Improved Plesioth Vest. Good<NEWLINE>protection and resistant to<NEWLINE>Water, Dragon.
+Improved Hornet Mail. Strong<NEWLINE>against physical and Dragon<NEWLINE>attacks.
+Improved Hornet Vest. Superb<NEWLINE>protection against the<NEWLINE>Dragon element.
+Made from Fatalis' Shell.<NEWLINE>Wear this and become a<NEWLINE>legend among hunters.
+Made from Fatalis' Shell.<NEWLINE>Said to give the wearer the<NEWLINE>power of the dragon!
+Replica of the secret armor<NEWLINE>of the Guild. Strong, but<NEWLINE>only able to be worn by men.
+Male only armor with<NEWLINE>impeccable defensive power.<NEWLINE>Awarded for Guild service.
+Replica of the Female body <NEWLINE>armor bestowed upon those<NEWLINE>selected by the Guild.
+Female body armor. A replica<NEWLINE>of a Guild woman's private<NEWLINE>belongings.
+Replica of the armor worn<NEWLINE>only by those who have<NEWLINE>passed significant trials. 
+Replica of the armor worn<NEWLINE>only by those who have<NEWLINE>passed significant trials. 
+Body armor designed to<NEWLINE>resemble a Mosswine. Feel<NEWLINE>your inner pig!
+Body armor made from rare<NEWLINE>ore. Loved by hunters for<NEWLINE>its easy handling.
+Made primarily from precious<NEWLINE>ore, this vest has a high<NEWLINE>resistance to Thunder.
+This armor is covered in<NEWLINE>Khezu hide. The skin-tight<NEWLINE>fit appeals to some.
+A vest covered in Khezu<NEWLINE>hide. It feels soft and<NEWLINE>moist against your skin.
+Body armor made from King<NEWLINE>Lobster carapace. Weak<NEWLINE>against Thunder.
+Made from Water-resistant<NEWLINE>King Lobster carapace. Very<NEWLINE>easy to maintain.
+A suit of armor made from<NEWLINE>Plesioth scales. Sturdy, but<NEWLINE>weak against Thunder.
+A vest made of Plesioth fins<NEWLINE>and scales. Features a<NEWLINE>unique collarpiece.
+This mail resists physical<NEWLINE>damage well, but is weak<NEWLINE>against Water and Fire.
+A vest wrapped in Vespoid<NEWLINE>Shell. Highly resistant to<NEWLINE>Dragon elemental attacks.
+Armor crafted from Diablos<NEWLINE>Shell. Absurdly strong<NEWLINE>against physical attacks.
+Vest crafted from Diablos<NEWLINE>Shell. Resistant to all<NEWLINE>elemental attacks.
+This Hornetaur shell mail is<NEWLINE>weak against Fire and<NEWLINE>Thunder.
+Armor crafted from strong<NEWLINE>Hornetaur Shell. 
+Crafted from Gravios Shell,<NEWLINE>this armor is as hard as<NEWLINE>rock.
+Armor crafted from Gravios<NEWLINE>Shell. Geared towards<NEWLINE>elemental resistance.
+Uses precious ore in<NEWLINE>abundance for unparalleled<NEWLINE>protection and style.
+Powerful vest made of<NEWLINE>precious ore. Stronger than<NEWLINE>even wyvern shell.
+Improved Rathian Mail. Uses<NEWLINE>select scales for superior<NEWLINE>protection.
+Improved Rathian Vest.<NEWLINE>Superior Fire resistance,<NEWLINE>and good protection.
+Improved Rathalos Mail. Wear<NEWLINE>this and be the envy of<NEWLINE>other hunters.
+Improved Rathalos Vest.<NEWLINE>Resonates with power<NEWLINE>when resisting Thunder.
+The dense shell of a Kut-Ku<NEWLINE>strengthened with rare ore.<NEWLINE>Has a unique flavor to it.
+Defense is boosted with rare<NEWLINE>ore reinforced joints. Not<NEWLINE>lacking in Fire resistance.
+Armor made with usability <NEWLINE>and Defense in mind. Well <NEWLINE>suited for gathering. 
+Made from iron. The carved G<NEWLINE>certifies having joined the<NEWLINE>upper ranks of hunters. 
+The explosion in production <NEWLINE>of this armor is a testament<NEWLINE>to technological advances. 
+Stresses resistance with <NEWLINE>strengthened Defense due to<NEWLINE>the latest technology.
+Upgraded armor made upon a <NEWLINE>base of bone. One can feel <NEWLINE>the life force found within.
+Upgraded armor ornamented <NEWLINE>with monster bone. Stresses <NEWLINE>resistance above Defense.
+Made from Velociprey scales <NEWLINE>arranged to cover gaps and <NEWLINE>increase protection.
+Improved Velociprey Vest. <NEWLINE>Doubled Defense makes it an <NEWLINE>effective choice.
+Specialized armor made for <NEWLINE>battle. Reliable strength <NEWLINE>and great usability. 
+Specialized armor made for <NEWLINE>battle. Features front <NEWLINE>pockets to store shells. 
+Armor made from Genprey <NEWLINE>scales, strengthened through<NEWLINE>the crafting process. 
+Made from Genprey scales, <NEWLINE>stiffened during crafting to<NEWLINE>maintain high resistances.
+Upgraded Ioprey Mail.<NEWLINE>Defense has been doubled<NEWLINE>through complex crafting.
+Carefully hand crafted to <NEWLINE>improve Defense while <NEWLINE>maintaining resistances. 
+Takes advantage of rubbery <NEWLINE>materials to boost thunder <NEWLINE>resistance and Defense. 
+Improved Gypceros Vest.<NEWLINE>Couples thunder resistance <NEWLINE>with high Defense.
+Uses the finest Cephalos<NEWLINE>materials. Strengthened via <NEWLINE>time consuming manual labor.
+Uses the finest Cephalos <NEWLINE>material. A trademark fin <NEWLINE>adorns the shoulder. 
+The start of the "Supreme"<NEWLINE>S-class series. An armor<NEWLINE>with astonishing strength.
+Made via innumerable weeks<NEWLINE>of hammering the densest<NEWLINE>steel. Warranty included.
+Aimed at Hunters for all-<NEWLINE>purpose use. This popular<NEWLINE>model is a class apart.
+Impressive Hunter's armor<NEWLINE>meant to protect the jugular<NEWLINE>by using oversized parts.
+Made from the bones of giant<NEWLINE>monsters, this armor makes <NEWLINE>one want to dance wildly.
+Made from the bones of giant<NEWLINE>monsters. Highly practical,<NEWLINE>contrary to appearances.
+Armor with strength that<NEWLINE>tests the limits of its<NEWLINE>beautiful blue scales. 
+High-end vest made from<NEWLINE>Velociprey. First class<NEWLINE>Defense and resistance.
+Armor made especially for<NEWLINE>battle. Defense surpasses<NEWLINE>normal crafting techniques.
+Armor made especially for<NEWLINE>battle. Just one use will<NEWLINE>addict you to its power.
+Stronger than a wyvern's<NEWLINE>shell, unbelievably this is<NEWLINE>made from insect shell.
+Unbelievably made from<NEWLINE>insect shell. Keeps <NEWLINE>resistance, adds Defense. 
+The eye-catching black shell<NEWLINE>has top class Defense, but<NEWLINE>flawed resistance.
+Made from eye catching black<NEWLINE>insect shell, crafted via a<NEWLINE>complex 100 step process. 
+Made from a phantom ore of<NEWLINE>miniscule yields. Incredibly<NEWLINE>difficult to damage.
+Made from a phantom ore. The<NEWLINE>quality of Defense surpasses<NEWLINE>the difficulty of crafting.
+Made of beautiful green<NEWLINE>scales. Defense pushed to<NEWLINE>the edge via secret skills.
+Made from green Genprey<NEWLINE>scales. Both Defense and<NEWLINE>resistance are first-rate. 
+Strong armor made from the<NEWLINE>rare strengthened shell of<NEWLINE>an elder Yian Kut-Ku. 
+With the plethora of fire<NEWLINE>breathing wyverns, Fire<NEWLINE>resistance is critical.
+Made of beautiful red<NEWLINE>scales. Defense pushed to<NEWLINE>the edge via secret skills.
+Made from Red Ioprey scales.<NEWLINE>Both Defense and resistance<NEWLINE>are first-rate. 
+Hide armor with great<NEWLINE>strength against impacts,<NEWLINE>but beware of Fire attacks.
+Remarkable strength due to<NEWLINE>the progress of technology.<NEWLINE>Sports sound resistances.
+Top class Cephalos armor.<NEWLINE>Combines the strength of<NEWLINE>each and every scale.
+Smooth sanded scales ward<NEWLINE>off Water attacks, with<NEWLINE>equally strong Defense. 
+The ore's balance is said to<NEWLINE>prove a craftsman's skill at<NEWLINE>controlling temperatures.
+Made from an earth<NEWLINE>dominating Rathian. Covered<NEWLINE>in damage resistant scales.
+Made from a Rathian. Any<NEWLINE>kind of flame is powerless<NEWLINE>when faced with this armor. 
+Imbued with the elasticity<NEWLINE>of Khezu hide, it boasts<NEWLINE>incredible defensive power.
+Stylish, top class item made<NEWLINE>from Khezu hide that has<NEWLINE>connoisseurs frothing.
+With the power of the ruler<NEWLINE>of the sky, its flawless<NEWLINE>Defense inspires awe.
+Even if the sun were to<NEWLINE>disappear, this armor would<NEWLINE>never extinguish.
+Armor made from the silver<NEWLINE>scales of a Plesioth, able<NEWLINE>to absorb any impact.
+Made from a glowing orange<NEWLINE>Plesioth fin. Special rough<NEWLINE>surface breeds Water Res.
+High strength armor made<NEWLINE>from bundled lobster shell.<NEWLINE>A glimpse into technology.
+High strength armor made<NEWLINE>from bundled lobster shell.<NEWLINE>A glimpse into technology.
+Ash brown horn thrust into<NEWLINE>the sky, this armor boasts<NEWLINE>terrific strength. 
+Ash brown horn thrust into<NEWLINE>the sky, this joins Defense<NEWLINE>and resistance with style.
+Crimson horn thrust into the<NEWLINE>sky, those wearing this<NEWLINE>armor are called Heroes.
+Crimson horn thrust into the<NEWLINE>sky, this is far stronger<NEWLINE>than any mere fencer's mail.
+The heavy armor is so strong<NEWLINE>that those who face it are<NEWLINE>injured when they attack.
+A vest this solid is<NEWLINE>extremely time consuming,<NEWLINE>but worth the wait.
+The latest model from a<NEWLINE>famous Schrade designer.<NEWLINE>Stand out in a crowd!
+This unique armor is a<NEWLINE>privilege to those with<NEWLINE>close ties to the Guild.
+High end armor issued to<NEWLINE>those on special quests<NEWLINE>given by kingdom officials.
+A charred red color that <NEWLINE>stresses a wild feeling of<NEWLINE>passion in its users. 
+A splendid scarlet color<NEWLINE>brimming with aggression. A<NEWLINE>sure-fire boon to offense. 
+Made with scales from a rare<NEWLINE>White Velociprey. The scales<NEWLINE>exude strength.
+Made with flexible White<NEWLINE>Velociprey scales that allow<NEWLINE>advanced crafting.
+A blend of rare ores, the<NEWLINE>beautiful pink is not a<NEWLINE>coating but the ore itself.
+A special blend of rare<NEWLINE>ores. The heavy weight<NEWLINE>supplements one's strength.
+Made from the shell of a<NEWLINE>rare Blue Kut-Ku. Thick, but<NEWLINE>also light and strong.
+Made from the shell of a<NEWLINE>rare Blue Kut-Ku. Fire<NEWLINE>resistant with high Defense.
+Made with rare Violet<NEWLINE>Gypceros. Unique color and<NEWLINE>style for individuality. 
+Made with rare Violet<NEWLINE>Gypceros. Matches the tastes<NEWLINE>of its unique users.
+Made with rarely obtained<NEWLINE>Cephalos scales colored a<NEWLINE>deeply moving purple.
+Made from thick Cephalos<NEWLINE>scales that have changed<NEWLINE>purple. Strong vs. Water.
+Armor made from elastic red<NEWLINE>hide. Can even ward off a<NEWLINE>flying wyvern's fangs.
+Armor made from the reddish<NEWLINE>Khezu. Crafting has deepened<NEWLINE>the red color.
+Valuable armor made from the<NEWLINE>scales of the rarely sighted<NEWLINE>Green Plesioth.
+Armor made from the scales<NEWLINE>of a rare Plesioth, the<NEWLINE>color of a mossy riverbed.
+The black material stands<NEWLINE>out to enemies as a sign of<NEWLINE>supremacy. High Defense.
+Armor that holds the dignity<NEWLINE>of all who flee from its<NEWLINE>black horns.
+Solid, super-heavyweight<NEWLINE>armor that is a testament to<NEWLINE>a Black Gravios' power.
+The black shell's defensive<NEWLINE>power is awesome. Wearing it<NEWLINE>makes one a human rampart. 
+Given to graduates of the<NEWLINE>Training School. A daily<NEWLINE>reminder of the instructor. 
+Made from the scales of a<NEWLINE>Pink Rathian, recorded in<NEWLINE>legend and doubted to exist.
+As the old adage says, the<NEWLINE>Pink Dragon defends the fair<NEWLINE>maiden. This armor is proof.
+Armor fused with the soul of<NEWLINE>a blue Rathalos that will<NEWLINE>alter the wearer's fate. 
+Armor holding the soul of<NEWLINE>the emperor of blue flame.<NEWLINE>Protection from calamity.
+Made from the marble-like<NEWLINE>glimmering silver white horn<NEWLINE>of a snow White Monoblos.
+Crafted from White Monoblos.<NEWLINE>The hard shell gives birth<NEWLINE>to reassuring strength.
+Made to appear like the<NEWLINE>breast of a Mosswine, but do<NEWLINE>you get its appetite?
+Given to those challenging<NEWLINE>trials. Armor called Shinobi<NEWLINE>are said to go together.
+Given to those challenging<NEWLINE>trials. Armor called Shinobi<NEWLINE>are said to go together.
+Armor used by the rear guard<NEWLINE>of the Guild. Primarily used<NEWLINE>as stage armor.
+The court clothing of Guild<NEWLINE>Knights. High Defense for<NEWLINE>the rare, serious occasion.
+Copy of the uniform worn by<NEWLINE>maidens in service to the<NEWLINE>Guild. Useful for hunting.
+Appears like the daily wear<NEWLINE>of a Guild maiden. Adequate<NEWLINE>protection in battle.
+A pink color, like a burning<NEWLINE>nighttime sky. One can feel<NEWLINE>both its luxury and power.
+Fire resistance strong<NEWLINE>enough to repel the flaming<NEWLINE>breath of a wyvern. 
+The soul of a Rathalos in<NEWLINE>physical form. Armor worthy<NEWLINE>of a king.
+Rathalos, roamer of the<NEWLINE>heavens, soul made into a<NEWLINE>vest able to face any foe.
+Superior Auroros Torso. Mai<NEWLINE>is a designation given when<NEWLINE>superior technology is used.
+Superior Genesis Torso<NEWLINE>carrying Mai status. Can be<NEWLINE>upgraded with Oriental arts.
+Superior Borealis Chest<NEWLINE>carrying Mai status, a clear<NEWLINE>indicator of its gallantry. 
+Superior Glyph Chest. The<NEWLINE>Mai designation is this<NEWLINE>chest's seal of quality.
+Hide with a weird presence,<NEWLINE>causing a strange chill to<NEWLINE>run down one's spine. 
+Made like the muscular body<NEWLINE>of Fatalis. Wearers are one<NEWLINE>with the black dragon. 
+Made for obsessive Mosswine<NEWLINE>lovers. You may even do a<NEWLINE>good Mosswine impression.
+Worn by those who've endured<NEWLINE>severe trials. Marked Heaven<NEWLINE>as proof of initiation.
+Worn by those who've endured<NEWLINE>severe trials. Marked Earth<NEWLINE>as proof of initiation.
+Suit worn by Guild Knights<NEWLINE>when they appear before the<NEWLINE>masses. 
+Worn by Knights who prefer<NEWLINE>the bowgun. High Defense<NEWLINE>prevents assassination.
+Made for Guild receptionists<NEWLINE>turned hunters. Armor for<NEWLINE>battling maidens.
+Maiden fans poured their<NEWLINE>hearts into making this cute<NEWLINE>and voluptuous vest.
+Colored pink like a flower.<NEWLINE>When the flower blooms it<NEWLINE>seals the opposition's fate.
+Colored pink like a falling<NEWLINE>flower petal. It flashes<NEWLINE>hell before its admirers.
+Blue armor holding absolute<NEWLINE>power. Those wearing this<NEWLINE>make history effortlessly.
+Blue vest inspires awe like<NEWLINE>a giant waterfall. Defensive<NEWLINE>power is out of this world.
+Made from White Diablos with<NEWLINE>boundless Defense. A beauty<NEWLINE>one is hesitant to touch. 
+Snow white armor. When light<NEWLINE>hits the armor, it recalls<NEWLINE>the beauty of wet skin. 
+High-end Auroros Torso made<NEWLINE>using only the best<NEWLINE>materials and crafting.
+High-end Genesis Torso.<NEWLINE>Combines rare materials with<NEWLINE>Oriental technology.
+High-end Borealis Chest.<NEWLINE>Given the Haku designation<NEWLINE>to certify exquisiteness.
+High-end Glyph Chest. Made<NEWLINE>from Dragon materials, it<NEWLINE>has a tyrannical brilliance.
+Wearers can feel the beating<NEWLINE>of Fatalis and are said to<NEWLINE>have terrible nightmares. 
+Extreme defensive abilities.<NEWLINE>When worn tightly, one can<NEWLINE>feel true oppression.
+The Auroros Torso of dreams.<NEWLINE>The burning blue flame is a<NEWLINE>symbol of its inner power.
+The Genesis Torso of dreams.<NEWLINE>The blue flame color is the<NEWLINE>ultimate gunner symbol.
+When a wearer draws a sword,<NEWLINE>it fascinates watchers like<NEWLINE>blossoms dancing in wind.
+Owners of this armor can<NEWLINE>project their will like a<NEWLINE>standing mountain. 
+Made from the Queen who<NEWLINE>dances upon the Moon. No one<NEWLINE>can dim the golden color. 
+Power beyond technology. A<NEWLINE>present from the Golden<NEWLINE>Moon, flame is no match.
+Radiates with a Silver Sun's<NEWLINE>frozen flames. Freezes<NEWLINE>attacks before they land.
+As strong as the gods, this<NEWLINE>armor lit by Silver Rathalos<NEWLINE>flame transcends "hot".
+Power that is discomforting.<NEWLINE>The instant it is worn, the<NEWLINE>lust for darkness reigns.
+Armor so light, one can<NEWLINE>forget it is on. Wearing it<NEWLINE>can cause hallucinations. 
+Armor not for gathering, but<NEWLINE>for battle. For those who<NEWLINE>are attacking not defending.
+A vest made with everything<NEWLINE>needed to search and<NEWLINE>destroy. Lacks strength. 
+Lightweight body armor. The<NEWLINE>first step towards becoming<NEWLINE>a hunter!
+Made from Basarios material.<NEWLINE>The jutting shoulder plates<NEWLINE>are its trademark. 
+Made from Basarios material.<NEWLINE>The heavy armor is well<NEWLINE>balanced and not burdensome.
+Made from flower stalks<NEWLINE>stretched thin. Heavy skin<NEWLINE>protects against threats.
+Worn by those aiming to be<NEWLINE>1st-class chefs. Embroidered<NEWLINE>with "Cooking is Courage".
+Small cover made from fish<NEWLINE>scales. Made possible<NEWLINE>through "Alchemy".
+Armor that makes one feel<NEWLINE>like a Velociprey. The blue <NEWLINE>tint is very visible.
+Will make you as sly as a<NEWLINE>Genprey when worn. The green<NEWLINE>hue is quite pleasing.
+Armor that shares the anger<NEWLINE>of an Ioprey. The crimson<NEWLINE>hue excites the heart.
+Made of materials from the<NEWLINE>phantom-like Kirin. Boasts<NEWLINE>elasticity and high Defense.
+Made of materials from the<NEWLINE>phantom-like Kirin. Boasts<NEWLINE>elasticity and high Defense.
+Made from Yian Garuga. The<NEWLINE>thick hard breastplate can<NEWLINE>stand up to any attack.
+Made from Yian Garuga.<NEWLINE>Superior armor with many<NEWLINE>different resistances.
+Made from the rare White<NEWLINE>Velociprey. Top class<NEWLINE>Defense due to crafting.
+Made from the soft scales of<NEWLINE>White Velociprey. Compatible<NEWLINE>with Gravios items.
+Mail made from Blue Kut-Ku.<NEWLINE>Armor made in this blue<NEWLINE>color is very rare.
+Vest made from crafted Blue<NEWLINE>Kut-Ku materials. The blue<NEWLINE>color is enchanting. 
+Made from Green Plesioth.<NEWLINE>Thin but displays<NEWLINE>astonishing strength. 
+Vest made from the rarely<NEWLINE>sighted Green Plesioth. The<NEWLINE>bare midriff is very sexy.
+Made from crafted Black<NEWLINE>Gravios. Its ability does<NEWLINE>not betray it appearance. 
+Proof of defeating a Black<NEWLINE>Gravios. As refreshing as a<NEWLINE>cool breeze in hell.
+Upgraded Basarios Mail. Uses<NEWLINE>extremely strong materials<NEWLINE>to improve Defense.
+Improved Basarios Vest. High<NEWLINE>resistance to three elements<NEWLINE>for all-purpose use.
+Wonderfully fragrant coat<NEWLINE>that is backordered in all<NEWLINE>of the trendiest shops. 
+Obsessed with the pursuit of<NEWLINE>gastronomy? Go to the field<NEWLINE>and gather new ingredients. 
+Made from giant fish<NEWLINE>materials. Powerful enough<NEWLINE>to resist water pressure.
+Armor to become one with the<NEWLINE>spirit of a Velociprey. Try<NEWLINE>wearing it around.
+Armor to see through to the<NEWLINE>heart of a Genprey. Try it<NEWLINE>on and wait for your chance!
+Armor to turn completely<NEWLINE>into an Ioprey. Try it on<NEWLINE>and attack some game.
+Jacket clad in thunderous<NEWLINE>Kirin hide. Lightweight, but<NEWLINE>with menacing Defense.
+Coat clad in thunderous<NEWLINE>Kirin hide. Clothing with<NEWLINE>terrific Thunder resistance.
+Upgraded mail made from Blue<NEWLINE>Kut-Ku. Tenacious strength<NEWLINE>and surprising lightweight.
+Upgraded vest crafted from<NEWLINE>Blue Kut-Ku. Strength to<NEWLINE>resist the fires of hell.
+Upgraded vest crafted from<NEWLINE>Green Plesioth. Hardness<NEWLINE>increases with moisture.
+Armor made from superior<NEWLINE>quality Green Plesioth. The<NEWLINE>scale covered armor shines.
+Jet black like light around<NEWLINE>a black hole. Its wearers<NEWLINE>are gods of death.
+The color of seclusion in<NEWLINE>the darkness. Surface shows<NEWLINE>no trace of being burned. 
+Due to the special surface<NEWLINE>coating, this mail has world<NEWLINE>class strength. 
+The ultimate class of<NEWLINE>Basarios Vest. Blessed with<NEWLINE>high resistance and Defense.
+Often confused for using a<NEWLINE>tree stalk. How many were<NEWLINE>unable to pick this flower?
+For those in search of<NEWLINE>flavor. Finding the ultimate<NEWLINE>cuisine is a one way street.
+A long time ago, this was<NEWLINE>the beloved cover of a<NEWLINE>hunter called the "Buffoon".
+Top class Velociprey suit.<NEWLINE>The quality construction is<NEWLINE>a hit with Velociprey fans. 
+Top class Genprey suit. The<NEWLINE>form fitting suit is a big<NEWLINE>hit with Genprey fans.  
+Top class Ioprey suit. The<NEWLINE>wild and sexy appearance is<NEWLINE>a big hit with Ioprey fans. 
+Knitted with Thunder torn<NEWLINE>from heaven. Catches every<NEWLINE>attack in a corona of light.
+Flickers even in darkness.<NEWLINE>Come too close and feel a<NEWLINE>storm of thunder.
+Deep purple armor. Garuga's<NEWLINE>rage amplifies the mail's <NEWLINE>strength.
+Vest that lavishly uses the<NEWLINE>shell of Garuga, which gains<NEWLINE>strength as it is damaged. 
+Crafted from rare ore. Its<NEWLINE>performance in the field is<NEWLINE>more than satisfactory.
+Made via secret techniques.<NEWLINE>Protects chest against<NEWLINE>strong physical attacks. 
+Armor with a pearl shine<NEWLINE>gained by secret techniques<NEWLINE>and rare materials.
+Crimson mail made via secret<NEWLINE>techniques using top quality<NEWLINE>materials.
+By using secret techniques<NEWLINE>and top quality materials, a<NEWLINE>beautiful crimson is born.
+A suit that can only be worn<NEWLINE>by those pure of heart, like<NEWLINE>a crystal cloudless sky.
+A suit that can only be worn<NEWLINE>by those with compassion as<NEWLINE>limitless as the seas.
+Grayish blue mail made by<NEWLINE>combining quality Genprey<NEWLINE>with other rare materials.
+Grayish blue vest combining<NEWLINE>carefully selected Genprey<NEWLINE>scales with rare materials.
+Violet mail formed by<NEWLINE>special embroidery with fine<NEWLINE>Ioprey and rare materials.
+Beautiful violet vest<NEWLINE>combining carefully selected<NEWLINE>Ioprey with rare materials.
+An intricate armor with<NEWLINE>impurities removed via a<NEWLINE>complex crafting process.
+Giving off a blue radiance,<NEWLINE>it is said to be even harder<NEWLINE>than a diamond.
+Blue radiant vest made from<NEWLINE>pure machalite ore. Proof of<NEWLINE>an industrious hunter. 

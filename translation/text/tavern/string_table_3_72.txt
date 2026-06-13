@@ -1,0 +1,120 @@
+2,Ahh! You're here! A<NEWLINE>real rookie. I heard<NEWLINE>about you from the<NEWLINE>Village Chief. 
+2,This is the counter at<NEWLINE>the Outpost to<NEWLINE>contract work with the<NEWLINE>Hunter's Guild, and I<NEWLINE>am the Outpost Guild<NEWLINE>Master. 
+2,You know of the town,<NEWLINE>don't you? Lately, the<NEWLINE>only road linking this<NEWLINE>Outpost to the town<NEWLINE>has been closed...<NEWLINE>making heading to town<NEWLINE>impossible.
+2,So we established this<NEWLINE>Guild Outpost to be<NEWLINE>able to accept the<NEWLINE>requests as we would<NEWLINE>in the town.  
+2,If you would like to<NEWLINE>engage in Quests with<NEWLINE>a large number of<NEWLINE>other hunters, you<NEWLINE>should come to this<NEWLINE>counter.
+2,I'm leaving out the<NEWLINE>finer points, but I<NEWLINE>should explain some<NEWLINE>details. 
+2,First, I would like<NEWLINE>you to remember the<NEWLINE>two ways of entering<NEWLINE>into this Assembly<NEWLINE>Hall.
+2,You can enter with the<NEWLINE>~B03 button or the<NEWLINE>~B00 button. 
+2,When you enter with<NEWLINE>the ~B03 button,<NEWLINE>communications will be<NEWLINE>disabled, allowing you<NEWLINE>to tackle Guild work<NEWLINE>on your own. 
+2,When you enter with<NEWLINE>the ~B00 button, you<NEWLINE>will automatically<NEWLINE>start communications.<NEWLINE>To tackle a Guild<NEWLINE>Quest with others, use<NEWLINE>the ~B00 button.
+2,It doesn't matter if<NEWLINE>you register here or<NEWLINE>at the Hunter's Guild<NEWLINE>in town, either one<NEWLINE>will earn you credit<NEWLINE>towards the ranking<NEWLINE>system.
+2,When you attain Hunter<NEWLINE>Rank 1, you will be<NEWLINE>able to engage in all<NEWLINE>Normal Rank Quests<NEWLINE>from LV1 to LV3. 
+2,If you can combine<NEWLINE>forces with your<NEWLINE>comrades, these Quests<NEWLINE>should be simple.
+2,Once you get to LV4,<NEWLINE>or Hard Rank Quests,<NEWLINE>you will begin to<NEWLINE>accumulate experience<NEWLINE>that will allow you to<NEWLINE>take on harder Quests.<NEWLINE>
+2,To master these<NEWLINE>Quests, you will have<NEWLINE>to be strong, and you<NEWLINE>will need the help of<NEWLINE>your comrades.  
+2,If you don't have any<NEWLINE>experience with Guild<NEWLINE>Quests, I recommend<NEWLINE>that you build<NEWLINE>experience with Normal<NEWLINE>Rank Quests.
+0,If you don't<NEWLINE>understand something,<NEWLINE>just ask me or one of<NEWLINE>the people standing<NEWLINE>around here.
+2,Hey! Whippersnapper!<NEWLINE>How are you? 
+2,Today, I am going to<NEWLINE>explain how to depart<NEWLINE>on a Quest and also<NEWLINE>talk a little bit<NEWLINE>about Hunter Rank.
+2,First, let's talk<NEWLINE>about how to depart on<NEWLINE>a Quest. There are<NEWLINE>actually two different<NEWLINE>ways of departing.
+2,The first is to<NEWLINE>initiate a Quest. If<NEWLINE>you want to initiate a<NEWLINE>Quest on your own, you<NEWLINE>can start the process<NEWLINE>by talking with the <NEWLINE>receptionist near me.
+2,The second method is<NEWLINE>to join a Quest. If<NEWLINE>you look at the Quest<NEWLINE>Board to the right of<NEWLINE>the counter, you can<NEWLINE>join Quests initiated<NEWLINE>by other Hunters.
+2,Some specific Quests<NEWLINE>require that you<NEWLINE>initiate them, or<NEWLINE>require a specific<NEWLINE>amount of experience,<NEWLINE>so make sure to read<NEWLINE>the description.
+2,Next, let's cover how<NEWLINE>to raise one's<NEWLINE>Hunter's Rank. At this<NEWLINE>Outpost, just like the<NEWLINE>Village, you raise<NEWLINE>your rank by clearing<NEWLINE>specific Quests.
+2,You can acquire<NEWLINE>Hunter's Rank and<NEWLINE>Titles by saving Guild<NEWLINE>Points earned on these<NEWLINE>Quests.
+0,These points are<NEWLINE>awarded for your<NEWLINE>contribution to the<NEWLINE>Guild... the most<NEWLINE>important point being<NEWLINE>the number of Quests<NEWLINE>you have completed.
+2,If you want to raise<NEWLINE>your position as a<NEWLINE>hunter: <NEWLINE>‡@Try many kinds of <NEWLINE>Quests.<NEWLINE>‡AInitiate specific<NEWLINE>Quests on your own.
+0,If you are patient and<NEWLINE>follow these two<NEWLINE>points, you will<NEWLINE>gradually gain<NEWLINE>experience. We look<NEWLINE>forward to your rise<NEWLINE>through the ranks.
+2,Hey! Young one! How<NEWLINE>are you doing? 
+2,Today, I am going to<NEWLINE>explain how to depart<NEWLINE>on a Quest and also<NEWLINE>talk a little bit<NEWLINE>about Hunter Rank.
+2,First, let's talk<NEWLINE>about how to depart on<NEWLINE>a Quest. There are<NEWLINE>actually two different<NEWLINE>ways of departing.
+2,The first is to<NEWLINE>initiate a Quest. If<NEWLINE>you want to initiate a<NEWLINE>Quest on your own, you<NEWLINE>can start the process<NEWLINE>by talking with the <NEWLINE>receptionist near me.
+2,The second method is<NEWLINE>to join a Quest. If<NEWLINE>you look at the Quest<NEWLINE>Board to the right of<NEWLINE>the counter, you can<NEWLINE>join Quests initiated<NEWLINE>by other Hunters.
+2,Some specific Quests<NEWLINE>require that you<NEWLINE>initiate them, or<NEWLINE>require a specific<NEWLINE>amount of experience,<NEWLINE>so make sure to read<NEWLINE>the description.
+2,Next, let's cover how<NEWLINE>to raise one's<NEWLINE>Hunter's Rank. At this<NEWLINE>Outpost, just like the<NEWLINE>Village, you raise<NEWLINE>your rank by clearing<NEWLINE>specific Quests.
+2,You can acquire<NEWLINE>Hunter's Rank and<NEWLINE>Titles by saving Guild<NEWLINE>Points earned on these<NEWLINE>Quests.
+0,These points are<NEWLINE>awarded for your<NEWLINE>contribution to the<NEWLINE>Guild... the most<NEWLINE>important point being<NEWLINE>the number of Quests<NEWLINE>you have completed.
+2,If you want to raise<NEWLINE>your position as a<NEWLINE>hunter: <NEWLINE>‡@Try many kinds of <NEWLINE>Quests.<NEWLINE>‡AInitiate specific<NEWLINE>Quests on your own.
+0,If you are patient and<NEWLINE>follow these two<NEWLINE>points, you will<NEWLINE>gradually gain<NEWLINE>experience. We look<NEWLINE>forward to your rise<NEWLINE>through the ranks.
+2,Youngin', here again,<NEWLINE>huh? Things going<NEWLINE>well? Getting used to<NEWLINE>being a hunter yet?
+2,Today, I want to talk<NEWLINE>to you about Quests<NEWLINE>you can get from the<NEWLINE>Village Chief, and how<NEWLINE>they differ from those<NEWLINE>here at the Gathering<NEWLINE>Hall. 
+2,Quests from the<NEWLINE>Village Chief are best<NEWLINE>suited to polishing<NEWLINE>up the skills of<NEWLINE>beginners.
+2,How to fish... how to<NEWLINE>BBQ... These Quests<NEWLINE>cover the basics of<NEWLINE>the basics that a<NEWLINE>hunter must always<NEWLINE>remember. 
+2,However, the people<NEWLINE>here are often tougher<NEWLINE>than those taking<NEWLINE>Village Quests, and<NEWLINE>usually prefer<NEWLINE>engaging in Quests<NEWLINE>with other hunters. 
+0,If you don't trust in<NEWLINE>your own abilities, I<NEWLINE>recommend that you<NEWLINE>learn the ropes by<NEWLINE>taking Quests from the<NEWLINE>Village Chief.
+2,The Quests you can get<NEWLINE>here are often tougher<NEWLINE>than the Quests<NEWLINE>provided by the<NEWLINE>Village Chief.
+0,If you don't trust in<NEWLINE>your own abilities, I<NEWLINE>recommend that you<NEWLINE>learn the ropes by<NEWLINE>taking Quests from the<NEWLINE>Village Chief.
+2,Ahh! <NEWLINE>The whippersnapper! <NEWLINE>It seems you have <NEWLINE>reached another step <NEWLINE>in the life of a <NEWLINE>hunter!
+2,Today, I'm going to<NEWLINE>tell you about the<NEWLINE>Contract Fee that goes<NEWLINE>along with a Quest.
+2,Here at the Guild,<NEWLINE>those who initiate a<NEWLINE>Quest are paid double<NEWLINE>the Contract Fee upon<NEWLINE>Quest completion. 
+2,Of course, if you fail<NEWLINE>a Quest, the Guild<NEWLINE>keeps the Contract<NEWLINE>Fee. 
+0,I am sure you have<NEWLINE>heard this before, but<NEWLINE>it is only business.
+2,Here at the Guild,<NEWLINE>those who initiate a<NEWLINE>Quest are paid double<NEWLINE>the Contract Fee upon<NEWLINE>Quest completion. 
+0,Of course, if you fail<NEWLINE>a Quest, the Guild<NEWLINE>keeps the Contract<NEWLINE>Fee. It's only<NEWLINE>business.
+2,You're here young one!<NEWLINE>Seems you have been<NEWLINE>doing well for<NEWLINE>yourself! I heard you<NEWLINE>even slayed a<NEWLINE>Rathalos!
+2,My stubborn uncle<NEWLINE>really has an eye for<NEWLINE>talent... Oh, I mean<NEWLINE>the Village Chief...<NEWLINE>He is my father's<NEWLINE>brother, you know?
+2,My father, the leader<NEWLINE>of the Hunter's Guild,<NEWLINE>is the Village Chief's<NEWLINE>older brother. One<NEWLINE>gained fame in<NEWLINE>business, the other in<NEWLINE>hunting...
+2,They each made a name<NEWLINE>for themselves in<NEWLINE>their own way... and I<NEWLINE>vowed to do the same<NEWLINE>thing...
+0,Huh? You've heard<NEWLINE>enough. You<NEWLINE>whippersnappers just<NEWLINE>don't have patience<NEWLINE>anymore, do you?<NEWLINE>Hmmph.
+2,What? I don't look<NEWLINE>exactly like the Guild<NEWLINE>Boss in town? Huh!? We<NEWLINE>look the same age!?
+2,Hahaha! I guess people<NEWLINE>look the same, huh?<NEWLINE>Even though I look<NEWLINE>like this, I am more<NEWLINE>than 100 years younger<NEWLINE>than my father! Still<NEWLINE>a whippersnapper!
+0,I hate getting lumped<NEWLINE>together with him like<NEWLINE>that... Maybe I should<NEWLINE>force him to retire<NEWLINE>soon...
+2,Ahhh, the little<NEWLINE>whippersnapper. You<NEWLINE>certainly seem to have<NEWLINE>grown up! Look at your<NEWLINE>face! Magnificent...
+2,If you don't mind, I<NEWLINE>want to talk to you<NEWLINE>about improving<NEWLINE>Close-Range Weapons...<NEWLINE>These are also often<NEWLINE>called Melee Weapons.
+2,Are you using a Melee<NEWLINE>Weapon? If you are,<NEWLINE>you can take it to the<NEWLINE>Crafting Shop, along<NEWLINE>with some money and<NEWLINE>materials, and have<NEWLINE>the weapon improved.
+2,Lately, improvements<NEWLINE>in technology have<NEWLINE>occurred rapidly, so<NEWLINE>you can improve<NEWLINE>weapons used in weak<NEWLINE>Quests into powerful<NEWLINE>implements of war.
+0,It also seems that<NEWLINE>there are also<NEWLINE>different forks along<NEWLINE>the improvement road.<NEWLINE>I recommend trying<NEWLINE>many different kinds<NEWLINE>of improvements.
+2,You can take a Melee<NEWLINE>Weapon to the Crafting<NEWLINE>Shop, along with some<NEWLINE>money and materials,<NEWLINE>and have it improved.
+0,Depending on the<NEWLINE>weapon, there are<NEWLINE>various development<NEWLINE>paths, I recommend<NEWLINE>trying different kinds<NEWLINE>of improvements.
+2,The youngin'! You're<NEWLINE>finally reaching your<NEWLINE>full potential. In<NEWLINE>fact, that is just<NEWLINE>what I wanted to talk<NEWLINE>to you about.
+2,The Guild has just<NEWLINE>discovered that a<NEWLINE>giant wyvern, Lao-Shan<NEWLINE>Lung, is on the<NEWLINE>move... It is said<NEWLINE>that this wyvern is as<NEWLINE>big as a mountain!
+2,The Guild is preparing<NEWLINE>the Fortress on the<NEWLINE>outskirts of this land<NEWLINE>to ambush the wyvern.<NEWLINE>We'd like to enlist<NEWLINE>your skills in the<NEWLINE>battle preparations.
+0,Don't forget to get<NEWLINE>information from the<NEWLINE>people in the village!
+2,Lao-Shan Lung is<NEWLINE>closing in, and the<NEWLINE>Guild has begun battle<NEWLINE>preparations at the<NEWLINE>Fortress.
+0,We would like to<NEWLINE>enlist your skills in<NEWLINE>helping us with these<NEWLINE>battle preparations...
+2,Ahhh... it's the<NEWLINE>whippersnapper!
+2,Although, I suppose I<NEWLINE>shouldn't be calling<NEWLINE>you a whippersnapper<NEWLINE>anymore. You were able<NEWLINE>to fend off Lao-Shan<NEWLINE>Lung!
+2,You are the only<NEWLINE>Hunter with whom the<NEWLINE>Guild has full<NEWLINE>confidence in.
+2,The coming Quests are<NEWLINE>going to be riskier<NEWLINE>than ever, but this<NEWLINE>risk comes with the<NEWLINE>reward of obtaining<NEWLINE>valuable materials.
+0,I'm looking forward to<NEWLINE>hearing of your future<NEWLINE>adventures. 
+2,The coming Quests are<NEWLINE>going to be riskier<NEWLINE>than ever, but this<NEWLINE>risk comes with the<NEWLINE>reward of obtaining<NEWLINE>valuable materials.
+0,I'm looking forward to<NEWLINE>hearing of your future<NEWLINE>adventures. 
+2,You repelled Lao-Shan<NEWLINE>Lung, and now you have<NEWLINE>reached the top! 
+2,In recognition of your<NEWLINE>status as one of the<NEWLINE>best hunters, we grant<NEWLINE>you permission to<NEWLINE>challenge G-Class<NEWLINE>Quests!
+2,However, from now on,<NEWLINE>we cannot promise you<NEWLINE>full support on these<NEWLINE>G-Class Quests. So pay<NEWLINE>attention to the<NEWLINE>explanation I am<NEWLINE>about to give you.
+2,First up...Provisions.<NEWLINE>There is no guarantee<NEWLINE>that you'll receive<NEWLINE>provisions for G-Class<NEWLINE>Quests as you did on<NEWLINE>Quests up until now. 
+2,The corps that deliver<NEWLINE>provisions to G-Class<NEWLINE>monster habitats are a<NEWLINE>prudent bunch, and<NEWLINE>avoid extreme risks.<NEWLINE>So, they often won't<NEWLINE>deliver supplies.
+2,Also, when you begin a<NEWLINE>Quest, you will rarely<NEWLINE>start the action from<NEWLINE>Base Camp.
+2,You should also keep<NEWLINE>in mind that all<NEWLINE>members of a Quest may<NEWLINE>not all start from the<NEWLINE>same location, as<NEWLINE>well.
+2,It is extremely<NEWLINE>difficult to overcome<NEWLINE>these disadvantages.<NEWLINE>You may feel like the<NEWLINE>odds are always<NEWLINE>against you.
+0,I am looking forward<NEWLINE>to hearing of your<NEWLINE>adventures!
+2,Hahahah! As one of the<NEWLINE>best hunters, we grant<NEWLINE>you permission to<NEWLINE>challenge G-Class<NEWLINE>Quests!
+2,However, from now on,<NEWLINE>we cannot promise you<NEWLINE>full support on these<NEWLINE>G-Class Quests.
+2,There is no guarantee<NEWLINE>you will receive<NEWLINE>provisions, and you<NEWLINE>often will be forced<NEWLINE>to start a Quest from<NEWLINE>scattered positions.
+0,You may feel like the<NEWLINE>odds are always<NEWLINE>against you! I'm<NEWLINE>looking forward to<NEWLINE>hearing of your<NEWLINE>adventures!
+2,Oh no. I hoped this<NEWLINE>situation would never<NEWLINE>come to pass...
+2,A legendary Elder<NEWLINE>Wyvern called Fatalis<NEWLINE>has appeared near this<NEWLINE>Village...
+2,The Guild is now<NEWLINE>preparing the siege<NEWLINE>weapons at Castle<NEWLINE>Schrade to make a last<NEWLINE>stand. We are urgently<NEWLINE>recruiting hunters... 
+2,Since this Quest is<NEWLINE>incredibly dangerous,<NEWLINE>we can only allow<NEWLINE>those with suitable<NEWLINE>skill to enter the<NEWLINE>battle.
+2,Thus we have a special<NEWLINE>favor to ask of you...<NEWLINE>We need you to join<NEWLINE>the fight to slay<NEWLINE>Fatalis!
+2,We've placed a<NEWLINE>Ballista and a Great<NEWLINE>Cannon at Castle<NEWLINE>Schrade. If we pour<NEWLINE>funds into the guns,<NEWLINE>they will be able to<NEWLINE>fire powerful shots!
+0,Fatalis is not an<NEWLINE>enemy you can defeat<NEWLINE>quickly! You must<NEWLINE>prepare yourself for a<NEWLINE>long battle! We're<NEWLINE>begging you to help<NEWLINE>us!
+0,Fatalis is not an<NEWLINE>enemy you can defeat<NEWLINE>quickly! You must<NEWLINE>prepare yourself for a<NEWLINE>long battle! We're<NEWLINE>begging you to help<NEWLINE>us!
+2,Oh my! You were really<NEWLINE>able to stand up and<NEWLINE>slay the Legendary<NEWLINE>Black Dragon Fatalis! 
+2,The miracle you<NEWLINE>performed to save this<NEWLINE>world will be a story<NEWLINE>passed down for<NEWLINE>generations!
+0,There is no comparison<NEWLINE>to your actions! You<NEWLINE>are without question<NEWLINE>the most courageous<NEWLINE>Monster Hunter on this<NEWLINE>continent.
+2,You were really able<NEWLINE>to stand up and slay<NEWLINE>the Legendary Black<NEWLINE>Dragon Fatalis! 
+0,You are without<NEWLINE>question the most<NEWLINE>courageous Monster<NEWLINE>Hunter on this<NEWLINE>continent.
+2,I can't believe it!<NEWLINE>It's wonderful! You<NEWLINE>have completed all the<NEWLINE>Quests at this<NEWLINE>Outpost!
+0,Here is a present to<NEWLINE>celebrate this<NEWLINE>momentous occasion!<NEWLINE>C'mon, take it!
+2,It seems you've got<NEWLINE>some great comrades!
+2,It is a good thing for<NEWLINE>a hunter to have<NEWLINE>trusted comrades.
+2,Along with your<NEWLINE>comrades, I have high<NEWLINE>hopes that you can<NEWLINE>show the world the<NEWLINE>power of the Guild! 
+0,I'd like to give you a<NEWLINE>small token of my<NEWLINE>gratitude. Here, take<NEWLINE>it. 
+2,It seems you've got<NEWLINE>some great friends!
+2,It is an excellent<NEWLINE>thing for a hunter to<NEWLINE>have friends they can<NEWLINE>trust in battle.
+2,Go out with your<NEWLINE>friends and show the<NEWLINE>world the power of the<NEWLINE>Guild!
+0,I'd like to give you a<NEWLINE>small present to show<NEWLINE>how much your efforts<NEWLINE>mean to me... Here,<NEWLINE>take it. 
+2,The whippersnapper!<NEWLINE>Welcome! Things seem<NEWLINE>to be going well for<NEWLINE>you...
+0,If you would like to<NEWLINE>initiate a Guild<NEWLINE>Quest, you should<NEWLINE>visit the receptionist<NEWLINE>at the counter next to<NEWLINE>me.

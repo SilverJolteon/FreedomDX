@@ -1,0 +1,6 @@
+0,dummy
+1,dummy
+0,dummy
+2,dummy
+0,This little piglet<NEWLINE>heres followed me all<NEWLINE>the way from town. Ya<NEWLINE>mind watchin' after <NEWLINE>Piggie for me? 
+0,He seems to 'ave taken<NEWLINE>a liken to ya. Thanks<NEWLINE>for lookin' out for<NEWLINE>the lil' snorter.

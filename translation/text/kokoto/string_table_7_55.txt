@@ -1,0 +1,80 @@
+2,That bustling shop<NEWLINE>with the vegetables<NEWLINE>and other small goods<NEWLINE>out front is the Item<NEWLINE>Shop. 
+2,The shops with the<NEWLINE>fine swords on display<NEWLINE>are the Equipment Shop<NEWLINE>and the Crafting<NEWLINE>Shop. 
+2,Buy and sell equipment<NEWLINE>at the Equipment Shop.<NEWLINE>They often receive new<NEWLINE>items, so when you<NEWLINE>feel you've outgrown<NEWLINE>your equipment, try <NEWLINE>visiting the shop. 
+2,At the Crafting Shop, <NEWLINE>they use materials <NEWLINE>carved from monsters <NEWLINE>you have slayed to <NEWLINE>Create and Improve <NEWLINE>equipment.
+2,You can improve the<NEWLINE>appearance and attack <NEWLINE>ability of melee <NEWLINE>weapons, and the <NEWLINE>attack strength and <NEWLINE>accuracy of bowguns.  
+0,Equipment improvement <NEWLINE>and creation. If you <NEWLINE>are going to aim high <NEWLINE>as a hunter, you can <NEWLINE>never forget these two<NEWLINE>things.
+2,The shop with a lone <NEWLINE>woman is the Item <NEWLINE>Shop. The two men run <NEWLINE>the Equipment Shop <NEWLINE>and Crafting Shop. 
+0,If you are going to <NEWLINE>aim high as a hunter, <NEWLINE>it is critical to use <NEWLINE>all of the shops to <NEWLINE>their fullest.
+2,That bustling shop<NEWLINE>with the vegetables<NEWLINE>and other small goods<NEWLINE>out front is the Item<NEWLINE>Shop. 
+2,The shops with the<NEWLINE>fine swords on display<NEWLINE>are the Equipment Shop<NEWLINE>and the Crafting Shop.
+2,Buy and sell equipment<NEWLINE>at the Equipment Shop.<NEWLINE>They often receive new<NEWLINE>items, so when you<NEWLINE>feel you've outgrown<NEWLINE>your equipment, try <NEWLINE>visiting the shop. 
+2,At the Crafting Shop, <NEWLINE>they use materials <NEWLINE>carved from monsters <NEWLINE>you have slayed to <NEWLINE>Create and Improve <NEWLINE>equipment.
+2,You can improve the<NEWLINE>appearance and attack <NEWLINE>ability of melee <NEWLINE>weapons, and the <NEWLINE>attack strength and <NEWLINE>accuracy of bowguns.  
+0,Equipment improvement <NEWLINE>and creation. If you <NEWLINE>are going to aim high <NEWLINE>as a hunter, you can <NEWLINE>never forget these two<NEWLINE>things.
+2,The shop with a lone <NEWLINE>woman is the Item <NEWLINE>Shop. The two men run <NEWLINE>the Equipment Shop <NEWLINE>and Crafting Shop. 
+0,If you are going to <NEWLINE>aim high as a hunter, <NEWLINE>it is critical to use <NEWLINE>all of the shops to <NEWLINE>their fullest.
+2,That bustling shop<NEWLINE>with the vegetables<NEWLINE>and other small goods<NEWLINE>out front is the Item<NEWLINE>Shop. 
+2,The shops with the<NEWLINE>fine swords on display<NEWLINE>are the Equipment Shop<NEWLINE>and the Crafting Shop.
+2,Buy and sell equipment<NEWLINE>at the Equipment Shop.<NEWLINE>They often receive new<NEWLINE>items, so when you<NEWLINE>feel you've outgrown<NEWLINE>your equipment, try <NEWLINE>visiting the shop. 
+2,At the Crafting Shop, <NEWLINE>they use materials <NEWLINE>carved from monsters <NEWLINE>you have slayed to <NEWLINE>Create and Improve <NEWLINE>equipment.
+2,You can improve the<NEWLINE>appearance and attack <NEWLINE>ability of melee <NEWLINE>weapons, and the <NEWLINE>attack strength and <NEWLINE>accuracy of bowguns.  
+0,Equipment improvement <NEWLINE>and creation. If you <NEWLINE>are going to aim high <NEWLINE>as a hunter, you can <NEWLINE>never forget these two<NEWLINE>things.
+2,The shop with a lone <NEWLINE>woman is the Item <NEWLINE>Shop. The two men run <NEWLINE>the Equipment Shop <NEWLINE>and Crafting Shop. 
+0,If you are going to <NEWLINE>aim high as a hunter, <NEWLINE>it is critical to use <NEWLINE>all of the shops to <NEWLINE>their fullest.
+2,Two peddlers often <NEWLINE>visit this village. 
+2,One often goes to the <NEWLINE>town to stock up on <NEWLINE>various items. He <NEWLINE>sometimes has complete<NEWLINE>sets of items, so <NEWLINE>visit him if you are <NEWLINE>ready to upgrade. 
+2,The other is a <NEWLINE>Peddling Granny. She <NEWLINE>travels all over <NEWLINE>selling her wares, so<NEWLINE>the items she is<NEWLINE>selling will change<NEWLINE>from day to day.
+2,If they are able to<NEWLINE>get lots of items<NEWLINE>cheaply, they'll have<NEWLINE>a half price sale! If<NEWLINE>you see one of these<NEWLINE>sales, make sure to<NEWLINE>check it out!
+0,Either one will sell <NEWLINE>you rare items that <NEWLINE>can't be found in this<NEWLINE>village, so they <NEWLINE>should be quite useful<NEWLINE>to you. 
+2,Two peddlers often<NEWLINE>visit this village. 
+0,Either one will sell <NEWLINE>you rare items that <NEWLINE>can't be found in this<NEWLINE>village, so they <NEWLINE>should be quite useful<NEWLINE>to you. 
+2,Two peddlers often <NEWLINE>visit this village. 
+2,One often goes to the <NEWLINE>town to stock up on <NEWLINE>various items. He <NEWLINE>sometimes has complete<NEWLINE>sets of items, so <NEWLINE>visit him if you are <NEWLINE>ready to upgrade. 
+2,The other is a <NEWLINE>Peddling Granny. She <NEWLINE>travels all over <NEWLINE>selling her wares, so<NEWLINE>the items she is<NEWLINE>selling will change<NEWLINE>from day to day.
+2,If they are able to<NEWLINE>get lots of items<NEWLINE>cheaply, they'll have<NEWLINE>a half price sale! If<NEWLINE>you see one of these<NEWLINE>sales, make sure to<NEWLINE>check it out!
+0,Either one will sell <NEWLINE>you rare items that <NEWLINE>can't be found in this<NEWLINE>village, so they <NEWLINE>should be quite useful<NEWLINE>to you.
+2,Two peddlers often<NEWLINE>visit this village. 
+0,Either one will sell <NEWLINE>you rare items that <NEWLINE>can't be found in this<NEWLINE>village, so they <NEWLINE>should be quite useful<NEWLINE>to you. 
+2,Did you know? You can <NEWLINE>record the number of <NEWLINE>monsters you have <NEWLINE>defeated and their <NEWLINE>size in your Monster <NEWLINE>Log. 
+2,I seems that between <NEWLINE>themselves, hunters <NEWLINE>often call monster <NEWLINE>size "the measure" of <NEWLINE>the beast.
+0,It is easy to measure<NEWLINE>the length of a fish, <NEWLINE>but could you do it <NEWLINE>if you were measuring <NEWLINE>a dreadful monster?
+0,Measure the length of <NEWLINE>a terrifying <NEWLINE>monster... There is <NEWLINE>absolutely no way you <NEWLINE>would ever see me <NEWLINE>trying that! <NEWLINE>
+2,Various items have a <NEWLINE>rarity number <NEWLINE>assigned to them. 
+2,The rarer the material<NEWLINE>used to craft <NEWLINE>something, the more<NEWLINE>powerful, and <NEWLINE>stronger the piece of <NEWLINE>equipment produced.
+0,Obtaining items with <NEWLINE>high rarity brings <NEWLINE>along with it great <NEWLINE>risk, so it is best <NEWLINE>to be careful when <NEWLINE>gathering these <NEWLINE>items.
+0,A great many hunters <NEWLINE>have jumped in over <NEWLINE>the heads and been <NEWLINE>critically injured <NEWLINE>trying to obtain rare <NEWLINE>items. Take care of <NEWLINE>yourself.
+2,Did you know that by <NEWLINE>gathering pieces of <NEWLINE>armor, you can obtain <NEWLINE>a special ability <NEWLINE>called "Skill"? 
+2,Helmet, Breastplate, <NEWLINE>Gauntlets, Leggings, <NEWLINE>and Boots. Each piece <NEWLINE>of armor from the same<NEWLINE>skill system has skill<NEWLINE>points that can be<NEWLINE>added together.
+0,You can check your <NEWLINE>Skill condition at the<NEWLINE>Status screen. See for<NEWLINE>yourself, and go check<NEWLINE>it now!
+2,The Skill gained by <NEWLINE>gathering pieces of <NEWLINE>armor can be checked <NEWLINE>on the Status screen. <NEWLINE>
+0,I suppose you are <NEWLINE>using the Skill from <NEWLINE>your armor to the <NEWLINE>fullest. <NEWLINE>
+2,There are many <NEWLINE>convenient Skills for <NEWLINE>a hunter... <NEWLINE>For example...
+2,...if you are a <NEWLINE>swordsman, "Sharp <NEWLINE>Sword". It doubles <NEWLINE>the Sharpness of <NEWLINE>melee weapons. <NEWLINE>
+0,...if you are a <NEWLINE>gunner, "Normal S <NEWLINE>Attack Up". It raises <NEWLINE>the power of a <NEWLINE>bowgun's Normal S <NEWLINE>attack.
+0,The top class Skills <NEWLINE>are called "Sharp <NEWLINE>Sword" and "Normal S <NEWLINE>Attack Up". Try <NEWLINE>obtaining them!
+2,I heard the news! <NEWLINE>You repelled that <NEWLINE>mountain-like <NEWLINE>Lao-Shan Lung. 
+2,Did you know that <NEWLINE>this Village's Chief <NEWLINE>has also slayed a <NEWLINE>Lao-Shan Lung?<NEWLINE>
+2,And he did it alone, <NEWLINE>too! He truly is the <NEWLINE>"Hero of Kokoto". <NEWLINE>Even I am proud of <NEWLINE>him. 
+2,Honestly, when you <NEWLINE>became the second<NEWLINE>generation "Hero of<NEWLINE>Kokoto", I was a bit<NEWLINE>concerned. But now I<NEWLINE>see you're top class.
+0,From now on, live up <NEWLINE>to the name "Hero of <NEWLINE>Kokoto" without any <NEWLINE>shame, and do your <NEWLINE>best.
+2,The Village Chief <NEWLINE>here once defeated <NEWLINE>Lao-Shan Lung by <NEWLINE>himself!<NEWLINE>
+0,From now on, you <NEWLINE>should live up to <NEWLINE>the name "Hero of <NEWLINE>Kokoto" without any <NEWLINE>shame, and do your <NEWLINE>best.<NEWLINE>
+2,I heard the news! <NEWLINE>You repelled that <NEWLINE>mountain-like <NEWLINE>Lao-Shan Lung. 
+2,Did you know that <NEWLINE>you can ride on the <NEWLINE>back of Lao-Shan <NEWLINE>Lung?
+2,You can even carve <NEWLINE>scales off of its <NEWLINE>back! I guess if you <NEWLINE>are that big, you <NEWLINE>don't worry about <NEWLINE>losing some scales <NEWLINE>from your back. 
+0,However, your footing<NEWLINE>is not stable up <NEWLINE>there, so be careful <NEWLINE>or you might end up <NEWLINE>falling without a <NEWLINE>single thing. Hunters <NEWLINE>are daredevils, huh...
+2,You can carve away <NEWLINE>scales from the back <NEWLINE>of Lao-Shan Lung. <NEWLINE>
+0,But riding on its back<NEWLINE>is very dangerous, so<NEWLINE>be very careful...
+2,I heard the news! This<NEWLINE>time it's the <NEWLINE>Legendary Black <NEWLINE>Dragon!?
+2,Normally, we as humans<NEWLINE>don't often cross <NEWLINE>swords with life <NEWLINE>itself... normally.
+2,But you aren't <NEWLINE>normal... You're going<NEWLINE>to join the fight to <NEWLINE>slay the Black Dragon <NEWLINE>aren't you?  
+2,You being in this <NEWLINE>town, at this time, <NEWLINE>cannot be by chance. <NEWLINE>I... believe in you.
+0,But... but... don't <NEWLINE>feel any pressure <NEWLINE>because of that. 
+2,You being in this <NEWLINE>town, at this time, <NEWLINE>cannot be by chance.
+0,I'm sure you will do <NEWLINE>something... I believe<NEWLINE>in you.
+2,I knew it! I knew that<NEWLINE>you would beat Fatalis<NEWLINE>back into legend! I<NEWLINE>had faith in you! 
+2,Because you... You're <NEWLINE>something special. 
+0,Umm... I'm sorry. It <NEWLINE>was nothing... From <NEWLINE>now on, keep up the <NEWLINE>hard work. I'll be <NEWLINE>cheering you on. 
+2,I knew that you would <NEWLINE>beat Fatalis back into<NEWLINE>legend! I had faith<NEWLINE>in you!
+0,From now on, keep up<NEWLINE>the hard work. I'll be<NEWLINE>cheering you on.

@@ -1,0 +1,43 @@
+Checking for Memory Stick Duo~B10. <NEWLINE><NEWLINE>Please do not turn off the <NEWLINE>PSP~B10(PlayStation~B11Portable) system <NEWLINE>or remove the Memory Stick Duo~B10. 
+Loading. Please wait...<NEWLINE><NEWLINE>Please do not turn off the <NEWLINE>PSP~B10(PlayStation~B11Portable) system<NEWLINE>or remove the Memory Stick Duo~B10. 
+Load completed.
+Game data is corrupted.
+No Memory Stick Duo~B10 found.<NEWLINE><NEWLINE>This game requires at <NEWLINE>least ~A00KB to save.<NEWLINE>Continue? 
+No Save data found.<NEWLINE><NEWLINE>Monster Hunter Portable requires at least ~A00KB <NEWLINE>to save game data.<NEWLINE>Do you wish to begin the game anyway?
+Not enough free space available on Memory Stick Duo~B10. 
+Would you like to save?
+~A00KB is required to save this data. <NEWLINE>Delete other data and create free space?
+Save this character?
+Begin game without saving?
+Please select a save location.
+Please do not remove the Memory Stick Duo~B10 while playing<NEWLINE>Monster Hunter Portable.
+Welcome to the world of Monster Hunter!
+Character already exists. <NEWLINE>Delete previously saved character?
+Would you like to save here?
+Please do not remove the Memory Stick Duo~B10 while playing<NEWLINE>Monster Hunter Portable.
+No Character data found. <NEWLINE>Please insert the Memory Stick Duo~10 <NEWLINE>containing previously saved Game data. 
+Load this character?
+Character selected. <NEWLINE>Please do not remove the Memory Stick Duo~B10 while playing<NEWLINE>Monster Hunter Portable.
+Do you wish to begin the game anyway?
+TIME
+MALE
+FEMALE
+MONEY
+NO DATA
+Saving...<NEWLINE><NEWLINE>Please do not remove the<NEWLINE>Memory Stick Duo~B10. 
+Auto-loaded game data.
+This game requires at least ~A00KB to save.<NEWLINE><NEWLINE>Continue? 
+Save Game Settings?
+There is already Game data on the Memory Stick Duo~B10. <NEWLINE>OK to overwrite this data?
+Select a character.
+EquipDtl
+The Memory Stick Duo~10 used to start<NEWLINE>this game is not inserted.<NEWLINE>Please insert the Memory Stick Duo~10<NEWLINE>used to start this game.
+Save completed.
+Abort loading?
+Connect to download contents? <NEWLINE>   ~C02Please do not disconnect from<NEWLINE>the Network or remove the Memory<NEWLINE>      Stick Duo~B10 while downloading.~C00
+ The following Quests are saved <NEWLINE>   on the Memory Stick Duo~B10. 
+There are no Quests saved <NEWLINE>on the Memory Stick Duo~B10. 
+Exit game?
+If you quit the game without saving, <NEWLINE>all of the items and money (z) <NEWLINE>that you acquired will be lost.     <NEWLINE><NEWLINE>    Save?      Exit without saving?
+Delete corrupted Game data?
+Save Gallery Status?  

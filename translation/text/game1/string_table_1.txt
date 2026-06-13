@@ -1,0 +1,20 @@
+Å|Å|Å|Å|Å|Å|
+Field Ridge
+Field Ridge +1
+Field Ridge +2
+Fishing Pier
+Fishing Pier+1
+Fishing Pier+2
+Casting Machine
+Mining Point
+Mining Point+1
+Mining Point+2
+Mining Bomb
+Insect Thicket
+Insect Thicket+1
+Insect Thicket+2
+Bug Tree
+Mushroom Tree
+Mushroom Tree+1
+Mushroom Tree+2
+Bee Hive

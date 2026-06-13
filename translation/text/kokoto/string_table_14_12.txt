@@ -1,0 +1,24 @@
+2,Greetin's! I jus'<NEWLINE>happen to be a<NEWLINE>travelin' purveyor of<NEWLINE>fine goods. Some<NEWLINE>insist on sayin' I'm <NEWLINE>a peddler.
+2,I'm stockin' up on<NEWLINE>ev'ryones unwanted<NEWLINE>items. If ya got<NEWLINE>anything you be<NEWLINE>wanting, speak up.<NEWLINE>I'll sell it to ya<NEWLINE>cheap. 
+0,Sometimes, I acquire<NEWLINE>me some goods righ'<NEWLINE>cheap, so I sell 'em<NEWLINE>right cheap. Care to<NEWLINE>peruse my fine<NEWLINE>collection?
+2,Greetin's! I jus'<NEWLINE>happen to be a<NEWLINE>travelin' purveyor of<NEWLINE>fine goods. Some<NEWLINE>insist on sayin' im a<NEWLINE>peddler.
+2,I'm stockin' up on<NEWLINE>ev'ryones unwanted<NEWLINE>items. If ya got<NEWLINE>anything you be<NEWLINE>wanting, speak up.<NEWLINE>I'll sell it to ya<NEWLINE>cheap. 
+0,Sometimes, I acquire<NEWLINE>me some goods righ'<NEWLINE>cheap, so I sell 'em<NEWLINE>right cheap. Care to<NEWLINE>peruse my fine<NEWLINE>collection?
+0,Today I'm stockin' up<NEWLINE>on ev'ryones unwanted<NEWLINE>items. If ya got<NEWLINE>anything you be<NEWLINE>wanting, speak up.
+0,Today I got me quite a<NEWLINE>bit of cheap items, so<NEWLINE>I'm sellin' em half<NEWLINE>off. If ya be wantin'<NEWLINE>anything, speak up!
+0,dummy
+0,I just got back from<NEWLINE>that new town... and I<NEWLINE>brought back some nice<NEWLINE>rare items! Buy 'em<NEWLINE>while their hot!
+0,dummy
+0,dummy
+0,dummy
+0,Oh I beg ya pardon! If<NEWLINE>somethin' 'appens give<NEWLINE>me a shout, eh?
+2,Ya hear 'bout that new<NEWLINE>town they made? Today,<NEWLINE>I took me a trip o'er<NEWLINE>there to sell me<NEWLINE>wares.
+2,Got me some nice items<NEWLINE>there, so I be plannin<NEWLINE>to make it a regular<NEWLINE>stop. Keep an eye out<NEWLINE>for when I come back.
+0,I got me somethin'<NEWLINE>real nice today. But,<NEWLINE>I be bettin that a<NEWLINE>hunter like yourself<NEWLINE>can do a bit mor' good<NEWLINE>wit it.
+0,I went to that new<NEWLINE>town today. I was<NEWLINE>thinkin ya might like<NEWLINE>this lil' souvenir I<NEWLINE>brought back for ya.
+0,Ahh... It's you.<NEWLINE>Listen, today in town,<NEWLINE>I learned how to make<NEWLINE>a new rare weapon. I<NEWLINE>tol' the Crafting<NEWLINE>Shop, so go take ya a<NEWLINE>gander later.
+0,Today in town, I heard<NEWLINE>'bout some equipment<NEWLINE>ya might be likin' to<NEWLINE>put on yer farm. I<NEWLINE>told the union head so<NEWLINE>you migh' wanna talk<NEWLINE>to him later. 
+0,This little piglet<NEWLINE>heres followed me all<NEWLINE>the way from town. Ya<NEWLINE>mind watchin' after <NEWLINE>him for me? 
+0,He seems to 'ave taken<NEWLINE>a liken to ya. Thanks<NEWLINE>for lookin' out for<NEWLINE>the lil' snorter.
+2,Greetin's! I jus'<NEWLINE>happen to be a<NEWLINE>travelin' purveyor of<NEWLINE>fine goods.
+0,If ya got anything you<NEWLINE>be wanting, speak up.<NEWLINE>I'll sell it to ya<NEWLINE>cheap. 

@@ -1,0 +1,14 @@
+2,This is a mining spot.<NEWLINE>I will lend you a<NEWLINE>Pickaxe for free, nya.<NEWLINE>So go out and mine as<NEWLINE>much as you can, meow!
+2,Stand in front of the<NEWLINE>crack in that rock,<NEWLINE>and press the<NEWLINE>~B03 button, meow. Do<NEWLINE>that and you will get<NEWLINE>some ore, nya.
+2,If you gain Mining<NEWLINE>Points, you can climb<NEWLINE>to the rocks above<NEWLINE>this cliff using a<NEWLINE>ladder, meow.
+2,Moreover, the interior<NEWLINE>of those rocks also<NEWLINE>has a chasm, but if<NEWLINE>you renovate, you can<NEWLINE>bridge the gap, nya.
+0,Even if you come visit<NEWLINE>during a Quest, I will<NEWLINE>lend you a new<NEWLINE>Pickaxe, nya. Keep<NEWLINE>cracking those rocks,<NEWLINE>purr...
+2,If you use a bomb, you<NEWLINE>can mine for ore<NEWLINE>here... meow.
+2,If you give me a bomb,<NEWLINE>I will place it in the<NEWLINE>pit you choose, nya.<NEWLINE>Once the bomb<NEWLINE>explodes, you can get<NEWLINE>lots of purrfect ore.
+1,Want to go mining,<NEWLINE>nya?
+0,What kind of bomb<NEWLINE>would you like to use,<NEWLINE>nya? If you use a<NEWLINE>strong bomb, you will<NEWLINE>be able to get more<NEWLINE>ore, meow...
+0,You don't want to go<NEWLINE>mining? Awwww... nya.
+0,You don't have any<NEWLINE>bombs? Go get some,<NEWLINE>nya!
+0,What pit would you<NEWLINE>like to place the bomb<NEWLINE>in, meow?
+0,I got some! Nya! Nya!
+0,Let... me... rest for<NEWLINE>a bit, meooowwww.

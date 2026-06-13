@@ -1,0 +1,8 @@
+2,Select the quest you'd<NEWLINE>like to join.
+1,Join this quest?
+2,Enter the quest<NEWLINE>password.
+0,Quest Joined. May the<NEWLINE>luck of the heavens<NEWLINE>shine upon you.
+2,Unable to acquire<NEWLINE>quest data.<NEWLINE>Å¶Returning to the<NEWLINE>Gathering Hall should<NEWLINE>allow you to acquire<NEWLINE>the quest data.
+2,Your Hunter Rank is<NEWLINE>not high enough for<NEWLINE>this quest.
+2,You cannot join this<NEWLINE>quest due to your<NEWLINE>current hunter status.
+0,You are already under<NEWLINE>contract for this<NEWLINE>quest.

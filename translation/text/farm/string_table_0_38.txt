@@ -1,0 +1,21 @@
+0,This is a puurrfect<NEWLINE>field. You can pick<NEWLINE>the grass and the<NEWLINE>berries, nya.
+0,dummy
+0,dummy
+0,dummy
+0,dummy
+2,This is a puurrfect<NEWLINE>field. If you give me<NEWLINE>a seed, I will raise<NEWLINE>it until you come back<NEWLINE>nya. Not just seeds,<NEWLINE>I'll raise grass too,<NEWLINE>meow.
+2,If you give me some<NEWLINE>fertilizer, I will<NEWLINE>sprinkle it on for<NEWLINE>you, nya. I think if<NEWLINE>you fertilize, the<NEWLINE>harvest will be even<NEWLINE>better, meow!
+0,You can pick crops by<NEWLINE>examining the rows,<NEWLINE>nya. The more rows you<NEWLINE>have, the more you<NEWLINE>should check. What can<NEWLINE>I do for you, meow?
+0,What would you like me<NEWLINE>to plant, meow?
+1,Would you like me to<NEWLINE>plant that, nya?
+1,I'll plant that then,<NEWLINE>meow. Is there<NEWLINE>anything else you'd<NEWLINE>like me to plant, nya?
+0,Which row would you<NEWLINE>like me to fertilize,<NEWLINE>nya?
+0,What fertilizer would<NEWLINE>you like me to use,<NEWLINE>meow?
+1,So is it OK for me to<NEWLINE>fertilize this, nya?
+1,Would you like me to<NEWLINE>fertilize anything<NEWLINE>else, meow?
+1,Is there anything else<NEWLINE>I can do for you, nya?
+0,Alright, nya. If you<NEWLINE>have something for me<NEWLINE>to do in the field,<NEWLINE>just tell me, purrrrr.
+0,What row would you<NEWLINE>like me to plant in,<NEWLINE>nya?
+0,You don't have any<NEWLINE>seeds, nya. Go and<NEWLINE>get some! Grass is<NEWLINE>fine too, but you are<NEWLINE>limited to things you<NEWLINE>can raise!
+0,You don't have any<NEWLINE>fertilizer, nya. You<NEWLINE>should go get some.<NEWLINE>You know, Monster<NEWLINE>Droppings make<NEWLINE>purrfect fertilizer.
+0,The crops are in the<NEWLINE>field, nya. You should<NEWLINE>pick them before you<NEWLINE>plant or fertilize. Go<NEWLINE>to the crops and press<NEWLINE>the ~B03 button to<NEWLINE>gather them, meow.

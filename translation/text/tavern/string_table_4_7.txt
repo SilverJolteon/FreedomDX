@@ -1,0 +1,30 @@
+2,Ahh! Welcome! This is<NEWLINE>the Fellowship of<NEWLINE>Treasure Hunters!<NEWLINE>Choose the quest you<NEWLINE>would like to partake<NEWLINE>in!
+2,dummy
+1,This quest requires a<NEWLINE>Contract Fee of<NEWLINE>$z.<NEWLINE>That alright with you?
+1,Would you like to<NEWLINE>change the password<NEWLINE>and recruitment<NEWLINE>message for this<NEWLINE>Quest?
+0,A recruitment notice<NEWLINE>for this quest has<NEWLINE>been placed on the<NEWLINE>Quest Board. Off to<NEWLINE>search for treasure,<NEWLINE>huh? I can see the<NEWLINE>riches in your eyes.
+1,Wanna look at another<NEWLINE>quest?
+0,Alright, see ya soon!
+2,It seems you're a bit<NEWLINE>light in the wallet.
+0,...
+1,This quest does not<NEWLINE>require a Contract<NEWLINE>Fee. That alright with<NEWLINE>you?
+1,Hello Hello! Your<NEWLINE>already under contract<NEWLINE>for this hunt. Would<NEWLINE>you like to break the<NEWLINE>contract anyways?
+1,You've already got a<NEWLINE>few mates in this<NEWLINE>quest. You sure you<NEWLINE>want to break up your<NEWLINE>treasure hunting<NEWLINE>party?
+0,We've ripped up your<NEWLINE>contract. Come back<NEWLINE>soon, mate.
+2,I'm Treshi. I've<NEWLINE>circled the globe on<NEWLINE>an endless hunt for<NEWLINE>treasure.
+2,You do know about the<NEWLINE>existence of treasure,<NEWLINE>don't you?
+2,Let me explain. There<NEWLINE>are quests for the<NEWLINE>sole purpose of<NEWLINE>finding treasure,<NEWLINE>called Treasure<NEWLINE>Hunters Quests. 
+2,These treasures are<NEWLINE>items so rare they can<NEWLINE>only be found during<NEWLINE>these quests.
+2,If you join a Treasure<NEWLINE>Hunters Quest, you'll<NEWLINE>notice that the<NEWLINE>conditions are a bit<NEWLINE>different than a<NEWLINE>normal quest. 
+2,First, they carry a<NEWLINE>two hunter limit. Only<NEWLINE>two hunters can set<NEWLINE>off after riches<NEWLINE>together.
+2,If you two do not work<NEWLINE>together, it will be<NEWLINE>impossible to gather<NEWLINE>the fantastically<NEWLINE>enormous riches of<NEWLINE>legend.<NEWLINE>
+2,The second difference<NEWLINE>is a prohibition on<NEWLINE>personal items.
+2,You should take the<NEWLINE>opportunity to gather<NEWLINE>items on the hunting<NEWLINE>grounds instead. It<NEWLINE>really is too much<NEWLINE>for the likes of you.
+2,If you happen upon<NEWLINE>some treasure, you<NEWLINE>should bring it back<NEWLINE>to me at camp.
+2,I will gather up the<NEWLINE>treasure you have both<NEWLINE>collected and award<NEWLINE>you points.
+2,I will pay you a<NEWLINE>handsome reward based<NEWLINE>upon the number of<NEWLINE>points you have<NEWLINE>collected. I am quite<NEWLINE>generous, am I not?
+2,If you understood that<NEWLINE>explanation, I suppose<NEWLINE>we'll consider you a<NEWLINE>friend of the<NEWLINE>Fellowship of Treasure<NEWLINE>Hunters.
+0,It is in your best<NEWLINE>interest to consult<NEWLINE>with me before you<NEWLINE>head out after<NEWLINE>treasure. I'll be<NEWLINE>waiting.
+2,Ahh, it's you. Going<NEWLINE>off after treasure,<NEWLINE>are you?
+2,I'm not going to talk<NEWLINE>to you about treasure<NEWLINE>hunting until you have<NEWLINE>a partner. Teamwork is<NEWLINE>too important in this<NEWLINE>business.
+0,I suggest you head to<NEWLINE>the Online Gathering<NEWLINE>Hall and find yourself<NEWLINE>a partner.

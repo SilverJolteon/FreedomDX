@@ -1,0 +1,20 @@
+Å|Å|Å|Å|Å|Å|
+Dummy
+Field Ridge updated. <NEWLINE>Now you can gather<NEWLINE>even more plants.
+Field Ridge updated. <NEWLINE>Gather more plants<NEWLINE>than ever before.
+Dummy
+Fishing Pier extended. <NEWLINE>The number of fish you can<NEWLINE>catch has been increased.
+Fishing Pier extended. <NEWLINE>Catch more fish<NEWLINE>than ever before!
+Fires off a net capable of<NEWLINE>catching many fish. Beware<NEWLINE>of the usage limits.
+Dummy
+Mining location added.<NEWLINE>More rare ores are<NEWLINE>available.
+Mining location added.<NEWLINE>Mine more rare ores<NEWLINE>than ever before.
+Using bombs, you can do a<NEWLINE>ton of mining. Beware of<NEWLINE>the usage limits. 
+Dummy
+Strange thicket, with a<NEWLINE>smell loved by insects,<NEWLINE>added. Collect rare bugs!
+Strange thicket, with a<NEWLINE>smell loved by insects,<NEWLINE>added. Collect rare bugs!
+Shake a tree and gather<NEWLINE>the bugs! Beware of the<NEWLINE>usage limits!
+Plant a tree for mushrooms<NEWLINE>to grow upon.
+Plant a tree for high<NEWLINE>quality mushrooms to grow<NEWLINE>upon. 
+Plant a tree for top<NEWLINE>quality mushrooms to grow<NEWLINE>upon. Top-class item.
+Establish a Bee Hive and<NEWLINE>gather up the honey!

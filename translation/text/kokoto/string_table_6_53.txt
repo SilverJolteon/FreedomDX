@@ -1,0 +1,62 @@
+2,*hiccup!* Just look at<NEWLINE>my buddy here. He's <NEWLINE>been talking about <NEWLINE>having a "poor, aching<NEWLINE>heart." 
+2,Tell him he oughta try<NEWLINE>the ~B05 button to<NEWLINE>Sprint every now and<NEWLINE>then. That should<NEWLINE>cheer him up! 
+0,I'd show him how it's<NEWLINE>done, you know, but<NEWLINE>I'm a little...<NEWLINE>"indisposed" at the<NEWLINE>moment... *hiccup!* 
+0,Sprinting with the<NEWLINE>~B05 button sure is<NEWLINE>invigorating! It'll<NEWLINE>make you forget all<NEWLINE>your lady troubles in<NEWLINE>a flash! *hiccup!* 
+2,*hiccup!* Just look at<NEWLINE>my buddy here. He's <NEWLINE>been talking about <NEWLINE>having a "poor, aching<NEWLINE>heart." 
+2,Tell him he oughta try<NEWLINE>the ~B05 button to<NEWLINE>Sprint every now and<NEWLINE>then. That should<NEWLINE>cheer him up! 
+0,I'd show him how it's<NEWLINE>done, you know, but<NEWLINE>I'm a little...<NEWLINE>"indisposed" at the<NEWLINE>moment... *hiccup!* 
+0,Sprinting with the<NEWLINE>~B05 button sure is<NEWLINE>invigorating! It'll<NEWLINE>make you forget all<NEWLINE>your lady troubles in<NEWLINE>a flash! *hiccup!* 
+2,*hiccup!* Just look at<NEWLINE>my buddy here. He says<NEWLINE>he's gonna give his<NEWLINE>ladylove a present. 
+2,But I think that it <NEWLINE>would be better if he <NEWLINE>gave her something <NEWLINE>carved from a monster <NEWLINE>he killed, instead of <NEWLINE>some silly egg... <NEWLINE>*hiccup!*
+0,Will you tell him that<NEWLINE>he can carve all<NEWLINE>kinds of items from a<NEWLINE>monster after he's <NEWLINE>slayed it. All he has <NEWLINE>to do is press the <NEWLINE>~B00 button.
+0,I wonder if there are <NEWLINE>Mosswine out in the <NEWLINE>field? I carved a <NEWLINE>Special Mushroom out<NEWLINE>of a Mosswine once.
+2,*hiccup!* Just look at<NEWLINE>my buddy here. He says<NEWLINE>he's gonna give his<NEWLINE>ladylove a present. 
+2,But I think that it <NEWLINE>would be better if he <NEWLINE>gave her something <NEWLINE>carved from a monster <NEWLINE>he killed, instead of <NEWLINE>some silly egg... <NEWLINE>*hiccup!*
+0,Will you tell him that<NEWLINE>he can carve all<NEWLINE>kinds of items from a<NEWLINE>monster after he's <NEWLINE>slayed it. All he has <NEWLINE>to do is press the <NEWLINE>~B00 button.
+0,I wonder if there are <NEWLINE>Mosswine out in the <NEWLINE>field? I carved a <NEWLINE>Special Mushroom out<NEWLINE>of a Mosswine once.
+2,*hiccup!* Just look at<NEWLINE>my buddy here. He says<NEWLINE>he's gonna go out into<NEWLINE>the desert to find a<NEWLINE>present for his<NEWLINE>ladylove. 
+2,Cool Drinks are<NEWLINE>important, since there<NEWLINE>are monsters swimming<NEWLINE>under the surface of <NEWLINE>the sand in the <NEWLINE>desert.
+2,If one of those beasts<NEWLINE>jumps out of the <NEWLINE>ground, what should be<NEWLINE>done? I don't have <NEWLINE>even the slightest <NEWLINE>idea. 
+0,If a large sound goes <NEWLINE>off, will it scare <NEWLINE>them into flying <NEWLINE>out of the ground? <NEWLINE>*hiccup!*
+2,Be careful in the <NEWLINE>desert. There are <NEWLINE>monsters swimming <NEWLINE>under the surface of <NEWLINE>the sand. 
+0,You can scare the <NEWLINE>hidden beasts to the <NEWLINE>surface by making a <NEWLINE>large sound. *hiccup!*
+2,Look at my buddy here.<NEWLINE>He is all confused <NEWLINE>about this present. <NEWLINE>This time, the Cactus <NEWLINE>Flower withered away <NEWLINE>in the heat... 
+2,If it were me, I'd <NEWLINE>take a bug net out to <NEWLINE>the field, and use the<NEWLINE>points I earned <NEWLINE>catching bugs to get <NEWLINE>her a Godbug.
+2,A Godbug is capable of<NEWLINE>living for 1000<NEWLINE>years. It would never<NEWLINE>wither away like a<NEWLINE>plant. 
+0,Even more, with the <NEWLINE>points you earn <NEWLINE>catching bugs, you can<NEWLINE>get many bugs that<NEWLINE>can be combined.<NEWLINE>Don't disregard<NEWLINE>insects! 
+0,With the points you <NEWLINE>earn catching bugs, <NEWLINE>you can get many bugs <NEWLINE>that can be combined. <NEWLINE>Don't disregard <NEWLINE>insects!
+2,*hiccup!* Just look at<NEWLINE>my buddy here. He says<NEWLINE>he's gonna give his<NEWLINE>ladylove a rare fish<NEWLINE>as a present. 
+2,I hope he doesn't <NEWLINE>mistakenly go fishing <NEWLINE>at the lake under the <NEWLINE>desert! I hear you can<NEWLINE>catch huge monsters <NEWLINE>there. 
+0,Apparently you can <NEWLINE>even catch a Water <NEWLINE>Wyvern by using a <NEWLINE>Frog, but that rumor <NEWLINE>sounds like a joke to <NEWLINE>me! 
+2,I hope my buddy <NEWLINE>doesn't mistakenly go <NEWLINE>fishing at the lake <NEWLINE>under the desert! 
+0,He's gonna use a Frog<NEWLINE>to try and catch a<NEWLINE>huge monster. He's<NEWLINE>gonna kill himself<NEWLINE>over some woman!<NEWLINE>*hiccup*
+2,*hiccup!* Just look at<NEWLINE>my buddy here. He says<NEWLINE>he's off to find <NEWLINE>Special Mushrooms to <NEWLINE>give to his ladylove <NEWLINE>as a present. 
+2,If he is going to <NEWLINE>hunt for this <NEWLINE>present, tell him <NEWLINE>to carry some Felvine<NEWLINE>with him so his<NEWLINE>present doesn't get<NEWLINE>stolen by Melynxes.
+2,But, if he is in the <NEWLINE>Forest and Hills, <NEWLINE>Desert, or Swamp, he <NEWLINE>could always go into<NEWLINE>a Melynx Den and take <NEWLINE>his present back.
+0,If he isn't in those<NEWLINE>parts though, he <NEWLINE>should take Felvine<NEWLINE>with him, in case <NEWLINE>he has a run-in with<NEWLINE>a thieving Melynx.<NEWLINE>*hiccup!*
+2,*hiccup!* Just look at<NEWLINE>my buddy here. He says<NEWLINE>he's off to find <NEWLINE>Special Mushrooms to <NEWLINE>give to his ladylove <NEWLINE>as a present. 
+0,If he is going to <NEWLINE>hunt for this <NEWLINE>present, tell him <NEWLINE>to carry some Felvine<NEWLINE>with him so his<NEWLINE>present doesn't get<NEWLINE>stolen by Melynxes.
+2,Look at my buddy here.<NEWLINE>All upset over a <NEWLINE>little present. You <NEWLINE>know he got a Dream<NEWLINE>Blossom... *hiccup!*
+2,If it were me, I'd <NEWLINE>march right into the <NEWLINE>Volcanic zone with <NEWLINE>death in my eyes, and <NEWLINE>mine her a precious <NEWLINE>gem for a present.
+0,In the Volcanic Zone, <NEWLINE>it seems you can find <NEWLINE>an incredibly rare <NEWLINE>Ruststone... but what <NEWLINE>precisely can it be <NEWLINE>used for, I wonder? 
+0,In the Volcanic Zone, <NEWLINE>it seems you can find <NEWLINE>an incredibly rare <NEWLINE>Ruststone. But it has <NEWLINE>a name more likely to <NEWLINE>please a craftsman <NEWLINE>than a woman.
+2,Look at my buddy here.<NEWLINE>He's so incredibly <NEWLINE>head over heels from <NEWLINE>just one look from <NEWLINE>her! *hiccup!*
+2,Lately, he hasn't gone<NEWLINE>gathering, but spent <NEWLINE>all his time meddling <NEWLINE>in his fields. I have <NEWLINE>my own fields, you <NEWLINE>know, so I don't take <NEWLINE>off on quests myself.
+0,You are in charge of a<NEWLINE>farm yourself, aren't<NEWLINE>you? If you harvest <NEWLINE>some excellent crops, <NEWLINE>it makes getting ready<NEWLINE>for quests very <NEWLINE>enjoyable. 
+0,Depending on how you <NEWLINE>work Kokoto Farm, <NEWLINE>gathering materials <NEWLINE>can be quite <NEWLINE>enjoyable! *hiccup!*
+2,*hiccup!* My buddy is <NEWLINE>so head over heals <NEWLINE>with this girl that we<NEWLINE>haven't been spending<NEWLINE>much time together. <NEWLINE>How 'bout you have a <NEWLINE>drink with me. 
+2,It'd be nice to have a<NEWLINE>snack. Wait a second,<NEWLINE>if you're a hunter,<NEWLINE>you should have some<NEWLINE>Felynes working for<NEWLINE>you. *hiccup!*
+2,Let's have some of <NEWLINE>their food. You know, <NEWLINE>the more chefs you <NEWLINE>have the better <NEWLINE>ingredients they use. 
+0,That looks good...<NEWLINE>*hiccup!* I wouldn't <NEWLINE>mind trying it once. <NEWLINE>How about you give me <NEWLINE>some food this time. 
+2,Let's have some Felyne<NEWLINE>food. You know, the <NEWLINE>more chefs you have <NEWLINE>the better ingredients<NEWLINE>they use.  
+0,That looks good...<NEWLINE>*hiccup!* I wouldn't <NEWLINE>mind trying it once. <NEWLINE>How about you give me <NEWLINE>some food this time. 
+2,*hiccup!* Just look at<NEWLINE>my buddy here. Ever<NEWLINE>since his girlfriend<NEWLINE>came to him with her<NEWLINE>troubles, all he can<NEWLINE>think about is how to<NEWLINE>defeat a giant wyvern.
+2,If it were me, before <NEWLINE>I'd fight a giant <NEWLINE>wyvern, I'd make a set<NEWLINE>of armor made from<NEWLINE>insect materials.
+0,Armor made from insect<NEWLINE>materials has high <NEWLINE>resistance against <NEWLINE>Dragons. You'd best <NEWLINE>not forget this fact. <NEWLINE>*hiccup!*
+0,Armor made from insect<NEWLINE>materials has high <NEWLINE>resistance against <NEWLINE>Dragons. You'd best <NEWLINE>not forget this fact. <NEWLINE>*hiccup!*
+2,*yawn* I'm tired!<NEWLINE>Completely exhausted.<NEWLINE>This is not like me at<NEWLINE>all. 
+2,My buddy ran around<NEWLINE>like crazy trying to<NEWLINE>gather Dragon<NEWLINE>Elemental equipment. <NEWLINE>*hiccup!*
+2,Running around getting<NEWLINE>insects... Jumping on<NEWLINE>top of the backs of<NEWLINE>giant wyverns... I<NEWLINE>think it is fun for<NEWLINE>him to help others. 
+0,Thanks to you it looks<NEWLINE>like things are going<NEWLINE>well for my buddy. <NEWLINE>Although I'm a bit <NEWLINE>bitter... so I guess <NEWLINE>I'll have a drink, and<NEWLINE>take a nap. *hiccup!*
+2,Ah, that's right!<NEWLINE>Thanks to you, Fatalis<NEWLINE>has been driven away<NEWLINE>for good. 
+0,Thanks to you, I can<NEWLINE>have a drink and take<NEWLINE>a nice long nap.

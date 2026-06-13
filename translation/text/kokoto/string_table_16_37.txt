@@ -1,0 +1,4 @@
+2,Purr...You're a<NEWLINE>hunter, nya? I'm the<NEWLINE>Wandering Cooking Cat,<NEWLINE>meow. 
+0,You wouldn't happen to<NEWLINE>want to hire me-ow?<NEWLINE>Despite my appearance,<NEWLINE>I was once a city cat.<NEWLINE>I'd surely be of use,<NEWLINE>nya. I think.
+0,Gotcha...nya. Nya nya<NEWLINE>nya nyaaaa!
+0,Thanks for hiring me,<NEWLINE>nya! I'll head to the<NEWLINE>kitchen at your house<NEWLINE>right away, meow!

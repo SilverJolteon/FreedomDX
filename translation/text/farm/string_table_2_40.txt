@@ -1,0 +1,13 @@
+2,This is a Fishing<NEWLINE>Spot, nya. You can<NEWLINE>catch some tasty fish!<NEWLINE>I'll let you borrow<NEWLINE>some bait, so fish as<NEWLINE>much as you'd like,<NEWLINE>meow!
+2,Each time I lend you<NEWLINE>bait, it will be<NEWLINE>enough for three<NEWLINE>tries. But if you<NEWLINE>renovate the pier, I<NEWLINE>will give you even<NEWLINE>more bait, nya.
+2,Go to the pier and<NEWLINE>press the ~B03 button<NEWLINE>to cast.
+0,Even if you visit<NEWLINE>while on a Quest, I<NEWLINE>will be happy to lend<NEWLINE>you some more bait,<NEWLINE>meow. Now go catch<NEWLINE>some tasty fishies,<NEWLINE>meow...
+0,dummy
+2,This is a Casting<NEWLINE>Machine, nya. 
+2,It fires a Large<NEWLINE>Fishing Net, so you<NEWLINE>can catch lots of<NEWLINE>fish. To make a Large<NEWLINE>Fishing Net, you need<NEWLINE>three Nets, nya.
+1,Would you like to use<NEWLINE>the Casting Machine?
+0,You don't want to use<NEWLINE>the Casting Machine...<NEWLINE>Awww.... Meow....
+0,You don't have enough<NEWLINE>Nets, nya. Go get some<NEWLINE>nets, meow...
+1,Would you like me to<NEWLINE>take these three Nets,<NEWLINE>nya?
+0,Did you catch lots of<NEWLINE>tasty fish, nya?
+0,The Casting Machine<NEWLINE>is undergoing<NEWLINE>maintenance... Do<NEWLINE>you mind coming back<NEWLINE>later, meow?

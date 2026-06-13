@@ -1,0 +1,1173 @@
+
+Select an item to take.<NEWLINE><NEWLINE>                            Info
+Select an item to exchange.<NEWLINE><NEWLINE>                            Info
+Item has been exchanged.
+Time's up!
+Quest failed.
+remaining
+seconds.
+dummy
+Returning to town in 20 secs.
+Returning to village in 20 secs.
+Returning to town in 1 min.
+Returning to village in 1 min.
+Quest completed!
+Reward decreased by %dz.
+Time left: %d min.
+Good work!
+Quest failed...
+Time limit: %d min.
+Time's up!
+Supplies delivered.
+Deliver items until time is up!
+Items
+Combine
+Reference
+Quest Info
+Chief's Wisdom
+Map zoom In
+Map zoom Out
+Gestures
+Status
+Equipment Detail
+Options
+Abandon Quest
+--------
+Yes
+No
+~C02ÅyYesÅz~C00ÅEÅ@No
+~C00Å@YesÅ@ÅE~C02ÅyNoÅz
+Discard
+Give
+Deliver
+Discard
+~C10Give
+~C00Deliver
+Discard
+Give
+~C10Deliver
+Discard
+~C10Give
+Deliver
+~C10Discard
+Give
+Deliver
+Exchange
+Discard
+Quit
+Monster List
+Combo List
+Quest Name:
+Quest Name:
+Reward:
+Contract:
+Time:
+Zone:
+Spec Cond:
+Quest Name:
+Quest Level:
+Quest Cleared:
+Quest Failed:
+Quest Name:
+Details of Request:
+Monsters Slain:
+Items Delivered:
+Monsters Captured:
+FrtIntegrty:
+Steaks Delivered:
+Treasure Points Acquired:
+Combined Item:
+Materials:
+SuccessRt:
+Result:
+95%
+90%
+75%
+65%
+55%
+NO DATA
+Rathian
+Fatalis
+Kelbi
+Mosswine
+Bullfango
+Yian Kut-Ku
+Lao-Shan Lung
+Cephadrome
+Felyne
+dummy
+Rathalos
+Aptonoth
+Genprey
+Diablos
+Khezu
+Velociprey
+Gravios
+dummy
+Vespoid
+Gypceros
+Plesioth
+Basarios
+Melynx
+Hornetaur
+Apceros
+Monoblos
+Velocidrome
+Gendrome
+dummy
+Ioprey
+Iodrome
+dummy
+Kirin
+Cephalos
+dummy
+Fatalis
+Rathian
+Yian Kut-Ku
+Gypceros
+Yian Garuga
+Rathalos
+Rathian
+Diablos
+Monoblos
+Khezu
+Plesioth
+Gravios
+Basarios
+Rathalos
+Lao-Shan Lung
+View Quest Details
+No quest has been accepted.
+View Quest Details
+Contract Details
+TtlReward:
+RwdRemain:
+TimeRmain:
+(0% Quest Failure)
+%s%
+:%s
+%s:
+%s:
+%s:
+Material A:
+Material B:
+Combined Item:<NEWLINE><NEWLINE>SuccessRt:<NEWLINE>Result:
+Unknown
+%d%
+???%
+Combine
+Success:<NEWLINE><NEWLINE>Result:<NEWLINE>Amount:
+Failure:<NEWLINE><NEWLINE>Result:<NEWLINE>Amount:
+Please select
+%s Åá
+No inventory space.
+%s<NEWLINE>~C05Amount Held: ~C00%2d
+ ~C05Menu      ~C00%01d/2
+ ~C05Menu~C00
+Edit Phrases
+Please select an item.
+No inventory space left.
+No space for this item type.
+%s Åá
+%s Å~%d
+You have too many of this item.
+Combo List
+~C03No.%d
+None Recorded
+~C02No.%d[Alchemy]
+  Monster List
+No.%d
+~C05Name:~C00%s
+None Purchased<NEWLINE>Name:
+  Monster Log List
+Slain:        Length:
+~C02None Purchased
+  Monster Log         ~C00%d/3
+MonsterLog
+Slain:
+Lngth:
+Equipment Details~C00
+~C05Options~C00
+Switch Name/ID
+RARE-%d
+Chat
+%sÅF
+Incoming Msg
+Chat
+Incm
+Chat
+~C02ÅyYesÅz~C00ÅE  No
+  Yes  ÅE~C02ÅyNoÅz
+Next
+Items
+Combine
+Å@~C05%s    ~C00%01d/2
+Å|Å|Å|Å|Å|Å|Å|Å|
+Åá
+Name    :
+Weapon  :
+HR      :
+GP      :
+Money   :
+Location:
+Health   :
+Stamina  :
+Attack   :
+Defense  :
+Fire Res   :
+Water Res  :
+Thundr Res :
+Dragon Res :
+
+G.Sword
+H.Bowgun
+Hammer
+Lance
+Sword
+L.Bowgun
+D.Swords
+[Felyne Whim Skill]
+[Activate Skill]
+  StatusÅ@Å@Å@Å@Å@Å@Å@  Å@Å@~C00%d/%d~C05
+%1d
+%d (Next:%d)
+%dz
+%-10s
+%s~C%02d:   
+%s~C%02d:~C%02d%+3d
+%s~C%02d:~C%02d%3d
+%-10s:%s:%s:%s:%s:%s:
+Åy%sÅz
+     Skill Details       %d/%d
+ Skill Details
+ ~C10Skill Details
+  Skill Details             %d/%d
+Skill Tree: Hd/Tor/Arm/Wst/Leg
+   
+ E 
+~C05: ~C00%s
+~C05: ~C00%s
+????
+Nothing equipped.
+Hunter Type:
+Rarity:
+Hunter Type:
+Rarity:
+Attack:
+Sharpness
+Attack:
+Reload:
+Recoil:
+Mod Level:
+Defense     :
+Fire Res    :
+Thunder Res :
+VerySlow
+Slow
+Normal
+Fast
+VeryFast
+V.Strong
+Strong
+Moderate
+Light
+Weak
+VeryWeak
+Minimal
+Blademaster
+Gunner
+Blade/Gun
+: ~C%02d%s~C00
+zoom Scope
+Fixed Scope
+Long Barrel
+Silencer
+-
+Load:  ~C06LV 1  2  3
+Load:  ~C06LV 1  2
+~C%02d%sAttrib%s
+~C%02dDefense~C%02d+%d
+:~C%02d%3d0
+(Total Val):~C%02d%2d0
+~C%02d%s~C%02d:%s
+~C%02d%2d
+~C%02d%2d~C%02d/~C%02d%2d
+~C%02d%2d~C%02d/~C%02d%2d~C%02d/~C%02d%2d
+Normal S
+Pierce S
+Pellet S
+Crag S  
+Clust S 
+Flam S
+Ice S 
+Thnd S
+Drgn S
+Recov S 
+Poison S
+Stun S  
+Sleep S 
+Tranq S
+Paint S
+Demon S
+Armor S
+FR
+WT
+TH
+DR
+PO
+PARA
+SLP
+[Skill Tree:Skill Points]
+%-10s:~C%02d%3+d
+No Skill Effects
+%d / %d
+Info
+Sort
+START
+SELECT
+%d/%d
+~B05Change Receip ~B08Change Gesture ~B02Confirm(Send)
+/quest member:
+/%s:
+Unable to locate recipient.
+Cannot input recipient.
+Greetings
+Thanks
+Sorry
+Farewell
+Accepted Quest
+Entered Quest
+Delivered Item
+Found 
+Let's fight!
+Let's get out of here!
+Cover me please!
+Take this please!
+"Wisdom of the Chief" updated.
+PUSH
+Å@Å|Å@Å|Å@Å|Å@Å|Å@Å|Å@Å|
+View
+You can hear the Village Chief's voice.
+%d / %d
+Nothing found.
+Quest Completed!
+dummy
+You lost your bait.
+Target monster slain!
+Quest item obtained! 
+dummy
+Returning to camp...
+dummy
+dummy
+I wonder if there's anything here...
+It's still raw...
+You can't carry any more items.
+You didn't catch anything.
+You couldn't carve anything off.
+Supply Items were returned.
+Heat endurance increased!
+Cold endurance increased!
+Effect of Cool Drink has expired!
+Effect of Hot Drink has expired!
+Send Settings changed to "all".
+Speed burst has expired!
+Vitality burst has expired!
+Natural recovery has increased!
+Stamina has stopped decreasing!
+~C02%s~C00 obtained.
+dummy
+dummy
+~C02%s~C00 at maximum.
+~C02%s~C00 has fallen unconscious.
+~C02%s~C00 has broken!
+~C02%s~C00 was stolen.
+~C02%s~C00 taken back.
+~C02%s~C00 delivered.
+You made a ~C02%s~C00
+Oh no! It became a ~C02%s~C00
+You caught a ~C02%s~C00
+You dropped the ~C02%s~C00
+~C02%s~C00 received.
+~C02%s~C00 has broken.
+You can't carry any more ~C02%s~C00
+~C02%s~C00 given.
+You've given all of the ~C02%s~C00
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+is done for!
+caught a fish!
+is handing you an item!
+broke off from the group!
+dummy
+dummy
+Award:
+acquired.
+No space left in inventory.
+There is nothing else here.
+Total Reward: 0z
+You've fallen unconscious.
+Total Reward: 0z
+No continues remaining.
+Weapon power has decreased!
+Weapon power has increased!
+Sharpness is at maximum!
+Enter a name for your character.
+~B00EnterÅ@Å@~B01Cancel
+Select a gender for your character.
+~B09SelectÅ@Å@~B01Cancel
+Select a face for your character.
+~B09SelectÅ@Å@~B01Cancel
+Select a hairstyle for your character.
+~B09SelectÅ@Å@~B01Cancel
+Select a hair color for your character.
+~B00ColorÅ@Å@~B01Cancel
+Select a voice for your character.
+~B09SelectÅ@Å@~B00Voice testÅ@Å@~B01Cancel
+Confirm your character selection.
+~B00ConfirmÅ@Å@~B01Cancel
+dummy
+~B00ConfirmÅ@Å@~B01Cancel
+NAME
+GENDER
+FACE
+HAIRSTYLE
+HAIR COLOR
+VOICE
+CONFIRM
+MALE
+FEMALE
+TYPE%02d
+Are you a beginner?
+Rotate
+Please enter a name.
+You cannot use that name.
+~B01~B00ÅFBack
+Do you want to use this character?
+Do you want to save here?
+Use this character?
+Do you want to quit character creation?
+Yes
+No
+Yes
+No
+Select data with the analog stick.
+Press the Åõ button to confirm.
+Please select a character.
+ConfirmÅ@Å@Cancel
+Saving to Memory Stick Duo~B10Åc
+Please do not remove the Memory Stick Duo~B10.
+Welcome to the world of Monster Hunter!
+Begin game without saving.
+Rotate
+Welcome to the new world of Monster Hunter!
+We hope you enjoy your  stay!
+~B00Next
+Import character?
+~C02Yes~C00ÅEÅ@No
+YesÅ@ÅE~C02No~C00
+Import this character?
+NEW GAME
+CONTINUE
+GALLERY
+OPTIONS
+DOWNLOAD
+CONNECT
+Go to Village
+dummy
+Join in a hunt with others from the town.
+(Network Mode)
+Head out from your village on a solo hunt.
+(Single Mode)
+Become a first class hunter under an instructor.
+(Trial Mode)
+The Training School instructor hasn't arrived yet.
+Certain reqs. must be met to call an instructor.
+ConfirmÅ@Å@Cancel
+TGS Trailer
+MH Opening Movie
+Town of Hunters
+Gravios Ecology
+Plesioth Ecology
+Khezu Ecology
+Diablos Ecology
+Rathian Ecology
+A Hero's Proof F
+MHG Presentation
+Opening
+Hunter's Guild
+-------
+MHG Opening Movie
+MHF Trailer
+MH2 Special Trailer
+Blue Hunter
+Shepherd
+King of the Heavens
+Divine Providence
+AvianMasterofJungle
+Menace in the Sand
+Poison of the Swamp
+TheAncientPiscine
+SupremeRulerInferno
+WhiteShadowDarkness
+CorneredMonoblos
+Lao-Shan Lung
+LegendofBlackDragon
+Advent of Disaster
+DragonofJaggedRocks
+-----
+The Lone Black Wolf
+The Phantom Beast
+Next
+Prev
+Play
+Back
+Beginning Quest.
+Preparing Quest.
+Connecting to land.
+Preparing the network.
+Players Waiting
+ÇpÇtÇdÇrÇsÅ@ÇbÇkÇdÇ`ÇqÅI
+ÇpÇtÇdÇrÇsÅ@ÇeÇ`ÇhÇkÇdÇc
+ÇpÇtÇdÇrÇsÅ@ÇqÇdÇsÇhÇqÇd
+Other players are waiting to end Quest.
+%dÅ^%d
+Quest Completed
+PRESS START BUTTON
+This game contains scenes of
+violence and gore.
+dummy
+Fortress
+Forest&Hills
+Desert
+Swamp
+Volcano
+Jungle
+CstleSchrade
+Battleground
+Great Arena
+Arena
+If you'd like to train, select a quest to challenge!<NEWLINE>Each monster in the line-up is awaiting your<NEWLINE>challenge. Brace yourself! Go for broke!
+This training school is about taking down monsters with <NEWLINE>pre-selected weapons to demonstrate your true skill. <NEWLINE>Push your weapon's power to the limit or face defeat!
+Train         Menu
+Quest Select
+School Rules
+Area:
+Level:
+ 
+/8
+Training Cmp
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+Arrange Item
+Would you like to end this training session?
+~C05ÅyYESÅz~C00   NO  
+Å@YES   ~C05ÅyNOÅz~C00
+Would you like to begin training?
+If your item pouch is full, you will not be able to<NEWLINE>receive your reward. Place the contents of your <NEWLINE>pouch into the item box to free up some room.
+Welcome. This is the ~C05Hunter's Training School~C00, <NEWLINE>birthplace of many famous hunters. First, learn the<NEWLINE>school bylaws and make them one with your soul!
+We follow our bylaws, and are fair about victory and<NEWLINE>defeat. If you want to hear the ~C05School Bylaws~C00 again,<NEWLINE>stop back at any time.
+EquipmentType:
+Welcome! Here at the ~C05Hunter's Training School~C00 you<NEWLINE>will train to become the strongest hunter ever! <NEWLINE>Remember, an instructor's word is absolute!
+You're back, huh? If you are only this tired, then<NEWLINE>you certainly aren't training hard enough! Once you<NEWLINE>are prepared, we will begin the next exercise.
+When you are finished training, you can exit any<NEWLINE>time. Remember, the gates are always open! Come <NEWLINE>back whenever you wish to train more.
+CLEAR!!
+First you must master the ~C05Training School Rules.~C00 This<NEWLINE>is different from a normal quest. You'll be going up<NEWLINE>against a ~C05Kut-Ku~C00 and I will not forgive negligence.
+This quest is restricted to using ~C05Sonic Bombs.~C00<NEWLINE>Attacking underground will be very hard. Find<NEWLINE>materials, and combine ~C05Sonic Bombs and Cool Drinks.~C00
+Striking a blow against the rubber-hided ~C05Gypceros~C00<NEWLINE>will be quite a task, but there should be ~C05useful<NEWLINE>items~C00 somewhere. I know, I hid them.
+Finally! A battle with ~C05Rathalos, the Wyvern King of<NEWLINE>the Heavens!~C00 This is a task for the ages! Use all you<NEWLINE>have learned and slay the flying beast!
+As you know, ~C05Basarios'~C00 shell is incredibly<NEWLINE>poisonous. It may be a threat, but it is not a<NEWLINE>wyvern. Use ~C05an exploding rock~C00 and vanquish the beast.
+Throwing Knives can be combined to carry varied<NEWLINE>powers! ~C05Try using the Mushrooms~C00 that grow in the<NEWLINE>marshlands. But beware of ~C05Bullfango.~C00
+~C05Plesioth's power~C00 is overwhelming! We can't save you<NEWLINE>from the verge of death. We can't help you fight this<NEWLINE>beast. ~C05Use your wits and items to survive its wrath!~C00
+~C05Monoblos~C00, a wyvern of fiendish strength and flesh as<NEWLINE>tough as steel... kind of like me!! If you can make<NEWLINE>a Sonic Bomb, victory shall be yours!
+Time to face a unique wyvern... ~C05Khezu!~C00 More than<NEWLINE>simply banishing fear, you must also deal with<NEWLINE>Khezu's thunderous power. ~C05Observe, then strike!~C00
+Your final test here will be against ~C05Gravios, along<NEWLINE>the volcanic belt. Give it everything you've got!<NEWLINE>Find a ~C05Cool Drink~C00, then finish him off!
+CLEAR!
+When hunting at the Training School, ~C05using the items<NEWLINE>you are limited to is absolutely key.~C00 Gather and<NEWLINE>combine items, then slay Kut-Ku before time runs out!
+The basics never change here. Eat meat to raise your<NEWLINE>stamina, and if you meet a monster, hit them with a<NEWLINE>Paintball. ~C05However, here the carvings are different!~C00
+Can't handle life without Potions? Don't rely on<NEWLINE>things so much! I've hidden a bunch of items in the<NEWLINE>field. Look everywhere! Even in ~C05Dung!~C00
+Your tasty scent has attracted not only Yian Kut-Ku,<NEWLINE>but also ~C05Velocidrome.~C00 If you are lucky, you will get<NEWLINE>a valuable ~C05Max Potion~C00 from the Yian Kut-Ku!
+If you plan out your equipment, even a gunner can<NEWLINE>attain ~C05high Defense.~C00 Equipment should be ~C05planned~C00, you<NEWLINE>know! If you want to be great, go out and prove it!
+Devising a way to ~C05drag Cephadrome from the ground~C00 is<NEWLINE>essential. Find where he stops in the sand and then<NEWLINE>start an unrelenting attack!
+An Apceros at training school will often give up<NEWLINE>Armorskin. Combine it with a ~C05Cool Drink~C00 and slow<NEWLINE>the reduction in strength. Haha! Genius!
+Track a Cephadrome's swimming route with a Paintball,<NEWLINE>and ~C05time your attacks!~C00 Hammer the Sand Wyvern<NEWLINE>when the time is right. Don't think. ~C05Feel.~C00
+Opps! You need ~C05Sonic Bombs~C00 to defeat<NEWLINE>Cephadrome, but ~C05I forgot to give them to you!~C00<NEWLINE>You'll have to use your wits and bravery, huh? Sorry!
+Firing on Apceros will waste ammo, but letting him<NEWLINE>live is equally dangerous. Difficult, huh? Anyways,<NEWLINE>hit Cephadrome with a ~C05Crag S~C00 and drag him to earth!
+Time to get familiar with ~C05Dual Blades~C00. Since you <NEWLINE>can't guard, you can use a technique called <NEWLINE>~C05Demonizaiton~C00. It drains Stamina so be careful!
+~C05Bullfango is strong, and taking him down may<NEWLINE>net you a ~C05Mega Potion~C00, or a ~C05Flash Bomb!~C00<NEWLINE>Of course, thinking too much will end it disaster!
+I have prepared you an ~C05excellent piece of equipment~C00<NEWLINE>that wards off the effects of flashes!  Use the flash<NEWLINE>to create an opportunity and charge Gypceros! 
+Gypceros is dreadfully poisonous, but no need to<NEWLINE>fear! I put the antidote into a ~C05Blue Bottle~C00 in your<NEWLINE>pouch... ~C05You can thank me later...~C00
+For a defenseless gunner, the flash of a Gypceros<NEWLINE>often leads to death. ~C05The key is destroying~C00 the<NEWLINE>crest that is the origin of the flash.
+Time to face the ~C05king of the skies, Rathalos.~C00 He is a<NEWLINE>tough opponent, but you should be able to handle it.<NEWLINE>Get ready and get going... Make it a quick battle!
+This time I got you a Great Sword that is sturdy, <NEWLINE>but not sharp at all! It might snap if you hit<NEWLINE>something hard, ~C05so aim for the head!~C00
+Here is a Hammer that will ~C05paralyze any monster.~C00 Hit<NEWLINE>a monster a few times, and it isn't unusual for it to<NEWLINE>be knocked clean out. ~C05Go stun them!~C00
+Take ~C05Power Juice~C00 and no matter how many attacks you<NEWLINE>guard, your stamina will not decrease. ~C05Block<NEWLINE>Rathalos' attacks~C00, and hit him with a hard counter!
+You don't have to fight with only the ammo you have.<NEWLINE>You can make strong ammo by combining a ~C05Wyvern <NEWLINE>Claw and Small Bone Husk.~C00 Fire at will!
+The calling card of Dual Blades are their ~C05combo<NEWLINE>attacks.~C00 These fast attacks are ferocious even versus<NEWLINE>a Basarios. ~C05Demonize and attack like a whirlwind!~C00
+A battle with Basarios is a battle of crashes and<NEWLINE>explosions. ~C05Rush into the crags and attack!~C00 Being<NEWLINE>wrapped up in explosions is absolutely beautiful!
+This time I have tossed a variety of flutes into your<NEWLINE>bag! It is like a ~C05Flute Festival~C00 in there! Become a<NEWLINE>flute master! Why flutes? What can I say, ~C05I love 'em!~C00
+You can't guard against Basarios' poison gas. It is<NEWLINE>harder to run when a weapon is drawn, so fleeing can<NEWLINE>be tough! ~C05Your spirit will help you overcome!~C00
+Time to use a ~C05Heavy Bowgun! The heavy gun may<NEWLINE>restrict movement, but allows for ~C05powerful attacks!~C00<NEWLINE>This is different than usual, so don't miss!
+A Rathian's charge is ever-changing! Use items and<NEWLINE>stop her! ~C05Experience the joy of exploding with a <NEWLINE>Demonization attack!~C00 Don't forget to sharpen up!
+~C05Throwing knives~C00 are great when fighting wyverns who<NEWLINE>can paralyze or poison a hunter. Carve a blade from<NEWLINE>an Ioprey or Genprey and toss it from behind cover!
+A hammer can cause a lot of damage, but a wyvern is<NEWLINE>even more powerful. Especially a ~C05Rathian Summersault.~C00<NEWLINE>If you get hit, it is all over, so DON'T GET HIT!
+There are so many Felynes that is must be festival<NEWLINE>time. They are so excited they're throwing bombs all<NEWLINE>over the place! ~C05Don't get blasted!~C00
+Light Bowguns aren't very powerful, so this one will<NEWLINE>be tough. Since you can't kill with one shot, just<NEWLINE>keep firing. ~C05If you run out of ammo, make your own!~C00
+It is well known that a ~C05Plesioth has tremendous<NEWLINE>power.~C00 You may even get pulverized! Gather up<NEWLINE>your wits and ~C05cut an escape!~C00 You can do it!
+I, in my wisdom, have selected a ~C05Eager Cleaver for<NEWLINE>you!~C00 It's a Thunder weapon effective versus Plesioth.<NEWLINE>~C05If you lose with this, well... that's just sad!~C00
+~C05RUN AWAY!~C00 This has been the main theme of battles<NEWLINE>between a hammer and a Plesioth. But aiming for the<NEWLINE>legs and ~C05knocking it over could be your chance!~C00
+You've gotten this far, so I wonder if your lance<NEWLINE>guard is perfect? If you can precisely ~C05ward-off an<NEWLINE>attack,~C00 even large monsters will fall!
+A Heavy Bowgun may be hard to move with, but they are<NEWLINE>fierce. ~C05I've gotten a piercing that eliminates<NEWLINE>reloading...~C00 So turn that monster into swiss cheese!
+I've got some equipment that will automatically<NEWLINE>mark a monster.~C00 By zooming on the map, you can see<NEWLINE>underground Monoblos. Fight to the end, ~C05Hero!~C00
+If you can direct a Monoblos' charge into a wall, he<NEWLINE>temporarily won't be able to move! ~C05Listen for the<NEWLINE>sound of his attack~C00, dodge, then turn the tables!
+~C05Monoblos' roaring and stomping~C00 are only a precursor<NEWLINE>to his fatal charge. Before he charges throw a ~C05Flash<NEWLINE>Bomb~C00 to stop him and then introduce him to death!
+It is said that Monoblos is no match for a ~C05master of<NEWLINE>a lance.~C00 Guard, then rush! Remember this basic idea,<NEWLINE>and win the ~C05fight with patience and strength!~C00
+It's a tough monster, but if you keep firing and<NEWLINE>never let up, you should be able to slay it! ~C05Observe<NEWLINE>the beast and wait for the right time to reload!~C00
+The equipment I have for you today will ~C05prevent the<NEWLINE>effects of a roar.~C00 This is great for Dual Blades that<NEWLINE>have no guard. Use your skills! Happy slaying.
+When fighting in cold places like caves, you have to<NEWLINE>drink hot drinks or lose your stamina. Choosing when<NEWLINE>to drink a ~C05Hot Drink~C00 will decide everything.
+Since a hammer's reach is so short, any mistake in<NEWLINE>timing could lead to a strong electric shock! But<NEWLINE>forget timing and ~C05bash his beautiful head in!~C00
+A lance, compared to other weapons, has a ~C05long attack<NEWLINE>range!~C00 When a Khezu is electrified, it is easy to<NEWLINE>lance! Gauge the range to turn defeat into victory!
+When your opponent rises to the sky, ~C05blast away!~C00<NEWLINE>Losing sight of him and getting slimed by his acid<NEWLINE>drool would be a bit embarrassing, so be careful!
+Gravios has many strengths, so you'll need ~C05lots of<NEWLINE>bombs to slay him.~C00 Don't worry though, I've brought a<NEWLINE>load of bombs for you! Where? A hot place!
+This time, I have prepared a wonderful weapon for<NEWLINE>you. ~C05A sword so sharp~C05 it will slice through Gravios'<NEWLINE>armor like ~C05paper.~C05 Cut him up! 
+Hammers are very popular versus the hard shell of a<NEWLINE>Gravios. Use your skill to ~C05avoid his sleeping gas~C00 and<NEWLINE>attack. But miss and it's lights out!
+I've gotten ahold of equipment with the ability to<NEWLINE>improve ~C05Guard.~C00 This equipment can block any attack!<NEWLINE>Guard against the gas and hit Gravios in the belly!
+The Bowgun for this Quest can only fire ~C05two different<NEWLINE>shots,~C00 but they very are strong! You've got more than<NEWLINE>enough ammo, so ~C05blow a hole clean through Gravios!~C00
+Åö
+ÅöÅö
+ÅöÅöÅö
+ÅöÅöÅöÅö
+ÅöÅöÅöÅöÅö
+Defeat the monster with<NEWLINE>preselected equipment!
+All hunting missions, eh? Defeating a monster ends<NEWLINE>the training! The only equipment you can use is on<NEWLINE>my list of ~C05Usable Equip.~C00 Fight it out!
+On strict school orders,<NEWLINE>one defeat spells the end!
+I hate the idea where some people think it is ok<NEWLINE>to suffer defeat once or twice! Here at this school,<NEWLINE>~C05defeat means death!~C00 My school, my rules!
+Gather items!<NEWLINE>Hunter Survival Training.
+I have placed my ~C05old items~C00 in various places<NEWLINE>within the training grounds! Use your repertoire of<NEWLINE>skills to make training a simple exercise.
+Use items torn from<NEWLINE>defeated monsters!
+Monsters here at school drop ~C05different items~C00<NEWLINE>than normal. Grasping which monster will drop which<NEWLINE>item is the key to victory!
+Items to be delivered<NEWLINE>over time!
+The inside of the ~C05Supply Box~C00 begins empty.<NEWLINE>However, as time passes, ~C05useful items may be<NEWLINE>delivered!~C00 Don't worry, we'll tell you when!
+Continue Village Quests<NEWLINE>to unlock new training.
+Successfully ~C05defeat a new wyvern in a Village Quest~C00,<NEWLINE>to train against it at the Training School! Why<NEWLINE>a Village Quest? I look up to the Village Chief...
+No. of selectable equip<NEWLINE>increases according to<NEWLINE>No. of monsters defeated.
+You can't be a real hunter using only a few weapons!<NEWLINE>Slay some monsters and I may give you<NEWLINE>~C05new equipment to use!~C00 Master each weapon!
+Gather up reward tickets<NEWLINE>and coins!
+Items from training can't be taken back to the<NEWLINE>village, but ~C05reward items~C00 are different. If you<NEWLINE>gather tickets and coins...Oops! I said too much!
+Yian Kut-Ku Training
+Cephadrome Training
+Gypceros Training
+Rathalos Training
+Basarios Training
+Rathian Training
+Plesioth Training
+Monoblos Training
+Khezu Training
+Gravios Training
+Sword
+GrtSword
+Hammer
+Lance
+Bowgun
+Items
+Status
+Equipment Detail
+Training School
+Select Equipment
+dummy
+dummy
+dummy
+No
+Joining this quest requires<NEWLINE>a HR higher than 2.
+Joining this quest requires<NEWLINE>a HR higher than 3.
+Joining this quest requires<NEWLINE>a HR higher than 4.
+Joining this quest requires<NEWLINE>a HR higher than 5.
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+Great Sword Only Quest
+Lance Only Quest
+Hammer Only Quest
+Sword Only Quest
+Bowgun Only Quest
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+Initiating & joining quest<NEWLINE>reqs. no equipped armor.
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+Dual Blades Only Quest
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+2 Hunters Only Quest: <NEWLINE>Outside Items Forbidden
+No Skill
+Fire Res +10
+Water Res +10
+Thunder Res +10
+Dragon Res +10
+Fire Res -10
+Water Res -10
+Thunder Res -10
+Dragon Res -10
+Poison Dur Halved
+Stun Duration Halved
+Sleep Dur Halved
+Knockout Prob Halved
+Hunger Halved
+Poison Negated
+Stun Negated
+Sleep Negated
+Knock Out Negated
+Hunger Negated
+Poison DurÅyÅ~2Åz
+Stun DurationÅyÅ~2Åz
+Sleep DurÅyÅ~2Åz
+KO DurationÅyÅ~2Åz
+HungerÅyÅ~2Åz
+SharpnessRestore+25%
+SharpnessRestore+50%
+HealthRecItemsImprvd
+Damage Rec Speed +1
+Wide Area Recovery
+Wide Area Antidote
+WideAreaPwrArmEffect
+Attack Up (Small)
+Attack Up (Medium)
+Health +10
+Health +20
+Health +30
+Defense +5
+Defense +10
+Stealth
+Provocation
+Autotracker
+High Wind Res
+Anti-Theft
+Anti-Cold
+Anti-Heat
+Farsight
+Reloading Speed +1
+Reloading Speed +2
+Spirit's Whim
+Divine Whim
+Good Luck
+Bad Luck
+Combine Success +10%
+Combine Success +20%
+Luck Booster
+Poison Dur UpÅyÅ~3Åz
+Poison Dur UpÅyÅ~4Åz
+Strength -10
+Strength -20
+Strength -30
+Damage Rec Speed +2
+Damage Rec Speed -1
+Damage Rec Speed -2
+Sharp Sword
+Blunt
+Sharpness +1
+Sharpness -1
+ESP
+Load Speed +3
+Load Speed -1
+Load Speed -2 
+Load Speed -3
+Rapid Fire
+Sharpening Skl Half
+Sharpening Skl Inc
+Guard +1
+Guard +2
+Guard -1
+Guard -2
+Auto-guard
+Throwing Skill Up
+Recoil Reduction +1
+Recoil Reduction +2
+Bomber
+Normal S Attack Up
+Pierce S Attack Up
+Pellet S Attack Up
+HungerÅyÅ~1.5Åz
+Eating +1
+Eating +2
+Speed Eater
+Defense +15
+Defense +20
+Defense -10
+Defense -15
+Defense -20
+Attack Up (Large)
+Abnormal Sts Atk Up
+Combine Success +5%
+Combine Success -5%
+Combine Success -10%
+Combine Success -15%
+Fishing Expert
+Spectre's Whim
+Devil's Whim
+Calamity
+Map Unavailable
+Low Wind Res
+Flute Expert
+Backpacking Expert
+Divine Protection
+Demonic Protection
+Passive
+Earplug
+High Grade Earplug
+Herbal Med Wide
+Fire Res +5
+Water Res +5
+Thunder Res +5
+Dragon Res +5
+Fire Res -5
+Water Res -5
+Thunder Res -5
+Dragon Res -5
+Fire Res +3
+Water Res +3
+Thunder Res +3
+Dragon Res +3
+Fire Res -3
+Water Res -3
+Thunder Res -3
+Dragon Res -3
+All Res +3
+All Res +5
+All Res +10
+All Res -3
+All Res -5
+All Res -10
+Bullet Limit
+Normal S LV1 Add
+Normal S All LV Add
+Pierce S LV1 Add
+Pierce S LV1+2 Add
+Pierce S All LV Add
+Pellet S LV1 Add
+Pellet S LV1+2 Add
+Pellet S All LV Add
+Crag S LV1 Add
+Crag S LV1+2 Add
+Crag S All LV Add
+Clust S LV1 Add
+Clust S LV1+2 Add
+Clust S All LV Ad
+Detect
+Heat Reduced By Half
+Cold Reduced By Half
+Heat IncÅyÅ~1.5Åz
+Heat IncÅyÅ~2Åz
+Cold IncÅyÅ~1.5Åz
+Cold IncÅyÅ~2Åz
+Str Rec Item Weak
+Torso +1
+Torso +2
+Torso Increased
+Gathering -2
+Gathering -1
+Gathering +1
+Gathering +2
+Alchemy
+Guard Inc
+High Speed Gathering
+FelyneDismantle[Hi]
+FelyneDismantle[Lo]
+Felyne Negotiations
+Felyne Culinary Arts
+Felyne Medicine
+FelyneMartialArts[H]
+FelyneMartialArts[L]
+Felyne Gunpowder
+FelyneSpecialAttack
+Felyne Defense[Hi]
+Felyne Defense[Lo]
+Felyne Woodwinds
+Felyne Frugality
+Felyne Charisma
+Felyne Combine[Hi]
+Felyne Combine[Lo]
+Felyne Gathering
+Felyne Aim
+Mega Lucky Cat
+Ultra Lucky Cat
+Felyne Heroics
+Felyne Blunt Force
+Felyne Great Break
+Felyne Escape
+Felyne Throw
+Felyne Courage
+Felyne Supercat
+Felyne Strongcat
+None
+Passive
+Fate
+Backpackng
+Auto-guard
+Guard
+Recovery
+Rec Speed
+ClustS Add
+Protection
+ThunderRes
+PierceS Up
+PierceSAdd
+Faint
+Whim
+Sharpness
+Gluttony
+Worry
+Fencing
+Wide Rec
+Wide Cntr
+Attack
+Gathering
+PelletS Up
+PelletSAdd
+Sleep
+All Res Up
+PsychicVis
+Load
+Cold Res
+Heat Res
+Strength
+Artisan
+WideEffect
+Shot Mix
+Map
+HearProtct
+MixSucRate
+NormalS Up
+NormalSAdd
+Fishing
+Torso +1
+Torso +2
+Torso Inc
+Throw
+SwdShrpner
+Poison
+Spc Attack
+Meat
+StealNoEff
+BombStrUp
+Hunger
+Recoil
+Fire Res
+WindPress
+Flute
+Defense
+Paralysis
+Water Res
+Dragon Res
+BmbShotAdd
+Alchemy
+Rapid Fire
+Guard Up
+HiSpdGathr
+LANGUAGE
+SOUND
+BGM LEVEL
+FX LEVEL
+TARGETING
+CAMERA TYPE
+QUICK CONTINUE
+DEFAULT SETTINGS
+EXIT
+JAPANESE
+ENGLISH
+GERMAN
+FRENCH
+SPANISH
+ITALIAN
+KOREAN
+MONAURAL
+STEREO
+DOLBY PRO LOGIC II
+ÇlÇhÇmÅ†Å†Å†Å†Å†Å†Å†ÇlÇ`Çw
+ÇlÇhÇmÅ°Å†Å†Å†Å†Å†Å†ÇlÇ`Çw
+ÇlÇhÇmÅ°Å°Å†Å†Å†Å†Å†ÇlÇ`Çw
+ÇlÇhÇmÅ°Å°Å°Å†Å†Å†Å†ÇlÇ`Çw
+ÇlÇhÇmÅ°Å°Å°Å°Å†Å†Å†ÇlÇ`Çw
+ÇlÇhÇmÅ°Å°Å°Å°Å°Å†Å†ÇlÇ`Çw
+ÇlÇhÇmÅ°Å°Å°Å°Å°Å°Å†ÇlÇ`Çw
+ÇlÇhÇmÅ°Å°Å°Å°Å°Å°Å°ÇlÇ`Çw
+NORMAL
+REVERSE 1
+REVERSE 2
+TYPE 1
+TYPE 2
+OFF
+ON
+Dolby~B11 Pro Logic II~B10 has been selected. Enjoy this game in<NEWLINE>surround sound by connecting to an audio system featuring<NEWLINE>Dolby~B11 Headphone or Dolby~B11 Pro Logic II~B10.
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+OFF
+ON
+dummy
+dummy
+dummy
+View a list of the items<NEWLINE>you are currently carrying.
+Combine items.
+Check reference material.
+Check status and conditions<NEWLINE>of the current quest.
+Listen to the Village<NEWLINE>Chief's advice.
+Change Map Display.
+Perform Gestures.
+Check your current status.
+View details of your equipment.
+Change various game options.
+Quit the current quest and<NEWLINE>return to the village.
+Examine your Monster List.
+Examine your Combo List.
+Select a phrase to edit.
+Please enter your new text.<NEWLINE>(44 character maximum)
+Select an item to send to<NEWLINE>the Item Box.
+Item has been sent.
+~C02The Item Box is full.
+Do you want to sort your items?
+Disconnected
+Wisdom of the Chief
+The selected item will<NEWLINE>be discarded. OK?
+Select a recipient.
+Is this OK?
+Select the number to give.
+Please select the number of items<NEWLINE>that you would like to deliver.
+These items will be delivered.<NEWLINE>Is this OK?
+Do you want to sort your items?
+Unknown
+You have no materials.
+You cannot carry any more<NEWLINE>of this item.
+There is no room in your bag.
+You cannot carry any more items.<NEWLINE>Please select a course of action.
+Which item do you want<NEWLINE>to exchange?
+Item will be exchanged.<NEWLINE>Is this OK?
+1
+1Å`2
+2
+1Å`3
+2Å`4
+3
+5
+Bow
+Greet
+Wave
+Call
+Nod Head
+Shake Hd
+Cheer
+Despair
+Frustrtd
+Praise
+Footwork
+Provoke
+OFFLINE
+O-L GATHERING HALL
+Press the ~B00 button
+Village Chief's Towel
+Village Chief's Bandana
+Village Chief's Scarf
+Village Chief's Cape
+Bronze Medal
+Silver Medal
+Gold Medal
+King's Crown
+Sword Badge
+Great Sword Badge
+Lance Badge
+Hammer Badge
+Bowgun Badge
+Mane Earrings
+Fatalis Ring
+Rare Species Report
+Origin Ore
+Kokoto Butterfly
+Springnight Carp
+Dosbiscus
+Grateful Letter
+Seal of the Sage
+Gold Smith Hammer
+Wanderer's Map
+Complete Set of Monster Lists Obtained!
+Equipment added to Event Area List!
+It seems the Peddler has something new!
+The Peddler has new items from town!
+A new species of monster confirmed.
+Yian Garuga has returned!
+A new creation recipe has been added!
+Something is headed for the village...
+Select
+Next
+Piggie's clothes have changed!
+Checking for Monster Hunter 2...
+Monster Hunter 2 found.<NEWLINE><NEWLINE>Now connecting to Monster Hunter 2 for<NEWLINE>the PlayStationR2.
+Connected.
+Failed to connect.
+No information was updated.
+Disconnect from Monster Hunter 2.
+Cancel
+Skip
+Hunting Life has been updated.
+After connecting the USB Cable to the<NEWLINE>USB connector on the PSP~B11, as well as<NEWLINE>USB connector on the PlayStationR2,<NEWLINE>select CONNECT in Monster Hunter 2, then<NEWLINE>select a character. 
+Press the ~B00 button when ready.
+(Connecting...)

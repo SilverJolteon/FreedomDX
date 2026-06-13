@@ -1,0 +1,297 @@
+Nothing equipped.
+Lightweight headgear. The<NEWLINE>first step towards becoming<NEWLINE>a hunter!
+Sturdy metal headgear. A<NEWLINE>time-tested and proven<NEWLINE>design for novices.
+Custom helmet for hunters.<NEWLINE>Valued for its sturdy yet<NEWLINE>comfortable design.
+Although weaker than the<NEWLINE>Hunter's Helm, this is more<NEWLINE>resistant to the elements.
+Crafted from Velociprey<NEWLINE>scales, often the first gear<NEWLINE>made by novices.
+Headgear woven from many<NEWLINE>tiny Velociprey scales. High<NEWLINE>overall resistance.
+Stronger version of the<NEWLINE>Velociprey Helm. Made from<NEWLINE>Genprey scales.
+Headgear woven from many<NEWLINE>tiny Genprey scales.<NEWLINE>Improved Thunder resistance.
+Strongest of all the<NEWLINE>"Velociprey" helms. Made<NEWLINE>from Ioprey scales.
+Headgear woven from many<NEWLINE>tiny Ioprey scales. <NEWLINE>Improved Fire resistance. 
+Rathian material fused with<NEWLINE>ore makes for a highly<NEWLINE>protective helm.
+Cap made from Rathian<NEWLINE>material. Trades protection<NEWLINE>for Fire resistance.
+Made from Cephalos material.<NEWLINE>Sturdy, but weak against<NEWLINE>Fire and Thunder attacks.
+Made from Cephalos material,<NEWLINE>the tiny scales it uses<NEWLINE>improve Water resistance.
+Custom helmet for hunters.<NEWLINE>An expensive item that is<NEWLINE>valued by hunters.
+Custom hat for hunters. Less<NEWLINE>protection, but resistant to<NEWLINE>the elements.
+Horned headgear that is as<NEWLINE>sturdy and protective as it<NEWLINE>looks.
+Made from Monoblos material.<NEWLINE>Weak Defense in return for<NEWLINE>improved Fire resistance.
+Sculpted from a monstrous<NEWLINE>skull, this helm has a<NEWLINE>primeval sort of appeal.
+A skull with mysterious<NEWLINE>decorations. This cap is<NEWLINE>Fire and Water resistant.
+Crafted from Gypceros hide,<NEWLINE>it's rubbery and strong but<NEWLINE>weak against Fire.
+Crafted from Gypceros hide,<NEWLINE>it's rubbery and resists<NEWLINE>Thunder and Water attacks.
+Made from Rathalos material.<NEWLINE>High protection plus Fire<NEWLINE>and Thunder resistance.
+Made from Rathalos material,<NEWLINE>it's more Fire & Thunder<NEWLINE>resistant than protective.
+Improved Gravios Helm. Stops<NEWLINE>attacks with its amazing<NEWLINE>protection.
+Improved Gravios Cap.<NEWLINE>Incredibly stiff, and<NEWLINE>resistant to Fire & Thunder.
+Improved Hi-Metal Helm. Made<NEWLINE>with a rare ore, it has <NEWLINE>unreal defensive properties.
+Improved Hi-Metal Cap. Very<NEWLINE>resistant to any Thunder<NEWLINE>element attack.
+Improved Diablo Helm. Thick<NEWLINE>and highly resistant to<NEWLINE>damage.
+Improved Diablo Cap.<NEWLINE>Slightly weak protection,<NEWLINE>but good element resistance.
+Headgear for men made from<NEWLINE>Lao-Shan material. Only for<NEWLINE>the bravest of hunters.
+Headgear for men made from<NEWLINE>Lao-Shan material. Superb<NEWLINE>elemental resistance.
+Female headgear created from<NEWLINE>Lao-Shan material. Physical<NEWLINE>proof of valor.
+Female headgear created from<NEWLINE>Lao-Shan material. Resistant<NEWLINE>to three elements.
+Improved Vespoid Helm. Weak<NEWLINE>against Fire and Water but<NEWLINE>very protective.
+Improved Vespoid Cap. Has<NEWLINE>the ability to weaken Dragon<NEWLINE>attacks.
+Improved Khezu Helm. Its<NEWLINE>texture has an odd feel to<NEWLINE>it.
+Improved Khezu Cap. Tends to<NEWLINE>stick to the skin...!
+Improved Lobster Helm. Hard<NEWLINE>armor plate, but weak<NEWLINE>against Thunder.
+Improved Plesioth Helm.<NEWLINE>Superb protection, but weak<NEWLINE>against Thunder.
+Improved Plesioth Cap. Good<NEWLINE>Water resistance and<NEWLINE>physical protection.
+Improved Hornet Helm. Strong<NEWLINE>Defense & Dragon protection,<NEWLINE>weak against Fire & Thunder.
+Improved Hornet Cap. Superb<NEWLINE>protection against the<NEWLINE>Dragon element.
+Made from Fatalis' horn.<NEWLINE>Wear this and become a<NEWLINE>legend among hunters.
+Made from Fatalis' horn.<NEWLINE>Said to give the wearer the<NEWLINE>power of the dragon!
+Replica of the headgear used<NEWLINE>by Guild Knights. Strong,<NEWLINE>but only worn by men.
+Replica of mask given for<NEWLINE>Guild service. Protective,<NEWLINE>but only for men.
+Replica of the uniform given<NEWLINE>to female employees of the<NEWLINE>Guild. Worn only by women.
+Fashionable glasses for<NEWLINE>women, they have no real<NEWLINE>meaning beyond looks.
+Headgear designed to look<NEWLINE>like a Velociprey. Makes you<NEWLINE>feel fierce.
+Replica of a mask awarded to<NEWLINE>ninjas. Its value is clear<NEWLINE>when faced with adversity. 
+Replica of a mask awarded to<NEWLINE>ninjas. Its value is clear<NEWLINE>when faced with adversity. 
+Headgear designed to look<NEWLINE>like a Mosswine. Feel your<NEWLINE>inner pig!
+Headgear designed to look<NEWLINE>like a Bullfango. Take a<NEWLINE>walk on the wild side.
+Mask made from the skull of<NEWLINE>a monster. An imposing but<NEWLINE>awe-inspiring sight.
+Headgear made from rare ore.<NEWLINE>Loved by hunters for its<NEWLINE>easy handling.
+Cap made from precious ores.<NEWLINE>Charmed with extreme<NEWLINE>resistance to Thunder.
+Headgear made from Khezu<NEWLINE>flesh. Dark and nasty...
+Headgear made from Khezu<NEWLINE>flesh. Very<NEWLINE>strange-looking...
+Headgear made from King<NEWLINE>Lobster carapace. Weak<NEWLINE>against Thunder.
+Made from Plesioth fins and<NEWLINE>scales. Weak against<NEWLINE>Thunder.
+Made from Plesioth fins and<NEWLINE>scales. Strong against Water<NEWLINE>attacks.
+This Vespoid wing helm<NEWLINE>resists damage well, but is<NEWLINE>weak against Water and Fire.
+A cap covered in Vespoid<NEWLINE>Shell. Endowed with high<NEWLINE>resistance to Thunder.
+Crafted from Diablos Shell.<NEWLINE>Absurdly strong against<NEWLINE>physical attacks.
+Crafted from Diablos Shell.<NEWLINE>Resistant to all three<NEWLINE>elemental attacks.
+Crafted from strong<NEWLINE>Hornetaur Shell. 
+Crafted from strong<NEWLINE>Hornetaur Shell.
+Crafted from Gravios Shell.<NEWLINE>This headgear is as hard as<NEWLINE>rock.
+Headgear crafted from <NEWLINE>Gravios Shell. Features good<NEWLINE>elemental resistance.
+Improved Rathian Helm.<NEWLINE>Protective, yet elegant<NEWLINE>enough for a queen.
+Improved Rathian Cap.<NEWLINE>Dragonite enhances both<NEWLINE>protection and resistance.
+Improved Rathalos Helm. Uses<NEWLINE>Firestone for truly<NEWLINE>formidable protection.
+Improved Rathalos Cap. The<NEWLINE>heat-resistant material is<NEWLINE>extremely hard to work.
+A helm that takes advantage<NEWLINE>of light materials to<NEWLINE>effectively raise Defense.
+A helm made of iron. It has<NEWLINE>a special seal to prove its<NEWLINE>worth to top level hunters. 
+Improved helm for hunters,<NEWLINE>representing an advancement<NEWLINE>in manufacturing.
+Improved cap for<NEWLINE>gunners. Stresses resistance<NEWLINE>more than Defense.
+Improved helm made from<NEWLINE>a monster's bone. Still<NEWLINE>reeks of the beast's stench.
+Improved cap made from a<NEWLINE>monster's bone. High<NEWLINE>resistance to Fire & Water.
+Improved Velociprey Helm.<NEWLINE>More pratical than the<NEWLINE>unreliable Velociprey Helm.
+Improved cap made of<NEWLINE>Velociprey scales. High<NEWLINE>Defense vs. melee attacks. 
+A helm made for battle.<NEWLINE>Using this will make you a<NEWLINE>full fledged elite hunter.
+A cap made for battle. The<NEWLINE>hat-like design is popular<NEWLINE>with both men and women. 
+Helm made from tightly woven<NEWLINE>Genprey scales. The scales<NEWLINE>give it high durability.
+Cap made of Genprey scales.<NEWLINE>Raises Defense without<NEWLINE>sacrificing durability. 
+Helm made from Ioprey<NEWLINE>scales. Raises Defense<NEWLINE>through manufacturing. 
+Uses select scales and<NEWLINE>careful crafting to create a<NEWLINE>stiff, defensive helm. 
+A helm that makes the most<NEWLINE>of Gypceros' rubbery hide.<NEWLINE>Airy and easy to use. 
+A cap that makes the most of<NEWLINE>Gypceros' rubbery hide. Its<NEWLINE>appearance is indescribable.
+Made from select Cephalos<NEWLINE>materials. High Defense but<NEWLINE>weak Thunder resistance. 
+Made from select Cephalos<NEWLINE>materials. High Defense but<NEWLINE>weak against Water attacks.
+The start of the "Supreme"<NEWLINE>S-class series. The pinnacle<NEWLINE>of workshop technology.
+Made from the finest<NEWLINE>selected steel. Carries a<NEWLINE>warranty of durability. 
+A helm famed by hunter's for<NEWLINE>its usability. This high end<NEWLINE>model is exquisite. 
+This high end Hunter's Cap<NEWLINE>features an eye covering<NEWLINE>containing a built-in scope.
+A helm made from a master's<NEWLINE>skull, its wild spirit<NEWLINE>inspires fearsome war cries.
+Made from a master's skull,<NEWLINE>it looks impossibly strong<NEWLINE>in defensive ability.
+Helm made from Velociprey<NEWLINE>scales. Special crafting<NEWLINE>rivals a wyvern's shell.
+A beautiful blue headpiece<NEWLINE>that pushes the limits of<NEWLINE>the material's resistances. 
+A helm made for the sole<NEWLINE>purpose of battle. Unlikely<NEWLINE>to grace a normal hunter.
+A cap made for the sole<NEWLINE>purpose of battle. Fully<NEWLINE>loaded, lacking nothing.
+So strong, its insect shell<NEWLINE>origin is unbelievable.<NEWLINE>Strong, but weak resistance.
+So strong, its insect shell<NEWLINE>origin is unbelievable.<NEWLINE>Especially Dragon resistant.
+An eye-catching black shell.<NEWLINE>Clearly strong, its<NEWLINE>resistances are balanced.
+Eye-catching black shell.<NEWLINE>Its high Dragon resistance<NEWLINE>is more useful than thought.
+Made from a phantom ore with<NEWLINE>very low production yields. <NEWLINE>A luxury of luxuries.
+Made from a phantom ore with<NEWLINE>very low production yields. <NEWLINE>Admired by many.
+Helm made from Genprey<NEWLINE>scales. Special crafting<NEWLINE>rivals a wyvern's shell.
+A beautiful green headpiece<NEWLINE>that pushes the limits of<NEWLINE>its material resistances. 
+Helm made from Ioprey<NEWLINE>scales. Special crafting<NEWLINE>rivals a wyvern's shell.
+A beautiful red headpiece<NEWLINE>that pushes the limits of<NEWLINE>its material resistances. 
+Helm with superior defensive<NEWLINE>properties, requiring vast<NEWLINE>materials to manufacture. 
+Cap made from numerous<NEWLINE>Gypceros hides, made to have<NEWLINE>wide ranging resistances.
+The flagship in the line of<NEWLINE>Cephalos scale equipment. It<NEWLINE>shines above all else.
+Cephalos Cap designed to<NEWLINE>push Water resistance to its<NEWLINE>logical limits. 
+Splendid, strong, graced<NEWLINE>with a Rathian's dignity.<NEWLINE>Both beautiful and fearsome.
+A cap that lives up to its<NEWLINE>Queen's name. A work of art<NEWLINE>forged in scorching flames.
+Employs the bizarre looks of<NEWLINE>a Khezu... looks that betray<NEWLINE>its first class nature. 
+To have both resistance and<NEWLINE>strength, you must be<NEWLINE>technologically adept.
+A helm that is like a crown<NEWLINE>for a hunter. Synonymous<NEWLINE>with a Monster Hunter.
+Placed upon one's head it is<NEWLINE>a sign of supremacy. The<NEWLINE>object of a gunner's desire.
+Helm that shines the silver<NEWLINE>of a Plesioth scale. Strong,<NEWLINE>but weak Thunder resistance.
+Cap that shines the orange<NEWLINE>of a Plesioth fin. Strong<NEWLINE>Defense & Water resistance.
+High quality helm made from<NEWLINE>rare lobster husks. An item<NEWLINE>of pride for workshops.
+A helm marked with the<NEWLINE>trademark horns of Diablos.<NEWLINE>Proof of desert supremacy. 
+Worn by those courageous few<NEWLINE>who have defeated Diablos. A<NEWLINE>veritable fashion statement.
+A helm that recalls a man's<NEWLINE>fear of Monoblos. Those who<NEWLINE>wear it are truly heroes. 
+A solemn cap made from the<NEWLINE>scarlet horn of a Monoblos.<NEWLINE>Exceptionally thick. 
+A helm of enormous weight.<NEWLINE>Wearing it is proof of one's<NEWLINE>valor in battle. 
+Using the incredibly hard<NEWLINE>Gravios shell to make a cap<NEWLINE>requires special technology.
+The latest color from a<NEWLINE>famous Schrade designer.<NEWLINE>Don't miss this trend!
+Updated with special alloys,<NEWLINE>for those trusted with the<NEWLINE>most sensitive tasks. 
+A gift of protection awarded<NEWLINE>to those secretly operating<NEWLINE>in the kingdom. 
+A wild helm, red like a<NEWLINE>burning flame. Simply<NEWLINE>wearing it is exhilarating. 
+The vivid crimson imparts an<NEWLINE>aggressive mood unto its<NEWLINE>wearer. A top class item. 
+Helm made from the scales of<NEWLINE>a seldom seen White<NEWLINE>Velociprey. Truly superior. 
+Made from White Velociprey<NEWLINE>scales. Its resistances and<NEWLINE>Defense are both top notch. 
+A special mix of ores gives <NEWLINE>it a radiant pink color.<NEWLINE>Beautiful and effective.
+A mix of ores gives it a<NEWLINE>radiant pink color. Good<NEWLINE>against electric shocks. 
+Valuable helm made from rare<NEWLINE>Violet Gypceros. An<NEWLINE>extremely efficient item. 
+Valuable cap made from rare<NEWLINE>Violet Gypceros. Strong<NEWLINE>versus both Water & Thunder.
+Made from rare Cephalos<NEWLINE>scales that have changed<NEWLINE>colors, and shine purple.
+Made from numerous Cephalos<NEWLINE>scales that have turned a<NEWLINE>brilliant violet. 
+Made from the velvet like<NEWLINE>Red Khezu, found living<NEWLINE>hidden deep inside caves. 
+Made from Red Khezu, found<NEWLINE>living hidden deep inside<NEWLINE>caves. Nearly cut proof.
+Made from gem-like Green<NEWLINE>Plesioth scales. Stronger<NEWLINE>than it appears. 
+Made from an extremely<NEWLINE>valuable Plesioth fin<NEWLINE>covered in green scales. 
+The black shell of Diablos.<NEWLINE>An honor worn only by those<NEWLINE>who have slayed him.
+Black Diablos shell used as<NEWLINE>headgear. Packed with grand<NEWLINE>and glorious strength.  
+Defense that breaks the<NEWLINE>scales and verges on defying<NEWLINE>common sense. 
+Made from the shell of the<NEWLINE>unseen Black Gravios.<NEWLINE>Unknown defensive power. 
+Given to graduates of the<NEWLINE>Training School. A daily<NEWLINE>reminder of the instructor. 
+The sexy Red Piercing of<NEWLINE>fashionable courtiers.<NEWLINE>Strong versus Fire attacks. 
+The cool Blue Piercing of<NEWLINE>fashionable courtiers.<NEWLINE>Strong versus Water attacks.
+The cute Yellow Piercing of<NEWLINE>fashionable courtiers.<NEWLINE>Strong against Thunder. 
+The chic Black Piercing of<NEWLINE>fashionable courtiers.<NEWLINE>Strong against Dragons.  
+As the old adage says, the<NEWLINE>Pink Dragon defends the fair<NEWLINE>maiden. This armor is proof.
+Eye-catching pink armor.<NEWLINE>Expensive, but the power<NEWLINE>held within is incredible. 
+Joy. Despair. Since ancient<NEWLINE>times, the Rathalos has been<NEWLINE>a symbol of shifting fates. 
+Made from the messenger of<NEWLINE>changing fates, the Azure<NEWLINE>Rathalos.
+Made from the glimmering<NEWLINE>silver white horn of a snow<NEWLINE>White Monoblos. 
+Headgear made to stress<NEWLINE>resistances, crafted from a<NEWLINE>White Monoblos.
+Made to appear like the head<NEWLINE>of a Mosswine. Maybe you'll<NEWLINE>get its sniffer too!
+Armor made to appear like<NEWLINE>the head of a Velociprey. A<NEWLINE>mask can also be a window.
+Armor made to appear like<NEWLINE>the head of a Bullfango.<NEWLINE>Makes you want to charge!
+Given to those wishing for<NEWLINE>more trials. Worn only by<NEWLINE>those on a rigorous path. 
+Given to those wishing for<NEWLINE>more trials. Worn only by<NEWLINE>those on a rigorous path. 
+Headgear worn by the<NEWLINE>espionage corps of the Guild<NEWLINE>Knights. 
+Special mask worn by Guild<NEWLINE>Knights to hide their face<NEWLINE>and confuse their enemies. 
+Guild Uniform en vogue with<NEWLINE>many hunters. Made in<NEWLINE>response to popular demand.
+For a hunter, eyesight is<NEWLINE>life. These glasses are<NEWLINE>practical, but also stylish.
+A beautiful Piercing like<NEWLINE>the crimson of a flickering<NEWLINE>flame. It has a wild charm.
+A beautiful Piercing like<NEWLINE>the blue of the deep sea. It<NEWLINE>has a gentle charm.
+A beautiful Piercing like<NEWLINE>the yellow of lightning. It<NEWLINE>has a exhilarating charm.
+A beautiful Piercing like<NEWLINE>the jet black of midnight.<NEWLINE>It has a settling charm.
+Armor made to appear like a<NEWLINE>human skull. Beautiful faces<NEWLINE>can hide under scary masks.
+The beauty of a Rathian<NEWLINE>leaves a deep impression, as<NEWLINE>does this wall of Defense.
+Armor treasured like the<NEWLINE>finest gem. There is only<NEWLINE>one word for such a piece.
+Armor made from the dancer<NEWLINE>of the heavens. Endowed with<NEWLINE>the strength of kings.
+An awesome power that both<NEWLINE>Fire and Water obey. For the<NEWLINE>true wielder of strength.
+Superior Auroros Helm. Mai<NEWLINE>is a designation given when<NEWLINE>superior technology is used.
+Superior Genesis Headpiece<NEWLINE>carrying Mai status. Can be<NEWLINE>upgraded with Oriental arts.
+Superior Borealis Crown<NEWLINE>carrying Mai status, a clear<NEWLINE>indicator of its gallantry. 
+Superior Glyph Crown. The<NEWLINE>Mai designation is this<NEWLINE>crown's seal of quality.
+For a top class hunter, just<NEWLINE>being near this is enough to<NEWLINE>know itÅfs the best. 
+Made to appear like the head<NEWLINE>of Fatalis. Placing it on is<NEWLINE>to experience pure evil.
+Made for those who just<NEWLINE>can't stop loving Mosswine.<NEWLINE>You may even start oinking.
+Created upon request by many<NEWLINE>crazed Velociprey fans... so<NEWLINE>don't be embarrassed!
+A mask for those who can't<NEWLINE>stop loving the Bullfango.<NEWLINE>Worn by true believers. 
+Awarded to those who have<NEWLINE>faced unimaginable trials,<NEWLINE>its splendor is palpable.
+Awarded to those who have<NEWLINE>faced unimaginable trials,<NEWLINE>its splendor is palpable.
+Decorated with a beautiful<NEWLINE>feather, this Guild Knight<NEWLINE>hat is widely known.
+If hunters are the light,<NEWLINE>than the Guild Knights are<NEWLINE>the shadows wearing masks. 
+Given to maidens in times of<NEWLINE>crisis. It is a Guild law<NEWLINE>that everyone must fight. 
+The product of a craftsman's<NEWLINE>quest to produce a powerful,<NEWLINE>fashionable piece of armor.
+Impressive burning red<NEWLINE>Piercing. All things made of<NEWLINE>Fire bow before its beauty.
+Impressive deep blue<NEWLINE>Piercing. All things made of<NEWLINE>Water bow before its beauty.
+Dazzlingly yellow Piercing. <NEWLINE>All things made of Thunder <NEWLINE>bow before its beauty.
+Pitch black Piercing.  All<NEWLINE>things made of Dragons bow<NEWLINE>before its beauty.
+Made from the remains of a<NEWLINE>hunter. Wearing it gives you<NEWLINE>a sharp sense of ambition.
+Like sunlight at dusk, a<NEWLINE>helm that will bring down<NEWLINE>the curtain of death.  
+Like sunlight at dawn, this<NEWLINE>cap is even more resistant<NEWLINE>than beautiful. 
+The color of the deep blues<NEWLINE>of twilight. The opposition<NEWLINE>will never see dawn.
+The color of the sky during<NEWLINE>a meeting with the devil,<NEWLINE>this has a demon's power.
+The embodiment of pure<NEWLINE>power, the single white horn<NEWLINE>affords absolute Defense.
+A pure white cap that causes<NEWLINE>one to gasp with shock. Its<NEWLINE>beauty tells of its power.
+High-end Auroros Helm made<NEWLINE>using only the best<NEWLINE>materials and crafting.
+High-end Genesis Headpiece.<NEWLINE>Combines rare materials with<NEWLINE>Oriental technology.
+High-end Borealis Crown.<NEWLINE>Given the Haku designation<NEWLINE>to certify exquisiteness.
+High-end Glyph Crown. Made<NEWLINE>from Dragon materials, it<NEWLINE>has a tyrannical brilliance.
+Recalls the howl of Fatalis,<NEWLINE>and even its user may die<NEWLINE>from the fright of memories.
+Strength beyond the bounds<NEWLINE>of mortals. The death knell<NEWLINE>of Fatalis still echoes.
+The Auroros Helm of dreams.<NEWLINE>A majestic piece for a<NEWLINE>majestic hunter.
+The Genesis Headpiece of<NEWLINE>dreams. It is perfect for<NEWLINE>the ultimate gunner. 
+The Borealis Crown of<NEWLINE>dreams. A gallant & divine<NEWLINE>piece for majestic hunters.
+The Glyph Crown of dreams.<NEWLINE>An elegant blue shimmer,<NEWLINE>perfect for elite gunners.
+A Gold Rathian Helm. Shines<NEWLINE>like it was made from pieces<NEWLINE>of a broken golden moon. 
+A Gold Rathian Cap. Enchants<NEWLINE>monsters like the moon<NEWLINE>falling from the night sky.
+Silver Rathalos Helm. Metal<NEWLINE>brilliant as ice, violent<NEWLINE>power like a raging inferno.
+Filled with rays from a<NEWLINE>silver sun, a light sharper<NEWLINE>than any sword. A sure shot.
+Like an old fresco, this<NEWLINE>featherweight armor is a<NEWLINE>masterpiece of power. 
+Wearing this armor vanishes<NEWLINE>worldly thoughts. All you<NEWLINE>can see is the enemy ahead. 
+Super-efficient. Made by the<NEWLINE>Guild for those embarking on<NEWLINE>the most dangerous of hunts.
+Made solely for the prompt<NEWLINE>detection and elimination of<NEWLINE>wyverns. Upgraded detection.
+Surpassing a shield, this<NEWLINE>ultra-first class piercing<NEWLINE>can defend against anything.
+Used by those who are truly<NEWLINE>one with a sword. Uses a<NEWLINE>weapon's power to the limit.
+The result of training, for<NEWLINE>those who put their lives<NEWLINE>aside to find deadly skills.
+A piercing for men who have<NEWLINE>abandoned fate and forged<NEWLINE>their spirits to live.
+For men who forsake weapons<NEWLINE>to trap wyverns with wits.<NEWLINE>Hides an explosive recipe.
+For gunners wandering the<NEWLINE>reclaimed desert, rapidly<NEWLINE>attacking with steady eyes. 
+Worn by the swordsman who<NEWLINE>saved the royal city from<NEWLINE>crisis. Key to many things.
+The piercing worn by a<NEWLINE>legendary gunner. All of his<NEWLINE>shots were on the mark.
+Piercing bearing the seal<NEWLINE>"Early Bird". Owned by<NEWLINE>avid item collectors. 
+Lightweight headgear. The<NEWLINE>first step towards becoming<NEWLINE>a hunter!
+Made from Basarios material.<NEWLINE>Crafting this hard material<NEWLINE>requires great skill.
+Headgear made from Basarios<NEWLINE>material. Increases aiming<NEWLINE>ability.
+Made from a spore releasing<NEWLINE>mushroom. These special<NEWLINE>spores are nothing to fear. 
+Armor made to appear like a<NEWLINE>Felyne head. A famously<NEWLINE>adorable item. 
+Hat made from beautiful<NEWLINE>petals flexible enough to<NEWLINE>protect the wearer's head.
+Worn by those aiming to be<NEWLINE>1st-class chefs. Embroidered<NEWLINE>with "Devoted to Cooking".
+A head covering hood made of<NEWLINE>fish scales. The pink scales<NEWLINE>have a strange power.
+Armor made to appear like a<NEWLINE>the head of a Genprey. Gives<NEWLINE>a sense of Genprey cunning.
+Made to appear like the head<NEWLINE>of an Ioprey. Allows you to<NEWLINE>sympathize with its rage.
+Made from materials from the<NEWLINE>phantom-like Kirin. Coerces<NEWLINE>all who see the horn. 
+Headgear made from materials<NEWLINE>from the phantom-like Kirin.<NEWLINE>High resistance to Thunder. 
+Made from Yian Garuga<NEWLINE>materials. Full face<NEWLINE>coverage for tough Defense. 
+Made from Yian Garuga<NEWLINE>materials. Full face mask<NEWLINE>raises the ability to snipe.
+Made from rare White<NEWLINE>Velociprey materials. Great<NEWLINE>protection against wyverns.
+Made from flexible White<NEWLINE>Velociprey scales. Superior<NEWLINE>protection from head blows.
+Made from materials carved<NEWLINE>from a Green Plesioth.<NEWLINE>Beautiful like an emerald.
+Made from the lavishly<NEWLINE>expensive fin of a rarely<NEWLINE>sighted Green Plesioth. 
+Crafted from Black Gravios<NEWLINE>materials. Head protection<NEWLINE>that exceeds expectations. 
+Proof of defeating a Black<NEWLINE>Gravios. Defense that can<NEWLINE>put a stop to any menace.
+Upgraded Basarios Helm.<NEWLINE>Increases Defense by using<NEWLINE>high quality materials.
+Upgraded Basarios Cap. All<NEWLINE>purpose armor with high<NEWLINE>resistance to all elements.
+Made from mushrooms said to<NEWLINE>spew chaos. Releases spores<NEWLINE>when faced with malice.
+Armor made to appear like a<NEWLINE>Felyne head. Just think of<NEWLINE>the warm and fluffy feeling!
+Hat with a lovely floral<NEWLINE>aroma. The scent comes from<NEWLINE>a large, beautiful bloom.
+For those obsessed with the<NEWLINE>pursuit of gastronomy. Users<NEWLINE>can feel the flavor of food.
+Headgear made from giant<NEWLINE>fish materials. Incredibly<NEWLINE>resistant to Water.
+Upgraded Genprey Mask. It<NEWLINE>seems like you can see into<NEWLINE>the heart of a Genprey...
+Upgraded Ioprey Mask. It<NEWLINE>seems you can be one with<NEWLINE>the spirit of an Ioprey...
+Like a Kirin Horn, this helm<NEWLINE>made from high quality hide<NEWLINE>has the power of thunder. 
+Using the rare blue horn,<NEWLINE>this Kirin Crest is wrapped<NEWLINE>in the power of thunder. 
+Strong helm completely<NEWLINE>covered in Green Plesioth<NEWLINE>scales. Air resistant. 
+By using luxurious items<NEWLINE>like Green Plesioth fin,<NEWLINE>high resistance is obtained.
+Helm with abnormally high<NEWLINE>Defense. Hard enough to<NEWLINE>shatter famous blades.
+To gauge its strength, this<NEWLINE>did not have a single scar<NEWLINE>from meeting Gravios flames.
+Due to the special surface<NEWLINE>coating, this helm has world<NEWLINE>class strength. 
+The ultimate class of<NEWLINE>Basarios Cap. Blessed with<NEWLINE>high resistance and Defense.
+Strange cap made from an<NEWLINE>ominously colored mushroom.<NEWLINE>Attacks with hallucinogens.
+Armor made to appear like a<NEWLINE>Felyne head. Wearing this<NEWLINE>around will make you a star!
+Made with the finest petals.<NEWLINE>The fine scent will turn<NEWLINE>heads in disbelief.  
+Hallmark of an 8-star chef.<NEWLINE>Those wearing this can't<NEWLINE>wait to saute giant wyverns.
+A long time ago, this was<NEWLINE>the beloved headgear of a<NEWLINE>hunter called the "Buffoon".
+Made for prank loving<NEWLINE>Genprey fans. "We'll never<NEWLINE>lose to Velociprey-heads!"
+Made for militant Ioprey<NEWLINE>fans. The red color is proof<NEWLINE>of their tyranny.
+The power of the blue horn<NEWLINE>rivals a million bolts, and<NEWLINE>can shatter any doubts.
+Has the power of a beast<NEWLINE>descended on a thunderbolt.<NEWLINE>Users can feel the heavens.
+Armor made from the ominous<NEWLINE>head of Yian Garuga. It has<NEWLINE>a ghastly aura.
+Armor made from Yian Garuga<NEWLINE>materials, holding the power<NEWLINE>to sharpen the senses.
+Made to appear like a Garuga<NEWLINE>head. Its jutting chin and<NEWLINE>wide ears are overwhelming.
+Made by smelting rare ores.<NEWLINE>It is a testament to superb<NEWLINE>usability and design.
+Made with secret crafting<NEWLINE>techniques. Can protect the<NEWLINE>head from powerful attacks.
+Rare materials and secret<NEWLINE>crafting techniques give<NEWLINE>this a pearl gray luster.
+Crimson helm made by secret<NEWLINE>techniques using top quality<NEWLINE>materials.
+By using secret techniques<NEWLINE>and top quality materials, a<NEWLINE>beautiful crimson is born.
+A mask that can only be worn<NEWLINE>by those pure of heart, like<NEWLINE>a crystal cloudless sky.
+A mask that can only be worn<NEWLINE>by those with compassion as<NEWLINE>limitless as the seas.
+Grayish blue helm made by<NEWLINE>combining quality Genprey<NEWLINE>with other rare materials.
+Grayish blue cap combining<NEWLINE>carefully selected Genprey<NEWLINE>with other rare materials.
+A violet helm formed by<NEWLINE>special embroidery plus fine<NEWLINE>Ioprey and rare materials.
+Beautiful violet cap<NEWLINE>combining carefully selected<NEWLINE>Ioprey with rare materials.
+Giving off a blue radiance,<NEWLINE>it is said to be even harder<NEWLINE>than a diamond.
+Blue radiant cap made from<NEWLINE>pure machalite ore. Proof of<NEWLINE>an industrious hunter. 

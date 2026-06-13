@@ -1,0 +1,22 @@
+2,Welcome to the G-Class<NEWLINE>Hunter's Guild! Please<NEWLINE>select the level of<NEWLINE>quest you would like<NEWLINE>to initiate. 
+2,Here are the quests<NEWLINE>available at this<NEWLINE>time.
+1,This quest requires a<NEWLINE>Contract Fee of<NEWLINE>$z. OK?
+1,Recruit hunters for<NEWLINE>this quest?
+0,A recruitment notice<NEWLINE>for this quest has<NEWLINE>been placed on the<NEWLINE>Quest Board. We wish<NEWLINE>you the best of luck.
+1,Look for another<NEWLINE>quest?
+0,Thanks for visiting<NEWLINE>the Hunter's Guild. We<NEWLINE>look forward to<NEWLINE>working with you<NEWLINE>again.
+2,It seems you don't<NEWLINE>have enough money.
+0,So you're heading off<NEWLINE>alone? Well, then may<NEWLINE>the light of luck<NEWLINE>shine upon you!
+1,This quest does not<NEWLINE>require a Contract<NEWLINE>Fee. Select this<NEWLINE>quest?
+1,Welcome to the<NEWLINE>Hunter's Guild!<NEWLINE>This quest is<NEWLINE>presently under<NEWLINE>contract. Would you<NEWLINE>like to cancel this<NEWLINE>contract?
+1,If there are other<NEWLINE>hunter's registered,<NEWLINE>the members of this<NEWLINE>quest will be<NEWLINE>dissolved. OK?
+0,Contract cancelled. We<NEWLINE>look forward to<NEWLINE>working with you<NEWLINE>again. 
+2,Welcome to the<NEWLINE>Hunter's Guild!
+2,This reception desk is<NEWLINE>for offering work to<NEWLINE>only the absolute best<NEWLINE>hunters.
+2,Unfortunately, you<NEWLINE>just aren't quite up<NEWLINE>to the caliber of<NEWLINE>hunters we are looking<NEWLINE>for.
+0,Please come back when<NEWLINE>you have improved your<NEWLINE>standing.
+2,Welcome to the<NEWLINE>Hunter's Guild Kokoto<NEWLINE>- Village Outpost!
+2,At last, having<NEWLINE>reached the peak of<NEWLINE>hunting skill, we at<NEWLINE>the Guild have decided<NEWLINE>to allow you to face<NEWLINE>G-Class Monsters!!!
+2,Unfortunately, from<NEWLINE>now on the Guild is<NEWLINE>unable to promise our<NEWLINE>full and complete<NEWLINE>support on G-Class<NEWLINE>quests. 
+0,For more details,<NEWLINE>please consult with<NEWLINE>the Guild Manager<NEWLINE>before you depart on<NEWLINE>your quest. 
+0,dummy
