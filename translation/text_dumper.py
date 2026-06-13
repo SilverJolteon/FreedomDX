@@ -15,59 +15,59 @@ new_section = "<NEW SECTION>"
 
 data = {
     "ULJM05066": {
-        "0003": ["general", 0],
-        "4672": ["game0", 0],
-        "4673": ["game1", 0],
-        "4958": ["tavern", 1],
-        "4959": ["kokoto", 1],
-        "4960": ["farm", 1],
-        "4961": ["kitchen", 1]
+        "0003": ["general", 1],
+        "4672": ["game0", 1],
+        "4673": ["game1", 1],
+        "4958": ["tavern", 3],
+        "4959": ["kokoto", 3],
+        "4960": ["farm", 3],
+        "4961": ["kitchen", 3]
     },
     "ULUS10084": {
-        "0003": ["general", 0],
-        "4672": ["game0", 0],
-        "4673": ["game1", 0],
-        "4965": ["tavern", 1],
-        "4966": ["kokoto", 1],
-        "4967": ["farm", 1],
-        "4968": ["kitchen", 1]
+        "0003": ["general", 1],
+        "4672": ["game0", 1],
+        "4673": ["game1", 1],
+        "4965": ["tavern", 3],
+        "4966": ["kokoto", 3],
+        "4967": ["farm", 3],
+        "4968": ["kitchen", 3]
     },
     "ULES00318": {
-        "0003": [os.path.join("EN", "general"), 0],
-        "0004": [os.path.join("FR", "general"), 0],
-        "0005": [os.path.join("DE", "general"), 0],
-        "0006": [os.path.join("IT", "general"), 0],
-        "0007": [os.path.join("ES", "general"), 0], 
-        "4693": [os.path.join("EN", "game0"), 0],
-        "4694": [os.path.join("FR", "game0"), 0],
-        "4695": [os.path.join("DE", "game0"), 0],
-        "4696": [os.path.join("IT", "game0"), 0],
-        "4697": [os.path.join("ES", "game0"), 0],
-        "4698": [os.path.join("EN", "game1"), 0],
-        "4699": [os.path.join("FR", "game1"), 0],
-        "4700": [os.path.join("DE", "game1"), 0],
-        "4701": [os.path.join("IT", "game1"), 0],
-        "4702": [os.path.join("ES", "game1"), 0],
-        "4994": [os.path.join("EN", "tavern"), 1],
-        "4995": [os.path.join("FR", "tavern"), 1],
-        "4996": [os.path.join("DE", "tavern"), 1],
-        "4997": [os.path.join("IT", "tavern"), 1],
-        "4998": [os.path.join("ES", "tavern"), 1],
-        "4999": [os.path.join("EN", "kokoto"), 1],
-        "5000": [os.path.join("FR", "kokoto"), 1],
-        "5001": [os.path.join("DE", "kokoto"), 1],
-        "5002": [os.path.join("IT", "kokoto"), 1],
-        "5003": [os.path.join("ES", "kokoto"), 1],
-        "5004": [os.path.join("EN", "farm"), 1],
-        "5005": [os.path.join("FR", "farm"), 1],
-        "5006": [os.path.join("DE", "farm"), 1],
-        "5007": [os.path.join("IT", "farm"), 1],
-        "5008": [os.path.join("ES", "farm"), 1],
-        "5009": [os.path.join("EN", "kitchen"), 1],
-        "5010": [os.path.join("FR", "kitchen"), 1],
-        "5011": [os.path.join("DE", "kitchen"), 1],
-        "5012": [os.path.join("IT", "kitchen"), 1],
-        "5013": [os.path.join("ES", "kitchen"), 1],
+        "0003": [os.path.join("EN", "general"), 1],
+        "0004": [os.path.join("FR", "general"), 1],
+        "0005": [os.path.join("DE", "general"), 1],
+        "0006": [os.path.join("IT", "general"), 1],
+        "0007": [os.path.join("ES", "general"), 1], 
+        "4693": [os.path.join("EN", "game0"), 1],
+        "4694": [os.path.join("FR", "game0"), 1],
+        "4695": [os.path.join("DE", "game0"), 1],
+        "4696": [os.path.join("IT", "game0"), 1],
+        "4697": [os.path.join("ES", "game0"), 1],
+        "4698": [os.path.join("EN", "game1"), 1],
+        "4699": [os.path.join("FR", "game1"), 1],
+        "4700": [os.path.join("DE", "game1"), 1],
+        "4701": [os.path.join("IT", "game1"), 1],
+        "4702": [os.path.join("ES", "game1"), 1],
+        "4994": [os.path.join("EN", "tavern"), 3],
+        "4995": [os.path.join("FR", "tavern"), 3],
+        "4996": [os.path.join("DE", "tavern"), 3],
+        "4997": [os.path.join("IT", "tavern"), 3],
+        "4998": [os.path.join("ES", "tavern"), 3],
+        "4999": [os.path.join("EN", "kokoto"), 3],
+        "5000": [os.path.join("FR", "kokoto"), 3],
+        "5001": [os.path.join("DE", "kokoto"), 3],
+        "5002": [os.path.join("IT", "kokoto"), 3],
+        "5003": [os.path.join("ES", "kokoto"), 3],
+        "5004": [os.path.join("EN", "farm"), 3],
+        "5005": [os.path.join("FR", "farm"), 3],
+        "5006": [os.path.join("DE", "farm"), 3],
+        "5007": [os.path.join("IT", "farm"), 3],
+        "5008": [os.path.join("ES", "farm"), 3],
+        "5009": [os.path.join("EN", "kitchen"), 3],
+        "5010": [os.path.join("FR", "kitchen"), 3],
+        "5011": [os.path.join("DE", "kitchen"), 3],
+        "5012": [os.path.join("IT", "kitchen"), 3],
+        "5013": [os.path.join("ES", "kitchen"), 3],
     }
 }
 
@@ -205,9 +205,9 @@ def extractFiles(folder):
             ["python", mhff, "x", path, key, file],
             check=True
         )
-        if(value[1] == 0):
-            dumpGameText(key, folder, os.path.join(build_dir, folder, value[0]), encoding);
         if(value[1] == 1):
+            dumpGameText(key, folder, os.path.join(build_dir, folder, value[0]), encoding);
+        if(value[1] == 3):
             dumpNPCText(key, folder, os.path.join(build_dir, folder, value[0]), encoding);
         if(value[1] == 2):
             dumpQuestText(key, folder, value[0], value[2], encoding);
