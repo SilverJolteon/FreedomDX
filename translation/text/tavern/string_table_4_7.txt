@@ -6,7 +6,7 @@
 1,Wanna look at another<NEWLINE>quest?
 0,Alright, see ya soon!
 2,It seems you're a bit<NEWLINE>light in the wallet.
-0,...
+0,Off to search for<NEWLINE>treasure, huh? I can <NEWLINE>see the riches in your<NEWLINE>eyes.
 1,This quest does not<NEWLINE>require a Contract<NEWLINE>Fee. That alright with<NEWLINE>you?
 1,Hello Hello! Your<NEWLINE>already under contract<NEWLINE>for this hunt. Would<NEWLINE>you like to break the<NEWLINE>contract anyways?
 1,You've already got a<NEWLINE>few mates in this<NEWLINE>quest. You sure you<NEWLINE>want to break up your<NEWLINE>treasure hunting<NEWLINE>party?
