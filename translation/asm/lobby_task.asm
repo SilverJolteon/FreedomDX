@@ -55,6 +55,9 @@ strcpy      equ 0x088112E8
 		.dh 0x15C
 	.org 0x099330CC ; Location
 		.dh 0x15C
+		
+	.org 0x0993939A ; Equipment Sets Resistances
+		.dh 0x48
 
   ; ----------------------------
   ; Full-width text fixes (SJIS)
