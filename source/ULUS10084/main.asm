@@ -334,4 +334,18 @@ TaskOffset				equ 0x098D4FA0
 		.word 0x00010016
 		.word 0x00010016
 		.word 0x00010016
+		
+	; Unable to send guild card	
+	.org 0x1A235850
+		li			a2, 0x80
+	.org 0x1A2358A4
+		li			a2, 0x70
+	.org 0x1A2358B8
+		li			a1, 0x90
+	
+	; Removed newline
+	.org 0x1D2DE7F4
+	.area 27, 0
+		.asciiz "Already sent Guild Card to"
+	.endarea
 .close

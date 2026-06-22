@@ -89,7 +89,16 @@ strcpy      equ 0x088112E8
 		.dh 0x15C
 	.org 0x09934520 ; Location
 		.dh 0x15C
-		
+	
+	; Waiting for Players
+	.org 0x09933670 ; Players
+		.dh 0x1A6
+	.org 0x098F2868
+		jal 		CenterYesNo
+		lb			v0, 0x1(s1)
+	.org 0x098F2894
+		jal 		CenterYesNo
+		lb			v0, 0x2(s1)
 		
 	.org 0x0993939A ; Equipment Sets Resistances
 		.dh 0x48
@@ -108,4 +117,14 @@ strcpy      equ 0x088112E8
     nop
     b       0x098E91A0
     nop
+	
+	.org 0x09930DD4
+		CenterYesNo:
+		bnel		v0, zero, CenterYesNoReturn
+		addiu		a1, a1, 0x4 ; Yes
+		addiu		a1, a1, 0x8 ; No
+		CenterYesNoReturn:
+		lui			v0, 0x898
+		jr			ra
+		lw			a0, -0x5CD8(v0)
 .close
