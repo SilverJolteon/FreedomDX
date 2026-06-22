@@ -55,6 +55,19 @@ strcpy      equ 0x088112E8
 		.dh 0x15C
 	.org 0x099330CC ; Location
 		.dh 0x15C
+	
+	; Quest Board Positioning (Joining)
+	.org 0x09933F08 ; Players
+		.dh 0x19A
+	.org 0x09934214 ; Reward
+		.dh 0x15C
+	.org 0x09934318 ; Contract Fee
+		.dh 0x15C
+	.org 0x0993441C ; Time Limit
+		.dh 0x15C
+	.org 0x09934520 ; Location
+		.dh 0x15C
+		
 		
 	.org 0x0993939A ; Equipment Sets Resistances
 		.dh 0x48
