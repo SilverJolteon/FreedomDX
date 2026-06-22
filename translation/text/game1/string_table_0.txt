@@ -821,7 +821,7 @@ Slct
 Send
 Num of Guild Cards Received:
 You can file %2d more cards.
-Already sent Guild<NEWLINE>Card to
+Already sent Guild Card to
 cannot accept your Guild Card<NEWLINE>because he/she has too many. 
 Length:---
 Beginner

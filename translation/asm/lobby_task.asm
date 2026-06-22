@@ -40,6 +40,28 @@ strcpy      equ 0x088112E8
 	.org 0x098DD68C
 		li			a1, 0x57
 		
+	; Guild Card Received Menu
+	.org 0x098DBB64 ; Name
+		li			a2, 0x68 
+	.org 0x098DBBB8 ; Received Guild Card from
+		li			a2, 0x58
+		
+	; Unable to send guild card
+	.org 0x098DF608
+		li			a2, 0x80
+	.org 0x098DF65C
+		li			a2, 0x70
+	.org 0x098DF670
+		li			a1, 0x90
+	
+	; "Press the ○ button" Position	
+	.org 0x098DBDF8
+		li			a1, 0xAE
+	.org 0x098DF678
+		li			a0, 0xAE
+	.org 0x098DA084
+		li			a0, 0xAE
+		
 	; Quest Board Positioning
 	.org 0x098F25D0 ; Navigation Rectangle
 		li			v0, 0x80
