@@ -9,15 +9,15 @@ Monster Hunter Freedom DX is an all-in-one enhancement patch that includes vario
     > Port of the English text from Freedom with some adjustments to fit the format of Portable. Included as a .xdelta patch for both DX and Vanilla.
   - ### Event Quest Loader
     > Read event quests from an external file. If EVENT.bin does not exist, uses the internal downloaded quests. Download menu now automatically directs to the MHOldschool Server. (Portable only)
-  - ### Hold to Gather
+  - ### Hold to Gather [<sup>*</sup>](#config-editor)
     > Allows you to simply press and hold the gather button when crouched. Configurable. Ported from cheat by YuzucchiNyan.
-  - ### File Replacer
+  - ### File Replacer [<sup>*</sup>](#config-editor)
     > Enables the ability to load custom files from `ms0:/PSP/SAVEDATA/FDXDAT/NATIVEPSP/<GAMEID>/`. These files are in the name format of four numbers (IE: "4960"). The original files can be extracted using [mhff](https://github.com/svanheulen/mhff/tree/master/psp). Configurable.  
-  - ### Visible Felyne Skills
+  - ### Visible Felyne Skills [<sup>*</sup>](#config-editor)
     > Shows which skillsets each Felyne has. Configurable.
-  - ### Gathering Hall Drink Buff
+  - ### Gathering Hall Drink Buff [<sup>*</sup>](#config-editor)
     > Pressing Circle while sitting in the Gathering Hall now provides a quick buff to HP and Stamina. The amount depends on how many chefs you have. `HP = +10 per active Chefs`, `Stamina = +25 for 1 to 4 Chefs or +50 for 5 Chefs`. It will not activate any Felyne Skills, and cannot be used alongside a meal, it is **either or**. Configurable. Ported from IncognitoMan's FUC.
-  - ### Integrated Dos Connection Bonuses
+  - ### Integrated Dos Connection Bonuses [<sup>*</sup>](#config-editor)
     > Integrates all of the bonuses normally received when connecting Monster Hunter Portable to Monster Hunter 2 Dos. Configurable.
 
       <details>
@@ -219,27 +219,27 @@ Monster Hunter Freedom DX is an all-in-one enhancement patch that includes vario
     > The game now displays the time taken on the quest completion screen. **Note:** There is some desync in F1 in multiplayer. Enabling frame skip in emulator can cause the timer to become even more inaccurate.    
 
 ## Tweaks:
-  - ### True Raw
+  - ### True Raw [<sup>*</sup>](#config-editor)
     > Displays the non-bloated "true" raw attack value of weapons. Configurable. Ported from EUR cheat by YuzucchiNyan.
   - ### Forest and Hills - Area 9 Camera Adjustment
     > The camera position has been changed to allow more visibility.
- - ### Early Kill Lao-Shan Lung
+ - ### Early Kill Lao-Shan Lung [<sup>*</sup>](#config-editor)
     > Disables the HP threshold that prevents killing Lao-Shan Lung before reaching the final area. Configurable. Ported from IncognitoMan's FUC.
  - ### Lao-Shan Lung and Fatalis Extra Time to Carve
-    > Added 15 extra seconds to the timer to allow some extra time to carve Lao-Shan Lung and Fatalis.
+    > Adds 15 extra seconds to the timer to allow some extra time to carve Lao-Shan Lung and Fatalis.
  - ### Sharpness Bar Tweak
-    > Added yellow and orange colors to the sharpness bar and shortened the phase in/out to make the colors more visible.
- - ### Field of View
+    > Adds yellow and orange colors to the sharpness bar and shortened the phase in/out to make the colors more visible.
+ - ### Field of View [<sup>*</sup>](#config-editor)
     > Adjusts your field of vision. Configurable. Ported from IncognitoMan's FUC.
-  - ### Starting Vertical Camera Position
+  - ### Starting Vertical Camera Position [<sup>*</sup>](#config-editor)
     > Sets the starting vertical camera position when you embark on a quest. Configurable. Ported from IncognitoMan's FUC.
-  - ### Minimap Scale
+  - ### Minimap Scale [<sup>*</sup>](#config-editor)
     > Sets the scale for the minimap. Configurable. Ported from IncognitoMan's FUC.
-  - ### Sword & Shield Debuff
+  - ### Sword & Shield Debuff [<sup>*</sup>](#config-editor)
     > Changes Sword & Shield sharpness and damage from 1.5 to 1.2 to match MH Dos. Configurable. Ported from cheat by YuzucchiNyan.
-  - ### Instant Supply Box Collection
+  - ### Instant Supply Box Collection [<sup>*</sup>](#config-editor)
     > Removes delay when taking items from supply box. Configurable. Ported from IncognitoMan's FUC.
-  - ### Offline Treasure Quests
+  - ### Offline Treasure Quests [<sup>*</sup>](#config-editor)
     > Allows going on treasure quests solo in the offline gathering hall. Configurable. Ported from cheat by 8sm32K4D1K5f3E.
   - ### Gathering Hall Select Mode Persistence
     > The gathering hall select mode (Auto/Manual) now persists through reloads. The game will now remember which option you last selected.
@@ -266,7 +266,6 @@ Monster Hunter Freedom DX is an all-in-one enhancement patch that includes vario
     > - 8-Star HR 5 Thunder and Lightning
   - ### Yian Garuga Spawn-Dead Bug Fix
     > Rarely, Yian Garuga can spawn already dead in the JPN and USA versions, preventing any further quest completion for it. This has been fixed.
-
 
 ## Usage
 Place the `FDXDAT` folder in `ms0:/PSP/SAVEDATA/` and apply the ISO patch with either [DeltaPatcher](https://www.romhacking.net/utilities/704/) (PC) or [UniPatcher](https://play.google.com/store/apps/details?id=org.emunix.unipatcher&pcampaignid=web_share) (Android) to your respective version.
