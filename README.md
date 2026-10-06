@@ -3,6 +3,8 @@
 <img src="/assets/FreedomDXTitle.png" width="480px"/>
 
 Monster Hunter Freedom DX is an all-in-one enhancement patch that includes various toggleable quality-of-life improvements, tweaks and fixes for MHP1 (JPN) and MHF1 (USA & EUR). It is fully compatible with original PSP hardware.
+<br/><br/>
+<b>No AI was used in the making of this patch.</b>
 
 ## Features:
   - ### Full English Patch (Portable)
